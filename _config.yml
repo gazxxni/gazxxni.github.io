@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gazxxni's Algorithm Blog # the main title
+title: Gazxxni's  Blog # the main title
 
-tagline: 백준 알고리즘 문제 풀이 # it will display as the sub-title
+tagline: 알고리즘 & 이슈 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Python으로 풀어보는 백준 알고리즘 문제들
