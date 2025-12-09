@@ -1,0 +1,40 @@
+name: Generate Weekly IT Summary
+
+on:
+  schedule:
+    # 매주 일요일 한국 시간 오후 6시 (UTC 9시)
+    - cron: '0 9 * * 0'
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      
+      - name: Install Dependencies
+        run: |
+          pip install google-generativeai
+      
+      - name: Generate Weekly Summary
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/generate_weekly_summary.py
+      
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _posts/
+          git diff --staged --quiet || git commit -m "📝 Weekly IT news summary - $(date +'%Y-%m-%d')"
+          git push
