@@ -1,0 +1,485 @@
+{
+  "date": "2025-12-10",
+  "articles": [
+    {
+      "title": "zmx - 터미널 프로세스의 세션을 지속하게 해주는 경량 도구",
+      "link": "https://news.hada.io/topic?id=24954",
+      "published": "2025-12-10T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>터미널 세션을 유지</strong>하고 재접속을 가능하게 만들어, 프로세스 중단 없이 작업을 이어가기 위한 도구</li>\n<li>\n<code>tmux</code>나 <code>screen</code>의 복잡한 창 관리 기능 없이, 단순히 <strong>세션 지속 기능</strong>만 제공</li>\n<li>\n<strong>PTY 프로세스</strong>를 기반으로 세...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, MCP를 Linux Foundation에 기증",
+      "link": "https://news.hada.io/topic?id=24953",
+      "published": "2025-12-10T08:38:24+09:00",
+      "summary": "<p>Anthropic이 AI 애플리케이션과 외부 시스템을 연결하는 오픈 표준인 Model Context Protocol(MCP)을 Linux Foundation에 기증했다.</p>\n<p>Linux Foundation 산하에 Agentic AI Foundation(AAIF)을 새로 설립했으며, Anthropic, Block, OpenAI가 공동 창립하고 Google, Microsoft, AWS, Cloudflare, Bloomberg가 지원",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AMD GPU 디버거",
+      "link": "https://news.hada.io/topic?id=24952",
+      "published": "2025-12-10T08:32:51+09:00",
+      "summary": "<ul>\n<li>GPU 실행을 <strong>중단하고 상태를 조사할 수 있는 디버거</strong>의 부재에서 출발해, AMD GPU에서 이를 직접 구현하는 과정을 설명</li>\n<li>\n<strong>DRM 인터페이스와 libdrm</strong>을 통해 GPU와 직접 통신하며, 컨텍스트 생성·버퍼 할당·명령 전송 과정을 단계별로 구성</li>\n<li>\n<strong>TBA/TMA ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "북한의 광섬유 케이블을 추적하기",
+      "link": "https://news.hada.io/topic?id=24951",
+      "published": "2025-12-10T04:33:08+09:00",
+      "summary": "<ul>\n<li>북한의 <strong>국내 광섬유 네트워크 구조</strong>를 파악하기 위해 다양한 공개 자료와 위성·사진 정보를 분석한 조사</li>\n<li>\n<strong>러시아 TTK와의 연결선</strong>, <strong>중국 단둥을 통한 연결선</strong>, 그리고 <strong>평양 중심의 내부망 ‘광명(Kwangmyong)’</strong> 구조가 주요 축으로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "엔비디아와 오픈AI·오라클의 ‘프레너미(frenemy)’ 관계",
+      "link": "https://news.hada.io/topic?id=24950",
+      "published": "2025-12-10T03:33:07+09:00",
+      "summary": "<ul>\n<li>엔비디아의 <strong>2026 회계연도 3분기 실적</strong>은 매출 620억 달러로 호조를 보였지만, <strong>현금흐름·재고·매출채권</strong>에서 불안 신호가 드러남</li>\n<li>\n<strong>순이익 319억 달러</strong>에 비해 <strong>영업현금흐름 238억 달러</strong>로 80억 달러 차이가 발생했고, <strong>재고는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "구글을 만드는 법 | How To Start Google by Paul Graham [번역]",
+      "link": "https://news.hada.io/topic?id=24949",
+      "published": "2025-12-10T02:05:17+09:00",
+      "summary": "<ul>\n<li>직장을 가지는 건 대부분의 사람들이 “현실”이라고 믿는 선택지다. 하지만 그건 유일한 길이 아니다. 평생 한 번도 직장을 다니지 않을 수 있는 방법이 있다. 자기 회사를 만드는 것이다.</li>\n<li>회사는 일을 피하는 수단이 아니다. 오히려 가장 빡센 일이다. 다만 남이 정한 우선순위, 상사의 기분, 조직에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "탈옥한 Kindle에 Tailscale을 설치하기",
+      "link": "https://news.hada.io/topic?id=24948",
+      "published": "2025-12-10T01:32:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>Tailscale을 탈옥한 Kindle에 설치</strong>하면 제한된 전자책 리더를 네트워크 연결이 가능한 소형 Linux 장치로 확장할 수 있음</li>\n<li>\n<strong>탈옥(jailbreaking)</strong> 을 통해 Kindle의 루트 접근 권한을 얻고, <strong>KOReader</strong>나 <strong>KindleForge 앱</strong> 같은 비공식...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어 개발 비용이 90%나 감소했는가?",
+      "link": "https://news.hada.io/topic?id=24946",
+      "published": "2025-12-09T23:33:44+09:00",
+      "summary": "<ul>\n<li>\n<strong>에이전틱 코딩(Agentic Coding)</strong> 도구의 등장으로 소프트웨어 개발의 <strong>노동 비용이 급격히 감소</strong>하고 있음</li>\n<li>과거 한 달 걸리던 내부용 웹앱 프로젝트가 <strong>일주일 내 완성</strong>될 정도로 구현 속도가 단축됨</li>\n<li>\n<strong>Claude Code</strong> 등 도구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 검사 도구는 이 글이 AI로 쓰였는지 확인할 수 없다 [번역글]",
+      "link": "https://news.hada.io/topic?id=24944",
+      "published": "2025-12-09T23:09:51+09:00",
+      "summary": "<ol>\n<li>\n<p>문제의식: AI 글 생성이 쉬워진 만큼 감지 압박도 폭증</p>\n<ul>\n<li>누구나 ChatGPT 등으로 글을 뽑아낼 수 있지만, 학교·기업·클라이언트가 AI 감지기를 맹신해 사람 글도 AI로 오인(false positive)하는 사례가 급증.</li>\n<li>원문은 &quot;AI 콘텐츠 홍수 속에서 진짜 인간 글을 구분해야 한다&quot;는",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 돈줘 - 쉽고 빠른 해외 여행 정산 요청 서비스",
+      "link": "https://news.hada.io/topic?id=24943",
+      "published": "2025-12-09T22:38:19+09:00",
+      "summary": "<p>안녕하세요. 최근 친구들과 해외여행을 다녀오며 총무를 맡았는데, 여행이 끝나고 영수증 뭉치를 하나하나 입력하고 정리해서 공유하는 과정이 너무 번거로워 만든 웹 서비스 <strong>돈줘</strong>를 공유합니다.</p>\n<p>AI 코딩 도구를 적극 활용해(Vibe Coding) 하루 만에 완성했습니다.</p>\n<p><strong>1. 만들게",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Coreweave CEO defends AI circular deals as ‘working together’",
+      "link": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
+      "published": "Wed, 10 Dec 2025 00:49:25 +0000",
+      "summary": "The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a \"violent change\" in demand.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Unconventional AI confirms its massive  $475M seed round",
+      "link": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
+      "published": "Wed, 10 Dec 2025 00:24:16 +0000",
+      "summary": "Led by Naveen Rao, the former head of AI at Databricks, the new hardware startup is valued at $4.5 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hinge CEO steps down to launch Overtone, an AI dating app",
+      "link": "https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/",
+      "published": "Wed, 10 Dec 2025 00:01:13 +0000",
+      "summary": "Overtone is described as \"an early-stage dating service focused on using AI and voice tools to help people connect in a more thoughtful and personal way.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B",
+      "link": "https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/",
+      "published": "Tue, 09 Dec 2025 22:21:33 +0000",
+      "summary": "The round, which was Fal’s third fundraise this year, also included a secondary sale for early investors, sources tell us.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cashew Research is going after the $90B market research industry with AI",
+      "link": "https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/",
+      "published": "Tue, 09 Dec 2025 22:20:39 +0000",
+      "summary": "Cashew Research uses AI to automate the market research process while still collecting real-world data from humans.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX reportedly planning 2026 IPO with $1.5T valuation target",
+      "link": "https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/",
+      "published": "Tue, 09 Dec 2025 21:27:54 +0000",
+      "summary": "The company is looking to raise $30 billion, which would make it the biggest IPO ever, just ahead of Saudi Aramco's in 2019.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "B Capital founding partner Kabir Narang leaves to launch new investment platform",
+      "link": "https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/",
+      "published": "Tue, 09 Dec 2025 21:13:19 +0000",
+      "summary": "Kabir Narang is laying the groundwork for a new investment platform slated for 2026 that will focus on \"compounding at the intersection of technology, AI, and global capital flows.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup",
+      "link": "https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/",
+      "published": "Tue, 09 Dec 2025 20:59:21 +0000",
+      "summary": "After reaching $1 billion in annualized revenue, Anysphere CEO Michael Truell explained the features his company is focused on building out.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Rivian is building its own AI assistant",
+      "link": "https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/",
+      "published": "Tue, 09 Dec 2025 20:11:13 +0000",
+      "summary": "The EV maker will likely share more details on its upcoming AI &#038; Autonomy Day scheduled for December 11.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Three in 10 US teens use AI chatbots every day, but safety concerns are growing",
+      "link": "https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/",
+      "published": "Tue, 09 Dec 2025 20:00:00 +0000",
+      "summary": "While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
+      "link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
+      "published": "2025-12-09T19:24:11-05:00",
+      "summary": "Future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games, Activision announced on Tuesday. The past four releases in the series have been Modern Warfare II (2022), Modern Warfare III (2023), Black Ops 6 (2024), and Black Ops 7 (2025), but moving ",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Both sides of the aisle hate the AI moratorium",
+      "link": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
+      "published": "2025-12-09T18:03:41-05:00",
+      "summary": "Hello and welcome to Regulator. If you're a subscriber, you are stalwart and true, and if you're here from the internet, prove your chivalry and worth by subscribing to The Verge here. (And if you're David Sacks: we said what we said.) As of Tuesday, President Donald Trump has committed to signing s",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Somehow, this AI-generated McDonald&#8217;s ad about hating Christmas was a flop",
+      "link": "https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad",
+      "published": "2025-12-09T17:52:20-05:00",
+      "summary": "If you're having a stressful holiday season, the answer is McDonald's - at least, that's what a now-removed AI-generated ad suggested, as reported by Futurism. Set to a song calling holiday season \"the most terrible time of the year,\" the ad shows AI-generated people falling victim to a slew of wint",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google is powering a new US military AI platform",
+      "link": "https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil",
+      "published": "2025-12-09T17:43:54-05:00",
+      "summary": "The Department of Defense is announcing its own \"bespoke\" AI platform, GenAI.mil, and Google Cloud's Gemini will be the first AI tool available on it, according to a press release. Secretary of Defense Pete Hegseth (who has dubbed himself Secretary of War, though the name has not been legally change",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Some of our favorite gifts will cost you less than $25",
+      "link": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
+      "published": "2025-12-09T16:00:00-05:00",
+      "summary": "Holiday shopping on a budget can feel constricting, especially if you've been invited to a white elephant or need a last-minute stocking stuffer. The good news is that, with this guide, you can leave that stress behind. Whether you're aiming for something practical or fun, we've found plenty of grea",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Wake Up Dead Man digs deep for a darker, more powerful Knives Out",
+      "link": "https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out",
+      "published": "2025-12-09T15:15:00-05:00",
+      "summary": "Over two films, Rian Johnson's Knives Out series has offered something largely absent from the modern movie landscape: intricate murder mysteries full of humor and gasp-worthy moments. The original Knives Out started things off relatively small with a cozy whodunit, which then became a larger and mo",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The AirPods Pro 3 are back to their lowest price ahead of the holidays",
+      "link": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale",
+      "published": "2025-12-09T14:59:10-05:00",
+      "summary": "If you didn’t catch the Black Friday deal on Apple’s AirPods Pro 3, the good news is the price has dropped again ahead of the holidays. Right now, the noise-canceling earbuds are matching their all-time low price of $219.99 ($30 off) at Amazon, Walmart, and Best Buy. It’s a great deal considering th",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google brings back Black Friday prices for earbuds, phones, and more",
+      "link": "https://www.theverge.com/gadgets/841072/google-pixel-9a-pixel-watch-4-holiday-gifts-deal-sale",
+      "published": "2025-12-09T14:47:46-05:00",
+      "summary": "Google just launched its holiday sale, and it’s basically Black Friday and Cyber Monday revived. From smartphones to smart security devices, plenty of great gifts have returned to their Black Friday prices, with some third-party retailers in some cases offering better deals than Google. Prices for a",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "I’m obsessed with Redfin’s AI search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
+      "published": "2025-12-09T14:15:00-05:00",
+      "summary": "Look, I'm as fed up as the next guy with AI chatbots stuffed into every app. I don't want to brainstorm coverage options with an LLM every time I renew my car insurance. I'd much rather message a human than a robot to pester FedEx about my missing package. But I have found one scenario [&#8230;]",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best gifts for dads that have everything (but deserve more)",
+      "link": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
+      "published": "2025-12-09T14:00:00-05:00",
+      "summary": "What do you get the man who says he has everything? It's a tough question - and one you have a limited amount of time to answer, given the holidays are nearly upon us. You could try dropping subtle hints or asking friends and family for suggestions, but they might save their best ideas for [&#8230;]",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Why Your DIY LED Strips Die Too Soon (And My $15 Fix That Lasted 2 Years)",
+      "link": "https://dev.to/emma-suntech/why-your-diy-led-strips-die-too-soon-and-my-15-fix-that-lasted-2-years-2ln4",
+      "published": "Wed, 10 Dec 2025 01:36:50 +0000",
+      "summary": "<p>Hey makers,<br />\nI've burned through 6 spools of WS2812B strips in the last year—mostly on ambient desk lights and a custom Halloween setup. Each time? Same story: hotspots, flickering after 3 months, total burnout by month 6. Turns out, it's not the LEDs; it's heat, power spikes, and cheap driv",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "day3: kube controller manager",
+      "link": "https://dev.to/cattkaizen/day3-kube-controller-manager-4gfh",
+      "published": "Wed, 10 Dec 2025 01:34:19 +0000",
+      "summary": "<p>The Kube Controller Manager manages the various controllers in Kubernetes.</p>\n\n<p>Controllers are:<br />\n1 - continually on the lookout for the status of things<br />\n2 - take necessary actions to remediate the situation</p>\n\n<p>A controller is a process that continually monitors the state of va",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Shadcn Builder: No-Code Form Generator for React",
+      "link": "https://dev.to/jqueryscript/shadcn-builder-no-code-form-generator-for-react-3ohf",
+      "published": "Wed, 10 Dec 2025 01:31:37 +0000",
+      "summary": "<p>Shadcn Builder: A visual form builder that exports clean React + TypeScript code</p>\n\n<p>Built for developers who work with shadcn/ui and want to skip repetitive form setup. </p>\n\n<p>Drag components onto a canvas, configure validation rules, and export production-ready code with React Hook Form a",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "How to Install Z-Image Turbo Locally",
+      "link": "https://dev.to/hugh1st/how-to-install-z-image-turbo-locally-4aa8",
+      "published": "Wed, 10 Dec 2025 01:30:04 +0000",
+      "summary": "<p>This guide explains how to set up <strong>Z-Image Turbo</strong> on your local machine. This powerful model uses a 6B-parameter architecture to generate high-quality images with exceptional text rendering capabilities.</p>\n\n<blockquote>\n<p><strong>🚀 No GPU? No Problem.</strong></p>\n\n<p>If you don",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "OptWin 1.1 release announcement - Optimize Windows",
+      "link": "https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc",
+      "published": "Wed, 10 Dec 2025 01:28:11 +0000",
+      "summary": "<p>I just shipped <strong>OptWin 1.1</strong>, an updated version of my free and fully open-source web app that generates custom Windows optimization scripts based on user-selected tweaks.</p>\n\n<p><strong>What’s new in OptWin 1.1</strong><br />\nThis release focuses on stability, script clarity, and ",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Setting up ALS (Ada Language Server) for Sublime Text",
+      "link": "https://dev.to/sabedoesthings/setting-up-als-ada-language-server-for-sublime-text-10m8",
+      "published": "Wed, 10 Dec 2025 01:24:50 +0000",
+      "summary": "<h3>\n  \n  \n  Installing the Ada Language Server\n</h3>\n\n<p>First you want to download the Ada Language Server. Where you can get <a href=\"https://github.com/AdaCore/ada_language_server/releases/tag/26.0.202507021\" rel=\"noopener noreferrer\">here</a> and download for which operating system you have.</p",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Introducing Claude Code Documentation Standards: Automated Documentation with Built-in Linting",
+      "link": "https://dev.to/nasrulhazim/introducing-claude-code-documentation-standards-automated-documentation-with-built-in-linting-51c",
+      "published": "Wed, 10 Dec 2025 01:23:18 +0000",
+      "summary": "<p>Keeping documentation tidy, readable, and easy to navigate shouldn’t feel like a chore. But in most projects, it eventually becomes one. Different people write differently, folders get messy, and soon no one knows where anything lives.</p>\n\n<p>So I built something to fix that.</p>\n\n<p>Introducing",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Building a shadcn/ui Style Component Library for Korean Government Design System",
+      "link": "https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle",
+      "published": "Wed, 10 Dec 2025 01:16:25 +0000",
+      "summary": "<p>shadcn/ui changed how we think about component libraries. Instead of installing a package, you copy the source code into your project. You own it. You customize it.</p>\n\n<p>I built HANUI using the same approach - but for KRDS (Korean Government Design System).</p>\n\n<p>Here's how it works under th",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "The difference between \"Hires\" and \"Hired\" on Upwork",
+      "link": "https://dev.to/chocomastery/the-difference-between-hires-and-hired-on-upwork-2j1g",
+      "published": "Wed, 10 Dec 2025 01:00:27 +0000",
+      "summary": "<p>Do you know?:)</p>\n\n<p>I've decided to write it after seeing a question on reddit. I'll write this article and send to this guy.</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2F",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Titles for Upwork account. How to choose?",
+      "link": "https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j",
+      "published": "Wed, 10 Dec 2025 01:00:16 +0000",
+      "summary": "<p><strong>Specialized and general profile titles</strong></p>\n\n<p>For <strong>specialized profiles</strong>, your title doesn’t need to win awards for SEO — it needs to make someone want to click you.</p>\n\n<p>A specialized title is a hook, not a formula.<br />\nYou’re already categorized inside a ni",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "published": "Tue, 09 Dec 2025 15:00:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46205632\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
+      "link": "https://www.digitalpublicgoods.net/r/peertube",
+      "published": "Tue, 09 Dec 2025 17:08:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46207464\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Django: what’s new in 6.0",
+      "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
+      "published": "Tue, 09 Dec 2025 20:33:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46210240\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+      "link": "https://mistral.ai/news/devstral-2-vibe-cli",
+      "published": "Tue, 09 Dec 2025 14:45:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46205437\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If you're going to vibe code, why not do it in C?",
+      "link": "https://stephenramsay.net/posts/vibe-coding.html",
+      "published": "Tue, 09 Dec 2025 17:11:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46207505\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "10 Years of Let's Encrypt",
+      "link": "https://letsencrypt.org/2025/12/09/10-years",
+      "published": "Tue, 09 Dec 2025 18:54:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46208962\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Handsdown one of the coolest 3D websites",
+      "link": "https://bruno-simon.com/",
+      "published": "Tue, 09 Dec 2025 16:06:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46206531\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pebble Index 01 – External memory for your brain",
+      "link": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+      "published": "Tue, 09 Dec 2025 15:03:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46205661\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Italy's longest-serving barista reflects on six decades behind the counter",
+      "link": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
+      "published": "Fri, 05 Dec 2025 01:22:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46155740\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
+      "link": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
+      "published": "Tue, 09 Dec 2025 21:19:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46210806\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
+      "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
+      "published": "Tue, 09 Dec 2025 21:00:13 +0000",
+      "summary": "<p>MCP is moving to the Linux Foundation. Here's how that will affect developers.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/\">MCP joins the Linux Foundation: What thi",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Speed is nothing without control: How to keep quality high in the AI era",
+      "link": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
+      "published": "Tue, 09 Dec 2025 17:00:00 +0000",
+      "summary": "<p>AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-i",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
+      "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "published": "Mon, 08 Dec 2025 18:15:17 +0000",
+      "summary": "<p>Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering.</p>\n<p>The post <a href=\"https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "published": "Thu, 04 Dec 2025 20:35:36 +0000",
+      "summary": "<p>Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/\">How to use GitHub Copilot Spaces to debug issues f",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
+      "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "published": "Wed, 03 Dec 2025 17:00:45 +0000",
+      "summary": "<p>Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-s",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
+      "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "published": "Tue, 02 Dec 2025 17:19:32 +0000",
+      "summary": "<p>Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/\">“The local-first rebellio",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to orchestrate agents using mission control",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "published": "Mon, 01 Dec 2025 17:00:00 +0000",
+      "summary": "<p>Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/\">How to orchestrate agents using mission c",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "The ultimate gift guide for the developer in your life",
+      "link": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
+      "published": "Fri, 28 Nov 2025 13:08:56 +0000",
+      "summary": "<p>Finding the perfect gift for your favorite developer is easy with our top tips.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/\">The ultimate gift guide for the developer in your life</a> appeared first on <a href=\"ht",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming",
+      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
+      "published": "Tue, 25 Nov 2025 17:00:00 +0000",
+      "summary": "<p>Discover how Python changed developer culture—and see why it keeps evolving.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/\">Why developers st",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How GitHub’s agentic security principles make our AI agents as secure as possible",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
+      "published": "Tue, 25 Nov 2025 16:00:00 +0000",
+      "summary": "<p>Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/\">How GitH",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    }
+  ]
+}
