@@ -1,0 +1,485 @@
+{
+  "date": "2025-12-13",
+  "articles": [
+    {
+      "title": "Nokia N900 되살리기",
+      "link": "https://news.hada.io/topic?id=25038",
+      "published": "2025-12-13T09:35:37+09:00",
+      "summary": "<ul>\n<li>\n<strong>Nokia N900</strong>의 노후 배터리를 대체하고 <strong>USB-C 포트</strong>를 추가해 리눅스 스마트폰을 다시 작동시키는 복원 프로젝트</li>\n<li>기존 <strong>BL-5J 배터리</strong> 대신 <strong>슈퍼커패시터</strong>를 이용해 전원을 공급하고, 이를 배터리 슬롯에 맞게 3D 프린팅으로 제작...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rad - Bash의 복잡함을 줄이고 Python처럼 읽기 쉬운 CLI 스크립팅 언어",
+      "link": "https://news.hada.io/topic?id=25037",
+      "published": "2025-12-13T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>CLI 자동화와 유지보수성 향상</strong>을 위해 설계된 <strong>Python 유사 문법의 스크립팅 언어</strong>\n</li>\n<li>\n<strong>명령행 중심 설계</strong>: 인자 정의, 검증, <code>--help</code> 생성이 언어 수준에서 통합</li>\n<li>선언적 인자 구문을 통해 타입 검사, 유효성 검증, 기본값 설정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "openai 의 skills 도입",
+      "link": "https://news.hada.io/topic?id=25036",
+      "published": "2025-12-13T08:59:57+09:00",
+      "summary": "<h2>OpenAI의 'Skills' 조용한 도입과 흥미로운 발견들</h2>\n<h3>&quot;해킹&quot;으로 찾아낸 숨겨진 기능</h3>\n<ul>\n<li>\n<strong>어떻게 발견했나?</strong>: 공식 발표가 아니라, Elias Judin이라는 유저가 ChatGPT의 코드 인터프리터 내부를 탐색하다가 <code>/home/oai/skills</code>라는 폴더를 발견했습니다.</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "끝나지 않는 .txt 파일이 나의 생산성 앱이다 (2020)",
+      "link": "https://news.hada.io/topic?id=25034",
+      "published": "2025-12-13T06:33:02+09:00",
+      "summary": "<ul>\n<li>14년 동안 유지된 <strong>단일 텍스트 파일 기반 생산성 시스템</strong>으로, 일정·할 일·회의 기록을 모두 한곳에 관리하는 방식</li>\n<li>매일 밤 <strong>다음 날의 캘린더 일정</strong>을 텍스트 파일 끝에 추가해 하루의 할 일 목록을 만들고, 완료 후에는 기록으로 남김</li>\n<li>파일은 <strong>51,6...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SVG만 있으면 충분하다",
+      "link": "https://news.hada.io/topic?id=25033",
+      "published": "2025-12-13T05:33:10+09:00",
+      "summary": "<ul>\n<li>\n<strong>SVG</strong>는 단순한 XML 기반의 벡터 그래픽 형식으로, 거의 모든 플랫폼에서 지원되고 <strong>스크립트를 내장해 상호작용형 시각화</strong>를 구현할 수 있음</li>\n<li>과거 <strong>균사체 네트워크 연구</strong>에서 제작된 SVG 시각화 도구가 20년이 지난 지금도 최신 브라우저에서 완벽히...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사람들에게 감정을 불러일으키는 소프트웨어를 만들라",
+      "link": "https://news.hada.io/topic?id=25031",
+      "published": "2025-12-13T03:37:57+09:00",
+      "summary": "<ul>\n<li>개인용 코드 에디터 <strong>Boo</strong>를 개발한 작성자가, 프로젝트를 잠시 중단하고 <strong>새 프로그래밍 언어</strong>를 만드는 이유를 설명</li>\n<li>Boo는 <strong>인간 중심 키보드 내비게이션</strong>과 <strong>LSP 대체 시스템</strong>을 갖춘 Rust 기반 에디터로, 상용화보다는 개인 사용 목...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "React 서버 컴포넌트의 DoS 및 소스 코드 노출 취약점 공개",
+      "link": "https://news.hada.io/topic?id=25030",
+      "published": "2025-12-13T03:34:57+09:00",
+      "summary": "<ul>\n<li>React Server Components에서 <strong>서비스 거부(DoS)</strong> 및 <strong>소스 코드 노출</strong> 취약점이 새로 발견되어 공개됨</li>\n<li>이번 취약점은 <strong>원격 코드 실행(RCE)</strong> 은 불가능하지만, 서버 중단이나 코드 유출 위험이 존재</li>\n<li>영향을 받는 패키지는 <code>react-server...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemini의 정렬 느낌이 이상해서 직접 똑같은 프롬프트로 모델끼리 비교해 봄",
+      "link": "https://news.hada.io/topic?id=25027",
+      "published": "2025-12-13T02:00:40+09:00",
+      "summary": "<p>최근에 출시된 Gemini 3.0은 성능이 뛰어나다며 찬사를 보내는 기사가 많이 쏟아졌었습니다.<br />\n하지만, 정렬 문제는 과연 어떨까요?</p>\n<p>개인적인 경험을 바탕으로, 몇몇 프론티어 AI 모델을 간단히 실험한 내용을 올려 봅니다.<br />\nAI 모델에게 특정 인간에 대한 사실상의 전권을 쥐여줘서 그 사람에 대한",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Litestream VFS",
+      "link": "https://news.hada.io/topic?id=25026",
+      "published": "2025-12-13T01:37:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Litestream VFS</strong>는 SQLite 데이터베이스를 <strong>객체 스토리지(S3 등)</strong> 에서 직접 읽고 쿼리할 수 있게 하는 플러그인 형태의 확장 기능</li>\n<li>전체 데이터베이스를 다운로드하지 않고도 <strong>원격 백업 파일에서 즉시 쿼리</strong> 및 <strong>시점 복구(Point-in-Time Re...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rivian, 커스텀 실리콘·R2 LiDAR 로드맵·Universal Hands Free 및 차세대 자율주행 플랫폼 공개",
+      "link": "https://news.hada.io/topic?id=25025",
+      "published": "2025-12-13T01:34:42+09:00",
+      "summary": "<ul>\n<li>리비안이 <strong>Autonomy and AI Day</strong>에서 자체 설계한 <strong>RAP1 프로세서</strong>와 차세대 자율주행 플랫폼을 공개하며, 하드웨어와 AI 중심 전략을 강화함</li>\n<li>5nm 공정 기반의 RAP1은 <strong>1600 INT8 TOPS</strong> 성능과 <strong>초당 50억 픽셀 처리</strong> 능력을 갖추며, 리...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "A comprehensive list of 2025 tech layoffs",
+      "link": "https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/",
+      "published": "Sat, 13 Dec 2025 00:11:09 +0000",
+      "summary": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Riding onboard with Rivian’s race to autonomy",
+      "link": "https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/",
+      "published": "Fri, 12 Dec 2025 21:44:50 +0000",
+      "summary": "Rivian demonstrated the progress it's made, and in the process showed just how far it still has to go to make its cars autonomous.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen",
+      "link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/",
+      "published": "Fri, 12 Dec 2025 20:45:00 +0000",
+      "summary": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google and Apple roll out emergency security updates after zero-day attacks",
+      "link": "https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/",
+      "published": "Fri, 12 Dec 2025 20:31:36 +0000",
+      "summary": "Apple released patches for all of its flagship devices to fix security flaws under attack. Google also updated Chrome to remediate one vulnerability exploited in the attacks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OK, what’s going on with LinkedIn’s algo?",
+      "link": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
+      "published": "Fri, 12 Dec 2025 19:38:16 +0000",
+      "summary": "Women ran an experiment to see if LinkedIn's new algo was being sexist and thought they proved it. But there's more complexity involved, experts say.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
+      "link": "https://techcrunch.com/2025/12/12/microsoft-buys-3-6m-metric-tons-of-carbon-removal-from-bioenergy-plant/",
+      "published": "Fri, 12 Dec 2025 19:16:10 +0000",
+      "summary": "Microsoft's data center ambitions have imperiled its 2030 pledge to remove more carbon than it generates, making carbon removal credits all but necessary.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+      "link": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/",
+      "published": "Fri, 12 Dec 2025 17:35:46 +0000",
+      "summary": "700Credit, a company that runs credit checks and identity verification services for auto dealerships across the U.S., had a data breach that allowed a hacker to steal names, addresses, dates of birth, and Social Security numbers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
+      "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+      "published": "Fri, 12 Dec 2025 17:07:22 +0000",
+      "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates federal rules.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google Translate now lets you hear real-time translations in your headphones",
+      "link": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+      "published": "Fri, 12 Dec 2025 17:00:00 +0000",
+      "summary": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll",
+      "link": "https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/",
+      "published": "Fri, 12 Dec 2025 16:53:28 +0000",
+      "summary": "Retro's new feature, Rewind, lets you look back at your photo memories and scroll through them with a dial.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide",
+      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "published": "2025-12-12T19:08:39-05:00",
+      "summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best instant cameras you can buy right now",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2025-12-12T18:31:40-05:00",
+      "summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Parents call for New York governor to sign landmark AI safety bill",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+      "published": "2025-12-12T17:16:09-05:00",
+      "summary": "A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a buzzy bill that would require developers of large AI models - like Meta, OpenAI, Deepseek, and Google",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Verge’s favorite holiday gifts under $100",
+      "link": "https://www.theverge.com/tech/800440/best-gifts-under-100-2025",
+      "published": "2025-12-12T16:22:02-05:00",
+      "summary": "Between all the new phones, smartwatches, and laptops we see throughout the year, it often feels like we're constantly being nudged toward shinier, more expensive gadgets. And I get it. As a self-professed gadget nerd, few things are more exciting than unboxing and setting up a new device. But the t",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The long shot",
+      "link": "https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot",
+      "published": "2025-12-12T16:14:21-05:00",
+      "summary": "The long take, the unbroken tracking shot, \"the oner\" - whatever you want to call it, filmmakers agree that it's one of the most difficult technical achievements in cinema. It's a feat of creativity, but also great coordination and choreography when a single, tiny mistake can ruin a shot. Some famou",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Some of our favorite gifts will cost you less than $25",
+      "link": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
+      "published": "2025-12-12T16:09:28-05:00",
+      "summary": "Holiday shopping on a budget can feel constricting, especially if you've been invited to a white elephant or need a last-minute stocking stuffer. The good news is that, with this guide, you can leave that stress behind. Whether you're aiming for something practical or fun, we've found plenty of grea",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "33 practical smart home gifts that make everyday life a little easier",
+      "link": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
+      "published": "2025-12-12T16:00:00-05:00",
+      "summary": "Smart home products are all about making everyday life a little easier, which is why they're some of the best and most thoughtful gifts you can give. Some people go all out building a multi-gadget IoT kingdom (like our resident smart home expert, Jen Pattison Tuohy), but a smart home is whatever you",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "We found 70 stocking stuffers under $100 that are actually useful",
+      "link": "https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025",
+      "published": "2025-12-12T15:57:56-05:00",
+      "summary": "Let's face it, it's easy to fixate on the big gifts that crowd around the Christmas tree. However, we'd argue that the true treasures are the small, useful, and thoughtful gifts tucked within stockings. That's why, for this guide, we've pooled together a bunch of tried-and-tested gadgets and goods t",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates",
+      "link": "https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2",
+      "published": "2025-12-12T14:18:42-05:00",
+      "summary": "Today, Apple officially released iOS 26.2 for iPhone 11 and newer devices, which includes new Lock Screen customizations for you to adjust the opacity level, as well as the ability to use AirDrop with people who aren't in your contacts by sharing a one-time code with them instead. There are also new",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Mmm, Qi donuts",
+      "link": "https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone",
+      "published": "2025-12-12T14:10:57-05:00",
+      "summary": "After announcing new Matter-compatible smart home devices and stylish wireless speakers over the past few months, Ikea continues to expand its consumer electronics offerings with three new wireless chargers. They're limited to 15W Qi2.0 charging rates but are well priced and feature designs that loo",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Ultimate Guide to Checking Website Status: Is Your Favorite Service Down Right Now? (2025)",
+      "link": "https://dev.to/nemanja_falb_e0e451d06be0/the-ultimate-guide-to-checking-website-status-is-your-favorite-service-down-right-now-2025-1f4d",
+      "published": "Sat, 13 Dec 2025 01:16:28 +0000",
+      "summary": "<p>The Ultimate Guide to Checking Website Status: Is Your Favorite Service Down Right Now? (2025)<br />\nHave you ever clicked on your favorite website only to be greeted by an error message or endless loading? That sinking feeling when you're not sure if the problem is on your end or theirs? You're ",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Debounce vs Throttle in JavaScript (Explained Simply with Code)",
+      "link": "https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm",
+      "published": "Sat, 13 Dec 2025 01:08:11 +0000",
+      "summary": "<p>If you work with JavaScript long enough, you’ll face this problem:</p>\n\n<p>Some events fire too frequently.</p>\n\n<p>Examples:</p>\n\n<ul>\n<li>\n<code>input</code> → every key press</li>\n<li>\n<code>scroll</code> → dozens of times per second</li>\n<li>\n<code>resize</code> → continuously while dragging ",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "How I Detected and Stopped a Real-World RCE Attack on My Next.js App (CVE-2025-55182 / React2Shell)",
+      "link": "https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd",
+      "published": "Sat, 13 Dec 2025 01:00:34 +0000",
+      "summary": "<p>Last week I experienced one of the most eye-opening security incidents in my time building web apps.<br />\nMy production Next.js application was actively targeted by attackers attempting <strong>remote code execution (RCE)</strong>, and the root cause was a newly disclosed vulnerability in React ",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Why Your UEBA Isn’t Working (and how to fix it)",
+      "link": "https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59",
+      "published": "Sat, 13 Dec 2025 00:51:23 +0000",
+      "summary": "<p><strong>UEBA (User Entity Behavior Analysis)</strong> is a security layer that uses machine learning and analytics to detect threats by analyzing patterns in user and entity behavior.</p>\n\n<p>Here’s an oversimplified example of UEBA: suppose you live in Chicago. You’ve lived there for several yea",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "How to Connect VAPI to Google Calendar for Appointment Scheduling",
+      "link": "https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj",
+      "published": "Sat, 13 Dec 2025 00:46:45 +0000",
+      "summary": "<h1>\n  \n  \n  How to Connect VAPI to Google Calendar for Appointment Scheduling\n</h1>\n\n<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Most calendar integrations break when OAuth tokens expire mid-call or timezone mismatches corrupt availability checks. This guide shows you how to build a VAPI assistant that handles Go",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge",
+      "link": "https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59",
+      "published": "Sat, 13 Dec 2025 00:44:02 +0000",
+      "summary": "<h2>\n  \n  \n  Behind the Code: The Anti-Framework Idea\n</h2>\n\n<p><em>Before we dive into the madness, a word for the developers.</em></p>\n\n<p><strong>FUBARos</strong> is built with <strong>0% Frameworks</strong>, <strong>0% Tailwind</strong>, and <strong>100% Vanilla JavaScript</strong>.</p>\n\n<p>In a",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Improving navigation in long Google AI Studio chats with a userscript",
+      "link": "https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl",
+      "published": "Sat, 13 Dec 2025 00:43:11 +0000",
+      "summary": "<p>Working with long chat sessions in Google AI Studio exposes several usability issues, including inefficient navigation, loss of context, and limited keyboard control.</p>\n\n<p>To address this, I wrote a userscript that adds navigation and keyboard-focused controls on top of the existing interface.",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻",
+      "link": "https://dev.to/engripaye/-35da",
+      "published": "Sat, 13 Dec 2025 00:35:57 +0000",
+      "summary": "<p>𝗧𝗼𝗽 𝟴 on the list — proof that consistency beats motivation.</p>\n\n<p>Open-source builds real skills.<br />\nYour growth is your responsibility.<br />\nShare your work.</p>\n\n<p>More building. More learning. More impact. 🚀</p>\n\n<h1>\n  \n  \n  GitHub #OpenSource #NigeriaTech #SoftwareEngineering #Develo",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Release my PR for the project Bifrost",
+      "link": "https://dev.to/slyang08/release-my-pr-for-the-project-bifrost-3pj8",
+      "published": "Sat, 13 Dec 2025 00:26:56 +0000",
+      "summary": "<p><strong>Final Reflection – Implementing the \"Enable/Disable API Key\" Feature in <a href=\"https://github.com/maximhq/bifrost/pull/992\" rel=\"noopener noreferrer\">Bifrost</a></strong></p>\n\n<p>When I first started working on this issue, I believed it would be a simple front-end modification — just ad",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "**Title:** Rivian's Autonomous Journey: Progress and Challenges in the Pursuit of Self-Driving Vehicles",
+      "link": "https://dev.to/yagyaraj_sharma_6cd410179/title-rivians-autonomous-journey-progress-and-challenges-in-the-pursuit-of-self-driving-26le",
+      "published": "Sat, 13 Dec 2025 00:25:27 +0000",
+      "summary": "<h2>\n  \n  \n  <strong>Title:</strong> Rivian's Autonomous Journey: Progress and Challenges in the Pursuit of Self-Driving Vehicles\n</h2>\n\n<p><strong>Introduction</strong></p>\n\n<p>Electric vehicle (EV) manufacturer Rivian has been making waves in the automotive industry with its innovative designs and",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "published": "Fri, 12 Dec 2025 20:41:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248644\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "published": "Fri, 12 Dec 2025 23:30:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250332\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "published": "Fri, 12 Dec 2025 20:57:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248859\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "published": "Fri, 12 Dec 2025 20:15:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248323\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "published": "Fri, 12 Dec 2025 22:02:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "link": "https://victorpoughon.github.io/bidicalc/",
+      "published": "Thu, 11 Dec 2025 18:00:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46234734\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+      "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+      "published": "Fri, 12 Dec 2025 21:42:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249337\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
+      "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+      "published": "Thu, 11 Dec 2025 23:56:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46239076\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "50 years of proof assistants",
+      "link": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+      "published": "Fri, 12 Dec 2025 23:26:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250309\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Go is portable, until it isn't",
+      "link": "https://simpleobservability.com/blog/go-portable-until-isnt",
+      "published": "Sun, 07 Dec 2025 11:17:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46180911\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The future of AI-powered software optimization (and how it can help your team)",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
+      "published": "Fri, 12 Dec 2025 20:43:37 +0000",
+      "summary": "<p>We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-t",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Let’s talk about GitHub Actions",
+      "link": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
+      "published": "Thu, 11 Dec 2025 17:40:52 +0000",
+      "summary": "<p>A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/lets-talk-about-github-actions/\">Let",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "GitHub Availability Report: November 2025",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
+      "published": "Thu, 11 Dec 2025 16:03:53 +0000",
+      "summary": "<p>In November, we experienced three incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-november-2025/\">GitHub Availability Report: November 2025</a> appeared first on <a href=\"htt",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
+      "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
+      "published": "Tue, 09 Dec 2025 21:00:13 +0000",
+      "summary": "<p>MCP is moving to the Linux Foundation. Here's how that will affect developers.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/\">MCP joins the Linux Foundation: What thi",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Speed is nothing without control: How to keep quality high in the AI era",
+      "link": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
+      "published": "Tue, 09 Dec 2025 17:00:00 +0000",
+      "summary": "<p>AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-i",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
+      "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "published": "Mon, 08 Dec 2025 18:15:17 +0000",
+      "summary": "<p>Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering.</p>\n<p>The post <a href=\"https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "published": "Thu, 04 Dec 2025 20:35:36 +0000",
+      "summary": "<p>Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/\">How to use GitHub Copilot Spaces to debug issues f",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
+      "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "published": "Wed, 03 Dec 2025 17:00:45 +0000",
+      "summary": "<p>Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-s",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
+      "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "published": "Tue, 02 Dec 2025 17:19:32 +0000",
+      "summary": "<p>Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/\">“The local-first rebellio",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to orchestrate agents using mission control",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "published": "Mon, 01 Dec 2025 17:00:00 +0000",
+      "summary": "<p>Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/\">How to orchestrate agents using mission c",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    }
+  ]
+}
