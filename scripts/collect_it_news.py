@@ -4,29 +4,23 @@ import datetime
 import feedparser
 from pathlib import Path
 
-# IT 뉴스 RSS 피드 목록
 RSS_FEEDS = {
     "기술 뉴스": [
-        "https://news.hada.io/rss/news",  # GeekNews
-        "https://techcrunch.com/feed/",   # TechCrunch
-        "https://www.theverge.com/rss/index.xml",  # The Verge
+        "https://news.hada.io/rss/news",
+        "https://techcrunch.com/feed/",
     ],
     "개발 트렌드": [
-        "https://dev.to/feed",  # DEV Community
-        "https://news.ycombinator.com/rss",  # Hacker News
-        "https://github.blog/feed/",  # GitHub Blog
+        "https://news.ycombinator.com/rss",
     ],
     "한국 IT": [
-        "https://www.44bits.io/ko/rss",  # 44BITS
-        "https://yozm.wishket.com/rss.xml",  # 요즘IT
+        "https://yozm.wishket.com/rss.xml",
     ]
 }
 
 DATA_DIR = "it_news_data"
-MAX_ITEMS_PER_FEED = 10  # 피드당 최대 아이템 수
+MAX_ITEMS_PER_FEED = 5
 
 def fetch_rss_feed(url, category):
-    """RSS 피드에서 최신 뉴스 가져오기"""
     try:
         print(f"[INFO] Fetching {category}: {url}")
         feed = feedparser.parse(url)
@@ -51,7 +45,6 @@ def fetch_rss_feed(url, category):
         return []
 
 def load_existing_data():
-    """기존 저장된 데이터 불러오기"""
     today = datetime.date.today()
     filename = f"{DATA_DIR}/{today.strftime('%Y-%m-%d')}.json"
     
@@ -61,7 +54,6 @@ def load_existing_data():
     return {"date": str(today), "articles": []}
 
 def save_data(data):
-    """데이터 저장"""
     os.makedirs(DATA_DIR, exist_ok=True)
     
     today = datetime.date.today()
@@ -73,7 +65,6 @@ def save_data(data):
     print(f"[OK] Saved to {filename}")
 
 def collect_news():
-    """모든 RSS 피드에서 뉴스 수집"""
     print("[INFO] Starting news collection...")
     
     data = load_existing_data()
