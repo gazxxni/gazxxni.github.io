@@ -37,8 +37,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _posts/
           
-          # 아래 줄이 핵심 변경 사항입니다. GH_PAT를 사용하여 인증 정보를 설정합니다.
+          # 인증 정보 설정
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
           
+          # 커밋 생성 (변경사항이 없으면 넘어감)
           git diff --staged --quiet || git commit -m "📝 Weekly IT news summary - $(date +'%Y-%m-%d')"
-          git push
+          
+          # [핵심 수정] 원격 저장소의 최신 내용을 먼저 가져와서(rebase) 합칩니다.
+          git pull --rebase origin main
+          
+          # 그 다음 푸시합니다.
+          git push origin main
