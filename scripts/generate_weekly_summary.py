@@ -2,14 +2,20 @@ import os
 import json
 import datetime
 import time
+import re
 import google.generativeai as genai
 from pathlib import Path
 
 DATA_DIR = "it_news_data"
 OUTPUT_DIR = "_posts"
 
-# Gemini API 키 (코드 상단에 직접 입력 or 환경변수)
+# Gemini API 키
 GEMINI_API_KEY = "여기에-GEMINI-API-키-입력"
+
+def clean_html_tags(text):
+    """HTML 태그 제거"""
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
 
 def load_week_data():
     """지난 7일간의 뉴스 데이터 불러오기"""
@@ -28,20 +34,13 @@ def load_week_data():
     
     return articles
 
-def categorize_articles(articles):
-    """카테고리별로 기사 분류"""
-    categories = {}
-    
-    for article in articles:
-        category = article.get("category", "기타")
-        if category not in categories:
-            categories[category] = []
-        categories[category].append(article)
-    
-    return categories
+def chunk_list(data_list, chunk_size):
+    """리스트를 청크 단위로 분할"""
+    for i in range(0, len(data_list), chunk_size):
+        yield data_list[i:i + chunk_size]
 
-def generate_summary_with_gemini(articles_by_category):
-    """Gemini API로 주간 요약 생성"""
+def generate_summary_with_gemini(articles):
+    """Gemini API로 맵 리듀스 방식 요약 생성"""
     api_key = GEMINI_API_KEY if GEMINI_API_KEY != "여기에-GEMINI-API-키-입력" else os.environ.get("GEMINI_API_KEY")
     
     if not api_key or api_key == "여기에-GEMINI-API-키-입력":
@@ -52,41 +51,79 @@ def generate_summary_with_gemini(articles_by_category):
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-1.5-flash')
         
-        # 카테고리별 기사 리스트 생성
-        prompt = "다음은 이번 주 IT 업계 주요 뉴스입니다. 카테고리별로 핵심 내용을 요약해주세요.\n\n"
+        # 1단계: 배치 처리 (Map) - 20개씩 끊어서 중간 요약 생성
+        print(f"[INFO] Processing {len(articles)} articles...")
+        batch_size = 20
+        intermediate_summaries = []
         
-        for category, articles in articles_by_category.items():
-            prompt += f"## {category}\n\n"
-            for i, article in enumerate(articles[:10], 1):  # 카테고리당 최대 10개
-                prompt += f"{i}. [{article['title']}]({article['link']})\n"
-                prompt += f"   출처: {article['source']}\n\n"
+        for i, batch in enumerate(chunk_list(articles, batch_size)):
+            print(f"  - Processing batch {i+1}...")
+            
+            batch_text = ""
+            for article in batch:
+                title = article.get('title', '무제')
+                link = article.get('link', '#')
+                summary = clean_html_tags(article.get('summary', ''))[:200] # HTML 제거 및 길이 제한
+                source = article.get('source', 'Unknown')
+                category = article.get('category', 'General')
+                
+                batch_text += f"제목: {title}\n카테고리: {category}\n출처: {source}\n내용: {summary}\n링크: {link}\n\n"
+
+            map_prompt = f"""
+            다음은 IT 뉴스 기사 모음입니다. 각 기사의 핵심 내용을 파악하여 요약해주세요.
+            
+            [기사 목록]
+            {batch_text}
+            
+            [요청사항]
+            1. 각 기사별로 한 줄 요약을 작성하세요.
+            2. 기사의 원래 제목, 링크, 카테고리 정보를 반드시 포함하세요.
+            3. 결과물은 나중에 합쳐서 최종 뉴스레터를 만들 것이므로, 정보가 누락되지 않게 정리해주세요.
+            """
+            
+            response = model.generate_content(map_prompt)
+            if response and response.text:
+                intermediate_summaries.append(response.text)
+            time.sleep(2) # Rate limit 방지
+
+        # 2단계: 최종 통합 (Reduce)
+        print("[INFO] Generating final summary...")
+        all_summaries = "\n\n".join(intermediate_summaries)
         
-        prompt += """
-위 뉴스들을 다음 형식으로 요약해주세요:
+        reduce_prompt = f"""
+        다음은 이번 주 IT 뉴스를 나누어 요약한 중간 결과물들입니다.
+        이 내용들을 종합하여 블로그 포스팅용 '주간 IT 뉴스 요약'을 마크다운 형식으로 작성해주세요.
 
-### 🔥 이번 주 핫이슈
+        [중간 요약 데이터]
+        {all_summaries}
 
-### 💻 개발 트렌드
+        [작성 형식]
+        ## 🔥 이번 주 핫이슈
+        (가장 중요하고 많이 언급된 이슈 3~4가지를 선정하여 상세히 서술)
 
-### 🚀 기술 뉴스
+        ## 💻 개발 트렌드
+        (개발자들에게 유용한 도구, 라이브러리, 기술 블로그 글 위주로 3~5개 bullet point)
 
-### 📌 주목할 만한 소식
+        ## 🚀 기술 & 스타트업 뉴스
+        (일반적인 IT 기업 동향, 신제품 출시 등 3~5개 bullet point)
 
-각 섹션마다 3-5개의 핵심 내용을 bullet point로 정리하고, 
-중요한 기사는 링크를 포함해주세요.
-"""
+        ## 📌 기타 단신
+        (흥미로운 나머지 소식들)
+
+        [필수 규칙]
+        - 각 항목의 끝에는 반드시 관련 기사의 [링크]를 걸어주세요.
+        - 톤앤매너는 전문적이면서도 읽기 쉽게 작성해주세요.
+        - 중복된 내용은 하나로 합쳐주세요.
+        """
         
-        print("[INFO] Generating summary with Gemini...")
-        response = model.generate_content(prompt)
+        final_response = model.generate_content(reduce_prompt)
         
-        if response and response.text:
-            print("[OK] Summary generated successfully")
-            time.sleep(4)  # Rate limit 방지
-            return response.text.strip()
-        
+        if final_response and final_response.text:
+            print("[OK] Final summary generated successfully")
+            return final_response.text.strip()
+            
     except Exception as e:
         print(f"[ERROR] Gemini API error: {e}")
-        time.sleep(4)
     
     return None
 
@@ -99,11 +136,11 @@ def create_weekly_post(summary, article_count):
     title = f"주간 IT 뉴스 요약 ({week_start.strftime('%m.%d')} - {today.strftime('%m.%d')})"
     
     if not summary:
-        summary = """### 요약 생성 실패
+        summary = f"""### 요약 생성 실패
 
 이번 주 수집된 뉴스는 총 {article_count}개입니다.
-상세 내용은 수집된 데이터를 확인해주세요.
-""".format(article_count=article_count)
+API 호출 중 오류가 발생했거나 할당량이 초과되었을 수 있습니다.
+"""
     
     content = f"""---
 layout: post
@@ -119,8 +156,7 @@ tags: [it-news, weekly-summary, tech-trends]
 
 ---
 
-*이 포스트는 자동으로 수집된 IT 뉴스를 요약한 것입니다.*  
-*총 {article_count}개의 기사를 분석했습니다.*
+*이 포스트는 자동으로 수집된 IT 뉴스를 요약한 것입니다.* *총 {article_count}개의 기사를 분석했습니다.*
 """
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -145,16 +181,10 @@ def main():
     
     print(f"[INFO] Total articles collected: {len(articles)}")
     
-    # 2. 카테고리별 분류
-    articles_by_category = categorize_articles(articles)
+    # 2. Gemini로 맵 리듀스 요약 생성
+    summary = generate_summary_with_gemini(articles)
     
-    for category, items in articles_by_category.items():
-        print(f"[INFO] {category}: {len(items)} articles")
-    
-    # 3. Gemini로 요약 생성
-    summary = generate_summary_with_gemini(articles_by_category)
-    
-    # 4. 블로그 포스트 생성
+    # 3. 블로그 포스트 생성
     create_weekly_post(summary, len(articles))
     
     print(f"\n{'='*50}")
