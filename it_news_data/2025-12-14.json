@@ -1,0 +1,485 @@
+{
+  "date": "2025-12-14",
+  "articles": [
+    {
+      "title": "애플이 내 Apple ID를 잠갔고, 해결 방법이 없습니다. 도움을 요청합니다",
+      "link": "https://news.hada.io/topic?id=25057",
+      "published": "2025-12-14T09:33:23+09:00",
+      "summary": "<ul>\n<li>25년간 사용해온 <strong>Apple ID가 영구적으로 비활성화</strong>되어, 개인 및 업무용 디지털 자산 전체에 접근할 수 없게 됨</li>\n<li>원인은 <strong>대형 오프라인 매장에서 구매한 500달러짜리 Apple Gift Card</strong>를 사용하려다 코드 오류가 발생한 직후 계정이 잠긴 것으로 추정됨</li>\n<li>계정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gitmal - Git 저장소를 위한 정적 페이지 생성기",
+      "link": "https://news.hada.io/topic?id=25056",
+      "published": "2025-12-14T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Git 저장소</strong>를 <strong>웹에서 탐색 가능하게 시각화</strong>하기 위해 개발된 도구, 파일·커밋·코드 하이라이팅을 포함한 <strong>정적 HTML 페이지 생성 기능</strong> 제공</li>\n<li>\n<strong>Go 언어 기반</strong>으로 구현되어 빠른 빌드 속도와 간단한 실행 구조 지원</li>\n<li>저장소...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "가장 작지만 실제로 작동하는 망원경을 제작하다",
+      "link": "https://news.hada.io/topic?id=25055",
+      "published": "2025-12-14T07:36:59+09:00",
+      "summary": "<ul>\n<li>76mm/300mm <strong>포켓 도브소니언 망원경</strong>을 3D 프린팅으로 제작한 초소형 프로젝트로, 재킷 안주머니에 들어갈 정도의 크기임</li>\n<li>\n<strong>PETG-CF 필라멘트</strong>, <strong>탄소봉</strong>, <strong>나일론 나사</strong>, <strong>자석</strong>, <strong>라이크라 차광막</strong> 등...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "HomeDepot의 GitHub 토큰이 1년간 노출되어 내부 시스템 접근 가능 상태였음",
+      "link": "https://news.hada.io/topic?id=25054",
+      "published": "2025-12-14T07:33:59+09:00",
+      "summary": "<ul>\n<li>한 <strong>보안 연구자</strong>가 홈디포 직원이 실수로 온라인에 게시한 <strong>GitHub 접근 토큰</strong>을 발견해, 1년간 내부 시스템이 외부에 노출되어 있었다고 밝힘</li>\n<li>해당 토큰은 <strong>수백 개의 비공개 소스 코드 저장소</strong>에 접근 및 수정 권한을 제공했고, <strong>클라우드 인...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CRISPR 균류: 단백질이 풍부하고 지속 가능하며 고기 같은 맛",
+      "link": "https://news.hada.io/topic?id=25053",
+      "published": "2025-12-14T05:32:52+09:00",
+      "summary": "<ul>\n<li>\n<strong>CRISPR 유전자 편집 기술</strong>을 이용해 기존보다 효율적이고 영양가 높으며 지속 가능한 새로운 균주가 개발됨</li>\n<li>이 균은 <strong>Fusarium venenatum</strong>으로, 고기와 유사한 맛과 질감을 지녀 여러 나라에서 식품용으로 승인된 종임</li>\n<li>연구진은 <strong>키틴 합성효소 유전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "포탈은 중력을 휘어야 한다.",
+      "link": "https://news.hada.io/topic?id=25052",
+      "published": "2025-12-14T04:47:39+09:00",
+      "summary": "<ul>\n<li>\n<p>순진한(naive) 중력 모델의 문제점</p>\n<ul>\n<li>포털이 있어도 중력은 항상 “아래로”만 향한다고 가정함 (0:23).</li>\n<li>에너지 보존 법칙을 위반해서 영구기관(무한히 에너지 뽑기)이 가능해짐 (0:47).</li>\n<li>“포털 동작은 표면 모양에 의존하지 않는다”는 포털 공리를 깨뜨림 (3:13).</li>\n</u",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GNU Unifont",
+      "link": "https://news.hada.io/topic?id=25051",
+      "published": "2025-12-14T04:41:42+09:00",
+      "summary": "<ul>\n<li>전 세계 유니코드 문자에 대한 <strong>글리프(문자 도형)</strong> 를 포함한 자유 폰트로, <strong>GNU 프로젝트</strong>의 일부로 유지되는 공개 폰트임</li>\n<li>15.1.01 버전부터는 이민서와 이호석의 기여로 <strong>새로운 조합 인코딩(6/3/1 방식)</strong> 이 도입되어 개선된 한글 글리프 체계 적용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "코랄름 철도",
+      "link": "https://news.hada.io/topic?id=25050",
+      "published": "2025-12-14T04:38:42+09:00",
+      "summary": "<ul>\n<li>오스트리아의 <strong>슈타이어마르크주와 케른텐주를 연결하는 고속 철도 노선</strong>으로, 남부 노선(Southern Line)의 핵심 구간이자 유럽 주요 인프라 프로젝트 중 하나</li>\n<li>\n<strong>그라츠와 클라겐푸르트 간 이동 시간</strong>을 기존 약 3시간에서 <strong>45분으로 단축</strong>하며, 코랄페...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Id Software 개발자들이 ‘벽에서 벽까지(wall-to-wall)’ 노조를 결성",
+      "link": "https://news.hada.io/topic?id=25049",
+      "published": "2025-12-14T04:35:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Doom</strong>과 <strong>Quake</strong>을 개발한 id Software의 165명 직원이 <strong>미국 통신노동자협회(CWA)</strong> 산하로 노조 결성을 승인함</li>\n<li>이번 노조는 <strong>개발자, 아티스트, 프로그래머 등 전 직군</strong>을 포함하는 ‘wall-to-wall’ 형태로, 2023년 결성된 <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tor 프로젝트가 Rust로 전환 중",
+      "link": "https://news.hada.io/topic?id=25048",
+      "published": "2025-12-14T01:33:21+09:00",
+      "summary": "<ul>\n<li>\n<strong>Tor 네트워크의 핵심 코드</strong>가 기존 C 언어에서 <strong>Rust 기반의 Arti</strong>로 전환되고 있음</li>\n<li>기존 C 코드에는 <strong>버퍼 오버플로우, use-after-free, 메모리 손상</strong> 등 취약점이 존재</li>\n<li>새 버전 <strong>Arti 1.8.0</strong>은 <strong>회로 타임아웃 재설...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DoorDash driver faces felony charges after allegedly spraying customers’ food",
+      "link": "https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/",
+      "published": "Sat, 13 Dec 2025 21:06:51 +0000",
+      "summary": "A woman is facing felony charges in Evansville, Indiana over a DoorDash delivery in which she allegedly sprayed the food with a substance that made the customers vomit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI data center boom could be bad news for other infrastructure projects",
+      "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
+      "published": "Sat, 13 Dec 2025 19:37:47 +0000",
+      "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A comprehensive list of 2025 tech layoffs",
+      "link": "https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/",
+      "published": "Sat, 13 Dec 2025 00:11:09 +0000",
+      "summary": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Inside Rivian’s big bet on AI-powered self-driving",
+      "link": "https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/",
+      "published": "Fri, 12 Dec 2025 21:44:50 +0000",
+      "summary": "Rivian demonstrated the progress it's made, and in the process showed just how far it still has to go to make its cars autonomous.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen",
+      "link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/",
+      "published": "Fri, 12 Dec 2025 20:45:00 +0000",
+      "summary": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google and Apple roll out emergency security updates after zero-day attacks",
+      "link": "https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/",
+      "published": "Fri, 12 Dec 2025 20:31:36 +0000",
+      "summary": "Apple released patches for all of its flagship devices to fix security flaws under attack. Google also updated Chrome to remediate one vulnerability exploited in the attacks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OK, what’s going on with LinkedIn’s algo?",
+      "link": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
+      "published": "Fri, 12 Dec 2025 19:38:16 +0000",
+      "summary": "Women ran an experiment to see if LinkedIn's new algo was being sexist and thought they proved it. But there's more complexity involved, experts say.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
+      "link": "https://techcrunch.com/2025/12/12/microsoft-buys-3-6m-metric-tons-of-carbon-removal-from-bioenergy-plant/",
+      "published": "Fri, 12 Dec 2025 19:16:10 +0000",
+      "summary": "Microsoft's data center ambitions have imperiled its 2030 pledge to remove more carbon than it generates, making carbon removal credits all but necessary.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+      "link": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/",
+      "published": "Fri, 12 Dec 2025 17:35:46 +0000",
+      "summary": "700Credit, a company that runs credit checks and identity verification services for auto dealerships across the U.S., had a data breach that allowed a hacker to steal names, addresses, dates of birth, and Social Security numbers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
+      "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+      "published": "Fri, 12 Dec 2025 17:07:22 +0000",
+      "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates federal rules.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
+      "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+      "published": "2025-12-13T13:17:20-05:00",
+      "summary": "It's a small sample size, likely driven by Black Friday discounts and temporary virality, but the Nex Playground has gone from little-known console curiosity to best-seller. It's now on track to quadruple its sales from last year. According to research firm Circana, the Playground was the second bes",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Slab is the first MIDI controller built exclusively for Serato Studio",
+      "link": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
+      "published": "2025-12-13T12:00:00-05:00",
+      "summary": "Native Instruments and Ableton have had incredible success with their custom MIDI controllers that integrate with their DAWs (digital audio workstations), Maschine and Live, respectively. Native Instruments' Maschine (yes, it's the name of the hardware and the software) and Ableton's Push are pretty",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "This $1,500 robot cooks dinner while I work",
+      "link": "https://www.theverge.com/tech/840599/posha-robot-chef-review",
+      "published": "2025-12-13T11:00:00-05:00",
+      "summary": "As I'm sitting in my office writing this review, delicious, cheesy, garlicky scents are wafting up the stairs. I can hear whizzing and whirring, and the occasional clunk, as a robot chef in my kitchen is making macaroni and cheese. Its app tells me there are three minutes left in the process, and ba",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Nex Playground and Pixel Buds 2A top our list of the best deals this week",
+      "link": "https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale",
+      "published": "2025-12-13T10:16:08-05:00",
+      "summary": "The Nex Playground is apparently one of the hottest consoles this holiday season thanks to its kid-friendly games and fun, motion-controlled gameplay. And now through December 14th, the cube-shaped console is on sale for its Black Friday low of around $199 ($50 off) at Amazon. There are some other g",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best thing I bought this year: a portable mechanical keyboard",
+      "link": "https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite",
+      "published": "2025-12-13T10:00:00-05:00",
+      "summary": "As a writer, I take the tools of my trade relatively seriously. I’m not crazy enough to drop $3,600 on a keyboard, but I also find typing on a MacBook for extended periods of time deeply unsatisfying — and distracting. So this spring, I started looking into distraction-free writing setups, which inc",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Sektori is psychedelic, tough as nails, and worth the pain",
+      "link": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
+      "published": "2025-12-13T09:00:00-05:00",
+      "summary": "Sektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have to weave through them to get upgrades to help you survive. Often, my runs end after less than a coup",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Here are the shipping deadlines to get your holiday gifts on time",
+      "link": "https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines",
+      "published": "2025-12-13T09:00:00-05:00",
+      "summary": "Let’s face it, the same thing happens year after year. Things get busy with work, school, and life in general until you’re suddenly up against the clock as you race your gifts to your local post office, FedEx store, or UPS location. We’ve all been there, but we’d like to help as you plan your [&#823",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide",
+      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "published": "2025-12-12T19:08:39-05:00",
+      "summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best instant cameras you can buy right now",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2025-12-12T18:31:40-05:00",
+      "summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "Parents call for New York governor to sign landmark AI safety bill",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+      "published": "2025-12-12T17:16:09-05:00",
+      "summary": "A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a buzzy bill that would require developers of large AI models - like Meta, OpenAI, Deepseek, and Google",
+      "category": "기술 뉴스",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies",
+      "link": "https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p",
+      "published": "Sun, 14 Dec 2025 01:08:25 +0000",
+      "summary": "<p>Large language models have transcended their original functions of summarizing documents and composing emails. These advanced systems now drive AI agents that execute sophisticated tasks: crafting intricate SQL queries, recommending code modifications ready for deployment, conducting online searc",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply",
+      "link": "https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6",
+      "published": "Sun, 14 Dec 2025 00:55:36 +0000",
+      "summary": "<p>Dalam pengembangan perangkat lunak modern, <strong>static analysis</strong> merupakan komponen fundamental dalam menjamin kualitas kode sebelum runtime. Berbeda dengan testing yang memvalidasi behavior saat eksekusi, static analysis menganalisis kode tanpa menjalankannya—mendeteksi potensi bug, t",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "🖥️ SSH Manager - VS Code Extension",
+      "link": "https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6",
+      "published": "Sun, 14 Dec 2025 00:42:26 +0000",
+      "summary": "<p>🖥️ SSH Manager - VS Code Extension<br />\nSSH Manager is a standalone VS Code extension for easily managing all your SSH servers with a modern and intuitive interface. Full integration with Remote-SSH.</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=80",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Eleva tu app Android: patrones de arquitectura con Jetpack Compose",
+      "link": "https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh",
+      "published": "Sun, 14 Dec 2025 00:36:07 +0000",
+      "summary": "<h2>\n  \n  \n  📱 ¿A qué llamamos los patrones de arquitecturas Android?\n</h2>\n\n<p>Son <strong>formas recomendadas de organizar el código</strong> de una app Android para que sea:</p>\n\n<ul>\n<li>Más <strong>mantenible</strong>\n</li>\n<li>Más <strong>escalable</strong>\n</li>\n<li>Más <strong>testeable</str",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "DEVLOG – How to Move Straight in a Line?",
+      "link": "https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0",
+      "published": "Sun, 14 Dec 2025 00:36:07 +0000",
+      "summary": "<p>Getting a small robot (SPIKE Prime, in my case) to move in a straight line is harder than it looks. </p>\n\n<p>Thus, methods such as PID exist, but I didn't want to use such complicated (and not 100% understood) algorithms just because it's there (Notice that I did not do any research, this was all",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "The Architecture of Agent Memory: How LangGraph Really Works",
+      "link": "https://dev.to/sreeni5018/the-architecture-of-agent-memory-how-langgraph-really-works-59ne",
+      "published": "Sun, 14 Dec 2025 00:33:16 +0000",
+      "summary": "<p><strong>A deep dive into state, reducers, and why your AI agent keeps forgetting things</strong></p>\n\n<p>To understand LangGraph's power, one must first understand its <strong>memory</strong> system. When developers first explore LangGraph, they naturally focus on visible components the <strong>N",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite",
+      "link": "https://dev.to/ksanjeev284/building-the-ultimate-reddit-scraper-a-full-featured-api-free-data-collection-suite-4al3",
+      "published": "Sun, 14 Dec 2025 00:30:13 +0000",
+      "summary": "<p>Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite</p>\n\n<p>December 2024 | By Sanjeev Kumar</p>\n\n\n\n\n<p>TL;DR<br />\nI built a complete Reddit scraper suite that requires zero API keys. It comes with a beautiful Streamlit dashboard, REST API for integration with t",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "I built a habit tracker app with Xano",
+      "link": "https://dev.to/emmanuelthecoder/i-built-a-habit-tracker-app-with-xano-4bnc",
+      "published": "Sun, 14 Dec 2025 00:30:08 +0000",
+      "summary": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/xanochallenge\">Xano AI-Powered Backend Challenge</a>: Full-Stack, AI-First Application</em></p>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p>Habit tracker, the app I built, helps people log their daily routines and track completion. It a",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Why Idempotency Is So Important in Data Engineering",
+      "link": "https://dev.to/chaets/why-idempotency-is-so-important-in-data-engineering-24mj",
+      "published": "Sun, 14 Dec 2025 00:10:26 +0000",
+      "summary": "<h2>\n  \n  \n  Introductions:\n</h2>\n\n<p>In data engineering, <strong>things fail all the time</strong>.</p>\n\n<p>Jobs crash halfway. Networks timeout. Airflow retries tasks. Kafka replays messages. Backfills rerun months of data. And sometimes… someone just clicks “Run” again.</p>\n\n<p>In this messy, fa",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Porting Zod to C#: ZodSharp – A Zero-Allocation, High-Performance Schema Validation Library for .NET",
+      "link": "https://dev.to/guinhx/porting-zod-to-c-zodsharp-a-zero-allocation-high-performance-schema-validation-library-for-net-1i4",
+      "published": "Sun, 14 Dec 2025 00:05:05 +0000",
+      "summary": "<h1>\n  \n  \n  Porting Zod to C#: ZodSharp – A Zero-Allocation, High-Performance Schema Validation Library for .NET\n</h1>\n\n<p>As a .NET developer, I’ve long been frustrated by one persistent pain point: most validation libraries rely heavily on reflection, leading to slow performance and constant allo",
+      "category": "개발 트렌드",
+      "source": "DEV Community"
+    },
+    {
+      "title": "Linux Sandboxes and Fil-C",
+      "link": "https://fil-c.org/seccomp",
+      "published": "Sat, 13 Dec 2025 22:58:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46259064\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Closures as Win32 Window Procedures",
+      "link": "https://nullprogram.com/blog/2025/12/12/",
+      "published": "Sat, 13 Dec 2025 23:39:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46259334\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Twilio Segment moved from microservices back to a monolith",
+      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "published": "Sat, 13 Dec 2025 20:30:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46257714\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Recovering Anthony Bourdain's (really) lost Li.st's",
+      "link": "https://sandyuraz.com/blogs/bourdain/",
+      "published": "Sat, 13 Dec 2025 21:18:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46258163\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I fed 24 years of my blog posts to a Markov model",
+      "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "published": "Sat, 13 Dec 2025 20:19:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46257607\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RemoveWindowsAI",
+      "link": "https://github.com/zoicware/RemoveWindowsAI",
+      "published": "Sat, 13 Dec 2025 23:04:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46259095\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "VPN location claims don't match real traffic exits",
+      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "published": "Sat, 13 Dec 2025 19:46:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46257339\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "published": "Sat, 13 Dec 2025 17:00:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46255991\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cat Gap",
+      "link": "https://en.wikipedia.org/wiki/Cat_gap",
+      "published": "Wed, 10 Dec 2025 04:09:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46213985\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Rise of Computer Games, Part I: Adventure",
+      "link": "https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/",
+      "published": "Sat, 13 Dec 2025 20:19:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46257599\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The future of AI-powered software optimization (and how it can help your team)",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
+      "published": "Fri, 12 Dec 2025 20:43:37 +0000",
+      "summary": "<p>We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-t",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Let’s talk about GitHub Actions",
+      "link": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
+      "published": "Thu, 11 Dec 2025 17:40:52 +0000",
+      "summary": "<p>A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/lets-talk-about-github-actions/\">Let",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "GitHub Availability Report: November 2025",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
+      "published": "Thu, 11 Dec 2025 16:03:53 +0000",
+      "summary": "<p>In November, we experienced three incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-november-2025/\">GitHub Availability Report: November 2025</a> appeared first on <a href=\"htt",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
+      "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
+      "published": "Tue, 09 Dec 2025 21:00:13 +0000",
+      "summary": "<p>MCP is moving to the Linux Foundation. Here's how that will affect developers.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/\">MCP joins the Linux Foundation: What thi",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Speed is nothing without control: How to keep quality high in the AI era",
+      "link": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
+      "published": "Tue, 09 Dec 2025 17:00:00 +0000",
+      "summary": "<p>AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-i",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
+      "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "published": "Mon, 08 Dec 2025 18:15:17 +0000",
+      "summary": "<p>Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering.</p>\n<p>The post <a href=\"https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "published": "Thu, 04 Dec 2025 20:35:36 +0000",
+      "summary": "<p>Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/\">How to use GitHub Copilot Spaces to debug issues f",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
+      "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "published": "Wed, 03 Dec 2025 17:00:45 +0000",
+      "summary": "<p>Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-s",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
+      "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "published": "Tue, 02 Dec 2025 17:19:32 +0000",
+      "summary": "<p>Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/\">“The local-first rebellio",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    },
+    {
+      "title": "How to orchestrate agents using mission control",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "published": "Mon, 01 Dec 2025 17:00:00 +0000",
+      "summary": "<p>Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/\">How to orchestrate agents using mission c",
+      "category": "개발 트렌드",
+      "source": "The GitHub Blog"
+    }
+  ]
+}
