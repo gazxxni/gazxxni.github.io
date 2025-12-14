@@ -26,6 +26,7 @@ jobs:
           pip install google-generativeai
       
       - name: Generate Weekly Summary
+        # [중요] 이 env 부분이 빠져 있어서 그동안 실패했던 겁니다!
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -37,14 +38,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _posts/
           
-          # 인증 정보 설정
+          # 인증 정보 설정 (GH_PAT 사용)
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
           
-          # 커밋 생성 (변경사항이 없으면 넘어감)
+          # 커밋할 내용이 있는지 확인 후 커밋
           git diff --staged --quiet || git commit -m "📝 Weekly IT news summary - $(date +'%Y-%m-%d')"
           
-          # [핵심 수정] 원격 저장소의 최신 내용을 먼저 가져와서(rebase) 합칩니다.
+          # [충돌 방지] 원격 저장소의 최신 내용을 먼저 당겨옵니다.
           git pull --rebase origin main
           
-          # 그 다음 푸시합니다.
+          # 푸시
           git push origin main
