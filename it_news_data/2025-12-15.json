@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-15",
+  "articles": [
+    {
+      "title": "유용한 HTML 도구를 만들기 위한 패턴들",
+      "link": "https://news.hada.io/topic?id=25078",
+      "published": "2025-12-15T10:16:01+09:00",
+      "summary": "<ul>\n<li>HTML·JavaScript·CSS를 한 파일로 묶어 실행하는 <strong>HTML tools</strong> 제작 경험을 바탕으로 반복되는 설계 패턴 정리</li>\n<li>2년간 150개 이상 제작된 소형 도구들이 실제로 어떻게 만들어지고 유지되는지 구체 사례 중심으로 설명</li>\n<li>빌드 단계 없는 구조와 CDN 활용으로 <strong>복사·붙여�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "바이브 코딩 하실 분들을 위한 작은 조언 chatGPT5.2 / 클로드 / 제미나이3",
+      "link": "https://news.hada.io/topic?id=25077",
+      "published": "2025-12-15T10:01:01+09:00",
+      "summary": "<ul>\n<li>코딩 관련 완성도 : <strong>GPT5.2</strong> &gt; GPT5.1 &gt;&gt;&gt; Sonnet4.5 &gt;&gt; GEMINI 3 pro</li>\n<li>ChatGPT5 계열은 코딩시 환각 및 망각이 타사 대비 압도적으로 적음. 5.2는 5.1대비 가격이 40% 인상</li>\n<li>CLAUDE Sonnet 4.5은 <strong>자동 캐싱이 안 되서 요금제 전반에 큰 함정</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "workmux - tmux와 git worktree를 결합한 병렬 개발 워크플로 도구",
+      "link": "https://news.hada.io/topic?id=25076",
+      "published": "2025-12-15T09:46:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>git worktree</strong>와 <strong>tmux 윈도우</strong>를 통합 관리해, 분리된 개발 환경을 자동 구성하는 <strong>워크플로 도구</strong>\n</li>\n<li>여러 <strong>AI 에이전트</strong>를 병렬로 실행하거나, 다중 브랜치를 동시에 개발할 때 충돌 없이 관리 가능</li>\n<li>\n<strong>tmux 네이티브...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Hashcards: 일반 텍스트 기반의 간격 반복 시스템",
+      "link": "https://news.hada.io/topic?id=25075",
+      "published": "2025-12-15T09:36:45+09:00",
+      "summary": "<ul>\n<li>\n<strong>Hashcards</strong>는 <strong>로컬 우선(local-first)</strong> 방식의 <strong>간격 반복 학습(spaced repetition)</strong> 앱으로, <strong>Anki</strong>나 <strong>Mochi</strong>와 유사하지만 <strong>데이터베이스 대신 Markdown 파일</strong>을 사용함</li>\n<li>각 플래시카드는 일반 텍스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽인의 건강 데이터, 전 이스라엘 정보요원들이 운영하는 미국 기업에 매각",
+      "link": "https://news.hada.io/topic?id=25074",
+      "published": "2025-12-15T09:33:44+09:00",
+      "summary": "<ul>\n<li>\n<strong>네덜란드의 데이터 보안 기업 Zivver</strong>가 미국의 <strong>Kiteworks</strong>에 인수되면서, 유럽 시민의 민감한 건강 및 행정 데이터가 미국 기업의 통제하에 놓임</li>\n<li>Kiteworks의 <strong>경영진 다수가 이스라엘 군 정보부대 출신</strong>으로, CEO 조너선 야론 역시 이스라엘군의 사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "WhatsApp’s biggest market is becoming its toughest test",
+      "link": "https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/",
+      "published": "Mon, 15 Dec 2025 01:30:00 +0000",
+      "summary": "Meta has three months to comply with Indian government directions that could affect how WhatsApp operates in the country.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+      "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "published": "Sun, 14 Dec 2025 23:17:47 +0000",
+      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mesa shuts down credit card that rewarded cardholders for paying their mortgages",
+      "link": "https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/",
+      "published": "Sun, 14 Dec 2025 21:37:44 +0000",
+      "summary": "Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Making sense of the risky Netflix-Warner Bros. deal",
+      "link": "https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/",
+      "published": "Sun, 14 Dec 2025 17:27:05 +0000",
+      "summary": "Netflix's $82.6 billion acquisition of Warner Bros. encapsulates a fraught moment for Hollywood, as the entertainment business is increasingly overshadowed by tech giants.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s survival plan involves more than cars",
+      "link": "https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/",
+      "published": "Sun, 14 Dec 2025 17:00:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+      "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
+      "published": "Sun, 14 Dec 2025 21:53:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46267385\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Signal1996.net",
+      "link": "https://signal1996.net/",
+      "published": "Mon, 15 Dec 2025 01:11:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46269121\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+      "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+      "published": "Sun, 14 Dec 2025 21:05:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46266875\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CapROS: The Capability-Based Reliable Operating System",
+      "link": "https://www.capros.org/",
+      "published": "Mon, 15 Dec 2025 00:39:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46268869\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JSDoc is TypeScript",
+      "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+      "published": "Sun, 14 Dec 2025 19:42:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46266102\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
