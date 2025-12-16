@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-16",
+  "articles": [
+    {
+      "title": "SyncKit - 실시간 협업 앱을 위한 타입세이프 동기화 엔진",
+      "link": "https://news.hada.io/topic?id=25100",
+      "published": "2025-12-16T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>로컬 우선 애플리케이션</strong> 구축의 복잡함을 줄이기 위해 개발된 <strong>프로덕션급 동기화 엔진</strong>\n</li>\n<li>CRDT 기반이며, 단 세 줄의 코드로 <strong>오프라인에서도 자동 동기화와 충돌 해결</strong>을 지원</li>\n<li>\n<strong>WASM 기반 Rust 코어</strong>와 <strong>TypeScrip...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 개발자 기술 블로그 & 트렌드, 이제 'DevDay'에서 한눈에 보세요!",
+      "link": "https://news.hada.io/topic?id=25099",
+      "published": "2025-12-16T08:35:27+09:00",
+      "summary": "<p>평소 daily.dev를 애용하는데, 국내 기술 블로그(네이버 D2, 토스, 우아한형제들 등) 소식도 이렇게 깔끔한 UI로 한곳에서 보고 싶다는 생각이 항상 있었습니다.</p>\n<p>RSS 리더는 알림이 너무 많아 피로하고, 매번 회사 블로그를 즐겨찾기로 들어가자니 귀찮아서... &quot;그냥 내가 직접 만들자&quot; 하고 틈틈이",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "JSDoc은 TypeScript다",
+      "link": "https://news.hada.io/topic?id=25098",
+      "published": "2025-12-16T07:37:28+09:00",
+      "summary": "<ul>\n<li>2023년 Svelte 저장소의 <strong>리팩터링 PR</strong>이 JSDoc 기반 코드로 전환되며 TypeScript 회의론자들의 주목을 받음</li>\n<li>Svelte 측은 이를 <strong>반(反) TypeScript 입장</strong>이 아니라, TypeScript에 대한 <strong>지속적 의존</strong>의 일환으로 설명</li>\n<li>글은 JSDoc과 TypeScript...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2002년: Last.fm과 Audioscrobbler, 소셜 웹의 서막",
+      "link": "https://news.hada.io/topic?id=25097",
+      "published": "2025-12-16T07:34:28+09:00",
+      "summary": "<ul>\n<li>\n<strong>Last.fm과 Audioscrobbler</strong>는 2002년 각각 독립적으로 개발된 학생 프로젝트로, <strong>‘협업 필터링(collaborative filtering)’</strong> 을 이용해 음악 추천과 사용자 간 연결을 구현한 초기 소셜 웹 기반 서비스</li>\n<li>Last.fm은 사용자의 청취 이력을 기반으로 <strong>‘음악 지도...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude CLI가 홈 디렉터리를 삭제해 Mac이 초기화됨",
+      "link": "https://news.hada.io/topic?id=25096",
+      "published": "2025-12-16T03:32:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude CLI 실행 중 전체 홈 디렉터리가 삭제되어 시스템이 초기화된 사례</strong>가 보고됨</li>\n<li>사용자는 명령 실행 후 <strong>Mac의 모든 개인 파일이 사라지고 OS 재설치가 필요해진 상황</strong>을 겪음</li>\n<li>문제는 <strong>Claude CLI의 파일 접근 권한 또는 삭제 명령 처리 과정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "VCs discuss why most consumer AI startups still lack staying power",
+      "link": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
+      "published": "Tue, 16 Dec 2025 00:22:07 +0000",
+      "summary": "The next consumer tech revolution may require an introduction of a new personal device.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation",
+      "link": "https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/",
+      "published": "Mon, 15 Dec 2025 23:41:26 +0000",
+      "summary": "Chai is building foundation models for drug discovery, specifically to predict interactions between  molecules so they could be reprogramed for cures.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters",
+      "link": "https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/",
+      "published": "Mon, 15 Dec 2025 22:53:12 +0000",
+      "summary": "Riverside's year-end review is amusing, but it represents a creative culture that's increasingly entwined with AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Disney’s OpenAI deal is exclusive for just one year — then it’s open season",
+      "link": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
+      "published": "Mon, 15 Dec 2025 22:17:36 +0000",
+      "summary": "After the one year is up, Disney is free to sign similar deals with other AI companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
+      "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+      "published": "Mon, 15 Dec 2025 22:00:57 +0000",
+      "summary": "Nvidia acquired SchedMD, the lead developer of Slurm, and launched the Nemotron 3 family of open source AI models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders",
+      "link": "https://quill-os.org/",
+      "published": "Tue, 16 Dec 2025 00:22:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46283016\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+      "link": "https://johnlian.net/posts/hdmi-cec/",
+      "published": "Mon, 15 Dec 2025 21:37:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46281060\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ideas Aren't Getting Harder to Find",
+      "link": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+      "published": "Tue, 16 Dec 2025 00:34:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46283129\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nature's many attempts to evolve a Nostr",
+      "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+      "published": "Wed, 10 Dec 2025 23:54:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46225803\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "“Are you the one?” is free money",
+      "link": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
+      "published": "Fri, 12 Dec 2025 06:47:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46241500\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
