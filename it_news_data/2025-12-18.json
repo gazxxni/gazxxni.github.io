@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-18",
+  "articles": [
+    {
+      "title": "No AI* Here – Mozilla의 Next Chapter에 대한 응답",
+      "link": "https://news.hada.io/topic?id=25153",
+      "published": "2025-12-18T05:33:14+09:00",
+      "summary": "<ul>\n<li>Firefox를 포크한 Waterfox는 Mozilla가 <strong>AI 중심 브라우저 전략</strong>을 신뢰와 투명성의 미래로 제시하는 흐름에 정면으로 반대 입장을 표명</li>\n<li>브라우저에 통합되는 <strong>대규모 언어 모델(LLM)</strong> 이 감사 불가능한 블랙박스이며 사용자 통제를 약화시킨다는 점을 핵심 문제로 지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemini 3 Flash",
+      "link": "https://news.hada.io/topic?id=25152",
+      "published": "2025-12-18T01:59:32+09:00",
+      "summary": "<ul>\n<li>Gemini 3 Pro에 이어 Gemini 3 Flash 출시</li>\n<li>가격\n<ul>\n<li>Input $0.5 / Output $3.0 per 1M token</li>\n<li>Gemini 3 Pro의 1/4 가격</li>\n<li>기존 Gemini 2.5 Flash에 비해서는 input과 output 비용이 20~60% 증가됨</li>\n</ul>\n</li>\n<li>Benchmark\n<ul>\n<li>Gemini 3 Pro와 유사하게 좋으며, 몇몇...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "신데렐라의 유리구두로 설명하는 AI 프로덕트 첫 유저의 중요성 [번역글]",
+      "link": "https://news.hada.io/topic?id=25151",
+      "published": "2025-12-17T22:56:59+09:00",
+      "summary": "<h3>1. 신데렐라 유리구두 효과란?</h3>\n<ul>\n<li>“신데렐라 유리구두 효과(Cinderella Glass Slipper Effect)”는 AI 제품에서 일부 사용자에게 제품이 기묘할 정도로 완벽하게 맞아떨어지면서, 해당 사용자들이 거의 이탈하지 않고 남아버리는 리텐션 현상을 가리키는 비유.</li>\n<li>유리구두처럼 “대부분에게는 안...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MRI 신호의 40%가 실제 뇌 활동과 일치하지 않음",
+      "link": "https://news.hada.io/topic?id=25150",
+      "published": "2025-12-17T20:33:37+09:00",
+      "summary": "<ul>\n<li>\n<strong>기능적 자기공명영상(fMRI)</strong> 이 뇌 활동을 측정하는 주요 도구로 사용되어 왔으나, 최근 연구는 그 해석의 정확성에 근본적 의문을 제기함</li>\n<li>연구 결과, <strong>MRI로 측정된 산소 농도 변화와 실제 신경 활동 간에는 일반적으로 유효한 연관성이 없음</strong>이 확인됨</li>\n<li>실...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "얇은 욕망이 삶을 잠식하고 있다",
+      "link": "https://news.hada.io/topic?id=25149",
+      "published": "2025-12-17T17:33:44+09:00",
+      "summary": "<ul>\n<li>현대인은 <strong>채워지지 않는 결핍감과 허기</strong> 속에서 살아가며, 무엇을 원하는지조차 명확히 알지 못한 채 욕망을 반복함</li>\n<li>글은 <strong>‘두꺼운 욕망(thick desire)’과 ‘얇은 욕망(thin desire)’</strong> 을 구분하며, 전자는 인간을 변화시키지만 후자는 단지 반복만 낳는다고 설명...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
+      "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
+      "published": "Thu, 18 Dec 2025 00:44:55 +0000",
+      "summary": "The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jared Isaacman confirmed as next head of NASA",
+      "link": "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
+      "published": "Wed, 17 Dec 2025 21:52:17 +0000",
+      "summary": "Isaacman will run the space agency at a time when Trump is trying to both downsize it and task it with returning astronauts to the moon.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
+      "link": "https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/",
+      "published": "Wed, 17 Dec 2025 20:57:51 +0000",
+      "summary": "YouTube takes its ball and goes home by pulling Billboard's access to its music data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YouTube will stream the Oscars — exclusively — beginning in 2029",
+      "link": "https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/",
+      "published": "Wed, 17 Dec 2025 19:42:35 +0000",
+      "summary": "The news highlights YouTube's growing dominance in the television space and a major shift as streaming takes on more live events.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers",
+      "link": "https://techcrunch.com/2025/12/17/meta-is-pausing-its-dream-of-sharing-quests-horizon-os-with-third-party-headset-makers/",
+      "published": "Wed, 17 Dec 2025 19:32:52 +0000",
+      "summary": "The company said that it would revisit opportunities for third-party partnerships in the future.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+      "link": "https://blog.google/products/gemini/gemini-3-flash/",
+      "published": "Wed, 17 Dec 2025 16:42:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46301851\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+      "link": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html",
+      "published": "Wed, 17 Dec 2025 23:11:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46306894\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OBS Studio Gets a New Renderer",
+      "link": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
+      "published": "Wed, 17 Dec 2025 20:59:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46305428\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Coursera to combine with Udemy",
+      "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+      "published": "Wed, 17 Dec 2025 12:45:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46301346\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My payment agent is named George, not stripe-agent",
+      "link": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
+      "published": "Sun, 14 Dec 2025 18:55:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46265684\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
