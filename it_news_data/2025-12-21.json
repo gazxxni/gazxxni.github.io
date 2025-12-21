@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-21",
+  "articles": [
+    {
+      "title": "이제 사생활 보호는 아무 의미가 없고, 익명성이 중요해졌다",
+      "link": "https://news.hada.io/topic?id=25220",
+      "published": "2025-12-21T09:49:45+09:00",
+      "summary": "<blockquote>\n<p>&quot;프라이버시는 마케팅이고, 익명성은 아키텍처다.&quot;</p>\n</blockquote>\n<ul>\n<li>기술 산업에서 <strong>‘프라이버시’는 마케팅 수사로 전락</strong>했으며, 진정한 보호는 <strong>익명성을 보장하는 시스템 설계</strong>에서 비롯됨</li>\n<li>대부분의 ‘프라이버시 중심’ 서비스는 이메",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "자, Postgres를 직접 호스팅해 보세요",
+      "link": "https://news.hada.io/topic?id=25219",
+      "published": "2025-12-21T09:46:45+09:00",
+      "summary": "<ul>\n<li>\n<strong>Postgres 자가 호스팅</strong>은 복잡하거나 위험하지 않으며, <strong>관리형 서비스보다 저렴하고 성능 조정이 자유로운 방식</strong>임</li>\n<li>대부분의 <strong>클라우드 데이터베이스 서비스는 오픈소스 Postgres를 약간 수정한 형태</strong>로 운영되며, 실질적 차이는 운영 자동화 수준에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NIST 볼더 캠퍼스의 NTP 서비스 전력 상실",
+      "link": "https://news.hada.io/topic?id=25218",
+      "published": "2025-12-21T09:43:44+09:00",
+      "summary": "<ul>\n<li>미국 <strong>NIST 볼더 캠퍼스의 원자 시계 기반 시간 스케일</strong>이 장시간의 전력 중단으로 작동을 멈춤</li>\n<li>이로 인해 <strong>Boulder Internet Time Services</strong>가 정확한 시간 기준을 잃었으며, 잘못된 시간을 배포하지 않기 위해 서버를 비활성화할 예정</li>\n<li>영향을 받은 서버는 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에어버스, 핵심 애플리케이션을 유럽 주권 클라우드로 이전 예정",
+      "link": "https://news.hada.io/topic?id=25217",
+      "published": "2025-12-21T09:40:44+09:00",
+      "summary": "<ul>\n<li>항공기 제조사 에어버스가 <strong>임무 핵심 워크로드를 유럽 내 주권 클라우드로 이전</strong>하기 위한 대규모 계약 입찰을 준비 중임</li>\n<li>이전 대상에는 <strong>ERP, 제조 실행 시스템, CRM, 제품 수명주기 관리(PLM)</strong> 등 주요 온프레미스 애플리케이션이 포함됨</li>\n<li>에어버스는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Spotify 전체 백업본 공개",
+      "link": "https://news.hada.io/topic?id=25216",
+      "published": "2025-12-21T09:37:44+09:00",
+      "summary": "<ul>\n<li>\n<strong>Anna’s Archive</strong>가 Spotify의 <strong>메타데이터와 음악 파일 전체를 백업</strong>해 약 <strong>300TB 규모의 토렌트 아카이브</strong>로 공개</li>\n<li>약 <strong>2억5600만 곡의 메타데이터</strong>와 <strong>8600만 개의 음악 파일</strong>을 포함, <strong>청취량의 99.6%</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google and Apple reportedly warn employees on visas to avoid international travel",
+      "link": "https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/",
+      "published": "Sat, 20 Dec 2025 22:00:21 +0000",
+      "summary": "Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving the country due to longer-than-usual visa processing times.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was",
+      "link": "https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/",
+      "published": "Sat, 20 Dec 2025 21:31:33 +0000",
+      "summary": "The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+      "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+      "published": "Sat, 20 Dec 2025 20:34:07 +0000",
+      "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+      "published": "Sat, 20 Dec 2025 18:20:34 +0000",
+      "summary": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
+      "link": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
+      "published": "Sat, 20 Dec 2025 02:31:43 +0000",
+      "summary": "The newest episode raises questions about whether Sequoia's new leadership -- managing partners Alfred Lin and Pat Grady, who took over last month -- can or will rein in Maguire's social media activity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: Jmail – Google Suite for Epstein files",
+      "link": "https://www.jmail.world",
+      "published": "Sat, 20 Dec 2025 21:00:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46339600\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Backing Up Spotify",
+      "link": "https://annas-archive.li/blog/backing-up-spotify.html",
+      "published": "Sat, 20 Dec 2025 18:28:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46338339\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
+      "link": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
+      "published": "Sat, 20 Dec 2025 19:56:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46339031\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude in Chrome",
+      "link": "https://claude.com/chrome",
+      "published": "Sat, 20 Dec 2025 21:26:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46339777\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "published": "Sat, 20 Dec 2025 16:45:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46337438\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
