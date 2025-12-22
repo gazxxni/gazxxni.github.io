@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-22",
+  "articles": [
+    {
+      "title": "Windows 11로 업그레이드할 수 없으니 이제 그만 괴롭혀라",
+      "link": "https://news.hada.io/topic?id=25244",
+      "published": "2025-12-22T09:54:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>Windows 10 지원 종료</strong> 이후에도 많은 사용자가 여전히 해당 버전을 사용 중이며, 일부는 <strong>TPM 2.0 보안 칩</strong>이 없어 Windows 11로 업그레이드할 수 없음</li>\n<li>하드웨어가 충분히 강력함에도 불구하고, <strong>TPM 2.0 미지원</strong>으로 인해 시스템이 업그레이드를 차...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "해커뉴스에 언급된 2025년의 책들",
+      "link": "https://news.hada.io/topic?id=25243",
+      "published": "2025-12-22T09:51:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>Hacker News 커뮤니티에서 자주 언급된 책과 독서 문화</strong>를 중심으로, 저작권·경제적 불평등·AI 학습 데이터 등 다양한 논의가 이어짐</li>\n<li>\n<strong>저작권 제도</strong>가 사회 정의나 창작자 공정 보상에 적합하지 않다는 비판이 제기됨</li>\n<li>\n<strong>Harry Potter 시리즈</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "루비 공식 웹사이트 리디자인",
+      "link": "https://news.hada.io/topic?id=25242",
+      "published": "2025-12-22T09:48:27+09:00",
+      "summary": "<ul>\n<li>Ruby 공식 사이트가 <strong>새로운 디자인과 구조</strong>로 개편되어, 언어의 철학과 생태계를 시각적으로 강조</li>\n<li>루비의 <strong>단순한 문법</strong>, <strong>풍부한 생태계</strong>, <strong>생산성</strong>, <strong>커뮤니티 문화</strong>를 중심으로 언어의 매력을 설명</li>\n<li>창시자 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apptron - 브라우저에서 실행되는 로컬 퍼스트 개발 플랫폼",
+      "link": "https://news.hada.io/topic?id=25241",
+      "published": "2025-12-22T09:46:02+09:00",
+      "summary": "<ul>\n<li>클라우드 의존 없이 <strong>브라우저에서 완전한 Linux 환경</strong>을 제공</li>\n<li>\n<strong>VSCode 기반 에디터</strong>를 내장해 개발 환경, AI실험용 샌드박스, 웹용 플레이그라운드 등 다양한 용도로 활용 가능</li>\n<li>확장성과 커스터마이징이 뛰어나며, 자체 호스팅 및 플랫폼 기반 구축 지원</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽연합의 ‘Going Dark’ 또는 ‘ProtectEU’ 계획은 암호화 데이터 접근을 위한 Chat Control 3.0 시도",
+      "link": "https://news.hada.io/topic?id=25240",
+      "published": "2025-12-22T09:45:27+09:00",
+      "summary": "<ul>\n<li>유럽연합 집행위원회가 <strong>종단간 암호화 데이터 접근을 위한 Chat Control 2.0 추진에 실패</strong>한 뒤, 2026년 여름까지 새로운 시도인 <strong>‘Going Dark’(ProtectEU)</strong> 계획을 준비 중임</li>\n<li>이 계획은 법 집행 기관이 <strong>암호화된 데이터에 ‘합법적으로 접근’할 수 있도록...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "A rough week for hardware companies",
+      "link": "https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/",
+      "published": "Sun, 21 Dec 2025 22:16:44 +0000",
+      "summary": "iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Bankruptcy takes out two",
+      "link": "https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/",
+      "published": "Sun, 21 Dec 2025 17:00:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+      "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "published": "Sun, 21 Dec 2025 15:46:29 +0000",
+      "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As EU waters down 2035 EV goals, electric startups express concern",
+      "link": "https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/",
+      "published": "Sun, 21 Dec 2025 15:00:00 +0000",
+      "summary": "The future may be electric, but that future is being postponed. The European Commission, citing the need for flexibility, has softened its ambitious plan to ban the sale of gas-powered cars by 2035. Instead of requiring 100% of new cars to be zero-emission vehicles by that date, the revised plan wou",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life",
+      "link": "https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/",
+      "published": "Sun, 21 Dec 2025 13:00:00 +0000",
+      "summary": "In perhaps the last public interview of one Israel's most famous VCs, Jon Medved tells TechCrunch how tech will enhance his life.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A guide to local coding models",
+      "link": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+      "published": "Sun, 21 Dec 2025 20:55:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46348329\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm just having fun",
+      "link": "https://jyn.dev/i-m-just-having-fun/",
+      "published": "Tue, 16 Dec 2025 11:19:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46287253\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Books mentioned on Hacker News in 2025",
+      "link": "https://hackernews-readings-613604506318.us-west1.run.app",
+      "published": "Sun, 21 Dec 2025 16:21:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46345897\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
+      "link": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
+      "published": "Sun, 21 Dec 2025 21:46:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46348847\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+      "link": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+      "published": "Mon, 22 Dec 2025 00:27:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46350075\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
