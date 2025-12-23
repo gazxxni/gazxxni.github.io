@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-23",
+  "articles": [
+    {
+      "title": "당신의 첫번째 ChatGPT 앱을 만드는 방법",
+      "link": "https://news.hada.io/topic?id=25267",
+      "published": "2025-12-23T10:03:01+09:00",
+      "summary": "<ul>\n<li>OpenAI가 발표한 <strong>ChatGPT Apps</strong>는 개발자가 자신의 앱을 <strong>ChatGPT 대화 안에 직접 임베드</strong>할 수 있게 하며, <strong>8억 명</strong>이 넘는 주간 활성 사용자를 새로운 <strong>배포 채널</strong>로 활용할 수 있음</li>\n<li>ChatGPT는 기존 텍스트 응답을 넘어 <strong>UI 컴...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2025년 말 인공지능에 대한 성찰",
+      "link": "https://news.hada.io/topic?id=25266",
+      "published": "2025-12-23T09:58:19+09:00",
+      "summary": "<ul>\n<li>\n<strong>대규모 언어모델(LLM)</strong> 이 단순한 확률적 모방 기계라는 주장은 2025년에 대부분 사라졌으며, 의미와 발화를 내부적으로 표현할 수 있음이 인정됨</li>\n<li>\n<strong>Chain of Thought(CoT)</strong> 방식이 LLM 성능 향상의 핵심으로 자리잡았으며, 내부 표현의 샘플링과 <strong>강화학습...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2025년의 소비자 AI 현황",
+      "link": "https://news.hada.io/topic?id=25265",
+      "published": "2025-12-23T09:46:02+09:00",
+      "summary": "<ul>\n<li>2025년 소비자 AI 시장은 <strong>대형 모델 기업의 대규모 제품 출시</strong>와 함께 사용량은 증가했지만, 실제 선택은 소수의 서비스로 강하게 집중되는 양상</li>\n<li>범용 AI 어시스턴트 영역에서 대부분의 사용자는 <strong>하나의 서비스만 지속적으로 사용</strong>하며, 복수 구독 비율은 매우 낮은 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "자유를 위한 순교자 지미 라이",
+      "link": "https://news.hada.io/topic?id=25264",
+      "published": "2025-12-23T09:45:17+09:00",
+      "summary": "<ul>\n<li>중국 본토에서 탈출해 <strong>홍콩에서 자수성가한 사업가 지미 라이</strong>가 홍콩의 ‘국가보안법’을 위반한 혐의로 유죄 판결을 받음</li>\n<li>그는 <strong>외세와의 결탁 음모 및 선동적 출판물</strong> 관련 혐의로 유죄가 확정되었으며, 수십 년간 <strong>민주주의와 표현의 자유</strong>를 옹호...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flock의 AI 감시 카메라가 인터넷에 노출되어 있었다. 우리는 직접 자신을 추적했다",
+      "link": "https://news.hada.io/topic?id=25263",
+      "published": "2025-12-23T09:42:16+09:00",
+      "summary": "<ul>\n<li>미국 전역에서 <strong>Flock의 AI 기반 Condor PTZ 카메라</strong> 최소 60대가 비밀번호 없이 인터넷에 노출되어 있었음</li>\n<li>노출된 카메라에서는 <strong>실시간 영상 시청, 30일치 영상 다운로드, 설정 변경, 로그 접근</strong> 등이 가능했음</li>\n<li>Condor 카메라는 차량 번호판이 아닌 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
+      "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+      "published": "Mon, 22 Dec 2025 22:11:19 +0000",
+      "summary": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
+      "link": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
+      "published": "Mon, 22 Dec 2025 21:10:54 +0000",
+      "summary": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump admin halts 6 GW of offshore wind leases again",
+      "link": "https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/",
+      "published": "Mon, 22 Dec 2025 20:52:31 +0000",
+      "summary": "The move is the latest attempt by the Trump administration to delay the construction of 6 gigawatts of offshore wind near a hotspot of data center development.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing",
+      "link": "https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/",
+      "published": "Mon, 22 Dec 2025 19:53:33 +0000",
+      "summary": "It's the latest attempt by one major Hollywood superpower to acquire another.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+      "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+      "published": "Mon, 22 Dec 2025 19:01:04 +0000",
+      "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Illustrated Transformer",
+      "link": "https://jalammar.github.io/illustrated-transformer/",
+      "published": "Mon, 22 Dec 2025 19:15:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46357675\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It's Always TCP_NODELAY",
+      "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+      "published": "Mon, 22 Dec 2025 21:09:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46359120\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+      "link": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+      "published": "Mon, 22 Dec 2025 19:37:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46357945\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+      "published": "Mon, 22 Dec 2025 16:31:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46355548\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-4.7: Advancing the Coding Capability",
+      "link": "https://z.ai/blog/glm-4.7",
+      "published": "Mon, 22 Dec 2025 18:46:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46357287\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
