@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-24",
+  "articles": [
+    {
+      "title": "현실적인 깊이를 가진 최고의 엔지니어링 블로그는 무엇인가요?",
+      "link": "https://news.hada.io/topic?id=25296",
+      "published": "2025-12-24T09:49:28+09:00",
+      "summary": "<ul>\n<li>\n<strong>실무 중심의 엔지니어링 블로그</strong>를 찾기 위한 커뮤니티 질의</li>\n<li>단순한 튜토리얼이 아닌 <strong>현업 경험과 기술적 통찰</strong>을 다루는 블로그에 초점</li>\n<li>다양한 분야의 <strong>소프트웨어 엔지니어와 스타트업 개발자</strong>들이 추천을 공유</li>\n<li>\n<strong>아키텍...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PostgreSQL 18에서 즉시 데이터베이스 복제 구현",
+      "link": "https://news.hada.io/topic?id=25294",
+      "published": "2025-12-24T09:46:28+09:00",
+      "summary": "<ul>\n<li>PostgreSQL 18은 <strong>파일 복제 전략(FILE_COPY)</strong> 과 <strong>파일 시스템 클론 기능</strong>을 결합해 데이터베이스를 거의 즉시 복제할 수 있음</li>\n<li>새로운 설정값 <strong><code>file_copy_method = clone</code></strong> 을 사용하면 XFS, ZFS, APFS 등 <strong>현대적 파일시스템의 복...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta, Valve의 Steam Deck용으로 설계된 Linux 스케줄러를 대규모 서버에 사용",
+      "link": "https://news.hada.io/topic?id=25293",
+      "published": "2025-12-24T09:43:27+09:00",
+      "summary": "<ul>\n<li>Valve의 Steam Deck를 위해 설계된 <strong>SCX-LAVD 리눅스 스케줄러</strong>가 Meta의 대규모 서버 환경에서도 효과적으로 작동한다는게 공개됨</li>\n<li>이 스케줄러는 <strong>게임 콘솔 수준의 효율적 자원 관리</strong>를 목표로 설계된 것인데, Meta는 이를 통해 <strong>서버 워크로드의 성능 향상...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Fabrice Bellard, MicroQuickJS 공개",
+      "link": "https://news.hada.io/topic?id=25292",
+      "published": "2025-12-24T09:40:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>MicroQuickJS(MQuickJS)</strong> 는 임베디드 시스템용으로 설계된 초경량 <strong>JavaScript 엔진</strong>으로, 약 10kB RAM과 100kB ROM만으로 실행 가능</li>\n<li>\n<strong>QuickJS와 유사한 속도</strong>를 유지하면서도 메모리 사용량을 줄이기 위해 <strong>트레이싱 가비지 컬렉터</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CECOT 내부 – 60 Minutes [영상]",
+      "link": "https://news.hada.io/topic?id=25291",
+      "published": "2025-12-24T09:37:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>CBS News 프로그램 ‘60 Minutes’의 ‘Inside CECOT’ 에피소드</strong>가 Internet Archive에 공개되어 무료로 시청 및 다운로드 가능</li>\n<li>영상은 <strong>Sharyn Alfonsi</strong>가 진행했으며, <strong>Bari Weiss에 의해 검열된 버전</strong>으로 언급됨</li>\n<li>캐나다 <strong>Global...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models",
+      "link": "https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/",
+      "published": "Tue, 23 Dec 2025 21:16:04 +0000",
+      "summary": "It's the latest development in an evolving war between Chinese and American consumer tech products.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ServiceNow to acquire cybersecurity startup Armis for $7.75B",
+      "link": "https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/",
+      "published": "Tue, 23 Dec 2025 20:40:10 +0000",
+      "summary": "The deal is expected to yield significant returns for Armis investors, including Sequoia, CapitalG, and Insight Partners.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zoox issues software recall over lane crossings",
+      "link": "https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/",
+      "published": "Tue, 23 Dec 2025 19:50:09 +0000",
+      "summary": "The company has issued a software update to its autonomous driving system to fix its lane-crossing behavior.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
+      "link": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
+      "published": "Tue, 23 Dec 2025 19:02:47 +0000",
+      "summary": "These authors rejected Anthropic's class action settlement, arguing that \"LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rates.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hackers stole over $2.7B in crypto in 2025, data shows",
+      "link": "https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/",
+      "published": "Tue, 23 Dec 2025 19:00:00 +0000",
+      "summary": "This was another banner year for crypto hacks and heists — 2025 was the third year in a row that a new crypto theft record was set.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "published": "Tue, 23 Dec 2025 17:33:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46367224\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+      "link": "https://github.com/freelawproject/x-ray",
+      "published": "Tue, 23 Dec 2025 21:54:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46369923\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Is Northern Virginia still the least reliable AWS region?",
+      "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+      "published": "Tue, 23 Dec 2025 23:12:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46370592\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unifi Travel Router",
+      "link": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
+      "published": "Wed, 24 Dec 2025 00:30:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46371135\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Texas app store age verification law blocked by federal judge",
+      "link": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+      "published": "Tue, 23 Dec 2025 22:03:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46370012\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
