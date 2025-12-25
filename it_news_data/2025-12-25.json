@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-25",
+  "articles": [
+    {
+      "title": "샘 알트먼: OpenAI의 승부 전략, ChatGPT의 진화, AI 인프라 계산법, 그리고 2026년 IPO 가능성 [유튜브]",
+      "link": "https://news.hada.io/topic?id=25319",
+      "published": "2025-12-25T09:51:01+09:00",
+      "summary": "<ul>\n<li>AI 경쟁이 치열해지는 상황에서 OpenAI는 <strong>모델 성능 자체보다 제품·플랫폼·인프라의 결합</strong>을 통해 우위를 유지하려는 전략을 분명히 함</li>\n<li>ChatGPT는 이미 <strong>수억 명 규모의 사용자 기반과 개인화 경험</strong>을 바탕으로 소비자에서 기업 시장으로 자연스럽게 확장 중임</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia, 인공지능 칩 스타트업 Groq를 약 200억 달러에 인수",
+      "link": "https://news.hada.io/topic?id=25318",
+      "published": "2025-12-25T09:37:22+09:00",
+      "summary": "<ul>\n<li>\n<strong>Nvidia</strong>가 인공지능 가속기 칩 스타트업 <strong>Groq의 자산을 약 200억 달러 현금으로 인수</strong>하는 계약 체결</li>\n<li>Groq는 <strong>Google TPU 개발자 출신들이 2016년에 설립</strong>한 회사로, 최근 기업가치는 69억 달러로 평가됨</li>\n<li>이번 거래는 <strong>비독점적 기술...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "UniFi 트래블 라우터",
+      "link": "https://news.hada.io/topic?id=25317",
+      "published": "2025-12-25T09:34:22+09:00",
+      "summary": "<ul>\n<li>주머니에 넣고 전원을 켜면 <strong>UniFi 네트워크 환경을 그대로 휴대</strong>할 수 있는 소형 라우터</li>\n<li>\n<strong>자동 위치 인식 정책</strong>, <strong>라우팅 규칙</strong>, <strong>WiFi 브로드캐스트</strong>가 연결 즉시 활성화되어 동일한 네트워크 경험 제공</li>\n<li>기존 <strong>UniFi...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "fate - React와 tRPC를 위한 현대적 데이터 클라이언트",
+      "link": "https://news.hada.io/topic?id=25316",
+      "published": "2025-12-25T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Relay</strong>와 <strong>GraphQL</strong>의 개념을 <strong>tRPC</strong> 환경에 적용해, React 애플리케이션의 데이터 패칭과 상태 관리를 <strong>선언적·예측 가능</strong>한 형태로 단순화한 도구</li>\n<li>\n<strong>View Composition</strong>을 통해 각 컴포넌트가 필요한 데이터를 명시하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 시대, 당신의 앱은 이미 도태되고 있다 - llms.txt와 Schema.org의 중요성",
+      "link": "https://news.hada.io/topic?id=25315",
+      "published": "2025-12-25T08:12:26+09:00",
+      "summary": "<p>LLM이 정보 탐색의 중심이 된 지금, 기존 SEO만으로는 부족합니다.</p>\n<p>주요 통계:</p>\n<ul>\n<li>ChatGPT 주간 활성 사용자 8억 명</li>\n<li>AI 챗봇 트래픽 전년 대비 80.9% 증가</li>\n<li>Google 대 AI 사용자 비율 12개월 만에 절반으로 (10:1 → 4.7:1)</li>\n</ul>\n<p>기존 SEO는 Googlebot을 위해 설계되었습",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+      "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "published": "Wed, 24 Dec 2025 22:03:16 +0000",
+      "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The year data centers went from backend to center stage",
+      "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "published": "Wed, 24 Dec 2025 20:16:41 +0000",
+      "summary": "Data centers are no longer the boring tech issue they once were.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The European startup market’s data doesn’t match its energy — yet",
+      "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+      "published": "Wed, 24 Dec 2025 18:00:00 +0000",
+      "summary": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo explains why its robotaxis got stuck during the SF blackout",
+      "link": "https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/",
+      "published": "Wed, 24 Dec 2025 16:55:54 +0000",
+      "summary": "The company also said its robotaxis navigated more than 7,000 dark stoplights successfully on Saturday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
+      "link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "published": "Wed, 24 Dec 2025 16:27:55 +0000",
+      "summary": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "link": "https://git.dec05eba.com/phoenix/about/",
+      "published": "Wed, 24 Dec 2025 22:43:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380075\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Merry Christmas",
+      "link": "https://news.ycombinator.com/item?id=46380168",
+      "published": "Wed, 24 Dec 2025 22:56:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380168\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Who Watches the Waymos? I do [video]",
+      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "published": "Thu, 25 Dec 2025 00:10:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "link": "https://github.com/antonmedv/textarea",
+      "published": "Wed, 24 Dec 2025 19:42:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46378554\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Asterisk AI Voice Agent",
+      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
+      "published": "Wed, 24 Dec 2025 23:25:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
