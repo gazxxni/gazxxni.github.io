@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-26",
+  "articles": [
+    {
+      "title": "당신에겐 Chief Bookmark Officer가 필요하다",
+      "link": "https://news.hada.io/topic?id=25349",
+      "published": "2025-12-26T10:31:01+09:00",
+      "summary": "<ul>\n<li>모든 회사에는 항상 <strong>필요한 링크를 즉시 찾아주는 사람</strong>이 한명쯤 존재함</li>\n<li>누군가 &quot;X에 관한 기사 가지고 계신 분 있나요?&quot;라고 물어보면 즉시 정확한 URL을 공유해 줌</li>\n<li>우린 <strong>북마크 더미에 파묻혀 있음</strong>: 브라우저 곳곳, 슬랙 스레드, 이메일에 링...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo의 자율주행차를 관찰하는 사람들 [영상]",
+      "link": "https://news.hada.io/topic?id=25348",
+      "published": "2025-12-26T09:57:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Waymo 자율주행차</strong>의 실제 주행 모습을 기록한 영상</li>\n<li>차량이 <strong>도심 환경에서 주행하며 교통 상황에 대응</strong>하는 장면 포함</li>\n<li>\n<strong>보행자, 신호등, 다른 차량</strong>과의 상호작용을 시각적으로 보여줌</li>\n<li>자율주행 시스템의 <strong>안정성 및 인식...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Python 3.15의 Windows x86-64 인터프리터가 약 15% 더 빨라질 전망",
+      "link": "https://news.hada.io/topic?id=25347",
+      "published": "2025-12-26T09:54:02+09:00",
+      "summary": "<ul>\n<li>CPython의 <strong>테일 콜링(tail-calling) 인터프리터</strong>가 Windows x86-64 환경에서 기존 방식보다 약 15% 빠른 성능을 보임</li>\n<li>macOS AArch64(XCode Clang)에서도 약 5%의 <strong>성능 향상</strong>이 확인되었으며, Windows에서는 <strong>MSVC 2026</strong>의 실험적 기능을 활용</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mattermost가 10,000개 메시지 초과 시 이전 메시지 접근을 제한",
+      "link": "https://news.hada.io/topic?id=25346",
+      "published": "2025-12-26T09:51:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>Mattermost</strong>는 오픈소스 기반의 <strong>셀프호스팅 협업 플랫폼</strong>으로, 채팅·워크플로 자동화·음성 통화·화면 공유·AI 통합 기능을 제공</li>\n<li>플랫폼은 <strong>Go와 React</strong>로 작성되어 있으며, <strong>PostgreSQL</strong>을 기반으로 단일 <strong>Linux 바이너리</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "저는 인터넷에서 양파를 팝니다",
+      "link": "https://news.hada.io/topic?id=25345",
+      "published": "2025-12-26T09:48:01+09:00",
+      "summary": "<ul>\n<li>2014년 만료된 <strong>양파</strong> 도메인을 $2,200에 낙찰받은 후, 농장 직송 양파 판매 사업으로 발전시킨 사례</li>\n<li>Vidalia 양파는 조지아주 특산인 <strong>달콤한 양파</strong>로, 순한 맛 덕분에 사과처럼 생으로 먹는 팬층 보유</li>\n<li>웹 개발자가 농업 경험 없이 <strong>도메인 네임에서 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How a Spanish virus brought Google to Málaga",
+      "link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/",
+      "published": "Thu, 25 Dec 2025 18:00:00 +0000",
+      "summary": "Spanish entrepreneur Bernardo Quintero, whose company is at the root of Google's Málaga cybersecurity hub, identified the author of the computer virus that influenced his career.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The best distraction blockers to jumpstart your focus in the new year",
+      "link": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/",
+      "published": "Thu, 25 Dec 2025 17:00:00 +0000",
+      "summary": "Whether you need to limit social media scrolling or block off time to be productive, there are different tools that can help you stay on task",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+      "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "published": "Wed, 24 Dec 2025 22:03:16 +0000",
+      "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The year data centers went from backend to center stage",
+      "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "published": "Wed, 24 Dec 2025 20:16:41 +0000",
+      "summary": "Data centers are no longer the boring tech issue they once were.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The European startup market’s data doesn’t match its energy — yet",
+      "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+      "published": "Wed, 24 Dec 2025 18:00:00 +0000",
+      "summary": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Maybe the default settings are too high",
+      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "published": "Thu, 25 Dec 2025 23:13:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46387657\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "link": "https://www.minimaxi.com/news/minimax-m21",
+      "published": "Fri, 26 Dec 2025 01:02:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46388213\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
+      "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+      "published": "Thu, 25 Dec 2025 13:02:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46384167\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fahrplan – 39C3",
+      "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "published": "Thu, 25 Dec 2025 18:40:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46386211\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The entire New Yorker archive is now digitized",
+      "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
+      "published": "Sat, 20 Dec 2025 14:49:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46336577\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
