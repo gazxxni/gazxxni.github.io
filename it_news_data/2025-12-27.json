@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-27",
+  "articles": [
+    {
+      "title": "FFmpeg이 GitHub에 DMCA 삭제 요청을 제출",
+      "link": "https://news.hada.io/topic?id=25368",
+      "published": "2025-12-27T09:51:06+09:00",
+      "summary": "<ul>\n<li>\n<strong>FFmpeg 프로젝트</strong>가 GitHub에 대해 <strong>DMCA 삭제 요청</strong>을 제출한 사실이 공개됨</li>\n<li>트위터 공식 계정을 통해 해당 조치가 이루어졌음을 <strong>직접 발표</strong>\n</li>\n<li>삭제 요청의 구체적 대상이나 사유에 대한 <strong>추가 설명은 제공되지 않음</strong>\n</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "애보트 연속 혈당 측정기 결함으로 7명의 당뇨병 환자 사망",
+      "link": "https://news.hada.io/topic?id=25367",
+      "published": "2025-12-27T09:48:06+09:00",
+      "summary": "<ul>\n<li>미국 FDA는 <strong>Abbott Freestyle Libre Plus</strong> 연속 혈당 측정기(CGM)의 <strong>결함으로 700명 이상 부상, 7명 사망</strong>을 보고함</li>\n<li>결함은 <strong>혈당을 비정상적으로 낮게 표시</strong>하는 오류로, 환자가 실제로는 정상 혈당임에도 과도한 당 섭취를 하게 되어 위험 초래</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rob Pike가 생성형 AI에 대해 강하게 비판",
+      "link": "https://news.hada.io/topic?id=25366",
+      "published": "2025-12-27T09:45:06+09:00",
+      "summary": "<ul>\n<li>제공된 페이지는 <strong>Imgur의 기본 안내 및 사이트 정보</strong>만 포함되어 있으며, Rob Pike나 <strong>생성형 AI 관련 발언 내용은 전혀 없음</strong>\n</li>\n<li>본문에는 <strong>JavaScript 비활성화 안내</strong>, <strong>로그인·회원가입 메뉴</strong>, <strong>사이트 이용 약관 및 개인정보 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Git을 데이터베이스로 사용하는 패키지 관리자들, 결국 실패한다",
+      "link": "https://news.hada.io/topic?id=25365",
+      "published": "2025-12-27T09:42:06+09:00",
+      "summary": "<ul>\n<li>여러 <strong>패키지 관리자</strong>들이 버전 관리와 협업의 편리함 때문에 <strong>Git을 데이터베이스처럼 사용</strong>했지만, 규모가 커질수록 성능과 유지보수 문제에 부딪힘</li>\n<li>\n<strong>Cargo</strong>, <strong>Homebrew</strong>, <strong>CocoaPods</strong> 등은 Git 인덱스의 크기 증가와...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rob Pike, 생성형 AI에 분노 폭발",
+      "link": "https://news.hada.io/topic?id=25364",
+      "published": "2025-12-27T09:39:06+09:00",
+      "summary": "<ul>\n<li>\n<strong>Go 언어와 UTF-8</strong>의 공동 창시자인 로브 파이크가 AI 모델로부터 감사 이메일을 받은 뒤, <strong>AI 산업과 데이터 남용</strong>에 대해 격렬한 분노를 표출</li>\n<li>이메일은 <strong>Claude Opus 4.5</strong>라는 AI가 보낸 자동 메시지로, 파이크의 업적을 찬양하며 “단순함의 우아함...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming",
+      "link": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
+      "published": "Fri, 26 Dec 2025 22:52:08 +0000",
+      "summary": "French insect farming company Ÿnsect was recently placed into judicial liquidation for insolvency, despite raising over $600 million.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "link": "https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "published": "Fri, 26 Dec 2025 19:00:00 +0000",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What’s ahead for startups and VCs in 2026? Investors weigh in",
+      "link": "https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/",
+      "published": "Fri, 26 Dec 2025 18:12:09 +0000",
+      "summary": "VCs share their thoughts on what next year could bring to the market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Naware’s chemical-free weed killer tech could change how we treat lawns",
+      "link": "https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/",
+      "published": "Fri, 26 Dec 2025 17:00:00 +0000",
+      "summary": "A classic hardware startup, Naware set out with a problem -- kill weeds without chemicals -- and relentlessly tinkered until they found a solution.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money",
+      "link": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/",
+      "published": "Fri, 26 Dec 2025 16:00:00 +0000",
+      "summary": "Whether you’re looking to get a pair yourself or just want to explore what’s available on the market today, we’ve compiled a list of the most compelling pairs available.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How uv got so fast",
+      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "published": "Fri, 26 Dec 2025 17:13:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393992\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Always Bet on Text",
+      "link": "https://graydon2.dreamwidth.org/193447.html",
+      "published": "Fri, 26 Dec 2025 23:09:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46397379\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Best Things and Stuff of 2025",
+      "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "published": "Tue, 23 Dec 2025 14:51:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46365726\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "published": "Fri, 26 Dec 2025 17:07:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393936\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "published": "Fri, 26 Dec 2025 19:03:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
