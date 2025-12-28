@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-28",
+  "articles": [
+    {
+      "title": "Ez FFmpeg – 평문 영어로 하는 비디오 편집",
+      "link": "https://news.hada.io/topic?id=25385",
+      "published": "2025-12-28T09:41:08+09:00",
+      "summary": "<ul>\n<li>\n<strong>ffmpeg 명령어를 평문 영어로 실행</strong>할 수 있게 만든 Node.js 기반 CLI 도구로, 복잡한 옵션 없이 간단한 문장으로 영상 편집 가능</li>\n<li>\n<code>ff convert video.mp4 to gif</code>처럼 <strong>명령어를 문장 형태로 입력</strong>하면 자동으로 ffmpeg 명령으로 변환해 실행</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "애플, 2D 사진을 즉시 3D 뷰로 변환하는 오픈소스 모델 공개",
+      "link": "https://news.hada.io/topic?id=25384",
+      "published": "2025-12-28T09:38:07+09:00",
+      "summary": "<ul>\n<li>\n<strong>SHARP</strong>는 단일 이미지를 입력받아 <strong>3D 가우시안 표현</strong>으로 변환해 사실적인 3D 뷰를 생성하는 모델</li>\n<li>표준 GPU에서 <strong>1초 미만</strong>의 시간에 단일 신경망 추론으로 3D 장면 파라미터를 예측</li>\n<li>생성된 3D 표현은 <strong>실시간 렌더링</strong>이 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Floor796",
+      "link": "https://news.hada.io/topic?id=25383",
+      "published": "2025-12-28T09:35:07+09:00",
+      "summary": "<ul>\n<li>제공된 콘텐츠가 모두 <strong>‘unloaded’</strong> 또는 <strong>‘loading’</strong> 상태로 표시되어 실제 텍스트 내용이 없음</li>\n<li>기사 본문이나 설명, 기능, 프로젝트 정보 등 <strong>구체적 서술이 전혀 존재하지 않음</strong>\n</li>\n<li>제목 외에 <strong>추가적인 문장, 단락, 데이터, 인용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Argc - Bash 기반의 강력한 CLI 빌드 프레임워크",
+      "link": "https://news.hada.io/topic?id=25382",
+      "published": "2025-12-28T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>명령행 인터페이스(CLI)</strong> 를 손쉽게 구축하기 위해 설계된 <strong>Bash 프레임워크</strong>로, 인자 파싱과 도움말, 오류 처리 등 반복 코드를 자동화</li>\n<li>주석 기반 정의 방식으로 CLI 구조를 기술하고, 핵심 로직에만 집중할 수 있는 <strong>간결한 개발 흐름</strong> 제공</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Rust로 만든 가벼운 AWS SES 대량 메일 서버 (AGENTS.md 포함)",
+      "link": "https://news.hada.io/topic?id=25381",
+      "published": "2025-12-28T09:16:12+09:00",
+      "summary": "<p>AWS SES로 대량 이메일을 발송하는 서버를 Rust(Axum)로 만들었습니다.<br />\n뉴스레터, 알림 메일 등 한 번에 많은 메일을 보내야 할 때 사용할 수 있습니다. SES 샌드박스만 탈출하면 바로 사용 가능하고, SQLite 기반이라 별도 DB 서버 없이 단독으로 돌릴 수 있습니다.<br />\n주요 기능<br />\n요청당 최대 10,000...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "India startup funding hits $11B in 2025 as investors grow more selective",
+      "link": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
+      "published": "Sun, 28 Dec 2025 01:00:00 +0000",
+      "summary": "Startup funding rounds in India fell sharply in 2025 as investors concentrated capital into fewer companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FaZe Clan’s future is uncertain after influencers depart",
+      "link": "https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/",
+      "published": "Sat, 27 Dec 2025 20:39:07 +0000",
+      "summary": "Six influencers recently announced that they are leaving esports group FaZe Clan following unsuccessful contract negotiations with new management.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump administration seeks to deport hate speech researcher previously sued by X",
+      "link": "https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/",
+      "published": "Sat, 27 Dec 2025 20:13:32 +0000",
+      "summary": "A federal judge has temporarily blocked the U.S. Department of State from arresting or deporting Imran Ahmed, CEO of the Center for Countering Digital Hate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Investors share what to remember while raising a Series A",
+      "link": "https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/",
+      "published": "Sat, 27 Dec 2025 19:00:00 +0000",
+      "summary": "Investors share what founders should remember if looking to raise a Series A.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meet the team that investigates when journalists and activists get hacked with government spyware",
+      "link": "https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/",
+      "published": "Sat, 27 Dec 2025 18:00:00 +0000",
+      "summary": "For years, Access Now’s Digital Security Helpline has been aiding journalists and dissidents who have been targeted with government spyware. This is how they operate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Replacing JavaScript with Just HTML",
+      "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "published": "Sun, 28 Dec 2025 01:07:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46407337\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How we lost communication to entertainment",
+      "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "published": "Sat, 27 Dec 2025 20:15:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46404848\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Reliability Demands Functional Programming",
+      "link": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
+      "published": "Sun, 28 Dec 2025 00:05:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46406901\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Floor796",
+      "link": "https://floor796.com/",
+      "published": "Sat, 27 Dec 2025 13:13:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46401612\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Project Vend: Phase Two",
+      "link": "https://www.anthropic.com/research/project-vend-2",
+      "published": "Mon, 22 Dec 2025 13:44:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46354050\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
