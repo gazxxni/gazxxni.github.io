@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-29",
+  "articles": [
+    {
+      "title": "작업을 공개하면 행운이 따른다",
+      "link": "https://news.hada.io/topic?id=25406",
+      "published": "2025-12-29T10:16:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>행운은 통제 불가능한 외부 요인</strong>처럼 보이지만, <strong>작업물을 공개</strong>함으로써 좋은 기회를 만날 확률을 높일 수 있음</li>\n<li>\n<strong>행운의 표면적(Luck Surface Area)</strong> 은 “무언가를 하고(Doing Things)”와 “사람들에게 알리는(Telling People)” 정도의 곱으로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenRouter의 AI 현황 보고서 : 100조 토큰 실증 연구",
+      "link": "https://news.hada.io/topic?id=25405",
+      "published": "2025-12-29T10:01:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>100조 토큰 이상</strong> 실제 LLM 사용 데이터를 분석한 대규모 연구로, 2024년 12월 o1 추론 모델 출시 이후 AI 추론 방식의 근본적 전환을 추적</li>\n<li>\n<strong>오픈소스 모델</strong>이 전체 사용량의 약 30%까지 성장했으며, DeepSeek V3, Kimi K2 등 중국 오픈소스 모델이 빠르게 점유율 확...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아버지의 선택이 정자 RNA에 포장되어 자녀에게 전달될 수 있음",
+      "link": "https://news.hada.io/topic?id=25404",
+      "published": "2025-12-29T09:50:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>정자 RNA</strong>가 아버지의 <strong>식습관, 운동, 스트레스, 니코틴 사용 등 생활 요인</strong>을 반영해 자녀의 유전 발현에 영향을 미칠 수 있음이 쥐 실험에서 확인됨</li>\n<li>여러 연구에서 <strong>운동이나 식단 변화가 정자 내 RNA 조성</strong>을 바꾸고, 이 RNA가 수정란에 전달되어 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "지난해의 내 Mac: 믿기 어려운 회상",
+      "link": "https://news.hada.io/topic?id=25403",
+      "published": "2025-12-29T09:47:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>macOS Tahoe</strong>의 새 인터페이스 ‘** Liquid Glass**’는 시각적 일관성을 내세웠지만 실제 사용성은 크게 저하됨</li>\n<li>창의 <strong>모서리 반경 확대</strong>로 콘텐츠가 잘리거나 여백이 낭비되고, <strong>컨트롤 크기 증가</strong>도 기능적 이점 없이 혼란만 초래</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Perfetto - 시스템 프로파일링, 앱 트레이싱 및 트레이스 분석 도구",
+      "link": "https://news.hada.io/topic?id=25402",
+      "published": "2025-12-29T09:46:01+09:00",
+      "summary": "<ul>\n<li>Google이 주도해 <strong>차세대 시스템 트레이싱 스택</strong>을 목표로 설계·개발한 오픈소스 플랫폼</li>\n<li>복잡한 시스템의 실행 흐름을 <strong>트레이싱 기반으로 관측</strong>하여 성능·기능 문제의 원인을 분석</li>\n<li>\n<strong>Android 운영체제</strong>와 <strong>Chromium 브라우저</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok",
+      "link": "https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/",
+      "published": "Sun, 28 Dec 2025 21:52:52 +0000",
+      "summary": "Local police said they have charged an Illinois driver who struck and killed a pedestrian while she was livestreaming on TikTok.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "You may soon be able to change your Gmail address",
+      "link": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
+      "published": "Sun, 28 Dec 2025 21:29:59 +0000",
+      "summary": "Good news for anyone tired of or embarrassed by their current Gmail address.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A guide to choosing the right Apple Watch",
+      "link": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/",
+      "published": "Sun, 28 Dec 2025 20:00:00 +0000",
+      "summary": "The gap between Apple's standard and budget smart watches has never felt smaller.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why WeTransfer’s co-founder is building another file transfer service",
+      "link": "https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/",
+      "published": "Sun, 28 Dec 2025 18:00:00 +0000",
+      "summary": "WeTransfer co-founder Nalden has a new file transfer service that users can use without logging in.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "MayimFlow wants to stop data center leaks before they happen",
+      "link": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+      "published": "Sun, 28 Dec 2025 16:30:00 +0000",
+      "summary": "Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What an unprocessed photo looks like",
+      "link": "https://maurycyz.com/misc/raw_photo/",
+      "published": "Sun, 28 Dec 2025 22:35:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46415225\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Stepping down as Mockito maintainer after 10 years",
+      "link": "https://github.com/mockito/mockito/issues/3777",
+      "published": "Sun, 28 Dec 2025 20:14:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46414078\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unity's Mono problem: Why your C# code runs slower than it should",
+      "link": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
+      "published": "Sun, 28 Dec 2025 21:41:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46414819\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "62 years in the making: NYC's newest water tunnel nears the finish line",
+      "link": "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-",
+      "published": "Sun, 28 Dec 2025 23:05:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46415426\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Spherical Cow",
+      "link": "https://lib.rs/crates/spherical-cow",
+      "published": "Sun, 28 Dec 2025 23:11:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46415458\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
