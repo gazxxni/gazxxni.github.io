@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-31",
+  "articles": [
+    {
+      "title": "메타의 광고 도구가 상위 성과 광고를 AI 생성 광고로 교체하기 시작함",
+      "link": "https://news.hada.io/topic?id=25460",
+      "published": "2025-12-31T10:24:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Meta의 생성형 AI 광고 시스템</strong>이 예기치 않게 이상한 이미지를 만들어내며 광고주들에게 혼란을 초래</li>\n<li>일부 브랜드의 <strong>기존 고성과 광고가 자동으로 AI 이미지로 교체</strong>되는 사례가 발생, 예를 들어 남성복 광고가 ‘AI 할머니’ 이미지로 대체됨</li>\n<li>광고주들은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2025년 파이썬에서 주목받은 라이브러리들",
+      "link": "https://news.hada.io/topic?id=25458",
+      "published": "2025-12-31T10:10:54+09:00",
+      "summary": "<ul>\n<li>2025년은 <strong>대형 언어 모델(LLM)</strong> 과 <strong>에이전트 프레임워크</strong>가 폭발적으로 성장한 해로, Python 생태계 전반의 혁신이 가속화됨</li>\n<li>LLM 중심 흐름 속에서도 <strong>일반 개발용</strong>과 <strong>AI/ML/Data 분야</strong>를 균형 있게 다룬 <strong>Top 10 라이브러리 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: AI 검색 시대 사이트 SEO, GEO, AEO 검수 프로그램",
+      "link": "https://news.hada.io/topic?id=25457",
+      "published": "2025-12-31T09:53:17+09:00",
+      "summary": "<p>무료 AI인 Ollama, 구글 GeminiAPI 를 사용하여 지정한 사이트의 접속 속도 및 검색엔진에 최적화된 데이터를 수집하고 그 정보를 모아 리포트를 작성합니다. llm.txt, robot.txt, sitemap.xml 을 수집하고 공격취약성, 오래된 JS, 모바일 접속은 물론 사이트에 갖춰야할 메타정보와 이미지 최적화 상태 그리고 실제 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "논제로섬 게임",
+      "link": "https://news.hada.io/topic?id=25456",
+      "published": "2025-12-31T09:41:36+09:00",
+      "summary": "<ul>\n<li>\n<strong>논제로섬 게임</strong> 개념을 중심으로, 협력과 공존이 가능한 사회 구조를 탐구하는 <strong>세계 개선형 웹사이트와 팟캐스트</strong>\n</li>\n<li>매주 <strong>게임이론</strong>, <strong>도덕철학</strong>, <strong>윤리경제학</strong>, <strong>인공지능</strong> 등 다양한 주제를 연결하여...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Python 대신 Go로 스크립팅하기",
+      "link": "https://news.hada.io/topic?id=25455",
+      "published": "2025-12-31T09:38:35+09:00",
+      "summary": "<ul>\n<li>Go 파일을 <strong>실행 파일처럼 직접 실행</strong>할 수 있는 트릭 소개</li>\n<li>첫 줄에 <code>//usr/local/go/bin/go run &quot;$0&quot; &quot;$@&quot;; exit</code>를 두고 실행 권한을 주면 <code>./script.go</code>로 실행 가능</li>\n<li>이 방식은 shebang이 아니라 <strong>POSIX에서 ENOEXEC 발...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025",
+      "link": "https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/",
+      "published": "Tue, 30 Dec 2025 18:00:00 +0000",
+      "summary": "According to Dealroom’s European Spinout Report 2025, 76 European deep tech and life sciences spinouts have either reached $1 billion valuations, $100 million in revenue, or both.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "12 investors dish on what 2026 will bring for climate tech",
+      "link": "https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/",
+      "published": "Tue, 30 Dec 2025 17:00:00 +0000",
+      "summary": "After a tumultuous year, venture investors are still optimistic about climate tech's long-term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materials.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The best AI-powered dictation apps of 2025",
+      "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
+      "published": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
+      "link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
+      "published": "Tue, 30 Dec 2025 15:30:24 +0000",
+      "summary": "Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The top 26 consumer/edtech companies from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/",
+      "published": "Tue, 30 Dec 2025 15:00:00 +0000",
+      "summary": "Here is the full list of the consumer/edtech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Project ideas to appreciate the art of programming",
+      "link": "https://codecrafters.io/blog/programming-project-ideas",
+      "published": "Tue, 30 Dec 2025 22:47:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46439027\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A faster heart for F-Droid. Our new server is here",
+      "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+      "published": "Tue, 30 Dec 2025 18:36:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46436409\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "published": "Tue, 30 Dec 2025 19:21:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46436889\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: 22 GB of Hacker News in SQLite",
+      "link": "https://hackerbook.dosaygo.com",
+      "published": "Tue, 30 Dec 2025 17:01:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Vulnerability in Libsodium",
+      "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "published": "Tue, 30 Dec 2025 17:24:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46435614\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
