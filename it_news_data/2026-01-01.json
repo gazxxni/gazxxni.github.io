@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-01",
+  "articles": [
+    {
+      "title": "0~$5M(75억)까지: 우연한 성과에서 반복 가능한 매출로 전환하는 방법",
+      "link": "https://news.hada.io/topic?id=25483",
+      "published": "2026-01-01T09:51:02+09:00",
+      "summary": "<ul>\n<li>초기 창업자 주도 세일즈의 성공이 <strong>확장 가능한 세일즈 프로세스</strong>와 혼동되기 쉬우며, 영업 인력을 성급하게 늘리면 자금만 소진될 위험이 있음</li>\n<li>세일즈 반복성은 X개의 리드가 Y명의 고객으로 전환되는 <strong>예측 가능한 공식</strong>을 의미하며, 진정한 <strong>제품-시장 적합...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "워런 버핏, 60년 만에 버크셔 해서웨이 CEO 자리에서 물러나다",
+      "link": "https://news.hada.io/topic?id=25482",
+      "published": "2026-01-01T09:45:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>워런 버핏</strong>이 60년간 이끌어온 <strong>버크셔 해서웨이 CEO 자리에서 물러나고</strong>, <strong>그렉 에이블</strong>이 1조 달러 규모의 기업을 이어받음</li>\n<li>버핏은 <strong>이사회 의장직을 유지</strong>하며 매일 사무실을 방문할 계획으로, 에이블은 <strong>3,820억 달러 현금...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "해커뉴스, arXiv 등 600GB 인덱스를 Claude Code로 질의하는 ExoPriors의 ‘Alignment Scry’",
+      "link": "https://news.hada.io/topic?id=25481",
+      "published": "2026-01-01T09:42:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>ExoPriors의 Alignment Scry</strong>는 Claude Code를 통해 arXiv, Hacker News, LessWrong 등에서 수집한 <strong>60M개 문서와 22M개 임베딩</strong>을 SQL과 벡터 연산으로 검색할 수 있는 플랫폼</li>\n<li>공개 API 키를 제공하며, <strong>BM25 기반 텍스트 검색</strong>과 <strong>pgvector ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 내 책 출판 계약을 취소했다",
+      "link": "https://news.hada.io/topic?id=25480",
+      "published": "2026-01-01T09:39:55+09:00",
+      "summary": "<ul>\n<li>2020~2022년 블로그 인기로 여러 <strong>기술서 출판사</strong>로부터 제안을 받았으나, 결국 한 대형 출판사와 계약을 체결해 <strong>프로그래밍 프로젝트 튜토리얼 모음집</strong>을 집필하기 시작함</li>\n<li>계약 조건은 <strong>115,500~132,000단어</strong>, <strong>350~400쪽</strong>, <strong>1...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Stardew Valley 개발자가 FOSS C# 프레임워크 MonoGame에 12만5천 달러를 기부",
+      "link": "https://news.hada.io/topic?id=25479",
+      "published": "2026-01-01T09:36:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>MonoGame Foundation</strong>이 새로운 후원자를 발표하며, <strong>Stardew Valley 개발자</strong>가 12만5천 달러를 기부한 사실이 공개됨</li>\n<li>MonoGame은 <strong>C# 기반 오픈소스 게임 프레임워크</strong>로, 다양한 플랫폼에서 2D·3D 게임 개발을 지원</li>\n<li>후원 페이지를 통해 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Investors predict AI is coming for labor in 2026",
+      "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+      "published": "Wed, 31 Dec 2025 16:40:00 +0000",
+      "summary": "The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These are the best gadgets for your pet right now",
+      "link": "https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/",
+      "published": "Wed, 31 Dec 2025 16:00:00 +0000",
+      "summary": "From AI smart cameras that describe your pet's actions to a smart door that knows when they want to go outside, these are the best pet gadgets of 2025.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/",
+      "published": "Wed, 31 Dec 2025 16:00:00 +0000",
+      "summary": "Founders Tade Oyerinde and Teddy Solomon spoke at Disrupt this year about keeping communities engaged.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "link": "https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/",
+      "published": "Wed, 31 Dec 2025 15:05:21 +0000",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The 10 top government, legal startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/",
+      "published": "Wed, 31 Dec 2025 15:01:00 +0000",
+      "summary": "Here is the full list of the government and legal Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "2025: The Year in LLMs",
+      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "published": "Wed, 31 Dec 2025 23:54:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46449643\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nerd: The First Programming Language Not Built for Humans",
+      "link": "https://www.nerd-lang.org/about",
+      "published": "Thu, 01 Jan 2026 01:14:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46450217\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "link": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "published": "Wed, 31 Dec 2025 22:11:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46448894\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "published": "Wed, 31 Dec 2025 21:44:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46448705\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I canceled my book deal",
+      "link": "https://austinhenley.com/blog/canceledbookdeal.html",
+      "published": "Wed, 31 Dec 2025 18:26:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46446815\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
