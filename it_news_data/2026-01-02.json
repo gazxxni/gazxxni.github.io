@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-02",
+  "articles": [
+    {
+      "title": "ACM이 이제 완전한 오픈 액세스로 전환",
+      "link": "https://news.hada.io/topic?id=25507",
+      "published": "2026-01-02T09:58:22+09:00",
+      "summary": "<ul>\n<li>컴퓨터 과학 분야의 주요 학회인 <strong>ACM(Association for Computing Machinery)</strong> 이 모든 출판물을 <strong>완전한 오픈 액세스(Open Access)</strong> 형태로 전환</li>\n<li>연구자와 독자가 <strong>ACM 디지털 라이브러리</strong>의 논문과 자료를 <strong>무료로 접근</strong>할 수 있게 됨...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사회생활을 재부팅한 방법",
+      "link": "https://news.hada.io/topic?id=25506",
+      "published": "2026-01-02T09:55:22+09:00",
+      "summary": "<ul>\n<li>팬데믹과 재택근무, <strong>편안한 생활환경</strong> 속에서 인간관계가 단절되며 사회적 고립을 경험한 사례를 다룸</li>\n<li>개인적 자유와 <strong>공동체의 규범적 압력</strong> 사이의 긴장을 인식하며, 공동체를 경계하던 태도에서 변화가 일어남</li>\n<li>과거 ‘skeptics’ 커뮤니티 경험을 통해 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "카메라와 렌즈 (2020)",
+      "link": "https://news.hada.io/topic?id=25505",
+      "published": "2026-01-02T09:52:21+09:00",
+      "summary": "<ul>\n<li>\n<strong>빛의 기록 원리</strong>부터 시작해, 디지털 카메라의 <strong>센서·렌즈·조리개</strong>가 이미지를 형성하는 과정을 단계적으로 시각화한 기술적 해설</li>\n<li>\n<strong>이미지 센서</strong>가 광자를 전기 신호로 변환하고, <strong>Bayer 필터</strong>와 <strong>디모자이싱</strong>을 통해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "iOS가 일본에서 대체 브라우저 엔진을 허용 시작",
+      "link": "https://news.hada.io/topic?id=25504",
+      "published": "2026-01-02T09:49:21+09:00",
+      "summary": "<ul>\n<li>iOS 26.2 이상에서 일본 사용자용 앱은 <strong>WebKit 이외의 브라우저 엔진</strong>을 사용할 수 있으며, 전체 브라우저 앱과 <strong>임베디드 브라우저 엔진을 사용하는 앱</strong> 두 종류가 허용됨</li>\n<li>Apple은 승인된 개발자에게 <strong>JIT 컴파일, 멀티프로세스 지원</strong> 등 고성능 브라...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenWorkers – Rust로 구현된 셀프호스팅 Cloudflare Workers",
+      "link": "https://news.hada.io/topic?id=25503",
+      "published": "2026-01-02T09:46:21+09:00",
+      "summary": "<ul>\n<li>\n<strong>OpenWorkers</strong>는 V8 기반에서 JavaScript를 실행하는 <strong>오픈소스 런타임</strong>으로, 엣지 컴퓨팅을 자체 인프라에서 구현할 수 있음</li>\n<li>\n<strong>KV 저장소</strong>, <strong>PostgreSQL</strong>, <strong>S3/R2 호환 스토리지</strong>, <strong>서비스 바인딩</strong>, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "A guide to choosing the right Apple Watch",
+      "link": "https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/",
+      "published": "Fri, 02 Jan 2026 00:20:19 +0000",
+      "summary": "The gap between Apple's standard and budget smart watches has never felt smaller.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A beginner’s guide to Mastodon, the open source Twitter alternative",
+      "link": "https://techcrunch.com/2026/01/01/what-is-mastodon/",
+      "published": "Thu, 01 Jan 2026 21:02:13 +0000",
+      "summary": "Unless if you&#8217;re really in the know about nascent platforms, you probably didn&#8217;t know what Mastodon was until Elon Musk bought Twitter and renamed it X. In the initial aftermath of the acquisition, as users fretted over what direction Twitter would take, millions of users hopped over to ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+      "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+      "published": "Thu, 01 Jan 2026 20:28:20 +0000",
+      "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+      "link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+      "published": "Thu, 01 Jan 2026 18:29:29 +0000",
+      "summary": "The form factors may differ, but the thesis is the same: audio is the interface of the future. Every space -- your home, your car, even your face -- is becoming an interface.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The top 6 media/entertainment startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/",
+      "published": "Thu, 01 Jan 2026 15:00:00 +0000",
+      "summary": "Here is the full list of the media/entertainment Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A website to destroy all websites",
+      "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+      "published": "Thu, 01 Jan 2026 20:36:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46457784\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Can Bundler be as fast as uv?",
+      "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "published": "Thu, 01 Jan 2026 21:37:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46458302\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Finland detains ship and its crew after critical undersea cable damaged",
+      "link": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+      "published": "Thu, 01 Jan 2026 18:46:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46456797\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cameras and Lenses (2020)",
+      "link": "https://ciechanow.ski/cameras-and-lenses/",
+      "published": "Thu, 01 Jan 2026 17:18:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46455872\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux is good now",
+      "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+      "published": "Thu, 01 Jan 2026 20:35:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46457770\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
