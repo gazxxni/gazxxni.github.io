@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-03",
+  "articles": [
+    {
+      "title": "2026년 퍼블릭 도메인 데이 축하",
+      "link": "https://news.hada.io/topic?id=25528",
+      "published": "2026-01-03T09:56:13+09:00",
+      "summary": "<ul>\n<li>매년 1월 1일은 전 세계에서 <strong>저작권이 만료된 작품들이 퍼블릭 도메인으로 편입되는 날</strong>로, 2026년에는 다양한 문학·음악·영화 작품이 새로 포함됨</li>\n<li>올해는 <strong>윌리엄 포크너, 랭스턴 휴즈, 아가사 크리스티, 헤르만 헤세, 로버트 무질</strong> 등의 대표작이 미국에서 공개 영역...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "10년간의 개인 재정을 일반 텍스트 파일로 관리한 기록",
+      "link": "https://news.hada.io/topic?id=25527",
+      "published": "2026-01-03T09:53:13+09:00",
+      "summary": "<ul>\n<li>\n<strong>Beancount</strong>를 이용해 10년간 개인 재정을 <strong>일반 텍스트 파일</strong>로 기록하며, 약 45,000줄의 데이터와 10,000건의 거래를 관리</li>\n<li>매달 30~45분을 들여 <strong>은행 명세서 CSV 파일을 가져와 수동·자동으로 정리</strong>하고, 연도별 파일로 분리해 가독성을 유지</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "HPV 백신 접종으로 덴마크 여성의 발암성 HPV16/18 감염률이 16%에서 1% 미만으로 감소",
+      "link": "https://news.hada.io/topic?id=25526",
+      "published": "2026-01-03T09:50:13+09:00",
+      "summary": "<ul>\n<li>덴마크의 <strong>Trial23 코호트 연구</strong>는 2008년 14세에 4가 HPV 백신을 접종한 여성들의 자궁경부 세포 샘플을 2017~2024년 동안 추적 분석</li>\n<li>백신에 포함된 <strong>HPV16/18 유형의 감염률</strong>은 접종 전 15~17%에서 2021년 기준 <strong>1% 미만</strong>으로 급감</li>\n<li>반면 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "FracturedJson",
+      "link": "https://news.hada.io/topic?id=25525",
+      "published": "2026-01-03T09:47:13+09:00",
+      "summary": "<ul>\n<li>\n<strong>JSON 데이터를 사람이 읽기 쉽게</strong> 정렬하면서도 압축된 형태로 유지하는 포매팅 유틸리티 모음</li>\n<li>배열과 객체를 가능한 한 <strong>한 줄로 표현</strong>하고, 구조가 유사한 경우 <strong>테이블 형태로 정렬</strong>\n</li>\n<li>\n<strong>주석 보존 기능</strong>을 지원하며, JSON...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내용 없음",
+      "link": "https://news.hada.io/topic?id=25524",
+      "published": "2026-01-03T09:44:13+09:00",
+      "summary": "내용 없음",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+      "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "published": "Fri, 02 Jan 2026 18:29:26 +0000",
+      "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "10 useful gadgets for your first apartment",
+      "link": "https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/",
+      "published": "Fri, 02 Jan 2026 18:00:00 +0000",
+      "summary": "From home security systems and smart smoke detectors to a sunrise alarm gently that wakes you up, here are the must-have gadgets for living in your first apartment.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader",
+      "link": "https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/",
+      "published": "Fri, 02 Jan 2026 16:17:47 +0000",
+      "summary": "Tesla annual sales have fallen for the second year in a row, a drop fueled by the removal of the federal tax credit in the U.S. and competition from Chinese automakers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia’s AI empire: A look at its top startup investments",
+      "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+      "published": "Fri, 02 Jan 2026 16:00:00 +0000",
+      "summary": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest investments.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/",
+      "published": "Fri, 02 Jan 2026 15:00:00 +0000",
+      "summary": "Here is the full list of the logistics, manufacturing, and materials Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "2026 will be my year of the Linux desktop",
+      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "published": "Sat, 03 Jan 2026 00:15:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46471199\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Publish on your own site, syndicate elsewhere",
+      "link": "https://indieweb.org/POSSE",
+      "published": "Fri, 02 Jan 2026 19:48:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46468600\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
+      "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
+      "published": "Fri, 02 Jan 2026 21:27:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46469577\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unix v4 (1973) – Live Terminal",
+      "link": "https://unixv4.dev/",
+      "published": "Fri, 02 Jan 2026 19:18:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46468283\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (January 2026)",
+      "link": "https://news.ycombinator.com/item?id=46466074",
+      "published": "Fri, 02 Jan 2026 16:00:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46466074\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
