@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-05",
+  "articles": [
+    {
+      "title": "2026년에 드디어 Wayland을 쓸 수 있을까?",
+      "link": "https://news.hada.io/topic?id=25569",
+      "published": "2026-01-05T09:49:17+09:00",
+      "summary": "<ul>\n<li>\n<strong>Wayland</strong>는 X11의 후속 그래픽 스택으로 2008년에 시작되었지만, 작성자는 18년 동안 자신의 시스템에서 제대로 사용할 수 없었다고 평가함</li>\n<li>2025년 기준 <strong>nVidia 드라이버의 GBM 및 explicit sync 지원</strong>으로 기본 실행은 가능해졌으나, 여전히 <strong>8K 모니터 TIL...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "스트리트 파이터 II, 더 월드 워리어 (2021)",
+      "link": "https://news.hada.io/topic?id=25568",
+      "published": "2026-01-05T09:46:17+09:00",
+      "summary": "<ul>\n<li>아케이드 게임 <strong>Street Fighter II</strong>의 부제 ‘World Warrior’가 출시 직전까지 <strong>‘World Warrier’로 오타</strong>가 있었던 일화를 다룸</li>\n<li>그래픽 디자이너 <strong>Akiman</strong>이 GFX ROM이 이미 굽혀진 상태에서 수정이 불가능하자, <strong>스프라이트 조합으로 ‘e’를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Loopi - 로컬 환경에서 실행되는 Typed 자동화 플랫폼",
+      "link": "https://news.hada.io/topic?id=25567",
+      "published": "2026-01-05T09:46:01+09:00",
+      "summary": "<ul>\n<li>비쥬얼 No-code 빌더와 API 호출을 하나의 흐름으로 결합한 <strong>브라우저 자동화 도구</strong>\n</li>\n<li>클라우드 의존 없이 <strong>로컬 머신에서 자동화를 실행</strong>하기 위해 설계</li>\n<li>맥/윈/리눅스에서 실행되는 Electron 기반 데스크톱 앱으로, <strong>실제 Chromium 브라우저를 직접 제...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "카페에 혼자 앉아 있는 견딜 수 없는 기쁨",
+      "link": "https://news.hada.io/topic?id=25566",
+      "published": "2026-01-05T09:43:17+09:00",
+      "summary": "<ul>\n<li>\n<strong>혼자 카페에 앉는 행위</strong>는 본래 사람들과 어울리기 위해 만들어진 공간의 목적과 상반되는 경험임</li>\n<li>일상에서 벗어나 <strong>휴식과 고요함을 찾기 위해</strong> 휴가 중 휴대폰 없이 개와 산책하며 시간을 느리게 보냄</li>\n<li>전자기기 없이 카페에 앉아 있을 때, <strong>잡념과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "신경망: 제로에서 히어로까지",
+      "link": "https://news.hada.io/topic?id=25565",
+      "published": "2026-01-05T09:40:17+09:00",
+      "summary": "<ul>\n<li>\n<strong>Andrej Karpathy</strong>가 직접 진행하는 강좌로, 코드로 신경망을 <strong>처음부터 구현</strong>하며 학습하는 과정</li>\n<li>\n<strong>역전파(backpropagation)</strong> 의 기초부터 시작해 <strong>GPT 수준의 현대적 딥러닝 모델</strong>까지 단계적으로 구축</li>\n<li>\n<strong>언어 모델(...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Can a social app fix the ‘terrible devastation’ of social media?",
+      "link": "https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/",
+      "published": "Sun, 04 Jan 2026 21:39:23 +0000",
+      "summary": "Twitter co-founder Biz Stone and Pinterest co-founder Evan Sharp have raised new funding for a social media app that helps users \"plan with intention.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+      "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+      "published": "Sun, 04 Jan 2026 21:14:23 +0000",
+      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+      "published": "Sun, 04 Jan 2026 16:50:19 +0000",
+      "summary": "France and Malaysia have joined India in condemning Grok for creating sexualized deepfakes of women and minors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+      "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+      "published": "Sun, 04 Jan 2026 16:28:10 +0000",
+      "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Subtle releases ear buds with its noise cancelation models",
+      "link": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
+      "published": "Sun, 04 Jan 2026 12:00:00 +0000",
+      "summary": "Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: Terminal UI for AWS",
+      "link": "https://github.com/huseyinbabal/taws",
+      "published": "Sun, 04 Jan 2026 20:17:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46491749\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lessons from 14 Years at Google",
+      "link": "https://addyosmani.com/blog/21-lessons/",
+      "published": "Sun, 04 Jan 2026 15:23:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46488819\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+      "published": "Sun, 04 Jan 2026 20:25:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46491821\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Unbearable Joy of Sitting Alone in a Café",
+      "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
+      "published": "Sun, 04 Jan 2026 14:37:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46488355\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linear Address Spaces: Unsafe at any speed (2022)",
+      "link": "https://queue.acm.org/detail.cfm?id=3534854",
+      "published": "Wed, 31 Dec 2025 07:57:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46442282\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
