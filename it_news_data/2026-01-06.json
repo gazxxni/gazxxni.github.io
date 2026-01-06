@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-06",
+  "articles": [
+    {
+      "title": "Anna’s Archive가 예고 없이 .org 도메인 정지 조치로 접근 불가 상태",
+      "link": "https://news.hada.io/topic?id=25591",
+      "published": "2026-01-06T09:44:10+09:00",
+      "summary": "<ul>\n<li>인기 <strong>섀도 라이브러리 메타검색 엔진</strong>인 Anna’s Archive의 주요 도메인 <strong>annas-archive.org</strong>가 예고 없이 정지되어 ‘serverHold’ 상태로 전환됨</li>\n<li>이 조치는 <strong>도메인 등록기관(Public Interest Registry, PIR)</strong> 이 수행하는 절차로, 도메인이 조사 중...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tahoe의 아이콘을 정당화하기 어렵다",
+      "link": "https://news.hada.io/topic?id=25590",
+      "published": "2026-01-06T09:41:10+09:00",
+      "summary": "<ul>\n<li>macOS <strong>Tahoe</strong>는 모든 메뉴 항목에 아이콘을 추가했지만, 이는 <strong>가독성과 사용성</strong>을 오히려 떨어뜨리는 결과를 초래함</li>\n<li>아이콘이 너무 많아 <strong>차별성이 사라지고</strong>, 색상과 형태의 일관성 부족으로 사용자가 기능을 빠르게 찾기 어려움</li>\n<li>앱 간뿐 아...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "binary-parser - 바이너리 데이터 고성능 파싱용 JavaScript 파서 빌더",
+      "link": "https://news.hada.io/topic?id=25589",
+      "published": "2026-01-06T09:31:02+09:00",
+      "summary": "<ul>\n<li>구조화된 <strong>바이너리 포맷을 선언형 체인 API로 정의</strong>하기 위해 설계되어 수작업 파서 작성의 복잡성을 크게 줄임</li>\n<li>파서 정의를 기반으로 <strong>런타임에 파싱 코드를 동적 생성·컴파일</strong>해, 수동 구현에 가까운 실행 성능 제공</li>\n<li>정수·부동소수점·비트 필드·문자열·배...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: slack.green - 슬랙 상태를 자동으로 유지하는 도구",
+      "link": "https://news.hada.io/topic?id=25588",
+      "published": "2026-01-06T07:43:22+09:00",
+      "summary": "<p>슬랙에서 가끔 다른 분들 상태 확인하시나요? 산책 편하게 하시라고 만들었습니다.<br />\n본인 책임하에 사용하세요.</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jeffgeerling.com이 Hugo로 마이그레이션됨",
+      "link": "https://news.hada.io/topic?id=25587",
+      "published": "2026-01-06T05:33:20+09:00",
+      "summary": "<ul>\n<li>2009년부터 <strong>Drupal 기반</strong>으로 운영되던 JeffGeerling.com이 개인 블로그 효율성을 위해 <strong>Hugo 정적 사이트 생성기(SSG)</strong> 로 전환됨</li>\n<li>Drupal 6부터 10까지 이어진 다수의 <strong>업그레이드와 유지보수 부담</strong>이 전환의 주요 계기</li>\n<li>Hugo는 <strong>Mark...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Insight Partners sued by former vice president Kate Lowry",
+      "link": "https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/",
+      "published": "Mon, 05 Jan 2026 23:30:00 +0000",
+      "summary": "Insight Partners sued by former vice president Kate Lowry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+      "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+      "published": "Mon, 05 Jan 2026 23:09:56 +0000",
+      "summary": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This is Uber’s new robotaxi from Lucid and Nuro",
+      "link": "https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/",
+      "published": "Mon, 05 Jan 2026 23:00:04 +0000",
+      "summary": "The production-intent version, unveiled at CES 2026 on Monday, will be an exceptionally roomy entry into the growing robotaxi market later this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia wants to be the Android of generalist robotics",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+      "published": "Mon, 05 Jan 2026 23:00:00 +0000",
+      "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia launches powerful new Rubin chip architecture",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+      "published": "Mon, 05 Jan 2026 22:16:58 +0000",
+      "summary": "Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "There were BGP anomalies during the Venezuela blackout",
+      "link": "https://loworbitsecurity.com/radar/radar16/",
+      "published": "Mon, 05 Jan 2026 21:05:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46504963\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Worlds's first all-solid-state battery ready to power up production vehicles now",
+      "link": "https://www.donutlab.com/ces-battery-announcement/",
+      "published": "Mon, 05 Jan 2026 22:28:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46505975\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Six-decade math puzzle solved by Korean mathematician",
+      "link": "https://www.koreaherald.com/article/10648326",
+      "published": "Sun, 04 Jan 2026 19:10:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46491129\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I/O is no longer the bottleneck? (2022)",
+      "link": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
+      "published": "Tue, 06 Jan 2026 00:02:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46506994\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Strange.website",
+      "link": "https://strange.website/",
+      "published": "Mon, 05 Jan 2026 23:19:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46506596\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
