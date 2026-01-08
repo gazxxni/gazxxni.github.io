@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-08",
+  "articles": [
+    {
+      "title": "Shipmap.org",
+      "link": "https://news.hada.io/topic?id=25654",
+      "published": "2026-01-08T09:51:41+09:00",
+      "summary": "<ul>\n<li>전 세계 <strong>상선의 이동 경로와 탄소 배출량</strong>을 시각화한 인터랙티브 웹 지도</li>\n<li>\n<strong>Kiln과 UCL Energy Institute</strong>가 협력해 2012년 한 해 동안의 선박 위치·속도 데이터를 기반으로 제작</li>\n<li>사용자는 <strong>선박 종류별 필터링</strong>, <strong>시간대별 이동 재생...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "진짜 음식을 먹자",
+      "link": "https://news.hada.io/topic?id=25653",
+      "published": "2026-01-08T09:48:41+09:00",
+      "summary": "<ul>\n<li>미국 정부가 <strong>새로운 식이 지침(Dietary Guidelines for Americans)</strong> 을 발표하며, 가공되지 않은 <strong>‘진짜 음식(real food)’</strong> 중심의 식단을 제시</li>\n<li>지침은 <strong>전통적인 식품 피라미드(New Pyramid)</strong> 를 재구성해, 단백질·채소·통곡물·건강한 지방을 핵심...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국, 월가 기관투자자의 단독주택 매입 금지 발표",
+      "link": "https://news.hada.io/topic?id=25652",
+      "published": "2026-01-08T09:45:41+09:00",
+      "summary": "<ul>\n<li>미국 정부가 <strong>대형 기관투자자</strong>의 단독주택 매입을 <strong>전면 금지</strong>할 계획을 발표</li>\n<li>이 조치는 <strong>월가 투자자들이 주택 시장을 장악</strong>하는 현상을 억제하기 위한 목적</li>\n<li>\n<strong>단독주택(single-family homes)</strong> 을 임대용으로 대량 매입하는 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "설탕 산업이 연구자들에게 영향을 미쳐 지방을 심혈관 질환의 원인으로 돌림 (2016)",
+      "link": "https://news.hada.io/topic?id=25651",
+      "published": "2026-01-08T09:42:41+09:00",
+      "summary": "<ul>\n<li>1960년대 중반 <strong>설탕 산업이 영양학자들과 협력해</strong> 심장병의 원인을 지방과 콜레스테롤로 집중시키고, <strong>자당(sucrose)의 위험성은 축소</strong>한 사실이 공개됨</li>\n<li>공개된 <strong>산업 내부 문서</strong>는 1954년부터 설탕 업계가 저지방 식단이 확산될 경우 <strong>1인당 설...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tailwind 제작사, 엔지니어링 팀의 75% 해고",
+      "link": "https://news.hada.io/topic?id=25650",
+      "published": "2026-01-08T09:39:41+09:00",
+      "summary": "<ul>\n<li>Tailwind CSS 문서에 <strong>LLM 최적화용 <code>/llms.txt</code> 엔드포인트</strong>를 추가하는 PR이 커뮤니티에서 논란을 일으킴</li>\n<li>제안된 기능은 모든 문서 페이지를 <strong>텍스트 전용으로 결합해 대형 언어 모델(LLM)</strong> 이 쉽게 학습할 수 있도록 하는 구조</li>\n<li>Tailwind Labs 측...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
+      "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+      "published": "Thu, 08 Jan 2026 01:32:00 +0000",
+      "summary": "The settlements are among the first tied to lawsuits accusing AI companies of harming users.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
+      "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
+      "published": "Thu, 08 Jan 2026 00:00:00 +0000",
+      "summary": "Ford says the new generation of BlueCruise will be 30% cheaper to build than the current technology.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm",
+      "link": "https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/",
+      "published": "Wed, 07 Jan 2026 23:31:29 +0000",
+      "summary": "Bonatsos spent 15 years at GC, and until last year led the firm's seed investing strategy.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Larry Page loosens business ties to CA amid state’s proposed wealth tax, report",
+      "link": "https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/",
+      "published": "Wed, 07 Jan 2026 23:23:45 +0000",
+      "summary": "Larry Page is reportedly moving assets out of California over concern the state will vote in a tax on billionaires.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Yes, LinkedIn banned AI agent startup Artisan, but now it’s back",
+      "link": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/",
+      "published": "Wed, 07 Jan 2026 22:04:30 +0000",
+      "summary": "Several viral posts noticed that Artisan was banned. But the CEO tells us it wasn't for the reasons many thought.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+      "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+      "published": "Wed, 07 Jan 2026 14:29:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46526740\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale state file encryption no longer enabled by default",
+      "link": "https://tailscale.com/changelog",
+      "published": "Wed, 07 Jan 2026 20:16:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46531925\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans",
+      "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+      "published": "Thu, 08 Jan 2026 00:48:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46535514\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Eat Real Food",
+      "link": "https://realfood.gov",
+      "published": "Wed, 07 Jan 2026 17:22:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46529237\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shipmap.org",
+      "link": "https://www.shipmap.org/",
+      "published": "Wed, 07 Jan 2026 15:03:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46527161\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
