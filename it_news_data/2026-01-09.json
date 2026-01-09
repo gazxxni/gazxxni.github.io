@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-09",
+  "articles": [
+    {
+      "title": "이란의 라우팅 정보 | Cloudflare Radar",
+      "link": "https://news.hada.io/topic?id=25679",
+      "published": "2026-01-09T09:54:42+09:00",
+      "summary": "<ul>\n<li>Cloudflare Radar는 <strong>이란의 BGP 라우팅 동향과 통계</strong>를 제공하며, 공표된 IP 주소 공간과 관련 ASN을 포함함</li>\n<li>페이지에는 <strong>전 세계 라우팅 테이블 항목 통계</strong>와 <strong>인터넷 라우팅 이상 현상</strong> 탐지 내용이 포함됨</li>\n<li>\n<strong>베네수엘라에서 1월 2일...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jeff Dean Facts",
+      "link": "https://news.hada.io/topic?id=25678",
+      "published": "2026-01-09T09:51:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Google 엔지니어 Jeff Dean</strong>의 전설적인 프로그래밍 능력을 풍자한 <strong>유머 모음집</strong>을 한곳에 정리한 저장소</li>\n<li>원래 <strong>Quora 게시물</strong>에서 시작된 농담들을 기반으로 하며, 이후 <strong>다른 출처의 버전들을 통합</strong>해 구성</li>\n<li>내용은 “Jeff...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google AI Studio가 이제 Tailwind CSS를 후원함",
+      "link": "https://news.hada.io/topic?id=25677",
+      "published": "2026-01-09T09:48:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Google AI Studio</strong>가 <strong>Tailwind CSS</strong>의 공식 후원사로 참여한다고 밝힘</li>\n<li>AI Studio 의 Lead 인 Logan Kilpatrick 이 X를 통해 내용을 공개</li>\n<li>구체적인 <strong>후원 규모나 조건</strong>은 언급되지 않음</li>\n</ul>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Project Patchouli: 오픈소스 전자기 유도식 드로잉 태블릿 하드웨어",
+      "link": "https://news.hada.io/topic?id=25676",
+      "published": "2026-01-09T09:45:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>Project Patchouli</strong>는 전자기 유도(EMR) 기반 드로잉 태블릿 하드웨어를 <strong>오픈소스로 구현</strong>한 프로젝트로, 코일 배열과 RF 프런트엔드, 디지털 신호처리 알고리듬을 포함함</li>\n<li>상용 부품으로 구성된 설계를 통해 <strong>다양한 제조사의 펜과 호환</strong>되며, 초저지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "오픈 인프라스트럭처 맵",
+      "link": "https://news.hada.io/topic?id=25675",
+      "published": "2026-01-09T09:42:42+09:00",
+      "summary": "<ul>\n<li>전 세계의 <strong>전력, 통신, 석유, 가스 인프라</strong>를 시각화한 오픈소스 지도 플랫폼</li>\n<li>\n<strong>OpenStreetMap 데이터</strong>를 기반으로 발전소, 송전선, 통신망, 파이프라인 등 주요 인프라를 표시</li>\n<li>전력망은 <strong>전압 등급별(10kV~550kV 이상, HVDC 포함)</strong> 로 구분해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+      "link": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "published": "Fri, 09 Jan 2026 00:35:00 +0000",
+      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Data security startup Cyera hits $9B valuation six months after being valued at $6B",
+      "link": "https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/",
+      "published": "Thu, 08 Jan 2026 23:59:56 +0000",
+      "summary": "Cyera raised another $400 million just six months after its last huge round.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Governments grapple with the flood of non-consensual nudity on X",
+      "link": "https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/",
+      "published": "Thu, 08 Jan 2026 22:08:58 +0000",
+      "summary": "For the past two weeks, X has been flooded with AI-manipulated nude images, created by the Grok AI chatbot — and governments around the world are promising to take action.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GTMfund has rewritten the distribution playbook for the AI era",
+      "link": "https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/",
+      "published": "Thu, 08 Jan 2026 19:27:16 +0000",
+      "summary": "Building software products has never been easier, so why are so many well-funded startups failing to take off no matter how good their product is? In this season finale episode of Build Mode, our guest has an answer: Startups have focused too much on product development and not enough on distributio",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Critics pan spyware maker NSO’s transparency claims amid its push to enter US market",
+      "link": "https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/",
+      "published": "Thu, 08 Jan 2026 19:15:32 +0000",
+      "summary": "The infamous spyware maker released a new transparency report claiming to be a responsible spyware maker, without providing insight into how the company dealt with problematic customers in the past.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to Code Claude Code in 200 Lines of Code",
+      "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "published": "Thu, 08 Jan 2026 19:54:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46545620\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Embassy: Modern embedded framework, using Rust and async",
+      "link": "https://github.com/embassy-rs/embassy",
+      "published": "Thu, 08 Jan 2026 23:00:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46547740\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+      "link": "https://github.com/samuel-vitorino/sopro",
+      "published": "Thu, 08 Jan 2026 20:37:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46546113\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
+      "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+      "published": "Thu, 08 Jan 2026 15:07:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46541892\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "link": "https://joshuawise.com/resources/ofdm/",
+      "published": "Thu, 08 Jan 2026 19:00:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46544981\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
