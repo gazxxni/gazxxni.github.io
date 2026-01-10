@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-10",
+  "articles": [
+    {
+      "title": "피아노를 귀로 익히는 기억 게임 ‘Lend Me Your Ears’",
+      "link": "https://news.hada.io/topic?id=25705",
+      "published": "2026-01-10T09:49:32+09:00",
+      "summary": "<ul>\n<li>\n<strong>Simon 스타일의 음악 청음 게임</strong>으로, 사용자가 들은 멜로디를 피아노로 재현하도록 구성</li>\n<li>\n<strong>악보 표시 연습 모드</strong>와 <strong>귀로 연주하는 모드</strong> 두 가지 방식 지원</li>\n<li>\n<strong>MIDI 키보드 연결</strong>을 통해 실제 악기 입력으로 연습 가능</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "베트남 정부, 루팅된 스마트폰의 \"모든 은행 앱 사용 금지\"",
+      "link": "https://news.hada.io/topic?id=25704",
+      "published": "2026-01-10T09:46:32+09:00",
+      "summary": "<ul>\n<li>베트남 중앙은행이 발표한 <strong>‘77/2025/TT-NHNN’ 개정안</strong>은 루팅·부트로더 언락·ADB 연결 등 보안 취약 환경에서 <strong>모바일 뱅킹 앱 실행을 차단</strong>하도록 규정</li>\n<li>새 규정은 <strong>3월 1일부터 시행</strong>되며, 앱이 이러한 징후를 감지하면 <strong>자동 종료 및 사용자...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽연합 집행위원회, 오픈소스 관련 증거 수집 공고 발표",
+      "link": "https://news.hada.io/topic?id=25703",
+      "published": "2026-01-10T09:43:32+09:00",
+      "summary": "<ul>\n<li>유럽연합 집행위원회가 <strong>‘유럽 오픈 디지털 생태계 전략’</strong> 수립을 위해 오픈소스 관련 <strong>증거(Call for Evidence)</strong> 수집 절차를 개시함</li>\n<li>비EU 국가 소프트웨어 의존도를 줄이고 <strong>디지털 주권과 공급망 보안</strong>을 강화하는 것이 핵심 목표</li>\n<li>오픈소...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic이 Claude Code 구독의 서드파티 사용을 차단",
+      "link": "https://news.hada.io/topic?id=25702",
+      "published": "2026-01-10T09:40:32+09:00",
+      "summary": "<ul>\n<li>여러 사용자가 <strong>Claude Max</strong> 기능이 갑자기 작동하지 않고 오류 메시지를 표시한다고 보고</li>\n<li>문제는 <strong>OpenCode 1.1.8 버전</strong>에서 발생했으며, 재연결 시도 후에도 동일한 오류가 지속됨</li>\n<li>일부 사용자는 <strong>Anthropic의 정책 변경</strong>으로 인해 외부 클라...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "metacode - 액션 코멘트 표준화를 위한 선언적 주석 언어와 파서",
+      "link": "https://news.hada.io/topic?id=25701",
+      "published": "2026-01-10T09:31:01+09:00",
+      "summary": "<ul>\n<li>Python 생태계의 lint·포맷터·타입체커·커버리지 도구들이 사용하는 <strong>특수 주석(action comment)을 하나의 표준으로 통합</strong>하기 위해 제안된 라이브러리</li>\n<li>\n<code># noqa</code>, <code># fmt: off</code>, <code># type: ignore</code>처럼 <strong>사실상 관행이지만 표준은 없는 주석...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "I met a lot of weird robots at CES — here are the most memorable",
+      "link": "https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/",
+      "published": "Sat, 10 Jan 2026 01:09:25 +0000",
+      "summary": "If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’",
+      "link": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
+      "published": "Sat, 10 Jan 2026 00:37:59 +0000",
+      "summary": "A former SandboxAQ executive filed a wrongful termination lawsuit filled with shocking allegations. The company is fighting back, hard.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+      "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "published": "Fri, 09 Jan 2026 22:36:27 +0000",
+      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+      "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
+      "published": "Fri, 09 Jan 2026 19:36:04 +0000",
+      "summary": "Ozlo Sleepbuds are going to have a big year, with new products, AI features, and more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
+      "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+      "published": "Fri, 09 Jan 2026 17:51:15 +0000",
+      "summary": "Two smaller companies, Oklo and TerraPower, along with Vistra, a large energy company, just signed agreements with Meta.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+      "link": "https://mathstodon.xyz/@tao/115855840223258103",
+      "published": "Fri, 09 Jan 2026 22:39:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46560445\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JavaScript Demos in 140 Characters",
+      "link": "https://beta.dwitter.net",
+      "published": "Fri, 09 Jan 2026 18:48:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46557489\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RTX 5090 and Raspberry Pi: Can it game?",
+      "link": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
+      "published": "Fri, 09 Jan 2026 19:33:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46558148\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
+      "link": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+      "published": "Fri, 09 Jan 2026 16:49:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46555807\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Rocket Launch and Orbit Simulator",
+      "link": "https://www.donutthejedi.com/",
+      "published": "Fri, 09 Jan 2026 19:15:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46557879\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
