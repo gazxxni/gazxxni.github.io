@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-11",
+  "articles": [
+    {
+      "title": "Oh My Zsh는 불필요한 부하를 추가함",
+      "link": "https://news.hada.io/topic?id=25725",
+      "published": "2026-01-11T10:05:39+09:00",
+      "summary": "<ul>\n<li>\n<strong>Oh My Zsh(OMZ)</strong> 는 여전히 널리 추천되지만, 셸 시작 시간을 느리게 만드는 <strong>불필요한 스크립트 부하</strong>를 초래함</li>\n<li>OMZ는 셸 스크립트로 작성되어 새 터미널 탭을 열 때마다 모든 스크립트를 해석해야 하며, <strong>기본 설정만으로도 약 0.38초의 지연</strong>이 발...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "다크 스카이를 추모하며: 데이터 시각화의 걸작",
+      "link": "https://news.hada.io/topic?id=25724",
+      "published": "2026-01-11T09:37:48+09:00",
+      "summary": "<ul>\n<li>\n<strong>Dark Sky</strong>는 단순한 날씨 예보 앱이 아니라, <strong>맥락 기반 정보 디자인의 대표 사례</strong>로 평가됨</li>\n<li>사용자의 위치와 시간에 따라 <strong>날씨 데이터를 시각적으로 맥락화</strong>해 보여주는 설계가 핵심</li>\n<li>온도·강수량·바람 방향 등 수치를 <strong>직관적 그래...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "시트로엥 C15를 소개합니다",
+      "link": "https://news.hada.io/topic?id=25723",
+      "published": "2026-01-11T09:34:48+09:00",
+      "summary": "<ul>\n<li>\n<strong>시트로엥 C15</strong>는 대형 SUV나 픽업트럭보다 효율적이고 실용적인 차량으로 제시됨</li>\n<li>글쓴이는 미국인과 영국 부유층이 “시골에 살아서 필요하다”며 <strong>과도하게 큰 차량을 구매하는 행태</strong>를 비판</li>\n<li>C15는 <strong>가격, 연비, 적재용량, 오프로드 성능, 배출가스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Wirebrowser - 브라우저 내부 분석용 CDP 기반 네트워크·메모리 통합 디버깅 도구",
+      "link": "https://news.hada.io/topic?id=25722",
+      "published": "2026-01-11T09:31:02+09:00",
+      "summary": "<ul>\n<li>Chrome DevTools Protocol을 기반으로 <strong>네트워크 조작과 JavaScript 메모리 분석을 하나의 환경으로 통합</strong>한 클라이언트 분석 도구</li>\n<li>HTTP 요청·응답을 <strong>실시간으로 가로채고 수정·차단·재생</strong>할 수 있는 네트워크 인터셉터 제공</li>\n<li>실행 중인 JavaScript 힙을 대상...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dwitter - 자바스크립트 140자 데모 모음",
+      "link": "https://news.hada.io/topic?id=25721",
+      "published": "2026-01-11T07:33:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Dwitter</strong>는 140자 이내의 <strong>JavaScript 코드로 시각적 데모를 작성하고 공유</strong>할 수 있는 플랫폼</li>\n<li>각 게시물은 ‘<strong>dweet</strong>’이라 불리며, 코드와 함께 <strong>즉시 실행되는 그래픽 애니메이션</strong>을 표시</li>\n<li>사용자들은 <strong>댓글, 리믹스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "link": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "published": "Sat, 10 Jan 2026 22:11:21 +0000",
+      "summary": "The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "published": "Sat, 10 Jan 2026 21:18:29 +0000",
+      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "published": "Sat, 10 Jan 2026 19:37:54 +0000",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I met a lot of weird robots at CES — here are the most memorable",
+      "link": "https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/",
+      "published": "Sat, 10 Jan 2026 01:09:25 +0000",
+      "summary": "If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’",
+      "link": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
+      "published": "Sat, 10 Jan 2026 00:37:59 +0000",
+      "summary": "A former SandboxAQ executive filed a wrongful termination lawsuit filled with shocking allegations. The company is fighting back, hard.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
+      "link": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
+      "published": "Sat, 10 Jan 2026 23:36:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46571095\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "link": "https://news.ycombinator.com/item?id=46571149",
+      "published": "Sat, 10 Jan 2026 23:45:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46571149\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "published": "Sat, 10 Jan 2026 18:58:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46568794\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "link": "https://trails.pieterma.es/",
+      "published": "Sat, 10 Jan 2026 16:56:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46567400\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Open Chaos: A self-evolving open-source project",
+      "link": "https://www.openchaos.dev/",
+      "published": "Sat, 10 Jan 2026 16:03:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46566812\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
