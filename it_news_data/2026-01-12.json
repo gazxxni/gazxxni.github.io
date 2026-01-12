@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-12",
+  "articles": [
+    {
+      "title": "Anthropic Sandbox Runtime (srt) - AI용 경량 샌드박스",
+      "link": "https://news.hada.io/topic?id=25751",
+      "published": "2026-01-12T09:46:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 에이전트의 안전한 실행 환경</strong>을 보장하기 위해 개발된 연구용 샌드박스 런타임</li>\n<li>컨테이너 없이 <strong>OS 네이티브 샌드박싱 프리미티브</strong>를 활용하는 경량 구조로 에이전트나 로컬 서버, CLI 명령을 안전하게 격리</li>\n<li>\n<strong>macOS</strong>에서는 <code>sandbo...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 반대 과열 분위기에 휩쓸리지 말라",
+      "link": "https://news.hada.io/topic?id=25750",
+      "published": "2026-01-12T09:42:57+09:00",
+      "summary": "<ul>\n<li>최근 <strong>대형 언어 모델(LLM)</strong> 이 중간 규모 프로젝트를 거의 독립적으로 완성할 수 있을 정도로 발전해, 프로그래밍 방식이 근본적으로 변하고 있음</li>\n<li>작성자는 <strong>Claude Code</strong>를 이용해 UTF-8 지원 추가, Redis 테스트 버그 수정, BERT 임베딩용 C 라이브러리 생성, Redis...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS Tahoe에서 창 크기 조절의 어려움",
+      "link": "https://news.hada.io/topic?id=25749",
+      "published": "2026-01-12T09:39:57+09:00",
+      "summary": "<ul>\n<li>macOS <strong>Tahoe의 과도한 모서리 반경</strong>이 미적 논란뿐 아니라 <strong>사용성 저하</strong>를 초래</li>\n<li>창 크기 조절 시 <strong>모서리 클릭이 인식되지 않는 문제</strong>가 자주 발생</li>\n<li>창이 반원형으로 처리되면서 <strong>19×19픽셀의 조절 영역 대부분이 창 외부로 밀려남</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "윈도우 11을 버리고 리눅스로 갈아탔다, 당신도 그래야 한다",
+      "link": "https://news.hada.io/topic?id=25748",
+      "published": "2026-01-12T09:36:57+09:00",
+      "summary": "<ul>\n<li>\n<strong>윈도우 11의 불안정성과 과도한 데이터 수집</strong> 문제로 인해 주요 PC와 노트북에서 완전히 리눅스로 전환한 경험을 소개</li>\n<li>\n<strong>텔레메트리와 잦은 시스템 충돌</strong>이 전환의 주요 계기였으며, 윈도우 업데이트가 리눅스 파티션을 삭제한 사건이 결정적 계기</li>\n<li>여러 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국에서 약물 과다복용 사망이 감소하는 이유",
+      "link": "https://news.hada.io/topic?id=25747",
+      "published": "2026-01-12T08:33:14+09:00",
+      "summary": "<ul>\n<li>최근 <strong>미국의 약물 과다복용 사망률이 급격히 감소</strong>하고 있으며, 새로운 연구는 그 원인을 ‘공급 충격’과 유사한 현상에서 찾고 있음</li>\n<li>연구는 식품업계에서 흔히 보이는 <strong>‘슈링크플레이션(Shrinkflation)’</strong> , 즉 제품의 양을 줄이면서 가격을 유지하는 전략을 비유로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
+      "link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+      "published": "Mon, 12 Jan 2026 00:10:54 +0000",
+      "summary": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google co-founders may be leaving California",
+      "link": "https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/",
+      "published": "Sun, 11 Jan 2026 22:56:58 +0000",
+      "summary": "Sergey Brin and Larry Page appear to be pulling back from the state where they co-founded Google.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Instagram says there’s been ‘no breach’ despite password reset requests",
+      "link": "https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/",
+      "published": "Sun, 11 Jan 2026 22:26:03 +0000",
+      "summary": "Instagram says that although some users received suspicious-looking password reset requests, it has not been breached.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google removes AI Overviews for certain medical queries",
+      "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "published": "Sun, 11 Jan 2026 17:56:41 +0000",
+      "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
+      "link": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
+      "published": "Sun, 11 Jan 2026 16:15:00 +0000",
+      "summary": "Small modular reactor startups are betting that mass manufacturing will help them bring costs down. But are they underestimating the challenge?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "published": "Sun, 11 Jan 2026 20:47:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46579864\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CLI agents like Claude Code make self-hosting on a home server easier and fun",
+      "link": "https://fulghum.io/self-hosting",
+      "published": "Sun, 11 Jan 2026 21:29:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46580326\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+      "link": "https://iczelia.net/posts/snake-polyglot/",
+      "published": "Sun, 11 Jan 2026 22:14:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46580864\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Statement by Federal Reserve Chair Jerome F. Powell [video]",
+      "link": "https://www.youtube.com/watch?v=KckGHaBLSn4",
+      "published": "Mon, 12 Jan 2026 01:05:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46582441\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iCloud Photos Downloader",
+      "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "published": "Sun, 11 Jan 2026 19:23:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46578921\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
