@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-13",
+  "articles": [
+    {
+      "title": "Anthropic, 로컬 파일 시스템 제어 및 에이전트 워크플로우 'Cowork' 리서치 프리뷰 공개",
+      "link": "https://news.hada.io/topic?id=25774",
+      "published": "2026-01-13T08:21:09+09:00",
+      "summary": "<p>요약:</p>\n<ul>\n<li>Claude Code의 아키텍처를 기반으로 확장하여, 코딩 외 일반 업무에서도 로컬 파일 시스템 제어 및 에이전트 기능을 제공하는 'Cowork' 공개.</li>\n<li>사용자가 지정한 로컬 폴더에 대한 읽기/쓰기 권한을 부여받아 파일 정리, 데이터 추출 및 문서 생성 등 복잡한 작업을 자율적으로 수행.</li>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "포이즌 파운틴",
+      "link": "https://news.hada.io/topic?id=25773",
+      "published": "2026-01-13T05:33:18+09:00",
+      "summary": "<ul>\n<li>\n<strong>기계 지능 시스템에 손상을 입히기 위한 데이터 공급원</strong>으로 설계된 프로젝트로, 인공지능 학습 데이터에 의도적으로 오염된 정보를 주입하는 방식을 제시</li>\n<li>\n<strong>Geoffrey Hinton의 경고</strong>를 인용하며, 인공지능이 인류 종에 대한 위협이라는 인식을 전제로 함</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ferrite – Rust로 제작된 네이티브 Mermaid 다이어그램 렌더링 지원 Markdown 편집기",
+      "link": "https://news.hada.io/topic?id=25772",
+      "published": "2026-01-13T03:42:45+09:00",
+      "summary": "<ul>\n<li>\n<strong>Ferrite</strong>는 Markdown, JSON, YAML, TOML 파일을 빠르고 가볍게 편집할 수 있는 <strong>Rust 기반 텍스트 에디터</strong>\n</li>\n<li>\n<strong>egui 프레임워크</strong>를 사용해 네이티브 수준의 반응성과 크로스플랫폼 실행 환경을 제공</li>\n<li>\n<strong>WYSIWYG 미리보기</strong>, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "현재 작업 중인 것은 무엇입니까? (2026년 1월)",
+      "link": "https://news.hada.io/topic?id=25771",
+      "published": "2026-01-13T03:39:45+09:00",
+      "summary": "<ul>\n<li>\n<strong>Hacker News 커뮤니티</strong>가 매달 진행하는 공개 토론 스레드로, 사용자들이 자신이 개발 중인 프로젝트나 아이디어를 공유함</li>\n<li>참여자들은 <strong>스타트업, 오픈소스, 개인 개발, 연구 프로젝트</strong> 등 다양한 분야의 진행 상황을 소개함</li>\n<li>댓글을 통해 <strong>기술 스택...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내 집 광섬유 네트워크가 문자 그대로 분해되었다",
+      "link": "https://news.hada.io/topic?id=25770",
+      "published": "2026-01-13T03:36:45+09:00",
+      "summary": "<ul>\n<li>주택 내부에 매설된 <strong>광섬유 케이블이 손으로 만지자 부서지고 금속선이 튀어나오는 등 물리적으로 붕괴된 사례</strong>가 발생</li>\n<li>케이블은 <strong>FS.com에서 구매한 군용 등급(armoured) 제품</strong>으로, 약 3년 반 전 설치되어 <strong>PVC 배관을 통해 시멘트 바닥 아래에 매설</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "More than 100 new tech unicorns were minted in 2025 — here they are",
+      "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+      "published": "Tue, 13 Jan 2026 01:00:00 +0000",
+      "summary": "Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
+      "link": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
+      "published": "Tue, 13 Jan 2026 00:04:19 +0000",
+      "summary": "AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+      "link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+      "published": "Tue, 13 Jan 2026 00:00:00 +0000",
+      "summary": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Amazon bought Bee, an AI wearable",
+      "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+      "published": "Mon, 12 Jan 2026 21:55:44 +0000",
+      "summary": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+      "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+      "published": "Mon, 12 Jan 2026 21:44:43 +0000",
+      "summary": "Meta is ramping up its efforts to build out its AI capacity — Zuckerberg said the company intended to drastically expand its energy footprint in the coming years.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cowork: Claude Code for the rest of your work",
+      "link": "https://claude.com/blog/cowork-research-preview",
+      "published": "Mon, 12 Jan 2026 19:27:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46593022\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+      "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "published": "Mon, 12 Jan 2026 16:04:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46590280\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Postal Arbitrage",
+      "link": "https://walzr.com/postal-arbitrage",
+      "published": "Mon, 12 Jan 2026 17:41:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46591708\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "'I rarely get outside': scientists ditch fieldwork in the age of AI",
+      "link": "https://www.nature.com/articles/d41586-025-04150-w",
+      "published": "Thu, 08 Jan 2026 12:07:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46540126\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fabrice Bellard's TS Zip (2024)",
+      "link": "https://www.bellard.org/ts_zip/",
+      "published": "Mon, 12 Jan 2026 20:26:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46593802\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
