@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-14",
+  "articles": [
+    {
+      "title": "Chromium이 JpegXL을 병합함",
+      "link": "https://news.hada.io/topic?id=25800",
+      "published": "2026-01-14T09:52:04+09:00",
+      "summary": "<ul>\n<li>\n<strong>Chromium 코드베이스에 JpegXL 디코더가 통합</strong>되어, 브라우저가 JXL 포맷 이미지를 처리할 수 있게 됨</li>\n<li>변경 사항은 Gerrit 코드 리뷰 페이지에서 <strong>“Wire up JXL decoder”</strong> 라는 제목으로 확인 가능</li>\n<li>이 병합은 <strong>JpegXL 포맷 지원을 위한 핵심 단계...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "스콧 애덤스, ‘딜버트’ 창작자, 전립선암 투병 끝에 68세로 별세",
+      "link": "https://news.hada.io/topic?id=25799",
+      "published": "2026-01-14T09:49:04+09:00",
+      "summary": "<ul>\n<li>\n<strong>‘딜버트’의 창작자 스콧 애덤스</strong>가 전립선암으로 68세에 사망, 그의 풍자적 직장 문화 만화로 유명했던 경력이 마무리됨</li>\n<li>전 부인 셸리 마일스가 <strong>유튜브 방송 ‘Real Coffee with Scott Adams’</strong> 에서 그의 사망을 확인</li>\n<li>애덤스는 암이 뼈로 전이된 사실과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple, 창작 앱들을 한데 모은 Apple Creator Studio 공개",
+      "link": "https://news.hada.io/topic?id=25798",
+      "published": "2026-01-14T09:46:04+09:00",
+      "summary": "<ul>\n<li>영상, 음악, 이미지, 문서 제작을 위한 <strong>전문급 창작 앱 모음</strong>으로, Final Cut Pro·Logic Pro·Pixelmator Pro 등 주요 앱을 하나의 구독으로 제공</li>\n<li>\n<strong>AI 기반 기능</strong>과 <strong>프리미엄 콘텐츠</strong>가 Keynote·Pages·Numbers 등에 추가되어 생산성과 표현력을 강화...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 생성 음악, Bandcamp에서 금지",
+      "link": "https://news.hada.io/topic?id=25797",
+      "published": "2026-01-14T09:43:04+09:00",
+      "summary": "<ul>\n<li>\n<strong>Bandcamp</strong>가 플랫폼에서 <strong>AI로 생성된 음악 업로드를 금지</strong>함</li>\n<li>커뮤니티 게시물에 따르면, <strong>AI 생성 콘텐츠가 삭제되거나 업로드가 거부되는 사례</strong>가 보고됨</li>\n<li>이 조치는 <strong>음악의 진정성 및 저작권 문제</strong>와 관련된 우려 속에서 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Scott Adams가 사망함",
+      "link": "https://news.hada.io/topic?id=25796",
+      "published": "2026-01-14T09:40:04+09:00",
+      "summary": "<ul>\n<li>미국 만화 <strong>‘딜버트(Dilbert)’</strong> 의 창작자로 알려진 Scott Adams의 <strong>사망 소식</strong>을 전하는 영상</li>\n<li>영상은 그의 <strong>생애와 경력</strong>, 그리고 대표작을 중심으로 구성</li>\n<li>\n<strong>유머와 풍자</strong>로 직장 문화를 묘사한 작품 활동이 주요 내용으로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "New York governor clears path for robotaxis everywhere, with one notable exception",
+      "link": "https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/",
+      "published": "Tue, 13 Jan 2026 22:05:11 +0000",
+      "summary": "New York City will be a notable exclusion from proposed legislation to legalize commercial robotaxis across the state.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+      "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+      "published": "Tue, 13 Jan 2026 20:15:58 +0000",
+      "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
+      "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+      "published": "Tue, 13 Jan 2026 19:40:57 +0000",
+      "summary": "A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ammobia says it has reinvented a century-old technology",
+      "link": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
+      "published": "Tue, 13 Jan 2026 19:17:24 +0000",
+      "summary": "The startup has a new take on the Haber-Bosch process used to make ammonia. If Ammobia can deliver, it could change industries, from power generation to maritime shipping.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
+      "link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+      "published": "Tue, 13 Jan 2026 19:05:49 +0000",
+      "summary": "AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A 40-line fix eliminated a 400x performance gap",
+      "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "published": "Tue, 13 Jan 2026 23:00:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46609630\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Every GitHub object has two IDs",
+      "link": "https://www.greptile.com/blog/github-ids",
+      "published": "Tue, 13 Jan 2026 15:52:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46602591\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The $LANG Programming Language",
+      "link": "https://news.ycombinator.com/item?id=46610557",
+      "published": "Wed, 14 Jan 2026 00:17:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46610557\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+      "link": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+      "published": "Tue, 13 Jan 2026 15:59:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46602737\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Are two heads better than one?",
+      "link": "https://eieio.games/blog/two-heads-arent-better-than-one/",
+      "published": "Tue, 13 Jan 2026 16:22:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46603111\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
