@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-15",
+  "articles": [
+    {
+      "title": "개인 웹사이트를 공유해 달라는 요청",
+      "link": "https://news.hada.io/topic?id=25830",
+      "published": "2026-01-15T09:45:52+09:00",
+      "summary": "<ul>\n<li>\n<strong>Hacker News 사용자들이 자신의 개인 웹사이트를 공유</strong>하며 서로의 작업과 프로젝트를 소개하는 게시글</li>\n<li>다양한 <strong>개발자, 디자이너, 스타트업 종사자</strong>들이 포트폴리오, 블로그, 실험적 프로젝트를 링크로 게시</li>\n<li>웹사이트들은 <strong>기술 스택, 디자인 스타일...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "러스트는 C보다 빠를까?",
+      "link": "https://news.hada.io/topic?id=25829",
+      "published": "2026-01-15T09:43:57+09:00",
+      "summary": "<ul>\n<li>\n<strong>러스트와 C의 성능 비교</strong>는 “모든 조건이 동일하다”는 전제의 정의에 따라 달라지는 복잡한 문제로 제시됨</li>\n<li>\n<strong>인라인 어셈블리</strong>의 경우 두 언어 모두 동일한 어셈블리 코드를 생성할 수 있어, 언어 자체의 속도 차이는 없음</li>\n<li>\n<strong>구조체 메모리 배치...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 GitHub Actions이 정말 싫어요",
+      "link": "https://news.hada.io/topic?id=25828",
+      "published": "2026-01-15T09:42:52+09:00",
+      "summary": "<ul>\n<li>\n<strong>GitHub Actions의 비효율성과 불편함</strong>에 대한 강한 불만을 표현하며, 다른 어떤 기술보다도 사용 경험이 나빴다고 서술</li>\n<li>\n<code>tmplr</code> 프로젝트의 <code>build.rs</code>에서 <strong>CUE 기반 자동 문서 생성</strong>을 시도했으나, CI 환경에서 <strong>Linux ARM 빌드 실패...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "세탁 시 옷이 줄어드는 이유와 다시 늘리는 방법",
+      "link": "https://news.hada.io/topic?id=25827",
+      "published": "2026-01-15T09:42:33+09:00",
+      "summary": "<ul>\n<li>\n<strong>섬유 구조와 화학적 결합</strong>이 옷의 수축 현상을 결정하며, 열·수분·기계적 움직임이 섬유의 ‘기억’을 자극해 원래의 구부러진 형태로 돌아감</li>\n<li>\n<strong>면과 리넨</strong>은 셀룰로오스 분자로 구성되어 있어 수분과 열에 민감하며, 세탁 시 수소 결합이 약화되어 섬유가 수축함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "포드 F-150 라이트닝, 테슬라 사이버트럭보다 더 많이 팔렸지만 판매 부진으로 단종",
+      "link": "https://news.hada.io/topic?id=25826",
+      "published": "2026-01-15T09:39:51+09:00",
+      "summary": "<ul>\n<li>2025년 <strong>Ford F-150 Lightning</strong>은 <strong>Tesla Cybertruck</strong>보다 더 많은 판매량을 기록했으나, 판매 부진으로 생산이 중단됨</li>\n<li>\n<strong>Cybertruck</strong>은 계획된 생산 능력의 약 <strong>10% 수준</strong>만 가동 중이며, 연간 약 <strong>21,500대</strong> 판매에 그...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The FTC’s data-sharing order against GM is finally settled",
+      "link": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
+      "published": "Thu, 15 Jan 2026 00:27:54 +0000",
+      "summary": "The order, first proposed a year ago, bans GM from collecting and then selling geolocation data to third parties, like data brokers and insurance companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+      "published": "Thu, 15 Jan 2026 00:04:46 +0000",
+      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+      "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+      "published": "Wed, 14 Jan 2026 22:42:51 +0000",
+      "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
+      "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+      "published": "Wed, 14 Jan 2026 22:25:32 +0000",
+      "summary": "The collaboration will help OpenAI's models deliver faster response times for more difficult or time-consuming tasks, the companies said.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin",
+      "link": "https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/",
+      "published": "Wed, 14 Jan 2026 20:57:40 +0000",
+      "summary": "As Netflix tries to take down YouTube’s dominance in the podcast space, it's getting new originals with Pete Davidson and Michael Irvin.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Cowork Exfiltrates Files",
+      "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+      "published": "Wed, 14 Jan 2026 20:12:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46622328\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "published": "Thu, 15 Jan 2026 00:53:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46626410\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic Explicitly Blocking OpenCode",
+      "link": "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e",
+      "published": "Thu, 15 Jan 2026 00:04:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46625918\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scaling long-running autonomous coding",
+      "link": "https://cursor.com/blog/scaling-agents",
+      "published": "Wed, 14 Jan 2026 22:18:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46624541\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The State of OpenSSL for pyca/cryptography",
+      "link": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+      "published": "Wed, 14 Jan 2026 22:04:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46624352\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
