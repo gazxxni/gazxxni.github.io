@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-16",
+  "articles": [
+    {
+      "title": "중국의 풍력 및 태양광 발전 확장의 경이로운 규모를 담은 사진들",
+      "link": "https://news.hada.io/topic?id=25863",
+      "published": "2026-01-16T09:43:23+09:00",
+      "summary": "<ul>\n<li>중국은 지난해 전 세계 신규 <strong>풍력·태양광 설비의 절반 이상</strong>을 설치하며 재생에너지 확장을 주도</li>\n<li>2024년 5월 한 달 동안만 <strong>폴란드 전체 전력 수요를 충당할 수준의 재생에너지</strong>를 추가 설치</li>\n<li>동부의 도시 옥상부터 서부 사막의 <strong>초대형 풍력단지</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "팔란티어가 ICE의 단속 지역 선정을 지원하는 앱 ‘ELITE’",
+      "link": "https://news.hada.io/topic?id=25862",
+      "published": "2026-01-16T09:40:23+09:00",
+      "summary": "<ul>\n<li>\n<strong>팔란티어(Palantir)</strong> 가 미국 이민세관단속국(<strong>ICE</strong>)을 위해 개발 중인 <strong>‘ELITE’ 도구</strong>는 지도에 추방 대상자를 표시하고, 각 인물의 <strong>개인 정보 요약(dossier)</strong> 과 <strong>주소 신뢰도 점수(confidence score)</strong> 를 제공함</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "의심스러워 보이도록 설계된 URL 단축기",
+      "link": "https://news.hada.io/topic?id=25861",
+      "published": "2026-01-16T09:37:22+09:00",
+      "summary": "<ul>\n<li>\n<strong>CreepyLink</strong>은 링크를 가능한 한 <strong>의심스럽게 보이게 만드는 URL 단축 서비스</strong>\n</li>\n<li>일반적인 단축기와 달리, <strong>불안감이나 스팸 느낌을 주는 형태의 링크</strong>를 생성</li>\n<li>사용자는 단축된 링크를 통해 <strong>의도적으로 ‘수상한’ 인상을 연출</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "sqlit - 터미널에서 DB를 빠르고 직관적으로 다루기 위한 TUI 기반 SQL 클라이언트",
+      "link": "https://news.hada.io/topic?id=25860",
+      "published": "2026-01-16T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>&quot;The lazygit of SQL Databases&quot;</strong>\n</li>\n<li>무거운 GUI 도구 대신 <strong>터미널 안에서 바로 DB에 연결해 쿼리</strong>하기 위해 개발</li>\n<li>PostgreSQL, MySQL, SQLite, SQL Server를 포함해 <strong>20개 이상의 로컬·클라우드 데이터베이스 지원</strong>\n<ul>\n<li>Snowf...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "장시간 실행되는 자율 코딩의 확장",
+      "link": "https://news.hada.io/topic?id=25859",
+      "published": "2026-01-16T08:59:37+09:00",
+      "summary": "<ul>\n<li>Cursor가 수주간 <strong>자율 코딩 에이전트</strong>를 병렬로 실행하며 대규모 프로젝트를 완성할 수 있는지 실험함</li>\n<li>초기에는 <strong>동적 협업 구조</strong>를 사용했으나, 락(lock) 충돌과 작업 중복으로 병목 현상이 발생</li>\n<li>이후 <strong>계획자(Planner)</strong> 와 <strong>작업자(...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
+      "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
+      "published": "Fri, 16 Jan 2026 00:49:54 +0000",
+      "summary": "The startup claims its AI platform can help optimize editorial processes and research.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI lab revolving door spins ever faster",
+      "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+      "published": "Thu, 15 Jan 2026 22:04:02 +0000",
+      "summary": "AI labs just can't get their employees to stay put. Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+      "published": "Thu, 15 Jan 2026 20:52:44 +0000",
+      "summary": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+      "link": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+      "published": "Thu, 15 Jan 2026 19:28:45 +0000",
+      "summary": "Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+      "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
+      "published": "Thu, 15 Jan 2026 18:47:52 +0000",
+      "summary": "Iran’s government-imposed internet shutdown enters its second week as authorities continue their violent crackdown on protesters.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+      "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+      "published": "Thu, 15 Jan 2026 15:02:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46633488\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
+      "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
+      "published": "Thu, 15 Jan 2026 05:14:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46628329\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Inside The Internet Archive's Infrastructure",
+      "link": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
+      "published": "Wed, 14 Jan 2026 07:26:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46613324\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux boxes via SSH: suspended when disconected",
+      "link": "https://shellbox.dev/",
+      "published": "Thu, 15 Jan 2026 20:20:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46638629\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: How can we solve the loneliness epidemic?",
+      "link": "https://news.ycombinator.com/item?id=46635345",
+      "published": "Thu, 15 Jan 2026 16:49:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46635345\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
