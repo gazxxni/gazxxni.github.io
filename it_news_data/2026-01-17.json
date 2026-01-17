@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-17",
+  "articles": [
+    {
+      "title": "CS146S: The Modern Software Developer (한국어)",
+      "link": "https://news.hada.io/topic?id=25897",
+      "published": "2026-01-17T09:51:02+09:00",
+      "summary": "<ul>\n<li>스탠포드 CS146S 강좌의 공식 한국어 버전</li>\n<li>Reading 자료의 한국어 번역 제공 및 YouTube 한국어 강의 시리즈도 제공 예정</li>\n<li>총 10주 과정으로 구성\n<ul>\n<li>Week 1: Introduction to Coding LLMs and AI Development</li>\n<li>Week 2: The Anatomy of Coding Agents</li>\n<li>Week 3: The AI ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cursor의 최신 ‘브라우저 실험’, 근거 없는 성공 암시",
+      "link": "https://news.hada.io/topic?id=25896",
+      "published": "2026-01-17T09:49:48+09:00",
+      "summary": "<ul>\n<li>Cursor는 <strong>‘자율 코딩 에이전트’가 수주간 작동하는 실험</strong>을 진행하며, 인간 팀이 수개월 걸리는 프로젝트를 자동화할 수 있는지를 탐구했다고 설명</li>\n<li>이 시스템을 검증하기 위해 <strong>‘웹 브라우저를 처음부터 만드는’ 목표</strong>를 설정하고, 에이전트들이 약 일주일간 100만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "캐나다, 중국산 전기차 관세 100%에서 6%로 대폭 인하",
+      "link": "https://news.hada.io/topic?id=25895",
+      "published": "2026-01-17T09:46:48+09:00",
+      "summary": "<ul>\n<li>캐나다 정부가 중국과의 <strong>‘전략적 파트너십’</strong> 을 통해 중국산 전기차 수입을 재개하고, 기존 100% 관세를 <strong>6.1%로 인하</strong>\n</li>\n<li>이번 조치는 미국의 <strong>보호무역 기조와 결별</strong>하는 결정으로, BYD Seagull 등 <strong>저가형 전기차</strong>의 캐나다 시장 진...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenBSD-current이 Apple Hypervisor에서 게스트로 실행 가능",
+      "link": "https://news.hada.io/topic?id=25894",
+      "published": "2026-01-17T09:43:48+09:00",
+      "summary": "<ul>\n<li>\n<strong>OpenBSD/arm64</strong>가 이제 <strong>Apple Hypervisor</strong> 환경에서 게스트 운영체제로 동작 가능해짐</li>\n<li>Helg Bredow와 Stefan Fritsch의 일련의 커밋을 통해 <strong>그래픽 처리와 네트워크 기능</strong>이 수정 및 개선됨</li>\n<li>viogpu 드라이버에서 <strong>프레임버퍼 동기화...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "단순한 브라우저 (Just the Browser)",
+      "link": "https://news.hada.io/topic?id=25893",
+      "published": "2026-01-17T09:40:48+09:00",
+      "summary": "<ul>\n<li>데스크톱 웹 브라우저에서 <strong>AI 기능, 원격 데이터 수집, 스폰서 콘텐츠, 제품 통합</strong> 등을 제거해 순수한 브라우저 환경만 남기는 프로젝트</li>\n<li>\n<strong>Google Chrome, Microsoft Edge, Mozilla Firefox</strong>용 구성 파일과 설치 스크립트를 제공하며, 모든 자료는 <strong>GitHub 오...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
+      "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+      "published": "Fri, 16 Jan 2026 23:46:33 +0000",
+      "summary": "Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+      "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+      "published": "Fri, 16 Jan 2026 23:21:24 +0000",
+      "summary": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
+      "link": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+      "published": "Fri, 16 Jan 2026 22:05:08 +0000",
+      "summary": "The $400 million round was led by Dragoneer.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TikTok quietly launches a microdrama app called ‘PineDrama’",
+      "link": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/",
+      "published": "Fri, 16 Jan 2026 21:11:11 +0000",
+      "summary": "Think TikTok, but every single video you come across is a short episode of a fictional story.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "EPA rules that xAI’s natural gas generators were illegally used",
+      "link": "https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/",
+      "published": "Fri, 16 Jan 2026 20:49:18 +0000",
+      "summary": "Elon Musk's AI company had installed and operated 35 natural gas turbines without permits, something the EPA now says was illegal.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "East Germany balloon escape",
+      "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+      "published": "Fri, 16 Jan 2026 17:16:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46648916\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare acquires Astro",
+      "link": "https://astro.build/blog/joining-cloudflare/",
+      "published": "Fri, 16 Jan 2026 14:25:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46646645\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+      "published": "Fri, 16 Jan 2026 21:42:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46652617\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LLM Structured Outputs Handbook",
+      "link": "https://nanonets.com/cookbooks/structured-llm-outputs",
+      "published": "Thu, 15 Jan 2026 16:46:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46635309\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "6-Day and IP Address Certificates Are Generally Available",
+      "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+      "published": "Fri, 16 Jan 2026 15:37:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46647491\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
