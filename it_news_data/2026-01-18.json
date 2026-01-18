@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-18",
+  "articles": [
+    {
+      "title": "미국 전력 수요가 2025년에 급증 – 태양광이 그중 61%를 담당",
+      "link": "https://news.hada.io/topic?id=25915",
+      "published": "2026-01-18T09:36:41+09:00",
+      "summary": "<ul>\n<li>2025년 미국의 <strong>전력 수요가 135테라와트시(TWh)</strong> 증가하며 3.1% 상승, 지난 10년 중 네 번째로 큰 연간 증가폭을 기록</li>\n<li>같은 해 <strong>태양광 발전량이 83TWh 늘어나며 2024년 대비 27% 증가</strong>, 전체 전력 수요 증가분의 61%를 충당</li>\n<li>\n<strong>텍사스·중서부·중대서�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ASCII 문자는 픽셀이 아니다: ASCII 렌더링의 심층 탐구",
+      "link": "https://news.hada.io/topic?id=25914",
+      "published": "2026-01-18T09:33:41+09:00",
+      "summary": "<ul>\n<li>이미지의 <strong>윤곽과 형태를 보존하는 ASCII 렌더링 기법</strong>을 개발해, 기존 방식의 흐릿한 가장자리 문제를 해결</li>\n<li>픽셀 단위의 단순 명암 매핑 대신, 각 <strong>문자의 시각적 형태(shape)</strong> 를 수치화해 매칭하는 <strong>고차원 벡터 기반 접근법</strong>을 사용</li>\n<li>문자별...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GraphQLite - Cypher 쿼리 언어와 내장 그래프 알고리듬을 지원하는 SQLite 확장",
+      "link": "https://news.hada.io/topic?id=25913",
+      "published": "2026-01-18T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>SQLite</strong>에 <strong>그래프 DB 기능을 추가</strong>하기 위해 개발된 확장 모듈로, <strong>Cypher 쿼리 언어</strong> 지원</li>\n<li>단일 파일 기반의 경량형 DB인 SQLite 환경에서 <strong>관계형 + 그래프형 데이터 모델링</strong>을 동시에 수행 가능</li>\n<li>\n<strong>MATCH, CREATE,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: K-뷰티 수출 데이터를 한눈에 보는 대시보드",
+      "link": "https://news.hada.io/topic?id=25912",
+      "published": "2026-01-18T09:07:25+09:00",
+      "summary": "<blockquote>\n<p>rjeeling 님 피드백을 반영하여 Show GN 카테고리에 재업로드합니다. 조언 감사합니다!</p>\n</blockquote>\n<p>2월 졸업을 앞둔 경제학도이자, 6개월간의 MS AI교육 과정을 거쳐 K-뷰티 대시보드를 1인 개발하고 있습니다. 경제학 전공자로서 AI사이드 프로젝트로 시계열 모델(Prophet)에 구글 트렌드와",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "델 UltraSharp 52 썬더볼트 허브 모니터",
+      "link": "https://news.hada.io/topic?id=25911",
+      "published": "2026-01-18T06:38:09+09:00",
+      "summary": "<ul>\n<li>6K <strong>울트라와이드 커브드 디스플레이</strong>로 멀티태스킹과 시각적 선명도를 극대화한 모델</li>\n<li>\n<strong>120Hz 주사율</strong>과 <strong>IPS Black 패널 기술</strong>을 적용해 색 정확도와 명암비를 향상</li>\n<li>\n<strong>99% DCI-P3</strong>, <strong>100% sRGB</strong>, <strong>100...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Why Silicon Valley is really talking about fleeing California (it’s not the 5%)",
+      "link": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
+      "published": "Sun, 18 Jan 2026 01:17:11 +0000",
+      "summary": "If you&#8217;ve been following the billionaire exodus from California with some confusion, here&#8217;s what&#8217;s actually driving the nervousness: it&#8217;s not the 5% rate. As highlighted Friday in the New York Post, the proposed wealth tax would hit founders on their voting shares rather than",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Who gets to inherit the stars? A space ethicist on what we’re not talking about",
+      "link": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
+      "published": "Sat, 17 Jan 2026 22:45:09 +0000",
+      "summary": "While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it’s worth remembering there are no oceans or mountains or chirpy birds in space. It's “not nice up there,” said Rubenstein. “It is not nice at all.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid",
+      "link": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
+      "published": "Sat, 17 Jan 2026 17:30:00 +0000",
+      "summary": "Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's actions.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Oshen built the first ocean robot to collect data in a Category 5 hurricane",
+      "link": "https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/",
+      "published": "Sat, 17 Jan 2026 16:00:00 +0000",
+      "summary": "Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+      "published": "Sat, 17 Jan 2026 08:26:08 +0000",
+      "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+      "link": "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1",
+      "published": "Sat, 17 Jan 2026 23:47:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46663338\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A programming language based on grammatical cases of Turkish",
+      "link": "https://github.com/kip-dili/kip",
+      "published": "Sat, 17 Jan 2026 20:44:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46661897\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "link": "https://alexharri.com/blog/ascii-rendering",
+      "published": "Sat, 17 Jan 2026 11:15:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46657122\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xous Operating System",
+      "link": "https://xous.dev/",
+      "published": "Wed, 14 Jan 2026 17:29:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46619059\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We put Claude Code in Rollercoaster Tycoon",
+      "link": "https://labs.ramp.com/rct",
+      "published": "Mon, 12 Jan 2026 14:28:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46588972\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
