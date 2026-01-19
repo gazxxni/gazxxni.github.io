@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-19",
+  "articles": [
+    {
+      "title": "Ask HN: 소프트웨어 스타트업, 지금도 할 만한가요?",
+      "link": "https://news.hada.io/topic?id=25953",
+      "published": "2026-01-19T10:36:02+09:00",
+      "summary": "<ul>\n<li>소프트웨어에서 <strong>해자(moat)</strong> 가 약해졌고 <strong>대기업이 빠르게 복제할수 있기 때문</strong>에 걱정이라는 질문에 대한 답변들</li>\n<li>기능이 아니라 <strong>실행·유통·신뢰·워크플로 이해</strong>가 핵심 경쟁력이 되면서 해자가 이동했음</li>\n<li>대기업보다 더 현실적인 위협으로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소셜 파일시스템",
+      "link": "https://news.hada.io/topic?id=25952",
+      "published": "2026-01-19T10:33:06+09:00",
+      "summary": "<ul>\n<li>\n<strong>파일 중심 개인 컴퓨팅</strong>의 개념을 <strong>소셜 컴퓨팅</strong>으로 확장해, 사용자가 만든 모든 콘텐츠를 앱이 아닌 자신이 소유하는 구조로 설명</li>\n<li>AT 프로토콜을 기반으로, <strong>앱 간 데이터 상호운용</strong>을 가능하게 하는 <strong>분산형 소셜 파일시스템</strong> 개념...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code로 롤러코스터 타이쿤을 플레이해봤어요",
+      "link": "https://news.hada.io/topic?id=25951",
+      "published": "2026-01-19T10:19:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>클로드 코드</strong>를 오픈소스 게임 <strong>RollerCoaster Tycoon 2(OpenRCT2)</strong> 에 통합해, AI가 실제로 놀이공원을 운영하도록 실험한 프로젝트</li>\n<li>AI는 <strong>재정, 손님 불만, 놀이기구 고장 데이터</strong> 등 100여 개 지표를 분석해, 음료 매대 설치·직원 고용·입장료 조정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "노벨상과 수상자는 분리될 수 없다",
+      "link": "https://news.hada.io/topic?id=25950",
+      "published": "2026-01-19T10:02:42+09:00",
+      "summary": "<ul>\n<li>\n<strong>노벨평화상 메달과 증서</strong>는 수상 사실을 상징하는 물리적 표식이며, 상의 <strong>명예와 인정은 수상자와 영구히 연결</strong>됨</li>\n<li>수상자는 상이 발표된 이후 <strong>타인과 상을 공유하거나 양도할 수 없으며</strong>, 노벨평화상은 <strong>취소될 수 없음</strong>\n</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 에이전트를 위한 좋은 스펙 작성법",
+      "link": "https://news.hada.io/topic?id=25949",
+      "published": "2026-01-19T10:02:02+09:00",
+      "summary": "<ul>\n<li>AI 코딩 에이전트에게 방대한 스펙을 한꺼번에 던지면 제대로 작동하지 않으며, 핵심은 <strong>스마트 스펙 작성</strong>에 있음</li>\n<li>고수준 비전을 먼저 제시하고 AI가 세부 계획을 확장하도록 한 뒤, <strong>Plan Mode</strong>에서 읽기 전용으로 계획을 검토하고 코드 작성 단계로 전환하는 방식 권...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
+      "link": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "published": "Sun, 18 Jan 2026 22:15:17 +0000",
+      "summary": "Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It&#8217;s a move sure to turn heads in Silicon Valley. Why? Because venture capital firms have historically avoided backing competing companies in the sam",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: ‘Physical AI’ enters the hype machine",
+      "link": "https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/",
+      "published": "Sun, 18 Jan 2026 17:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Threads edges out X in daily mobile users, new data shows",
+      "link": "https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/",
+      "published": "Sun, 18 Jan 2026 17:00:00 +0000",
+      "summary": "Threads’ daily mobile usage has quietly surpassed X as Meta leans on cross-promotion, creator tools and fast feature rollouts — even as X faces fresh controversies",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How YC-backed Bucket Robotics survived its first CES",
+      "link": "https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/",
+      "published": "Sun, 18 Jan 2026 16:10:00 +0000",
+      "summary": "Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+      "published": "Sun, 18 Jan 2026 15:30:00 +0000",
+      "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+      "published": "Sun, 18 Jan 2026 17:40:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46670024\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Flux 2 Klein pure C inference",
+      "link": "https://github.com/antirez/flux2.c",
+      "published": "Sun, 18 Jan 2026 18:01:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46670279\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+      "link": "https://git.qt.io/cradam/fil-qt",
+      "published": "Fri, 16 Jan 2026 13:19:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46646080\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Social Filesystem",
+      "link": "https://overreacted.io/a-social-filesystem/",
+      "published": "Sun, 18 Jan 2026 08:18:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46665839\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wine 11.0",
+      "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
+      "published": "Wed, 14 Jan 2026 03:08:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46611816\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
