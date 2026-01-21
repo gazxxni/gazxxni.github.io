@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-21",
+  "articles": [
+    {
+      "title": "Nova Launcher가 Facebook 및 Google 광고 추적기를 추가",
+      "link": "https://news.hada.io/topic?id=26001",
+      "published": "2026-01-21T09:55:12+09:00",
+      "summary": "<ul>\n<li>인기 Android 런처 <strong>Nova Launcher의 최신 버전</strong>이 <strong>Facebook Ads와 Google AdMob 추적 코드</strong>를 포함하게 됨</li>\n<li>\n<strong>Exodus Privacy 보고서</strong>에 따르면 추적기 수가 <strong>2개에서 6개로</strong>, 권한 수가 <strong>30개에서 36개로 증가</strong>\n</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2025년 포르쉐, 유럽에서 전기화 차량이 내연기관차보다 더 많이 판매됨",
+      "link": "https://news.hada.io/topic?id=26000",
+      "published": "2026-01-21T09:52:12+09:00",
+      "summary": "<ul>\n<li>2025년 포르쉐는 전 세계 고객에게 <strong>279,449대의 스포츠카를 인도</strong>, 전년 대비 10% 감소</li>\n<li>\n<strong>Macan</strong>이 84,328대로 가장 많이 판매된 모델 라인으로, 이 중 절반 이상이 <strong>전기차 버전</strong>\n</li>\n<li>전 세계 판매 차량 중 <strong>34.4%가 전기화 모델</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 \"유용한 존재가 되는 것\"에 중독되어 있다",
+      "link": "https://news.hada.io/topic?id=25999",
+      "published": "2026-01-21T09:49:12+09:00",
+      "summary": "<ul>\n<li>소프트웨어 엔지니어로서 현재 업계가 어려운 시기임에도 불구하고 <strong>문제 해결과 유용함에서 오는 만족감</strong>으로 여전히 일을 즐기고 있음</li>\n<li>단순히 코드를 작성하는 것이 아니라, <strong>문제를 해결하고 다른 사람에게 도움이 되는 과정</strong>에서 가장 큰 만족을 느낌</li>\n<li>고골...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Shadcn 라디오 버튼의 과도한 복잡성",
+      "link": "https://news.hada.io/topic?id=25998",
+      "published": "2026-01-21T09:46:12+09:00",
+      "summary": "<ul>\n<li>웹 브라우저에 기본 내장된 <strong>라디오 버튼</strong>이 단순한 HTML 요소임에도, Shadcn UI 라이브러리에서는 이를 여러 계층의 React 컴포넌트로 재구성함</li>\n<li>Shadcn의 <code>&lt;RadioGroup&gt;</code>과 <code>&lt;RadioGroupItem&gt;</code>은 <strong>Radix UI</strong>의 컴포넌트를 다시 감싸...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Docker 베이스 이미지 이해하기: 컨테이너 속 Ubuntu는 진짜 Ubuntu가 아님",
+      "link": "https://news.hada.io/topic?id=25997",
+      "published": "2026-01-21T09:46:01+09:00",
+      "summary": "<ul>\n<li>\n<code>docker run ubuntu</code>를 실행해도 <strong>호스트 Linux 커널을 공유</strong>하며 Ubuntu는 <strong>사용자 공간 도구만 제공</strong>함</li>\n<li>\n<code>uname -r</code> 결과가 <strong>호스트 커널 버전</strong>으로 표시되고, <code>/etc/os-release</code>만 Ubuntu 정보로 나타남</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+      "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "published": "Wed, 21 Jan 2026 01:39:58 +0000",
+      "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+      "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+      "published": "Wed, 21 Jan 2026 00:47:09 +0000",
+      "summary": "At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "One-time hot insurance tech Ethos poised to be first tech IPO of the year",
+      "link": "https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/",
+      "published": "Tue, 20 Jan 2026 23:36:32 +0000",
+      "summary": "Ethos was backed by a who's who of VCs and celebs through 2021. It is currently profitable, it says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+      "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+      "published": "Tue, 20 Jan 2026 23:29:56 +0000",
+      "summary": "The feature is designed to stop problematic content from being delivered to users under the age of 18.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+      "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+      "published": "Tue, 20 Jan 2026 22:10:41 +0000",
+      "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "published": "Tue, 20 Jan 2026 18:16:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Chill: Fix Claude Code's Flickering in Terminal",
+      "link": "https://github.com/davidbeesley/claude-chill",
+      "published": "Tue, 20 Jan 2026 23:26:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46699072\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "California is free of drought for the first time in 25 years",
+      "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+      "published": "Tue, 20 Jan 2026 22:39:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46698660\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Instabridge has acquired Nova Launcher",
+      "link": "https://novalauncher.com/nova-is-here-to-stay",
+      "published": "Tue, 20 Jan 2026 19:06:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46696357\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
+      "link": "https://github.com/mastra-ai/mastra",
+      "published": "Tue, 20 Jan 2026 16:38:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46693959\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
