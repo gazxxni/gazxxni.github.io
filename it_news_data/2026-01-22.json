@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-22",
+  "articles": [
+    {
+      "title": "Show GN: Grovr - Git Worktree를 쉽게 관리할 수 있는 데스크톱 애플리케이션",
+      "link": "https://news.hada.io/topic?id=26029",
+      "published": "2026-01-22T10:39:07+09:00",
+      "summary": "<p>AI로 여러 작업을 병렬로 진행하시는 분들은 Git Worktree를 많이 활용하실 텐데요.</p>\n<p>근데 Worktree가 많아지면 관리가 어려워집니다. 어떤 작업이 어디 있는지, 티켓이 뭐였는지, PR은 올렸는지 한눈에 파악하기 힘들고, 브랜치 생성이나 Worktree 전환도 매번 번거롭더라고요.</p>\n<p>그래서 Worktree를 좀 더",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "cURL, 버그 바운티 제도 폐지",
+      "link": "https://news.hada.io/topic?id=26028",
+      "published": "2026-01-22T09:46:27+09:00",
+      "summary": "<ul>\n<li>오픈소스 라이브러리 <strong>cURL</strong>이 AI가 생성한 무의미한 버그 리포트의 급증을 막기 위해 <strong>버그 바운티 제도</strong>를 종료함</li>\n<li>유지관리자 <strong>Daniel Stenberg</strong>는 AI가 만든 보고서 대부분이 <strong>“순수한 허위”</strong> 이며, 검증에 많은 시간이 소요된다고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ChartGPU – WebGPU 기반 고성능 차트 라이브러리 (1M 포인트를 60fps로 렌더링)",
+      "link": "https://news.hada.io/topic?id=26027",
+      "published": "2026-01-22T09:43:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>WebGPU</strong>를 활용해 대규모 데이터셋을 부드럽게 렌더링하는 <strong>오픈소스 차트 라이브러리</strong>임</li>\n<li>\n<strong>TypeScript</strong>로 작성되었으며, <strong>라인·영역·막대·산점도·파이·캔들스틱</strong> 등 다양한 시리즈 타입을 지원</li>\n<li>\n<strong>호버 하이라이트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic이 성능평가 테이크홈 과제를 오픈소스로 공개",
+      "link": "https://news.hada.io/topic?id=26026",
+      "published": "2026-01-22T09:40:26+09:00",
+      "summary": "<ul>\n<li>이 과제를 풀어서 <strong>Claude Opus 4.5의 최고 성능(1487 사이클)</strong> 을 능가하면 Anthropic에 코드와 이력서를 제출할 수 있음</li>\n<li>초기 버전은 4시간 제한이었으나, 이후 Opus 4가 대부분의 사람을 이겨버려서 <strong>2시간 제한 버전</strong>으로 변경</li>\n</ul>\n<hr />\n<h2>Anthropic의 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽 전역을 아우르는 새로운 법적 기업 형태 ‘EU–INC’ 제안",
+      "link": "https://news.hada.io/topic?id=26025",
+      "published": "2026-01-22T09:37:26+09:00",
+      "summary": "<ul>\n<li>\n<strong>EU–INC</strong>는 유럽 전역에서 통일된 법적 기업 형태를 제공해 <strong>스타트업의 범유럽 확장</strong>을 가능하게 하는 제안임</li>\n<li>하나의 <strong>EU 차원의 중앙 등록부</strong>, <strong>표준화된 투자 문서</strong>, <strong>EU 공통 스톡옵션 체계</strong>를 포함함</li>\n<li>유...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "published": "Thu, 22 Jan 2026 00:20:18 +0000",
+      "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+      "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+      "published": "Wed, 21 Jan 2026 23:24:14 +0000",
+      "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A timeline of the US semiconductor market in 2025",
+      "link": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
+      "published": "Wed, 21 Jan 2026 22:46:13 +0000",
+      "summary": "From leadership changes at legacy semiconductor companies to wishy washy policy around chip exports, a lot happened last year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow",
+      "link": "https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/",
+      "published": "Wed, 21 Jan 2026 22:33:47 +0000",
+      "summary": "X says the new feature, similar to Bluesky's Starter Packs, will arrive in the coming weeks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
+      "link": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+      "published": "Wed, 21 Jan 2026 22:19:17 +0000",
+      "summary": "The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "published": "Thu, 22 Jan 2026 01:11:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "published": "Thu, 22 Jan 2026 01:11:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+      "link": "https://github.com/freedomofpress/dangerzone",
+      "published": "Wed, 21 Jan 2026 22:54:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+      "link": "https://github.com/ChartGPU/ChartGPU",
+      "published": "Wed, 21 Jan 2026 14:54:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46706528\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude's new constitution",
+      "link": "https://www.anthropic.com/news/claude-new-constitution",
+      "published": "Wed, 21 Jan 2026 16:04:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46707572\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
