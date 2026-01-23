@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-23",
+  "articles": [
+    {
+      "title": "Tokuin - LLM 토큰 사용량 및 API 비용 추정용 Rust CLI 도구",
+      "link": "https://news.hada.io/topic?id=26045",
+      "published": "2026-01-23T09:44:24+09:00",
+      "summary": "<ul>\n<li>OpenAI, Claude, Gemini, OpenRouter 등 여러 LLM 제공자/모델에 대해 <strong>토큰 수·API 비용</strong>을 빠르게 정밀 추정하는 크로스플랫폼 CLI 툴</li>\n<li>모델별 토큰 계산 지원 및 모델별 토큰 단가를 기반으로 <strong>API 호출 비용 자동 산출</strong>\n</li>\n<li>단일 프롬프트뿐 아니라 <strong>J...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "오픈소스 프로젝트가 더 이상 외부 기여를 받지 않겠다고 선언",
+      "link": "https://news.hada.io/topic?id=26044",
+      "published": "2026-01-22T21:15:44+09:00",
+      "summary": "<p>스타 44.7k규모의 오픈소스 tldraw가 issues, bug reports 그리고 discussions을 제외한 외부 기여자의 PR은 자동으로 닫는 정책을 도입했습니다.<br />\n맥락과 코드베이스 이해없이 무분별하게 AI-generated된 PR로 인해 받는 고통이 원인입니다.<br />\n이 정책은 임시고, Github이 기여를 관리할 수 있는 좋은 툴을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: FastAPI-fastkit: Python & FastAPI 입문자를 위한 올인원 프로젝트 스캐폴딩 도구",
+      "link": "https://news.hada.io/topic?id=26043",
+      "published": "2026-01-22T17:46:13+09:00",
+      "summary": "<p>안녕하세요, 요즘 AI 개발 분야가 뜨겁다 못해 용암 감자로 부상하면서 Python 백엔드 프레임워크인 FastAPI도 정말 많은 유입이 생겼는데요,</p>\n<p>저는 오랫동안 FastAPI를 사용하고 사랑해온 개발자로서  FastAPI에 입문하는 개발자분들을 돕고 싶은 마음으로 이 프로젝트를 개발하게 되었습니다.</p>\n<p>FastAPI",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Skip이 이제 무료, 오픈소스로 전환",
+      "link": "https://news.hada.io/topic?id=26042",
+      "published": "2026-01-22T16:32:59+09:00",
+      "summary": "<ul>\n<li>Swift와 SwiftUI 기반으로 <strong>iOS와 Android 앱을 하나의 코드베이스로 개발</strong>할 수 있는 <strong>크로스플랫폼 네이티브 프레임워크</strong>\n</li>\n<li>\n<strong>Skip 1.7 버전부터 모든 라이선스 제약이 제거되어</strong>, 누구나 무료로 사용할 수 있는 <strong>완전한 오픈소스 도구</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이렇게 높은 퀄리티의 요약 서비스가 무료라고?",
+      "link": "https://news.hada.io/topic?id=26041",
+      "published": "2026-01-22T15:36:28+09:00",
+      "summary": "<p>메이커 소개</p>\n<p>Q. asbubam 님 안녕하세요. 본인 소개 부탁드려요</p>\n<p>A. 안녕하세요. SecondB.ai 를 개발하고 있는 @asbubam 입니다. 아스부밤이라고 읽습니다.</p>\n<p>Q. SecondB.ai 서비스 소개를 부탁드려요</p>\n<p>A. SecondB.ai(세컨비) 는 Youtube 영상과, 웹 사이트, PDF 문서를 읽기 쉬운 문장의 형태",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+      "link": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
+      "published": "Fri, 23 Jan 2026 01:31:54 +0000",
+      "summary": "Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+      "published": "Fri, 23 Jan 2026 00:52:33 +0000",
+      "summary": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
+      "link": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
+      "published": "Fri, 23 Jan 2026 00:27:28 +0000",
+      "summary": "Vimeo is in the process of laying off some of its global staff after being acquired last year by Bending Spoons for $1.38B.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
+      "link": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
+      "published": "Thu, 22 Jan 2026 23:55:44 +0000",
+      "summary": "The factory musical chairs reflect an economic and political environment, shaped by the Trump administration's tariff policy and its decision to end the federal EV tax credit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank",
+      "link": "https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/",
+      "published": "Thu, 22 Jan 2026 23:46:19 +0000",
+      "summary": "Before everyone sharpens their knives, consider that for the VCs who backed Brex at its outset, the sale is a triumph.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "link": "https://gptzero.me/news/neurips/",
+      "published": "Thu, 22 Jan 2026 15:20:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46720395\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Capital One to acquire Brex for $5.15B",
+      "link": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+      "published": "Thu, 22 Jan 2026 21:23:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46725288\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "published": "Thu, 22 Jan 2026 16:52:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "link": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "published": "Thu, 22 Jan 2026 19:27:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46723990\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I was banned from Claude for scaffolding a Claude.md file?",
+      "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
+      "published": "Thu, 22 Jan 2026 18:38:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46723384\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
