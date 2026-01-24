@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-24",
+  "articles": [
+    {
+      "title": "라디오파에 반응하는 조명 제작 [영상]",
+      "link": "https://news.hada.io/topic?id=26084",
+      "published": "2026-01-24T09:54:41+09:00",
+      "summary": "<ul>\n<li>\n<strong>라디오파 신호에 반응해 빛의 세기를 변화시키는 조명 장치</strong>를 직접 제작한 영상</li>\n<li>주변의 <strong>무선 주파수(RF)</strong> 를 감지해 시각적으로 표현하는 구조</li>\n<li>회로와 센서가 <strong>라디오 신호의 세기 변화</strong>를 실시간으로 감지해 LED 밝기를 조절</li>\n<li>영...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Proton 스팸과 AI 동의 문제",
+      "link": "https://news.hada.io/topic?id=26083",
+      "published": "2026-01-24T09:51:41+09:00",
+      "summary": "<ul>\n<li>이메일 서비스 <strong>Proton</strong>이 자사 AI 기능 <strong>Lumo</strong> 홍보 메일을 발송했으나, 사용자가 해당 주제 구독을 명확히 해제한 상태였음에도 수신됨</li>\n<li>사용자는 Proton 지원팀에 문의했으나, 초기 대응은 기존 구독 해제 절차를 반복 안내하는 수준에 그쳤고, 이후 “비즈니스용 뉴...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ghostty의 AI 사용 정책",
+      "link": "https://news.hada.io/topic?id=26082",
+      "published": "2026-01-24T09:48:41+09:00",
+      "summary": "<ul>\n<li>Ghostty 프로젝트는 외부 기여자에게 <strong>엄격한 AI 사용 규칙</strong>을 적용하며, 모든 AI 활용은 반드시 공개해야 함</li>\n<li>\n<strong>AI가 생성한 Pull Request는 승인된 이슈에만 제출 가능</strong>하며, 미승인 이슈나 비공개 AI 사용이 의심될 경우 거절됨</li>\n<li>\n<strong>AI 작성 코드는 반...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마이크로소프트, FBI에 BitLocker 복구 키 제공해 용의자 노트북 해제",
+      "link": "https://news.hada.io/topic?id=26081",
+      "published": "2026-01-24T09:45:41+09:00",
+      "summary": "<ul>\n<li>미국 연방수사국(FBI)이 <strong>BitLocker로 암호화된 노트북 3대의 하드 드라이브를 해제하기 위해 복구 키를 요청</strong>, 마이크로소프트가 이를 제공함</li>\n<li>BitLocker는 <strong>Windows 기기에서 기본 활성화되는 전체 디스크 암호화 기능</strong>으로, 원래는 소유자 외 접근을 막기 위한 보안 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽의 디지털 서비스 대체제들",
+      "link": "https://news.hada.io/topic?id=26080",
+      "published": "2026-01-24T09:42:41+09:00",
+      "summary": "<ul>\n<li>유럽 내 <strong>클라우드·SaaS 등 디지털 서비스의 대체 옵션</strong>을 찾을 수 있도록 정리한 플랫폼</li>\n<li>\n<strong>현지 기업을 이용</strong>함으로써 세금 환류와 고용 창출 효과를 기대할 수 있음</li>\n<li>\n<strong>GDPR 등 데이터 보호 규정</strong>을 준수하는 유럽 기업의 장점을 강조</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "published": "Sat, 24 Jan 2026 00:04:45 +0000",
+      "summary": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo probed by National Transportation Safety Board over illegal school bus behavior",
+      "link": "https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/",
+      "published": "Fri, 23 Jan 2026 21:50:47 +0000",
+      "summary": "The NTSB joins the National Highway Traffic Safety Administration in investigating Waymo vehicles illegally passing stopped school buses.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Rippling/Deel corporate spying scandal may have taken another wild turn",
+      "link": "https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/",
+      "published": "Fri, 23 Jan 2026 21:13:28 +0000",
+      "summary": "The Department of Justice may be conducting a criminal investigation. This is arguably the biggest drama between two HR startups ever.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
+      "link": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+      "published": "Fri, 23 Jan 2026 20:31:27 +0000",
+      "summary": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+      "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+      "published": "Fri, 23 Jan 2026 20:17:24 +0000",
+      "summary": "Security researchers have attributed the attempted use of destructive \"wiper\" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power outages in neighboring Ukraine.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "published": "Fri, 23 Jan 2026 20:42:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46737630\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New YC homepage",
+      "link": "https://www.ycombinator.com/",
+      "published": "Fri, 23 Jan 2026 18:08:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46735644\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "link": "https://maggieappleton.com/gastown",
+      "published": "Fri, 23 Jan 2026 16:19:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46734302\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Some C habits I employ for the modern day",
+      "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "published": "Mon, 19 Jan 2026 08:03:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46676125\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Proof of Corn",
+      "link": "https://proofofcorn.com/",
+      "published": "Fri, 23 Jan 2026 17:56:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46735511\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
