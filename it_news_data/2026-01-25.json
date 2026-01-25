@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-25",
+  "articles": [
+    {
+      "title": "BirdyChat, 유럽 최초의 WhatsApp 상호운용 채팅 앱으로 출시",
+      "link": "https://news.hada.io/topic?id=26105",
+      "published": "2026-01-25T09:49:24+09:00",
+      "summary": "<ul>\n<li>\n<strong>BirdyChat</strong>이 <strong>Digital Markets Act(DMA)</strong> 하에서 <strong>WhatsApp과 메시지를 주고받을 수 있는 유럽 최초의 채팅 앱</strong>으로 발표됨</li>\n<li>이번 상호운용 기능으로 <strong>BirdyChat 사용자</strong>는 <strong>WhatsApp 사용자와 전화번호만으로 직접 대화</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "영국 전화선으로 기가비트 이더넷 구현하기",
+      "link": "https://news.hada.io/topic?id=26103",
+      "published": "2026-01-25T09:43:24+09:00",
+      "summary": "<ul>\n<li>기존 <strong>전화선 배선</strong>을 활용해 <strong>기가비트 이더넷 연결</strong>을 성공적으로 구축한 사례</li>\n<li>기존 <strong>전력선 어댑터(G.hn 2400)</strong> 는 속도와 안정성 모두 한계가 있었으며, 이를 대체할 방법으로 전화선을 재활용</li>\n<li>독일 제조사 <strong>Gigacopper G4201TM</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MS는 FBI 요청 시 Windows PC 데이터 암호화 키를 제공함",
+      "link": "https://news.hada.io/topic?id=26102",
+      "published": "2026-01-25T09:40:24+09:00",
+      "summary": "<ul>\n<li>Windows 11은 <strong>Microsoft 계정 연동을 강제</strong>하며, 이로 인해 <strong>BitLocker 암호화 키가 자동으로 클라우드에 백업</strong>됨</li>\n<li>Microsoft는 <strong>법적 명령이 있을 경우 FBI에 해당 키를 제공</strong>한다고 확인, 이는 PC 데이터 복호화와 접근을 가능하게 함</li>\n<li>실제로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "남미니애폴리스에서 연방 요원에게 사살된 남성",
+      "link": "https://news.hada.io/topic?id=26101",
+      "published": "2026-01-25T09:37:24+09:00",
+      "summary": "<ul>\n<li>남미니애폴리스에서 <strong>연방 요원들이 한 남성을 사살</strong>하며 현장에서 시위대와의 충돌이 발생</li>\n<li>사망자는 <strong>37세의 알렉스 제프리 프레티</strong>, 미니애폴리스 거주자로 <strong>보훈병원 중환자실 간호사</strong>로 확인</li>\n<li>\n<strong>국토안보부(DHS)</strong> 는 프레티...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code의 새로운 숨겨진 기능 Swarms, 멀티 에이전트 팀 모드 공개",
+      "link": "https://news.hada.io/topic?id=26100",
+      "published": "2026-01-25T09:35:28+09:00",
+      "summary": "<ul>\n<li>Swarms는 Claude Code 내부에 존재하지만 공개되지 않았던 <strong>멀티 에이전트 오케스트레이션</strong> 기능</li>\n<li>사용자는 더 이상 단일 AI 코더와 대화하지 않고 <strong>팀 리드 역할의 AI와 상호작용</strong>\n</li>\n<li>팀 리드는 직접 코드를 작성하지 않고 <strong>계획 수립과 작업 분배, 결과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gmail is having issues with spam and misclassification",
+      "link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+      "published": "Sat, 24 Jan 2026 22:58:00 +0000",
+      "summary": "If your Gmail account doesn’t seem to be working properly today, you’re not alone.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "published": "Sat, 24 Jan 2026 20:00:46 +0000",
+      "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "published": "Sat, 24 Jan 2026 18:21:21 +0000",
+      "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning \"expedition.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange",
+      "link": "https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/",
+      "published": "Sat, 24 Jan 2026 18:06:33 +0000",
+      "summary": "The Securities and Exchange Commission has dropped its lawsuit against Gemini, the crypto exchange founded by Trump backers Cameron and Tyler Winklevoss.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "published": "Sat, 24 Jan 2026 17:00:00 +0000",
+      "summary": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "published": "Sat, 24 Jan 2026 19:04:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46746476\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "published": "Sat, 24 Jan 2026 23:55:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46749053\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "published": "Sun, 25 Jan 2026 00:14:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46749198\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "published": "Sat, 24 Jan 2026 20:03:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46747119\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tesla unsupervised Robotaxis are nowhere to be found",
+      "link": "https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m",
+      "published": "Sun, 25 Jan 2026 00:33:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46749319\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
