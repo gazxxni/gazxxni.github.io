@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-26",
+  "articles": [
+    {
+      "title": "도이체 텔레콤, 인터넷 속도 인위적 저하로 비판받다",
+      "link": "https://news.hada.io/topic?id=26125",
+      "published": "2026-01-26T09:48:52+09:00",
+      "summary": "<ul>\n<li>\n<strong>Deutsche Telekom</strong>이 특정 서비스의 인터넷 속도를 인위적으로 제한하고 있다는 주장이 제기됨</li>\n<li>\n<strong>Epicenter.works</strong>, <strong>독일 시민자유협회</strong>, <strong>소비자연합</strong>, <strong>스탠퍼드대 바르바라 판 셰윅 교수</strong> 등이 독일 연방네트워크청...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: AI 오늘 점심 뭐 먹지?",
+      "link": "https://news.hada.io/topic?id=26124",
+      "published": "2026-01-26T09:48:34+09:00",
+      "summary": "<p>오늘 뭐 먹을지 고민될 때,<br />\nAI가 취향·상황에 맞춰 점심 메뉴를 추천해드립니다.<br />\n선택만 하세요. 고민은 AI가 대신합니다. 🍽️</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "경영학 저널에 실린 결함 있는 논문이 6천 회 이상 인용됨",
+      "link": "https://news.hada.io/topic?id=26123",
+      "published": "2026-01-26T09:45:52+09:00",
+      "summary": "<ul>\n<li>\n<strong>기업 지속가능성과 주가 성과의 상관관계</strong>를 주장한 논문이 6천 회 이상 인용되었으나, 복제 시도에서 <strong>중대한 오류와 허위 기술</strong>이 드러남</li>\n<li>연구 복제자 Andy King은 저자와 학계, 저널, 대학이 <strong>오류 수정과 검증 요청을 반복적으로 무시</strong>했다고 밝힘...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Clawdbot - 모든 OS와 플랫폼에서 작동하는 개인용 AI 비서",
+      "link": "https://news.hada.io/topic?id=26122",
+      "published": "2026-01-26T09:45:02+09:00",
+      "summary": "<ul>\n<li>사용자 컴퓨터에서 실행되어 <strong>쉘 &amp; 파일 시스템 접근권한</strong> 및 <strong>컴퓨터 제어 능력</strong>을 가진 <strong>LLM 기반 에이전트</strong>\n</li>\n<li>인박스 정리, 메일 보내기, 캘린더 관리, 브라우징(입력 &amp; 데이터 추출) 등 모든 제어 가능</li>\n<li>별도 앱 설치 없이 기존에 사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ICE가 Medicaid 데이터를 활용하는 Palantir 도구 사용",
+      "link": "https://news.hada.io/topic?id=26121",
+      "published": "2026-01-26T09:42:52+09:00",
+      "summary": "<ul>\n<li>미국 이민세관단속국(ICE)이 <strong>Palantir의 ELITE 시스템</strong>을 이용해 <strong>Medicaid 데이터를 포함한 정부 정보</strong>를 기반으로 추방 대상자를 식별하고 있음</li>\n<li>이 도구는 <strong>지도 기반 인터페이스</strong>로 잠재적 추방 대상자의 위치를 표시하고, 개인별 <strong>프로필과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+      "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "published": "Sun, 25 Jan 2026 23:20:36 +0000",
+      "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "published": "Sun, 25 Jan 2026 22:35:53 +0000",
+      "summary": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "published": "Sun, 25 Jan 2026 22:11:06 +0000",
+      "summary": "Humans&#038;, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "published": "Sun, 25 Jan 2026 21:53:42 +0000",
+      "summary": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
+      "link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
+      "published": "Sun, 25 Jan 2026 17:06:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
+      "link": "https://www.iranintl.com/en/202601255198",
+      "published": "Mon, 26 Jan 2026 00:40:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46760329\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Clawdbot - open source personal AI assistant",
+      "link": "https://github.com/clawdbot/clawdbot",
+      "published": "Mon, 26 Jan 2026 00:27:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46760237\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "First, make me care",
+      "link": "https://gwern.net/blog/2026/make-me-care",
+      "published": "Sun, 25 Jan 2026 19:03:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "published": "Mon, 26 Jan 2026 00:10:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A macOS app that blurs your screen when you slouch",
+      "link": "https://github.com/tldev/posturr",
+      "published": "Sun, 25 Jan 2026 15:34:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
