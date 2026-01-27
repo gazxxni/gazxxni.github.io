@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-27",
+  "articles": [
+    {
+      "title": "Show GN: 연저계좌 리밸런싱하다가 지쳐서 리밸런서 서비스를 만들었습니다 : Q-Balancer",
+      "link": "https://news.hada.io/topic?id=26157",
+      "published": "2026-01-27T10:47:32+09:00",
+      "summary": "<p>제 한국투자증권 연저계좌를 손으로 리밸런싱하다가 너무 힘들고 현타가 와서 리밸런서를 만들게 되었습니다.<br />\n(리밸런싱이 왜 힘드냐고 생각하실수 있는데, 시장가 매매는 하기 싫어서 지정가로 매매를 하려고 하면 체결이 잘 안되서 여러번 확인해야하고, 결국 다른일하다가 여러날 걸리는 경우가 많더라구요....</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이란의 인터넷 차단, 엘리트만 접속 가능한 영구적 ‘이중 인터넷’으로 전환 가능성",
+      "link": "https://news.hada.io/topic?id=26156",
+      "published": "2026-01-27T10:32:59+09:00",
+      "summary": "<ul>\n<li>이란 정부가 <strong>보안 심사를 통과한 소수 엘리트만 글로벌 웹에 접속</strong>할 수 있는 ‘이중 인터넷’ 체계를 구축 중임</li>\n<li>일반 시민 9천만 명은 <strong>국가 내부망(Intranet)</strong> 에 갇히며, ‘화이트 심 카드’를 가진 정권 인사만 무제한 접속 가능</li>\n<li>\n<strong>Barracks Inte...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 인프라로 재편되는 2026년 데이터 엔지니어링 트렌드",
+      "link": "https://news.hada.io/topic?id=26155",
+      "published": "2026-01-27T10:06:02+09:00",
+      "summary": "<ul>\n<li>데이터 인프라와 AI 인프라가 <strong>분리된 계층 구조에서 하나의 운영 평면으로 수렴</strong>하는 변화가 2026년을 관통함</li>\n<li>데이터 규모보다 <strong>실시간성·신선도</strong>가 AI 성능의 핵심 제약으로 떠오름</li>\n<li>기업 데이터의 <strong>80%를 차지하는 비정형·멀티모달 데이터</strong>가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MapLibre Tile 공개 - 현대적이고 효율적인 벡터 타일 포맷",
+      "link": "https://news.hada.io/topic?id=26154",
+      "published": "2026-01-27T09:57:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>MapLibre Tile(MLT)</strong> 은 기존 Mapbox Vector Tile(MVT)을 대체하는 새로운 <strong>차세대 벡터 타일 포맷</strong>으로, 대규모 지리공간 데이터 처리 효율을 높이기 위해 설계됨</li>\n<li>\n<strong>최대 6배 향상된 압축률</strong>과 <strong>SIMD 기반 빠른 디코딩 성능</strong>을 제공해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwen3-Max-Thinking 모델 공개",
+      "link": "https://news.hada.io/topic?id=26153",
+      "published": "2026-01-27T09:54:02+09:00",
+      "summary": "<ul>\n<li>대규모 강화학습과 파라미터 확장을 통해 <strong>사실 지식, 복잡한 추론, 인간 선호 정렬</strong> 등 여러 영역에서 성능을 높인 최신 <strong>추론 중심 모델</strong>\n</li>\n<li>19개 벤치마크에서 <strong>GPT-5.2-Thinking</strong>, <strong>Claude-Opus-4.5</strong>, <strong>Gemini 3 Pro</strong> ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
+      "link": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
+      "published": "Tue, 27 Jan 2026 01:30:00 +0000",
+      "summary": "Edenlux builds wearable tech to protect and train your eyes, inspired by its founder’s personal vision recovery.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+      "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+      "published": "Tue, 27 Jan 2026 01:30:00 +0000",
+      "summary": "SpotDraft now processes over 1 million contracts annually using its AI tool, with contract volumes up 173% year-over-year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google pays $68M to settle claims its voice assistant spied on users",
+      "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+      "published": "Tue, 27 Jan 2026 00:43:35 +0000",
+      "summary": "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of \"unlawful and intentional interception and recording of individuals’ confidential communications without their consent and subsequent unauthorized disclosure of those communications to third parties",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+      "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+      "published": "Tue, 27 Jan 2026 00:13:15 +0000",
+      "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp",
+      "link": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+      "published": "Mon, 26 Jan 2026 23:12:33 +0000",
+      "summary": "In the coming months, Meta is going to explore a premium experience on Instagram, Facebook, and WhatsApp that gives users access to special features and more control over how they share and connect, while keeping the core experiences free.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Television is 100 years old today",
+      "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+      "published": "Mon, 26 Jan 2026 14:41:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46766188\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "published": "Mon, 26 Jan 2026 19:19:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46770221\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI code and software craft",
+      "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+      "published": "Mon, 26 Jan 2026 18:04:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46769188\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Hidden Engineering of Runways",
+      "link": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+      "published": "Tue, 20 Jan 2026 16:52:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46694193\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "People who know the formula for WD-40",
+      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "published": "Mon, 26 Jan 2026 21:11:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46771599\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
