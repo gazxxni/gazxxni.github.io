@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-28",
+  "articles": [
+    {
+      "title": "기술의 사춘기",
+      "link": "https://news.hada.io/topic?id=26181",
+      "published": "2026-01-28T09:46:33+09:00",
+      "summary": "<ul>\n<li>인류가 <strong>‘강력한 AI’의 문턱</strong>에 서 있으며, 사회·정치·기술 체계가 이를 감당할 성숙도를 갖추지 못했을 수 있다는 경고</li>\n<li>AI 발전의 위험 논의에서 <strong>‘파멸론(doomerism)’을 피하고, 불확실성을 인정하며, 정밀하고 근거 기반의 개입</strong>이 필요함을 강조</li>\n<li>‘</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cloudflare가 Cloudflare Workers에 Matrix를 구현했다고 주장했지만 실제로는 그렇지 않음",
+      "link": "https://news.hada.io/topic?id=26180",
+      "published": "2026-01-28T09:45:53+09:00",
+      "summary": "<ul>\n<li>Cloudflare가 <strong>Matrix 프로토콜을 Cloudflare Workers에 구현했다</strong>고 발표했으나, 코드에는 핵심 기능이 빠져 있음</li>\n<li>코드 전반에 <strong>‘TODO: Check authorisation’</strong> 같은 미완성 주석이 다수 존재하며, <strong>서명 검증·인증 절차가 누락</strong>된 상태</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미네소타에서 ICE를 추적한 Signal 채팅방에 대해 FBI가 수사 착수",
+      "link": "https://news.hada.io/topic?id=26179",
+      "published": "2026-01-28T09:42:53+09:00",
+      "summary": "<ul>\n<li>\n<strong>FBI 국장 카시 파텔</strong>이 미네소타 주민들이 연방 이민단속국(ICE) 요원의 이동 정보를 공유한 <strong>Signal 단체 채팅방</strong>에 대해 수사를 시작했다고 발표</li>\n<li>파텔은 일부 주민이 요원의 <strong>차량 번호판과 위치 정보를 공유해 위험에 빠뜨렸는지</strong>를 조사 중이라고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "틱톡 이용자들이 ICE 비판 영상을 올릴 수 없다고 주장, 회사는 기술적 문제라고 해명",
+      "link": "https://news.hada.io/topic?id=26178",
+      "published": "2026-01-28T09:39:53+09:00",
+      "summary": "<ul>\n<li>여러 <strong>틱톡 이용자들이 ICE(이민세관단속국)</strong> 관련 영상을 올리지 못했다고 보고하며 <strong>검열 의혹</strong>이 제기됨</li>\n<li>\n<strong>틱톡 측은 미국 데이터센터 정전으로 인한 기술적 오류</strong>가 원인이라며, 영상 업로드 지연이 특정 이슈와 무관하다고 설명</li>\n<li>최근 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenWork - OpenCode 기반의 Claude Cowork 대체제",
+      "link": "https://news.hada.io/topic?id=26176",
+      "published": "2026-01-28T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>지식 노동자의 워크플로우 자동화</strong>를 목표로 한 확장 가능한 오픈소스 시스템</li>\n<li>\n<strong>opencode</strong> 위에서 동작하지만, CLI 대신 <strong>데스크톱 앱 형태</strong>로 가이드도 제공</li>\n<li>\n<strong>워크스페이스 선택 → 실행 → 진행 모니터링 → 권한 승인 → 재사용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "published": "Wed, 28 Jan 2026 00:12:43 +0000",
+      "summary": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fashion rental app By Rotation and Uber partner to help deliver ski clothing",
+      "link": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+      "published": "Wed, 28 Jan 2026 00:00:00 +0000",
+      "summary": "By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anduril has invented a wild new drone-flying contest where jobs are the prize",
+      "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+      "published": "Tue, 27 Jan 2026 21:54:38 +0000",
+      "summary": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more",
+      "link": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+      "published": "Tue, 27 Jan 2026 21:32:18 +0000",
+      "summary": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "published": "Tue, 27 Jan 2026 21:16:10 +0000",
+      "summary": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Prism",
+      "link": "https://openai.com/index/introducing-prism",
+      "published": "Tue, 27 Jan 2026 18:03:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46783752\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "published": "Tue, 27 Jan 2026 15:46:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46781530\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rust’s Standard Library on the GPU",
+      "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+      "published": "Sat, 24 Jan 2026 04:49:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46741150\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "link": "https://twitter.com/karpathy/status/2015883857489522876",
+      "published": "Mon, 26 Jan 2026 21:09:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46771564\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Time Station Emulator",
+      "link": "https://github.com/kangtastic/timestation",
+      "published": "Tue, 27 Jan 2026 20:35:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46786183\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
