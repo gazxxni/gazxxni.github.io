@@ -1,0 +1,125 @@
+{
+  "date": "2026-01-29",
+  "articles": [
+    {
+      "title": "QMD - 퀵 마크다운 서치",
+      "link": "https://news.hada.io/topic?id=26213",
+      "published": "2026-01-29T09:46:02+09:00",
+      "summary": "<ul>\n<li>개인 노트, 기술 문서, 회의록 등 다양한 <strong>Markdown 기반 문서를 로컬에서 검색</strong>하기 위해 개발된 <strong>경량 CLI 검색 엔진</strong>\n</li>\n<li>\n<strong>BM25 전체 텍스트 검색</strong>, <strong>벡터 의미 검색</strong>, <strong>LLM 재순위화(re-ranking)</strong> 를 결합한 <strong>하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 이민세관단속국(ICE)과 Palantir: 미국 요원이 건강 데이터를 이용해 ‘불법 이민자’를 추적",
+      "link": "https://news.hada.io/topic?id=26212",
+      "published": "2026-01-29T09:43:01+09:00",
+      "summary": "<ul>\n<li>미국 <strong>이민세관단속국(ICE)</strong> 요원들이 <strong>Palantir</strong>가 개발한 앱을 통해 수백만 명의 미국인의 <strong>건강기록 데이터를 활용해 불법 이민자를 추적 및 체포</strong>\n</li>\n<li>이 앱 <strong>Elite(Enhanced Leads Identification and Targeting for Enforcement)</strong> 는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아마존, AI와 효율성 강화 속에서 전 세계적으로 1만6천 명 감원",
+      "link": "https://news.hada.io/topic?id=26211",
+      "published": "2026-01-29T09:40:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>Amazon의 글로벌 구조조정</strong>으로 기업 부문 인력 <strong>1만6천 명 감원 확정</strong>, 지난해 10월 이후 누적 <strong>약 3만 명 감원</strong>\n</li>\n<li>전체 직원 158만 명 중 물류 인력을 제외한 <strong>사무직 인력의 약 10%</strong> 에 해당하며, 회사 설립 이래 최대 규모 감원</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마이크로소프트가 나를 리눅스로 강제로 옮기게 만들었다",
+      "link": "https://news.hada.io/topic?id=26210",
+      "published": "2026-01-29T09:37:00+09:00",
+      "summary": "<ul>\n<li>20년 넘게 <strong>Windows 중심 환경</strong>에서 개발과 음악 작업을 해왔지만, 반복되는 <strong>비자발적 업데이트와 시스템 오류</strong>로 인해 사용 불가능한 수준에 도달함</li>\n<li>\n<strong>24H2 업데이트</strong> 이후 Chrome UI 오류, 시스템 락업, 드라이버 충돌 등 심각한 버그가 발생했고, M...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "pg-status - PostgreSQL 호스트 상태 파악용 경량 마이크로서비스",
+      "link": "https://news.hada.io/topic?id=26209",
+      "published": "2026-01-29T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>PostgreSQL 클러스터의 상태를 실시간으로 감지</strong>하기 위해 설계된 <strong>사이드카형 마이크로서비스</strong>\n</li>\n<li>호스트의 <strong>생존 여부</strong>, <strong>마스터/리플리카 구분</strong>, <strong>리플리카 지연 시간</strong>을 즉시 확인 가능</li>\n<li>\n<strong>경량·고성�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta burned $19 billion on VR last year, and 2026 won’t be any better",
+      "link": "https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/",
+      "published": "Thu, 29 Jan 2026 00:20:18 +0000",
+      "summary": "The reported financial losses follow a series of layoffs at the VR unit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "published": "Wed, 28 Jan 2026 23:16:02 +0000",
+      "summary": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump energy department loosens rules on nuclear safety",
+      "link": "https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/",
+      "published": "Wed, 28 Jan 2026 22:50:18 +0000",
+      "summary": "The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft gained $7.6B from OpenAI last quarter",
+      "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+      "published": "Wed, 28 Jan 2026 22:47:24 +0000",
+      "summary": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla is killing off the Model S and Model X",
+      "link": "https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/",
+      "published": "Wed, 28 Jan 2026 22:40:53 +0000",
+      "summary": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "link": "https://alecmuffett.com/article/143548",
+      "published": "Wed, 28 Jan 2026 21:50:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46802067\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
+      "link": "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/",
+      "published": "Wed, 28 Jan 2026 23:55:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46803549\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The UK paid £4.1M for a bookmarks site",
+      "link": "https://mahadk.com/posts/ai-skills-hub",
+      "published": "Wed, 28 Jan 2026 23:16:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46803119\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "published": "Wed, 28 Jan 2026 23:36:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46803356\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "link": "https://www.arcee.ai/blog/trinity-large",
+      "published": "Wed, 28 Jan 2026 00:57:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46789561\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
