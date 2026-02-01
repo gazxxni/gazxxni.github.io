@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-01",
+  "articles": [
+    {
+      "title": "OpenAI와 Nvidia의 $100B(약 140조원) 초대형 계약, 사실상 중단 상태",
+      "link": "https://news.hada.io/topic?id=26292",
+      "published": "2026-02-01T09:51:59+09:00",
+      "summary": "<ul>\n<li>OpenAI의 차세대 AI 모델 학습과 운영을 지원하기 위한 <strong>Nvidia의 최대 1000억 달러 투자 계획</strong>이 내부 반대와 불확실성으로 진전되지 않고 있음</li>\n<li>2025년 9월 발표된 <strong>10GW 규모 컴퓨팅 인프라 구축 및 칩 임대 구조</strong>가 초기 양해각서 수준에서 멈춘 채 본계약으로 이어...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모바일 통신사는 사용자의 GPS 위치를 확인할 수 있다",
+      "link": "https://news.hada.io/topic?id=26291",
+      "published": "2026-02-01T09:46:17+09:00",
+      "summary": "<ul>\n<li>iOS 26.3은 <strong>셀룰러 네트워크에 제공되는 정밀 위치 데이터</strong>를 제한하는 새로운 개인정보 보호 기능을 도입함</li>\n<li>그러나 <strong>통신 표준 프로토콜(RRLP, LPP)</strong> 을 통해 기기가 <strong>GNSS(GPS, GLONASS, Galileo, BeiDou)</strong> 좌표를 통신사에 자동 전송할 수 있음</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "핀란드, ‘통제되지 않은 인간 실험’ 끝내기 위해 호주식 청소년 소셜미디어 금지 추진",
+      "link": "https://news.hada.io/topic?id=26290",
+      "published": "2026-02-01T09:43:17+09:00",
+      "summary": "<ul>\n<li>핀란드 정부가 <strong>15세 미만 청소년의 소셜미디어 사용 금지</strong>를 추진하며, 학교 내 스마트폰 제한에 이어 사회 전반으로 규제를 확대 중임</li>\n<li>총리 <strong>페테리 오르포</strong>는 아동의 <strong>신체 활동 감소</strong>를 우려하며 금지 필요성을 강조했고, 국민의 약 <strong>3분의 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "중국어 성조를 교정하기 위해 9M 파라미터로 훈련된 모델을 만들었어요",
+      "link": "https://news.hada.io/topic?id=26289",
+      "published": "2026-02-01T09:40:16+09:00",
+      "summary": "<ul>\n<li>중국어 발음과 성조 연습을 돕기 위해 약 <strong>300시간의 음성 데이터</strong>로 훈련된 <strong>9M 파라미터 CTC 기반 음성 모델</strong>을 직접 만들어 봄</li>\n<li>\n<strong>Conformer 인코더</strong> 구조를 사용해 지역적 음성 특징과 전역적 문맥을 모두 포착하며, <strong>Pinyin+성조 단위 토큰화...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 클라우드를 버리고 EU 네이티브로 전환해야 하는 유럽 기업들",
+      "link": "https://news.hada.io/topic?id=26288",
+      "published": "2026-02-01T09:37:16+09:00",
+      "summary": "<ul>\n<li>유럽 기업들이 <strong>미국 클라우드 의존도를 줄이고 자국 내 주권형 클라우드로 이전</strong>하는 움직임이 가속화됨</li>\n<li>\n<strong>Gartner 조사에 따르면 61%의 유럽 CIO와 기술 리더</strong>가 지역 클라우드 사용을 확대할 계획이며, 절반 이상은 지정학적 이유로 미국 하이퍼스케일러 의존을 줄이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo reportedly raising a $16B funding round",
+      "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+      "published": "Sat, 31 Jan 2026 21:56:22 +0000",
+      "summary": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",
+      "link": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+      "published": "Sat, 31 Jan 2026 21:27:25 +0000",
+      "summary": "SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+      "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "published": "Sat, 31 Jan 2026 17:54:12 +0000",
+      "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "HomeBoost’s app will show you where to save on your utility bills",
+      "link": "https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
+      "published": "Sat, 31 Jan 2026 16:15:00 +0000",
+      "summary": "The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+      "link": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+      "published": "Sat, 31 Jan 2026 01:23:12 +0000",
+      "summary": "Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mobile carriers can get your GPS location",
+      "link": "https://an.dywa.ng/carrier-gnss.html",
+      "published": "Sat, 31 Jan 2026 17:21:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46838597\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scientist who helped eradicate smallpox dies at age 89",
+      "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "published": "Wed, 28 Jan 2026 10:03:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46793313\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "published": "Sat, 31 Jan 2026 21:14:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46840924\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
+      "link": "https://arxiv.org/abs/2512.21473",
+      "published": "Sat, 31 Jan 2026 20:05:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46840252\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In Praise of –dry-run",
+      "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "published": "Sat, 31 Jan 2026 20:42:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46840612\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
