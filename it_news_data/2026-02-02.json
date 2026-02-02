@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-02",
+  "articles": [
+    {
+      "title": "NetBird – 오픈소스 제로 트러스트 네트워킹",
+      "link": "https://news.hada.io/topic?id=26322",
+      "published": "2026-02-02T09:37:56+09:00",
+      "summary": "<ul>\n<li>\n<strong>WireGuard® 기반 오버레이 네트워크</strong>와 <strong>제로 트러스트 네트워크 액세스(ZTNA)</strong> 를 결합해 안전하고 신뢰성 있는 연결을 제공하는 오픈소스 플랫폼</li>\n<li>\n<strong>VPN 게이트웨이와 방화벽 설정 없이</strong> 빠르게 배포 가능하며, <strong>SSO·MFA·기기 보안 검사</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple 플랫폼 보안 (2026년 1월) [PDF]",
+      "link": "https://news.hada.io/topic?id=26321",
+      "published": "2026-02-02T07:37:00+09:00",
+      "summary": "<ul>\n<li>\n<strong>Apple 플랫폼 보안 가이드</strong>는 iPhone, iPad, Mac, Apple Watch 등 모든 기기에서 하드웨어·소프트웨어·서비스가 통합된 <strong>보안 아키텍처</strong>를 설명</li>\n<li>\n<strong>Apple 실리콘(SoC)</strong> 과 <strong>Secure Enclave</strong>가 핵심 기반으로, 부팅부터 데이터 암호화, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국, WhatsApp 대화가 비공개가 아니라는 주장 조사",
+      "link": "https://news.hada.io/topic?id=26320",
+      "published": "2026-02-02T07:34:00+09:00",
+      "summary": "<ul>\n<li>미국 <strong>상무부 특별수사관</strong>이 전 Meta 계약직 직원들의 주장을 조사 중이며, 이들은 <strong>WhatsApp 메시지 접근 가능성</strong>을 제기함</li>\n<li>전직 계약자들은 자신들과 일부 Meta 직원이 <strong>“제한 없는 접근(unfettered access)”</strong> 권한을 가졌다고 진술함</li>\n<li>이 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "생성형 AI와 위키백과 편집: 2025년에 배운 것들",
+      "link": "https://news.hada.io/topic?id=26319",
+      "published": "2026-02-02T05:32:49+09:00",
+      "summary": "<ul>\n<li>위키에듀케이션은 2025년 동안 <strong>생성형 AI(ChatGPT 등)</strong> 가 위키백과 편집에 미치는 영향을 체계적으로 조사함</li>\n<li>AI 탐지 도구 <strong>Pangram</strong>을 활용해 2022년 이후 작성된 3,078개 문서를 분석한 결과, <strong>178개 문서가 AI 작성으로 의심</strong>되었으며 그중 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사고의 외주화",
+      "link": "https://news.hada.io/topic?id=26317",
+      "published": "2026-02-02T04:32:57+09:00",
+      "summary": "<ul>\n<li>\n<strong>대규모 언어 모델(LLM)</strong> 사용이 인간의 인지 능력을 약화시킬 수 있다는 우려를 중심으로, 어떤 사고 활동을 기계에 맡겨서는 안 되는지를 논의함</li>\n<li>\n<strong>개인적 의사소통과 글쓰기</strong>에서 LLM을 사용하는 것은 표현의 진정성과 신뢰를 훼손하며, 인간의 사고력과 자기표현 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI layoffs or ‘AI-washing’?",
+      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+      "published": "Sun, 01 Feb 2026 22:15:53 +0000",
+      "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Tether’s CEO is everywhere right now",
+      "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+      "published": "Sun, 01 Feb 2026 20:32:21 +0000",
+      "summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon’s ‘Melania’ documentary makes $7M on opening weekend",
+      "link": "https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/",
+      "published": "Sun, 01 Feb 2026 19:16:27 +0000",
+      "summary": "While the documentary is exceeding box office expectations, it's unlikely to make a profit in theaters.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Indonesia ‘conditionally’ lifts ban on Grok",
+      "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+      "published": "Sun, 01 Feb 2026 17:20:00 +0000",
+      "summary": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The great Tesla rebranding",
+      "link": "https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/",
+      "published": "Sun, 01 Feb 2026 17:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "published": "Sun, 01 Feb 2026 21:30:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46849567\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "link": "https://github.com/gavrielc/nanoclaw",
+      "published": "Sun, 01 Feb 2026 22:49:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46850205\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Treasures found on HS2 route stored in secret warehouse",
+      "link": "https://www.bbc.com/news/articles/c93v21q5xdvo",
+      "published": "Sun, 01 Feb 2026 22:14:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46849926\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple I Advertisement (1976)",
+      "link": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "published": "Sun, 01 Feb 2026 17:36:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46847780\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My thousand dollar iPhone can't do math",
+      "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "published": "Sun, 01 Feb 2026 20:51:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46849258\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
