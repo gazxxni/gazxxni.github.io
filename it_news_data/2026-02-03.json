@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-03",
+  "articles": [
+    {
+      "title": "Termux - 다양한 패키지로 확장 가능한 Android용 터미널 에뮬레이터",
+      "link": "https://news.hada.io/topic?id=26361",
+      "published": "2026-02-03T09:56:26+09:00",
+      "summary": "<ul>\n<li>Android에서 <strong>리눅스 환경과 터미널 기능</strong>을 제공하는 오픈소스 앱으로, 다양한 패키지를 설치해 확장 가능</li>\n<li>\n<strong>Termux:API, Boot, Float, Styling, Tasker, Widget</strong> 등 여러 플러그인 앱을 통해 기능을 보완</li>\n<li>설치는 <strong>F-Droid, GitHub, Google Play(실험...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "xAI가 SpaceX에 합류",
+      "link": "https://news.hada.io/topic?id=26360",
+      "published": "2026-02-03T09:53:26+09:00",
+      "summary": "<ul>\n<li>\n<strong>xAI와 SpaceX의 협력</strong>이 공식 발표되어 두 조직의 기술적 연계가 시작됨</li>\n<li>구체적인 <strong>협력 범위나 목적</strong>은 공개되지 않았음</li>\n<li>SpaceX 공식 사이트의 <strong>업데이트 섹션</strong>을 통해 이 소식이 게시됨</li>\n<li>Elon Musk가 두 조직 모두를 이끌고 있어 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code가 마이크로소프트 내부에서 급속히 확산 중",
+      "link": "https://news.hada.io/topic?id=26359",
+      "published": "2026-02-03T09:50:26+09:00",
+      "summary": "<ul>\n<li>\n<strong>Anthropic의 Claude Code</strong>가 Microsoft 내부에서 빠르게 확산되며, 개발자뿐 아니라 비개발자도 활용 중임</li>\n<li>Microsoft는 <strong>GitHub Copilot을 외부 고객에게 판매</strong>하면서도 내부적으로는 Claude Code 사용을 장려하고 있음</li>\n<li>\n<strong>CoreAI, Experiences + Dev...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "위키피디아를 소셜 미디어 피드처럼 ‘둠스크롤’할 수 있는 Xikipedia",
+      "link": "https://news.hada.io/topic?id=26358",
+      "published": "2026-02-03T09:47:26+09:00",
+      "summary": "<ul>\n<li>\n<strong>Xikipedia</strong>는 Simple Wikipedia의 문서를 <strong>소셜 미디어 피드 형태</strong>로 보여주는 웹 애플리케이션</li>\n<li>\n<strong>머신러닝 없이도</strong> 사용자의 클릭 패턴을 기반으로 <strong>유사 콘텐츠를 추천</strong>하는 알고리듬을 시연</li>\n<li>모든 연산은 <strong>로컬에서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에이전틱 결제 프로토콜 지도: 왜 난립하는가",
+      "link": "https://news.hada.io/topic?id=26357",
+      "published": "2026-02-03T09:46:01+09:00",
+      "summary": "<ul>\n<li>AI 에이전트가 자율적으로 구매·지불·정산을 수행하기 위해 <strong>여러 결제 프로토콜이 병렬적으로 등장</strong>하고 있음</li>\n<li>ACP, UCP, AP2, x402 등은 모두 결제를 다루지만, <strong>상거래·B2B·에이전트 간 결제</strong>처럼 <strong>서로 다른 문제 영역</strong>을 겨냥함</li>\n<li>인터넷은 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+      "link": "https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/",
+      "published": "Tue, 03 Feb 2026 00:16:14 +0000",
+      "summary": "The startup CEO says she plans to publicly address the charges this week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo raises $16B to scale robotaxi fleet internationally",
+      "link": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
+      "published": "Mon, 02 Feb 2026 23:04:33 +0000",
+      "summary": "Waymo said the funds will be used to fuel its growth, which has accelerated over the past year and doesn't appear to be slowing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+      "published": "Mon, 02 Feb 2026 22:21:57 +0000",
+      "summary": "The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "China is leading the fight against hidden car door handles",
+      "link": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/",
+      "published": "Mon, 02 Feb 2026 21:55:38 +0000",
+      "summary": "Under new safety rules published Monday by China's Ministry of Industry and Information Technology, cars sold in the country must have mechanical releases on their door handles. The new rules, which go in effect January 1, 2027, will prohibit the hidden, electronically actuated door handles populari",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Adobe Animate is shutting down as company focuses on AI",
+      "link": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+      "published": "Mon, 02 Feb 2026 21:15:03 +0000",
+      "summary": "Adobe Animate will be discontinued on March 1, 2026, as Adobe shifts its focus to AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "published": "Tue, 03 Feb 2026 00:28:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "published": "Mon, 02 Feb 2026 18:02:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anki ownership transferred to AnkiHub",
+      "link": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
+      "published": "Mon, 02 Feb 2026 20:48:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46861313\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitHub experience various partial-outages/degradations",
+      "link": "https://www.githubstatus.com?todayis=2026-02-02",
+      "published": "Mon, 02 Feb 2026 21:28:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46861842\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "xAI joins SpaceX",
+      "link": "https://www.spacex.com/updates#xai-joins-spacex",
+      "published": "Mon, 02 Feb 2026 21:51:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46862170\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
