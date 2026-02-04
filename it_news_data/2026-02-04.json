@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-04",
+  "articles": [
+    {
+      "title": "에이전트 스킬(Agent Skills)",
+      "link": "https://news.hada.io/topic?id=26383",
+      "published": "2026-02-04T09:46:19+09:00",
+      "summary": "<ul>\n<li>\n<strong>에이전트 스킬</strong>은 인공지능 에이전트에 새로운 <strong>기능과 전문 지식</strong>을 추가하기 위한 <strong>개방형 포맷</strong>\n</li>\n<li>스킬은 <strong>지침, 스크립트, 리소스</strong>로 구성된 폴더 형태로, 에이전트가 이를 탐색해 더 정확하고 효율적으로 작업 수행</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwen3-Coder-Next",
+      "link": "https://news.hada.io/topic?id=26382",
+      "published": "2026-02-04T09:43:18+09:00",
+      "summary": "<ul>\n<li>\n<strong>Qwen3-Coder-Next</strong>는 코드 작성 에이전트와 로컬 개발 환경을 위해 설계된 <strong>오픈 가중치 언어 모델</strong>로, 하이브리드 어텐션과 MoE 구조를 기반으로 함</li>\n<li>대규모 <strong>실행 가능한 작업 합성</strong>과 <strong>환경 상호작용</strong>, <strong>강화학습</strong>을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이 등호(=) 기호들은 도대체 뭐지?",
+      "link": "https://news.hada.io/topic?id=26381",
+      "published": "2026-02-04T09:40:18+09:00",
+      "summary": "<ul>\n<li>최근 트위터에 옛 이메일 인용문이 퍼지며, 문장 끝의 <strong>등호(=)</strong> 가 왜 생기는지에 대한 의문이 제기됨</li>\n<li>이 기호는 <strong>‘quoted-printable’ 인코딩</strong> 과정에서 생기는 것으로, 긴 줄을 강제로 나눌 때 줄이 이어짐을 표시하기 위해 사용됨</li>\n<li>이메일 전송 시 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프랑스, 미국산 Zoom·Teams 대신 자국산 화상회의 시스템으로 전환…유럽의 디지털 자율성 강화 움직임",
+      "link": "https://news.hada.io/topic?id=26380",
+      "published": "2026-02-04T09:37:18+09:00",
+      "summary": "<ul>\n<li>프랑스 정부가 <strong>Zoom, Microsoft Teams, Webex, GoTo Meeting</strong> 등 미국산 화상회의 도구 사용을 중단하고, <strong>자국산 서비스 Visio</strong>로 전환 예정</li>\n<li>유럽 각국 정부와 기관이 <strong>미국 빅테크 의존도를 줄이고 오픈소스·국산 대안</strong>으로 이동 중</li>\n<li>이러한...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cloud CLI - Claude Code, Cursor CLI, Codex용 오픈소스 웹 UI",
+      "link": "https://news.hada.io/topic?id=26379",
+      "published": "2026-02-04T09:31:01+09:00",
+      "summary": "<ul>\n<li>데스크톱과 모바일 환경 모두에서 <strong>AI 코드 세션과 프로젝트를 원격 통합 관리</strong>할 수 있는 <strong>반응형 WebUI/GUI 도구</strong>\n</li>\n<li>\n<strong>내장 채팅 인터페이스</strong>를 통해 Claude Code, Cursor, Codex와 직접 상호작용 가능</li>\n<li>\n<strong>WebSocket</strong>을 통한 실...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
+      "link": "https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/",
+      "published": "Wed, 04 Feb 2026 00:11:48 +0000",
+      "summary": "Attia co-founded longevity medical testing startup Biograph, which came out of stealth a year ago.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "India’s Varaha bags $20M to scale carbon removal from the Global South",
+      "link": "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
+      "published": "Tue, 03 Feb 2026 23:30:00 +0000",
+      "summary": "Varaha's fresh funding is part of a $45 million Series B round led by WestBridge Capital.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Minneapolis tech community holds strong during ‘tense and difficult time’",
+      "link": "https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/",
+      "published": "Tue, 03 Feb 2026 22:17:45 +0000",
+      "summary": "Founders and investors in the Minneapolis tech industry told TechCrunch they've put much of their work on hold to help out their community.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Intel will start making GPUs, a market dominated by Nvidia",
+      "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+      "published": "Tue, 03 Feb 2026 21:01:34 +0000",
+      "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YC startups can now receive investment in stablecoin",
+      "link": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+      "published": "Tue, 03 Feb 2026 19:54:12 +0000",
+      "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lessons learned shipping 500 units of my first hardware product",
+      "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+      "published": "Sun, 01 Feb 2026 20:01:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46848876\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Data centers in space makes no sense",
+      "link": "https://civai.org/blog/space-data-centers",
+      "published": "Tue, 03 Feb 2026 19:37:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46876105\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+      "link": "https://github.com/puemos/craftplan",
+      "published": "Sun, 01 Feb 2026 17:25:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46847690\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Deno Sandbox",
+      "link": "https://deno.com/blog/introducing-deno-sandbox",
+      "published": "Tue, 03 Feb 2026 17:33:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46874097\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "published": "Tue, 03 Feb 2026 18:04:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46874619\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
