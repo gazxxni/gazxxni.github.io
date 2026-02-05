@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-05",
+  "articles": [
+    {
+      "title": "Claude는 사고를 위한 공간",
+      "link": "https://news.hada.io/topic?id=26408",
+      "published": "2026-02-05T09:47:32+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude</strong>는 사용자의 사고와 업무를 돕는 <strong>광고 없는 AI 어시스턴트</strong>로 설계됨</li>\n<li>\n<strong>광고 기반 모델</strong>은 사용자 이익과 충돌할 수 있어, Anthropic은 <strong>광고를 완전히 배제</strong>하기로 결정</li>\n<li>Claude 대화의 상당 부분이 <strong>개인적·�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "FBI가 워싱턴포스트 기자의 아이폰에 침입하지 못한 이유는 ‘락다운 모드’가 활성화되어 있었기 때문",
+      "link": "https://news.hada.io/topic?id=26407",
+      "published": "2026-02-05T09:44:32+09:00",
+      "summary": "<ul>\n<li>\n<strong>락다운 모드(Lockdown Mode)</strong> 는 애플 기기의 해킹 난이도를 높이는 보안 기능으로, 최근 법원 기록에서 그 <strong>효과가 입증된 사례</strong>가 드러남</li>\n<li>FBI는 <strong>워싱턴포스트 기자의 아이폰을 압수했지만</strong>, 해당 기기가 락다운 모드 상태여서 접근에 실패함</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Voxtral Transcribe 2",
+      "link": "https://news.hada.io/topic?id=26406",
+      "published": "2026-02-05T09:41:32+09:00",
+      "summary": "<ul>\n<li>\n<strong>Voxtral Transcribe 2</strong>는 초저지연 실시간 음성 인식과 고정밀 화자 분리 기능을 갖춘 <strong>차세대 음성-텍스트 변환 모델</strong>\n</li>\n<li>두 가지 모델로 구성되며, <strong>Voxtral Mini Transcribe V2</strong>는 배치 처리용, <strong>Voxtral Realtime</strong>은 실시간 응용을 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 깊이 생각하던 시절이 그립다",
+      "link": "https://news.hada.io/topic?id=26405",
+      "published": "2026-02-05T09:38:31+09:00",
+      "summary": "<ul>\n<li>\n<strong>깊은 사고와 문제 해결의 즐거움</strong>이 사라졌다는 개인적 성찰을 중심으로, 창조적 사고의 결핍을 다룸</li>\n<li>글쓴이는 자신을 <strong>‘빌더’(Builder)</strong> 와 <strong>‘사고자’(Thinker)</strong> 로 구분하며, 두 성향의 균형이 과거에는 엔지니어링에서 충족되었다고 설명</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google의 공식 MCP 서버 모음",
+      "link": "https://news.hada.io/topic?id=26404",
+      "published": "2026-02-05T09:28:38+09:00",
+      "summary": "<ul>\n<li>Google이 관리하는 <strong>원격 MCP 서버</strong>와 <strong>오픈소스 MCP 서버</strong>의 공식 리스트</li>\n<li>원격 서버는 <strong>Google Maps, BigQuery, GKE, Compute Engine</strong> 등 주요 Google Cloud 서비스와 연동 지원</li>\n<li>오픈소스 서버는 <strong>Google Workspace, Firebase, Cloud ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+      "published": "Thu, 05 Feb 2026 00:45:11 +0000",
+      "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+      "link": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+      "published": "Thu, 05 Feb 2026 00:07:59 +0000",
+      "summary": "The company is engaged in a strategy to diversify its revenue sources as it heads into the new year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
+      "link": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
+      "published": "Thu, 05 Feb 2026 00:01:00 +0000",
+      "summary": "Spain-based deeptech and climate megafund Kembara has just completed a €750 million first close toward its €1 billion target.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+      "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+      "published": "Wed, 04 Feb 2026 23:49:18 +0000",
+      "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+      "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+      "published": "Wed, 04 Feb 2026 23:28:31 +0000",
+      "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
+      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "published": "Thu, 05 Feb 2026 00:28:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Voxtral Transcribe 2",
+      "link": "https://mistral.ai/news/voxtral-transcribe-2",
+      "published": "Wed, 04 Feb 2026 15:08:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46886735\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "link": "https://sqldef.github.io/",
+      "published": "Sun, 01 Feb 2026 10:56:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46845239\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "published": "Sun, 01 Feb 2026 12:43:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46845845\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "As Rocks May Think",
+      "link": "https://evjang.com/2026/02/04/rocks.html",
+      "published": "Wed, 04 Feb 2026 22:50:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893018\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
