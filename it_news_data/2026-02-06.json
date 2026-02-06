@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-06",
+  "articles": [
+    {
+      "title": "OpenClaw는 Apple Intelligence가 되었어야 할 모습",
+      "link": "https://news.hada.io/topic?id=26442",
+      "published": "2026-02-06T09:43:47+09:00",
+      "summary": "<ul>\n<li>\n<strong>Mac Mini 판매 급증</strong>은 단순한 수요 증가가 아니라, 사용자가 <strong>AI 에이전트를 실행해 컴퓨터를 자동화</strong>하기 위해 구매하는 현상</li>\n<li>\n<strong>OpenClaw</strong>는 Claude, GPT-5 등 원하는 모델을 통해 실제로 컴퓨터를 제어할 수 있는 <strong>오픈소스 프레임워크</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "클라우드를 임대하지 말고, 직접 소유하라",
+      "link": "https://news.hada.io/topic?id=26441",
+      "published": "2026-02-06T09:40:46+09:00",
+      "summary": "<ul>\n<li>\n<strong>comma.ai</strong>는 모든 모델 학습과 데이터 처리를 자체 <strong>데이터센터</strong>에서 수행하며, 약 <strong>500만 달러 규모의 인프라</strong>를 직접 운영</li>\n<li>클라우드 의존은 <strong>비용 상승과 통제력 상실</strong>로 이어질 수 있으며, 자체 컴퓨트 운영은 <strong>엔지니어링 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SmythOS/sre - 에이전트형 AI를 위한 클라우드 네이티브 런타임",
+      "link": "https://news.hada.io/topic?id=26440",
+      "published": "2026-02-06T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>에이전트형 AI의 OS 계층</strong>을 목표로 만든 오픈소스 런타임 환경으로, <strong>보안성·모듈성·확장성</strong>을 갖춘 <strong>클라우드 네이티브 플랫폼</strong> 제공</li>\n<li>로컬, 클라우드 및 엣지 환경 전반에서 AI 에이전트를 구축, 실행 및 관리할 수 있음</li>\n<li>\n<strong>LLM, Ve...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Agent Teams - Claude Code 세션 팀 오케스트레이션",
+      "link": "https://news.hada.io/topic?id=26439",
+      "published": "2026-02-06T09:25:56+09:00",
+      "summary": "<ul>\n<li>여러 <strong>Claude Code 인스턴스</strong>를 하나의 팀으로 구성해 병렬 작업, 메시징, 중앙 관리 기능을 수행하는 실험적 기능</li>\n<li>각 세션은 <strong>팀 리드</strong>와 <strong>팀원</strong>으로 구성되며, 리드는 작업을 분배하고 결과를 통합, 팀원은 독립된 컨텍스트에서 협업</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Opus 4.6 추가 사용 프로모션",
+      "link": "https://news.hada.io/topic?id=26438",
+      "published": "2026-02-06T09:24:30+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude Opus 4.6 출시</strong>에 맞춰 Pro 및 Max 이용자에게 <strong>한정 기간 동안 50달러 상당의 추가 사용 크레딧</strong>을 제공</li>\n<li>대상은 2026년 2월 4일 이전에 Pro 또는 Max 구독을 시작하고, 2월 16일 이전에 <strong>추가 사용(extra usage)</strong> 기능을 활성화한 사용자</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+      "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+      "published": "Thu, 05 Feb 2026 23:53:42 +0000",
+      "summary": "The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Reddit looks to AI search as its next big opportunity",
+      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+      "published": "Thu, 05 Feb 2026 23:20:27 +0000",
+      "summary": "During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, \"it's an enormous market and opportunity.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS revenue continues to soar as cloud demand remains high",
+      "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+      "published": "Thu, 05 Feb 2026 23:11:37 +0000",
+      "summary": "AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+      "published": "Thu, 05 Feb 2026 22:43:11 +0000",
+      "summary": "In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Washington Post is retreating from Silicon Valley when it matters most",
+      "link": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
+      "published": "Thu, 05 Feb 2026 21:36:21 +0000",
+      "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "published": "Thu, 05 Feb 2026 17:38:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46902223\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It's 2026, Just Use Postgres",
+      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
+      "published": "Thu, 05 Feb 2026 21:24:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46905555\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.3-Codex",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "published": "Thu, 05 Feb 2026 18:08:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46902638\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My AI Adoption Journey",
+      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "published": "Thu, 05 Feb 2026 19:04:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46903558\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "link": "https://www.anthropic.com/engineering/building-c-compiler",
+      "published": "Thu, 05 Feb 2026 19:07:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46903616\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
