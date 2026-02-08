@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-08",
+  "articles": [
+    {
+      "title": "AI 열풍이 다른 산업 전반에 걸쳐 공급 부족을 초래하고 있음",
+      "link": "https://news.hada.io/topic?id=26498",
+      "published": "2026-02-08T10:36:09+09:00",
+      "summary": "<ul>\n<li>주요 AI 기업 5곳의 올해 투자 규모가 약 <strong>7,000억 달러</strong>에 달하며, 이는 2025년 지출의 거의 두 배이자 미국 국방 예산의 3/4에 해당하는 전례 없는 수준</li>\n<li>데이터센터 건설에 자원이 집중되면서 <strong>전기기사 부족</strong>, 메모리 칩 가격 상승, 스마트폰·PC 가격 인상 등 다른 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "우리의 장인 정신을 애도합니다",
+      "link": "https://news.hada.io/topic?id=26497",
+      "published": "2026-02-08T09:37:37+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 코드 생성 도구의 부상</strong>으로 인해 프로그래머의 역할이 단순한 검수자로 축소되고 있음</li>\n<li>AI 코딩 도구의 가장 불편한 진실은 <strong>실제로 작동한다</strong>는 것이며, 이를 믿지 않는다면 6개월만 기다리면 됨</li>\n<li>시니어 개발자가 도덕적 원칙으로 AI 사용을 거부할 수 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프랑스의 오픈소스 온라인 오피스 제품군 ‘La Suite numérique’",
+      "link": "https://news.hada.io/topic?id=26496",
+      "published": "2026-02-08T09:34:36+09:00",
+      "summary": "<ul>\n<li>프랑스 정부가 주도하는 <strong>오픈소스 디지털 협업 플랫폼</strong>으로, 온라인 오피스 환경을 위한 다양한 애플리케이션을 제공</li>\n<li>주요 구성 요소는 <strong>문서 협업, 화상회의, 파일 공유, 팀 관리</strong> 등으로, Django와 React 기반으로 개발</li>\n<li>모든 코드는 <strong>MIT 라이선스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "EmulatorJS - 콘솔 게임을 위한 웹 기반 프런트엔드",
+      "link": "https://news.hada.io/topic?id=26495",
+      "published": "2026-02-08T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>RetroArch</strong>의 다양한 콘솔 에뮬레이션을 <strong>웹 환경에서 실행</strong>하기 위해 개발된 <strong>JavaScript 기반 프런트엔드</strong>\n</li>\n<li>브라우저만으로 <strong>Nintendo, Sega, Atari, PlayStation, Commodore</strong> 등 주요 레트로 시스템을 지원하는 <strong>셀프 호스팅...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어 팩토리와 에이전트 시대의 도래",
+      "link": "https://news.hada.io/topic?id=26493",
+      "published": "2026-02-08T08:40:33+09:00",
+      "summary": "<ul>\n<li>\n<strong>StrongDM AI팀</strong>은 <strong>코드를 보지 않고도 고품질 소프트웨어를 만드는 Software Factory</strong> 개념을 주장</li>\n<li>명세/시나리오 기반으로 에이전트가 코드를 작성하고, 테스트 하네스를 실행, <strong>인간의 검토 없이</strong> 수렴하는 <strong>비대화형 개발 방식</strong>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
+      "link": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
+      "published": "Sun, 08 Feb 2026 01:26:49 +0000",
+      "summary": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
+      "link": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
+      "published": "Sat, 07 Feb 2026 21:30:41 +0000",
+      "summary": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "published": "Sat, 07 Feb 2026 18:23:04 +0000",
+      "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "published": "Sat, 07 Feb 2026 05:23:04 +0000",
+      "summary": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+      "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
+      "published": "Sat, 07 Feb 2026 01:00:52 +0000",
+      "summary": "The organizer of the event swears it's not a joke.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tiny C Compiler",
+      "link": "https://bellard.org/tcc/",
+      "published": "Sat, 07 Feb 2026 21:45:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46928435\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "link": "https://github.com/localgpt-app/localgpt",
+      "published": "Sun, 08 Feb 2026 01:26:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46930391\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SectorC: A C Compiler in 512 bytes",
+      "link": "https://xorvoid.com/sectorc.html",
+      "published": "Sat, 07 Feb 2026 17:39:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46925741\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Speed up responses with fast mode",
+      "link": "https://code.claude.com/docs/en/fast-mode",
+      "published": "Sat, 07 Feb 2026 18:08:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46926043\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Software factories and the agentic moment",
+      "link": "https://factory.strongdm.ai/",
+      "published": "Sat, 07 Feb 2026 15:05:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46924426\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
