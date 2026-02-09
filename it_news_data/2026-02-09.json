@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-09",
+  "articles": [
+    {
+      "title": "로컬 우선 AI 비서 LocalGPT – Rust 기반, 지속 메모리 지원",
+      "link": "https://news.hada.io/topic?id=26525",
+      "published": "2026-02-09T09:53:49+09:00",
+      "summary": "<ul>\n<li>\n<strong>Rust로 개발된 로컬 실행형 AI 비서</strong>로, 인터넷 연결 없이 개인 기기에서 완전 동작하며 데이터가 외부로 전송되지 않음</li>\n<li>\n<strong>단일 실행 파일 구조</strong>로 Node.js, Docker, Python 설치 없이 구동 가능하며, 약 27MB 크기의 경량 바이너리 형태</li>\n<li>\n<strong>지속 메모...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vouch - 오픈소스 컨트리뷰터 신뢰 관리 시스템",
+      "link": "https://news.hada.io/topic?id=26524",
+      "published": "2026-02-09T09:51:01+09:00",
+      "summary": "<ul>\n<li>오픈소스는 전통적으로 <strong>trust and verify</strong> 모델 위에서 작동해 왔음</li>\n<li>AI 도구 확산으로 <strong>기여 진입 장벽이 사실상 사라져</strong>, 기존 암묵적 신뢰 모델이 더 이상 작동하지 않음</li>\n<li>\n<strong>기여 전에 신뢰를 명시적으로 보증(vouch)</strong> 해야만 참여할 수 있도...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 만들어내는 ‘Slop(조잡한 결과물)’이 두렵다",
+      "link": "https://news.hada.io/topic?id=26523",
+      "published": "2026-02-09T09:50:49+09:00",
+      "summary": "<ul>\n<li>인공지능이 지금 수준에서 멈추고, 사람들도 더 나은 품질을 추구하지 않게 될 가능성에 대한 <strong>두려움</strong>을 표현</li>\n<li>현재의 AI는 <strong>90% 완성된 결과물</strong>을 빠르게 만들어내지만, 나머지 10%의 완성도를 위해 노력하는 문화가 사라질 위험이 있음</li>\n<li>\n<strong>‘충분히 괜...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "손으로 코드를 작성할 때 더 행복하다",
+      "link": "https://news.hada.io/topic?id=26522",
+      "published": "2026-02-09T09:47:49+09:00",
+      "summary": "<ul>\n<li>\n<strong>LLM 기반 코드 생성 도구</strong>를 반복적으로 사용한 후, 직접 코드를 작성할 때 느끼는 <strong>몰입감과 즐거움</strong>을 다시 발견함</li>\n<li>코드 작성은 단순한 생산 행위가 아니라 <strong>문제 공간을 이해하고 사고를 정제하는 과정</strong>으로, 자동 생성은 이를 방해함</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DoNotNotify가 오픈소스로 전환됨",
+      "link": "https://news.hada.io/topic?id=26521",
+      "published": "2026-02-09T09:44:49+09:00",
+      "summary": "<ul>\n<li>\n<strong>Android 알림 관리 앱</strong>인 DoNotNotify의 전체 <strong>소스 코드가 공개</strong>되어 누구나 열람·분석·기여 가능</li>\n<li>프로젝트는 <strong>GitHub</strong>에서 접근할 수 있으며, 코드 검토와 개선 참여를 장려</li>\n<li>앱은 <strong>개인정보 보호 중심 설계</strong>로 개발되었으며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon’s ‘Melania’ documentary stumbles in second weekend",
+      "link": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
+      "published": "Sun, 08 Feb 2026 22:41:31 +0000",
+      "summary": "After a better-than-expected opening weekend in theaters, box office for Amazon’s “Melania”fell 67%.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+      "published": "Sun, 08 Feb 2026 20:19:47 +0000",
+      "summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+      "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+      "published": "Sun, 08 Feb 2026 19:36:28 +0000",
+      "summary": "But this is still a bad idea.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?",
+      "link": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+      "published": "Sun, 08 Feb 2026 17:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "San Francisco’s pro-billionaire march draws dozens",
+      "link": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
+      "published": "Sun, 08 Feb 2026 16:49:48 +0000",
+      "summary": "A march supporting California’s billionaires didn’t exactly draw a huge crowd on Saturday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+      "link": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+      "published": "Mon, 09 Feb 2026 01:28:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46940511\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Vouch",
+      "link": "https://github.com/mitchellh/vouch",
+      "published": "Sun, 08 Feb 2026 03:09:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46930961\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Art of Roads in Games",
+      "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "published": "Sun, 08 Feb 2026 21:05:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46938511\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "More Mac malware from Google search",
+      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "published": "Sun, 08 Feb 2026 20:52:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46938398\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reverse Engineering the Prom for the SGI O2",
+      "link": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+      "published": "Sun, 08 Feb 2026 22:25:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46939187\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
