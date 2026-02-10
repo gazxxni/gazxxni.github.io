@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-10",
+  "articles": [
+    {
+      "title": "생성 대신 사고하라",
+      "link": "https://news.hada.io/topic?id=26558",
+      "published": "2026-02-10T10:50:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>대형 언어 모델(LLM)</strong> 을 활용한 코드 생성이 확산되면서, 개발자가 스스로 사고하지 않는 현상에 대한 경고 제기</li>\n<li>자동 생성 코드는 <strong>비결정적(non-deterministic)</strong> 이며, 내부 작동이 불투명해 품질과 책임성 확보가 어렵다는 지적</li>\n<li>\n<strong>산업혁명과 기...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sqldef: MySQL, PostgreSQL, SQLite용 멱등적 스키마 관리 도구",
+      "link": "https://news.hada.io/topic?id=26557",
+      "published": "2026-02-10T09:58:50+09:00",
+      "summary": "<ul>\n<li>\n<strong>SQL 스키마 간 차이(diff)</strong> 를 비교해 데이터베이스 마이그레이션을 관리하는 <strong>CLI 기반 도구</strong>\n</li>\n<li>일반적인 <strong>SQL DDL 문법</strong>을 사용해 RDBMS 스키마를 관리할 수 있음</li>\n<li>\n<strong>MySQL, MariaDB, TiDB, PostgreSQL, SQL Server, SQLite3</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "구글, 개발자 지식 API와 MCP 서버 공개",
+      "link": "https://news.hada.io/topic?id=26556",
+      "published": "2026-02-10T09:57:53+09:00",
+      "summary": "<ul>\n<li>AI 기반 개발 도구가 확산되면서 <strong>최신 개발 문서에 대한 정확한 접근성</strong>이 중요해짐</li>\n<li>Google은 이를 해결하기 위해 <strong>Developer Knowledge API</strong>와 <strong>Model Context Protocol(MCP) 서버</strong>의 공개 프리뷰를 발표</li>\n<li>API는 Google의 공식 개발 문서를 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude가 생성한 C 컴파일러와 GCC 비교",
+      "link": "https://news.hada.io/topic?id=26555",
+      "published": "2026-02-10T09:54:40+09:00",
+      "summary": "<ul>\n<li>Anthropic의 <strong>Claude Opus 4.6</strong>이 전적으로 작성한 <strong>CCC(Claude’s C Compiler)</strong> 는 리눅스 커널을 컴파일할 수 있다고 주장하며 공개됨</li>\n<li>\n<strong>Rust로 작성된 독립형 컴파일러</strong>로, 프런트엔드부터 링커까지 모든 구성요소를 직접 구현했으나, <strong>GCC 대...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "지구에서 가장 긴 가시선을 알고리듬으로 찾기",
+      "link": "https://news.hada.io/topic?id=26554",
+      "published": "2026-02-10T09:51:40+09:00",
+      "summary": "<ul>\n<li>\n<strong>전 지구의 모든 시야 데이터를 분석</strong>해 가장 긴 가시선을 찾은 프로젝트로, 자체 개발한 <strong>CacheTVS 알고리듬</strong>을 사용</li>\n<li>분석 결과, <strong>힌두쿠시에서 Pik Dankova까지 약 530km</strong>가 가장 긴 가시선으로 확인</li>\n<li>그다음으로 <strong>콜롬비아 안티오키...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo is testing driverless robotaxis in Nashville",
+      "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+      "published": "Mon, 09 Feb 2026 22:59:55 +0000",
+      "summary": "This is the typical next step before it launches a commercial service.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
+      "link": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+      "published": "Mon, 09 Feb 2026 21:26:11 +0000",
+      "summary": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky finally adds drafts",
+      "link": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
+      "published": "Mon, 09 Feb 2026 21:22:08 +0000",
+      "summary": "The move comes as Bluesky’s competitors, X and Threads, have long supported drafts.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+      "published": "Mon, 09 Feb 2026 21:14:50 +0000",
+      "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s India expansion collides with a local company that already had the name",
+      "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+      "published": "Mon, 09 Feb 2026 21:01:41 +0000",
+      "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord will require a face scan or ID for full access next month",
+      "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "published": "Mon, 09 Feb 2026 14:37:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46945663\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The shadowy world of abandoned oil tankers",
+      "link": "https://www.bbc.com/news/articles/cddg885344do",
+      "published": "Mon, 09 Feb 2026 23:17:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46952987\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Functional Programmers Get Wrong About Systems",
+      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+      "published": "Tue, 10 Feb 2026 00:07:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46953491\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "published": "Mon, 09 Feb 2026 16:26:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46947096\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why is the sky blue?",
+      "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "published": "Mon, 09 Feb 2026 15:39:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46946401\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
