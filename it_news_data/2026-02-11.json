@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-11",
+  "articles": [
+    {
+      "title": "Obsidian CLI 공개",
+      "link": "https://news.hada.io/topic?id=26596",
+      "published": "2026-02-11T10:16:01+09:00",
+      "summary": "<ul>\n<li>터미널에서 Obsidian을 제어해 <strong>스크립팅·자동화·외부 도구 통합</strong>을 가능하게 함</li>\n<li>Obsidian에서 노트 생성·검색·태그·작업·플러그인·동기화 등 <strong>거의 모든 기능을 CLI로 수행</strong> 가능</li>\n<li>\n<strong>개발자용 명령어</strong>를 포함해 개발 도구 접근, 스크린샷, 플...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mistral의 Voxtral Mini 4B Realtime 모델을 Rust로 구현해 브라우저에서 실행",
+      "link": "https://news.hada.io/topic?id=26595",
+      "published": "2026-02-11T10:04:12+09:00",
+      "summary": "<ul>\n<li>\n<strong>스트리밍 음성 인식</strong>을 네이티브 환경과 브라우저 모두에서 실행할 수 있는 <strong>Rust 기반 구현체</strong>로, Burn ML 프레임워크를 사용</li>\n<li>모델은 <strong>Mistral의 Voxtral Mini 4B Realtime</strong>을 기반으로 하며, <strong>WASM + WebGPU</strong>를 통해 브라우저 탭에서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "언론사 망하게 하는 AI 봇 개발기",
+      "link": "https://news.hada.io/topic?id=26594",
+      "published": "2026-02-11T10:02:01+09:00",
+      "summary": "<ul>\n<li>MacOS 기본 음성인식과 TTS, <strong>구글 뉴스 RSS</strong>, <strong>LLM 요약</strong>만으로 <strong>4~5분 분량 뉴스 브리핑</strong>을 자동 생성</li>\n<li>“오늘 뉴스”라는 음성으로 트리거하면 자동으로 동작 시작</li>\n<li>\n<strong>구글 뉴스 RSS</strong>에서 최신 기사 목록을 수집해 <strong>언...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내용 없음",
+      "link": "https://news.hada.io/topic?id=26593",
+      "published": "2026-02-11T10:01:11+09:00",
+      "summary": "내용 없음",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Oxide, 2억 달러 규모 시리즈 C 투자 유치",
+      "link": "https://news.hada.io/topic?id=26592",
+      "published": "2026-02-11T09:58:11+09:00",
+      "summary": "<ul>\n<li>\n<strong>물리적 인프라 제품</strong>을 개발하는 Oxide가 <strong>2억 달러 규모의 시리즈 C 투자</strong>를 확보함</li>\n<li>회사는 이미 <strong>제품-시장 적합성(product-market fit)</strong> 을 달성했으며, 자금 조달이 <strong>운영 유지 목적이 아님</strong>을 명시함</li>\n<li>이번 투자는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+      "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+      "published": "Wed, 11 Feb 2026 02:15:27 +0000",
+      "summary": "The executive has denied the allegation that she engaged in discrimination.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Okay, now exactly half of xAI’s founding team has left the company",
+      "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+      "published": "Wed, 11 Feb 2026 01:50:00 +0000",
+      "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+      "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+      "published": "Tue, 10 Feb 2026 23:16:28 +0000",
+      "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An ice dance duo skated to AI music at the Olympics",
+      "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+      "published": "Tue, 10 Feb 2026 22:31:13 +0000",
+      "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+      "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+      "published": "Tue, 10 Feb 2026 21:20:10 +0000",
+      "summary": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Day the Telnet Died",
+      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+      "published": "Tue, 10 Feb 2026 22:20:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46967772\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Feynman Lectures on Physics (1961-1964)",
+      "link": "https://www.feynmanlectures.caltech.edu/",
+      "published": "Tue, 10 Feb 2026 11:36:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46958345\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Singularity will occur on a Tuesday",
+      "link": "https://campedersen.com/singularity",
+      "published": "Tue, 10 Feb 2026 17:04:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46962996\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "link": "https://entire.io/blog/hello-entire-world/",
+      "published": "Tue, 10 Feb 2026 15:44:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46961345\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+      "published": "Sun, 08 Feb 2026 14:01:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46934248\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
