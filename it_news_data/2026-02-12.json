@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-12",
+  "articles": [
+    {
+      "title": "나폴레옹 기법: 일을 미뤄서 생산성을 높이는 방법",
+      "link": "https://news.hada.io/topic?id=26615",
+      "published": "2026-02-12T10:08:33+09:00",
+      "summary": "<ul>\n<li>즉각 대응하지 않아도 자연히 해결될 가능성이 높은 업무를 <strong>의도적으로 지연</strong>시켜 시간과 에너지를 절약하는 생산성 기법</li>\n<li>나폴레옹이 이탈리아 주둔 시절 서신을 <strong>3주간 미개봉 상태</strong>로 두었더니 4/5가 답장 불필요해졌다는 일화에서 유래</li>\n<li>이메일, 기술 이슈...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사용자 브라우징 데이터를 수집하는 Chrome 확장 프로그램 287개 발견",
+      "link": "https://news.hada.io/topic?id=26614",
+      "published": "2026-02-12T09:57:11+09:00",
+      "summary": "<ul>\n<li>자동화된 <strong>MITM(중간자 공격) 기반 스캐닝 파이프라인</strong>을 통해 287개의 Chrome 확장 프로그램이 사용자의 브라우징 기록을 외부로 전송하는 행위를 탐지</li>\n<li>이들 확장 프로그램은 총 <strong>약 3,740만 회 설치</strong>되어 있으며, 이는 전 세계 Chrome 사용자 약 1%에 해당</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Windows 메모장 앱 원격 코드 실행 취약점 CVE-2026-20841",
+      "link": "https://news.hada.io/topic?id=26613",
+      "published": "2026-02-12T09:54:11+09:00",
+      "summary": "<ul>\n<li>Windows 메모장 앱에서 <strong>명령 주입(command injection)</strong> 취약점이 발견되어, 원격에서 코드 실행이 가능한 것으로 보고됨</li>\n<li>\n<strong>인증되지 않은 공격자</strong>가 네트워크를 통해 악성 명령을 실행할 수 있는 구조로, 사용자 개입이 필요</li>\n<li>취약점은 <strong>Windows Notep...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code가 단순화되고 있나?",
+      "link": "https://news.hada.io/topic?id=26612",
+      "published": "2026-02-12T09:51:04+09:00",
+      "summary": "<ul>\n<li>최신 버전 <strong>2.1.20</strong>에서 파일 읽기와 검색 패턴 표시가 모두 <strong>단일 요약 문장</strong>으로 대체되어, 사용자가 어떤 파일이나 패턴이 처리되는지 확인할 수 없게 됨</li>\n<li>사용자들은 GitHub 이슈를 통해 <strong>파일 경로와 검색 패턴 표시 복원</strong> 또는 <strong>토글 옵션 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GLM-5 공개 : 복잡한 시스템 엔지니어링과 장기 에이전트 작업을 목표로 하는 모델",
+      "link": "https://news.hada.io/topic?id=26611",
+      "published": "2026-02-12T09:46:11+09:00",
+      "summary": "<ul>\n<li>인공지능 <strong>효율성과 장기적 작업 수행 능력</strong>을 강화한 대규모 언어모델</li>\n<li>전작 대비 <strong>매개변수 7440억 개(활성 400억)</strong> 로 확장되고, <strong>사전학습 데이터 28.5조 토큰</strong>으로 증가</li>\n<li>\n<strong>DeepSeek Sparse Attention(DSA)</strong> 통합으로 긴 문...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "xAI lays out interplanetary ambitions in public all-hands",
+      "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+      "published": "Wed, 11 Feb 2026 23:29:08 +0000",
+      "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+      "published": "Wed, 11 Feb 2026 22:48:35 +0000",
+      "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI disbands mission alignment team",
+      "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+      "published": "Wed, 11 Feb 2026 21:57:18 +0000",
+      "summary": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s Siri revamp reportedly delayed… again",
+      "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+      "published": "Wed, 11 Feb 2026 21:19:46 +0000",
+      "summary": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+      "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+      "published": "Wed, 11 Feb 2026 21:07:37 +0000",
+      "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "link": "https://age-verifier.kibty.town/",
+      "published": "Wed, 11 Feb 2026 22:56:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46982421\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "published": "Wed, 11 Feb 2026 23:37:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46982792\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "\"Nothing\" is the secret to structuring your work",
+      "link": "https://www.vangemert.dev/blog/nothing",
+      "published": "Sun, 08 Feb 2026 12:01:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46933529\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "link": "https://fluorite.game/",
+      "published": "Wed, 11 Feb 2026 16:21:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46976911\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "published": "Mon, 09 Feb 2026 08:14:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46942864\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
