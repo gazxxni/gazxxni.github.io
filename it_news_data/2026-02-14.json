@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-14",
+  "articles": [
+    {
+      "title": "Skip the Tips - '팁 안 주기' 버튼을 못 누르게 하는 '다크 패턴' 피하기 게임",
+      "link": "https://news.hada.io/topic?id=26677",
+      "published": "2026-02-14T09:41:25+09:00",
+      "summary": "<ul>\n<li>결제 화면의 <strong>팁 유도 구조</strong>를 풍자한 무료 브라우저 게임, 사용자가 ‘No Tip’을 누르려 하면 <strong>다양한 다크 패턴</strong>이 이를 방해함</li>\n<li>\n<strong>작은 버튼</strong>, <strong>죄책감을 유발하는 팝업</strong>, <strong>가짜 로딩 화면</strong>, <strong>조작된 슬라이더...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MinIO 저장소는 더 이상 유지관리되지 않음",
+      "link": "https://news.hada.io/topic?id=26676",
+      "published": "2026-02-14T09:38:24+09:00",
+      "summary": "<ul>\n<li>README.md 파일이 수정되어, 프로젝트가 <strong>더 이상 유지관리되지 않음</strong>이 명시됨</li>\n<li>기존의 “유지보수 모드” 문구가 삭제되고, 대신 <strong>“THIS REPOSITORY IS NO LONGER MAINTAINED”</strong> 라는 경고가 추가됨</li>\n<li>README 상단에 <strong>AIStor Free</strong>와 <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MonoSketch - ASCII 기반 다이어그램 제작 도구",
+      "link": "https://news.hada.io/topic?id=26675",
+      "published": "2026-02-14T09:35:24+09:00",
+      "summary": "<ul>\n<li>텍스트만으로 아이디어를 시각적 설계로 변환할 수 있는 <strong>클라이언트-온리 웹 애플리케이션</strong>\n</li>\n<li>\n<strong>Kotlin으로 작성된 후 JS로 컴파일</strong>된 오픈소스. SASS/Tailwind 사용</li>\n<li>사각형, 선, 텍스트 박스 등 <strong>기본 도형 블록</strong>을 조합해 복잡한 구조나 시스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "aws-doctor - AWS 비용 진단, 유휴 리소스 탐지 및 클라우드 지출 최적화",
+      "link": "https://news.hada.io/topic?id=26674",
+      "published": "2026-02-14T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>AWS 비용 이상 탐지와 리소스 낭비 분석</strong>을 자동화하기 위해 개발된 <strong>Golang 기반 CLI 도구</strong>\n</li>\n<li>\n<strong>AWS Trusted Advisor</strong>의 주요 기능을 무료로 제공하며, 비즈니스/엔터프라이즈 지원 플랜 없이도 <strong>비용 진단 및 최적화 분석</strong> 수행</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rari - Rust-Powered React 프레임워크",
+      "link": "https://news.hada.io/topic?id=26672",
+      "published": "2026-02-14T08:56:46+09:00",
+      "summary": "<ul>\n<li>\n<strong>Rust 컴파일 성능</strong>을 활용해 React 애플리케이션의 빌드와 실행 속도를 극대화한 런타임 가속 렌더링 인프라</li>\n<li>\n<strong>React Server Components</strong>를 기본 지원해 클라이언트로 전송되는 JavaScript 양을 줄임</li>\n<li>\n<strong>Rolldown-Vite</strong> 기반의 차세대 Rust 번...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "published": "Fri, 13 Feb 2026 22:12:26 +0000",
+      "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fintech lending giant Figure confirms data breach",
+      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+      "published": "Fri, 13 Feb 2026 21:02:46 +0000",
+      "summary": "The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+      "published": "Fri, 13 Feb 2026 21:00:00 +0000",
+      "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sex toys maker Tenga says hacker stole customer information",
+      "link": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+      "published": "Fri, 13 Feb 2026 20:19:05 +0000",
+      "summary": "The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "published": "Fri, 13 Feb 2026 18:10:00 +0000",
+      "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "published": "Sat, 14 Feb 2026 00:37:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47009949\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gradient.horse",
+      "link": "https://gradient.horse",
+      "published": "Tue, 10 Feb 2026 04:13:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46955311\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "published": "Fri, 13 Feb 2026 19:20:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "published": "Fri, 13 Feb 2026 21:35:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47008163\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Building a TUI is easy now",
+      "link": "https://hatchet.run/blog/tuis-are-easy-now",
+      "published": "Fri, 13 Feb 2026 17:50:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
