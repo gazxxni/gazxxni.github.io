@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-15",
+  "articles": [
+    {
+      "title": "Zig – io_uring 및 Grand Central Dispatch std.Io 구현 추가",
+      "link": "https://news.hada.io/topic?id=26700",
+      "published": "2026-02-15T09:49:07+09:00",
+      "summary": "<ul>\n<li>Zig 표준 라이브러리의 <strong><code>std.Io.Evented</code></strong> 모듈에 <strong>io_uring</strong>과 <strong>Grand Central Dispatch(GCD)</strong> 기반 구현이 새로 통합됨</li>\n<li>두 구현 모두 <strong>사용자 공간 스택 전환(fibers, stackful coroutines, green threads)</strong> 방식으로 동작...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "뉴스 매체들이 AI 스크래핑 우려로 Internet Archive 접근을 제한",
+      "link": "https://news.hada.io/topic?id=26699",
+      "published": "2026-02-15T09:46:06+09:00",
+      "summary": "<ul>\n<li>주요 언론사들이 <strong>AI 학습용 데이터 수집</strong>을 막기 위해 Internet Archive의 접근을 차단하거나 제한 중임</li>\n<li>\n<strong>The Guardian</strong>은 Internet Archive의 API와 Wayback Machine에서 기사 페이지를 제외하고, 일부 홈·토픽 페이지만 남김</li>\n<li>\n<strong>The New York Times...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "좋아하는 블로그를 찾을 수 있는 공간, ooh.directory",
+      "link": "https://news.hada.io/topic?id=26698",
+      "published": "2026-02-15T09:43:06+09:00",
+      "summary": "<ul>\n<li>예술, 기술, 과학 등 다양한 주제의 <strong>블로그를 분류해 탐색할 수 있는 디렉터리 사이트</strong>\n</li>\n<li>\n<strong>12개 주요 카테고리</strong>와 세부 주제별 링크를 통해 관심사 기반의 블로그 검색 지원</li>\n<li>최근에는 <strong>‘Recently added blogs’</strong> 섹션을 통해 새로 등록된 블...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유튜브 쇼츠를 모두 숨기는 uBlock 필터 목록",
+      "link": "https://news.hada.io/topic?id=26697",
+      "published": "2026-02-15T09:40:06+09:00",
+      "summary": "<ul>\n<li>\n<strong>uBlock Origin</strong> 확장 프로그램에서 <strong>YouTube Shorts 영상을 완전히 숨기는 필터 목록</strong>\n</li>\n<li>아래 필터 URL을 복사해 uBlock Origin의 <strong>대시보드 &gt; 필터 목록 &gt; Import</strong> 항목에 붙여넣으면 적용 가능\n<ul>\n<li>\n<code>https://raw.githubusercontent...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Zedis - Rust와 GPUI로 제작된 초고속 네이티브 Redis GUI",
+      "link": "https://news.hada.io/topic?id=26695",
+      "published": "2026-02-15T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>Redis 데이터 탐색 속도와 효율성</strong>을 극대화하기 위해 개발된 <strong>GPU 가속형 클라이언트</strong>\n</li>\n<li>Rust와 <strong>GPUI 엔진</strong>을 사용해 <strong>60FPS 수준의 부드러운 렌더링</strong>과 낮은 메모리 사용량을 달성</li>\n<li>대규모 키 목록(100k+)도 <strong>가상 스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+      "published": "Sat, 14 Feb 2026 22:30:00 +0000",
+      "summary": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is safety ‘dead’ at xAI?",
+      "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "published": "Sat, 14 Feb 2026 21:55:44 +0000",
+      "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+      "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+      "published": "Sat, 14 Feb 2026 20:37:42 +0000",
+      "summary": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+      "link": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+      "published": "Sat, 14 Feb 2026 19:00:00 +0000",
+      "summary": "This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "published": "Sat, 14 Feb 2026 18:26:52 +0000",
+      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "published": "Sat, 14 Feb 2026 18:46:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47017138\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "published": "Sat, 14 Feb 2026 17:36:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47016443\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "link": "https://newpipe.net/",
+      "published": "Sun, 15 Feb 2026 01:24:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47020218\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "published": "Sat, 14 Feb 2026 15:35:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47015294\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "link": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "published": "Fri, 13 Feb 2026 23:34:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47009327\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
