@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-16",
+  "articles": [
+    {
+      "title": "GoScript - Go 코드를 TypeScript로 변환하는 트랜스파일러",
+      "link": "https://news.hada.io/topic?id=26724",
+      "published": "2026-02-16T09:51:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>Go와 TS간 비즈니스 로직 공유</strong>를 목표로 개발된 <strong>AST 기반 트랜스파일러</strong>\n</li>\n<li>Go 언어의 <strong>알고리듬, 데이터 구조, 동시성 로직</strong>을 TypeScript로 변환해 <strong>백엔드와 프론트엔드 간 코드 재사용</strong> 지원</li>\n<li>\n<strong>Struct, Interface...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "초경량, 제로 의존성, 시맨틱 HTML·CSS·JS UI 라이브러리 Oat",
+      "link": "https://news.hada.io/topic?id=26723",
+      "published": "2026-02-16T09:50:07+09:00",
+      "summary": "<ul>\n<li>\n<strong>HTML과 CSS 기반의 초경량 UI 컴포넌트 라이브러리</strong>로, 빌드 과정이나 프레임워크 의존성이 전혀 없는 구조</li>\n<li>\n<strong>6KB CSS와 2.2KB JS</strong>(압축 및 gzip 기준)만으로 구성되어, 웹 애플리케이션에 필요한 주요 UI 요소를 즉시 사용 가능</li>\n<li>\n<code>&lt;button&gt;</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "윈도우 네이티브 개발 환경을 고쳤다",
+      "link": "https://news.hada.io/topic?id=26722",
+      "published": "2026-02-16T09:47:07+09:00",
+      "summary": "<ul>\n<li>\n<strong>Visual Studio 설치 의존성</strong>으로 인해 윈도우 네이티브 개발이 복잡하고 비효율적인 구조에 놓여 있음</li>\n<li>기존 방식은 <strong>수십 GB의 설치 용량</strong>, <strong>불투명한 구성 요소 관리</strong>, <strong>버전 불일치 문제</strong> 등으로 개발자 생산성을 저하시킴</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 감시국가의 심각성을 드러낸 Amazon Ring과 Google Nest",
+      "link": "https://news.hada.io/topic?id=26721",
+      "published": "2026-02-16T09:44:07+09:00",
+      "summary": "<ul>\n<li>\n<strong>Amazon Ring 광고와 Google Nest 사례</strong>가 미국 내 <strong>국가-기업 감시체계의 확산</strong>을 드러냄</li>\n<li>Super Bowl 광고에서 Ring의 <strong>‘Search Party’ 기능</strong>이 공개되며, 이웃 간 카메라 연결을 통한 <strong>AI 기반 탐색 네트워크</strong>가 논란을 일으킴</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "EU, 판매되지 않은 의류·신발 폐기를 금지하는 새 규정 도입",
+      "link": "https://news.hada.io/topic?id=26720",
+      "published": "2026-02-16T09:41:07+09:00",
+      "summary": "<ul>\n<li>유럽연합은 <strong>판매되지 않은 의류·신발·패션 액세서리의 폐기 금지 규정</strong>을 채택해, 낭비와 환경 피해를 줄이는 조치를 시행</li>\n<li>새 규정은 <strong>Ecodesign for Sustainable Products Regulation(ESPR)</strong> 에 따라 기업이 미판매 소비재 폐기 정보를 공개하도록 의무화</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "published": "Mon, 16 Feb 2026 01:00:00 +0000",
+      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "published": "Mon, 16 Feb 2026 00:30:00 +0000",
+      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "published": "Sun, 15 Feb 2026 22:28:02 +0000",
+      "summary": "OpenAI said OpenClaw will live on as an open source project.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+      "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "published": "Sun, 15 Feb 2026 22:07:51 +0000",
+      "summary": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "published": "Sun, 15 Feb 2026 21:11:28 +0000",
+      "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I’m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "published": "Sun, 15 Feb 2026 21:54:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "published": "Sun, 15 Feb 2026 22:17:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "published": "Mon, 16 Feb 2026 00:35:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "published": "Sun, 15 Feb 2026 23:08:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "link": "https://github.com/TechPaula/LT6502",
+      "published": "Sun, 15 Feb 2026 17:12:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
