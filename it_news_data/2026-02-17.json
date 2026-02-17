@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-17",
+  "articles": [
+    {
+      "title": "Anthropic, Claude의 AI 동작을 숨기려다 개발자 반발 초래",
+      "link": "https://news.hada.io/topic?id=26750",
+      "published": "2026-02-17T09:41:10+09:00",
+      "summary": "<ul>\n<li>Anthropic이 <strong>AI 코딩 도구 Claude Code</strong>의 출력 방식을 변경해, 어떤 파일을 읽거나 수정하는지 표시하지 않도록 함</li>\n<li>새 버전(2.1.20)은 파일 이름 대신 “3개의 파일을 읽음”과 같은 요약만 보여주며, 세부 정보는 <strong>단축키로만 확인 가능</strong>\n</li>\n<li>개발자들은 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "14세 소년, 종이접기로 1만 배 하중을 견디는 구조 설계",
+      "link": "https://news.hada.io/topic?id=26749",
+      "published": "2026-02-17T09:38:10+09:00",
+      "summary": "<ul>\n<li>\n<strong>Miura-ori 종이접기 패턴</strong>을 변형해 <strong>자신의 무게의 1만 배를 지탱하는 구조물</strong>을 만든 14세 학생의 연구 사례</li>\n<li>250시간 이상 실험을 반복하며 <strong>재난 시 신속 배치 가능한 긴급 대피소 구조</strong>로 발전 가능성을 탐구</li>\n<li>실험에서 <strong>200파운드...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "영국 법무부, 최대 법원 보도 데이터베이스 삭제 명령",
+      "link": "https://news.hada.io/topic?id=26748",
+      "published": "2026-02-17T09:35:09+09:00",
+      "summary": "<ul>\n<li>영국 <strong>법무부(Ministry of Justice)</strong> 가 언론이 형사법원 사건을 추적하던 <strong>디지털 아카이브 ‘Courtsdesk’</strong> 의 삭제를 명령함</li>\n<li>HM Courts &amp; Tribunals Service(HMCTS)가 모든 기록 삭제를 지시했으며, 39개 언론사 소속 1,500명 이상의 기자들이 이 플랫폼을 사용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "agent-of-empires - tmux와 git Worktree를 활용한 AI 코딩 에이전트 터미널 세션 관리자",
+      "link": "https://news.hada.io/topic?id=26747",
+      "published": "2026-02-17T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 코딩 에이전트의 병렬 실행과 세션 관리</strong>를 위해 개발</li>\n<li>\n<strong>Claude Code, OpenCode, Codex CLI, Gemini CLI</strong> 등 주요 AI 코딩 도구를 통합 지원</li>\n<li>\n<strong>Linux와 macOS</strong>에서 동작하며, 각 에이전트를 <strong>독립된 tmux 세션</strong>으로 실행해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "microgpt - 200줄 순수 파이썬으로 구현한 GPT 학습 및 추론",
+      "link": "https://news.hada.io/topic?id=26746",
+      "published": "2026-02-17T07:25:47+09:00",
+      "summary": "<ul>\n<li>karpathy가 공개한 아트 프로젝트. 200줄 단일 파일로 외부 의존성없이 <strong>GPT 전체 알고리듬을 구현</strong>\n</li>\n<li>프로덕션 LLM과의 차이는 <strong>규모와 효율성</strong>일 뿐 핵심은 동일, 이 코드를 이해하면 <strong>GPT의 알고리듬적 본질을 이해한 것</strong>임</li>\n<li>데이터셋, 토크나...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+      "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+      "published": "Mon, 16 Feb 2026 18:53:56 +0000",
+      "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+      "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+      "published": "Mon, 16 Feb 2026 17:00:00 +0000",
+      "summary": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+      "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+      "published": "Mon, 16 Feb 2026 14:00:00 +0000",
+      "summary": "\"We're exploring a different set of tradeoffs.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+      "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+      "published": "Mon, 16 Feb 2026 13:15:00 +0000",
+      "summary": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+      "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+      "published": "Mon, 16 Feb 2026 11:51:25 +0000",
+      "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "published": "Tue, 17 Feb 2026 01:01:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47042396\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Study: Self-generated Agent Skills are useless",
+      "link": "https://arxiv.org/abs/2602.12670",
+      "published": "Mon, 16 Feb 2026 21:15:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47040430\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "published": "Mon, 16 Feb 2026 18:41:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47038546\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI is destroying Open Source, and it's not even good yet",
+      "link": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+      "published": "Tue, 17 Feb 2026 00:26:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47042136\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rise of the Triforce",
+      "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "published": "Mon, 16 Feb 2026 21:24:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47040524\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
