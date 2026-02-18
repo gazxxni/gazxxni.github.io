@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-18",
+  "articles": [
+    {
+      "title": "Show GN: slimg - Rust로 만든 이미지 최적화 CLI (54GB → 8GB)",
+      "link": "https://news.hada.io/topic?id=26773",
+      "published": "2026-02-18T10:36:48+09:00",
+      "summary": "<p><strong>왜 만들었나요?</strong></p>\n<p>Google의 Squoosh라는 툴을 애용했는데, CLI 버전은 실행하면 오류가 나고 웹 버전은 쓸만했지만... Google 특유의 방치 상태에 결국 직접 만들기로 했습니다. 대체제를 찾아봤는데 마음에 드는 게 없었습니다.</p>\n<p><strong>slimg란?</strong></p>\n<p>Rust로 작성된 이미지",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub, PR을 비활성화 하거나 접근을 제한하는 설정 추가",
+      "link": "https://news.hada.io/topic?id=26772",
+      "published": "2026-02-18T10:20:31+09:00",
+      "summary": "<ul>\n<li>저장소 관리자가 <strong>풀 리퀘스트(PR)</strong> 접근 방식을 세밀하게 제어할 수 있는 두 가지 새로운 설정이 추가됨</li>\n<li>\n<strong>풀 리퀘스트 기능을 완전히 비활성화</strong>해, 탭이 숨겨지고 기존 PR도 볼 수 없게 함</li>\n<li>\n<strong>협업자(collaborator)</strong> 만 새 PR을 만들 수 있도...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "테슬라 ‘로보택시’, 오스틴에서 한 달 새 5건 추가 사고 — 인간보다 4배 높은 사고율",
+      "link": "https://news.hada.io/topic?id=26771",
+      "published": "2026-02-18T10:01:08+09:00",
+      "summary": "<ul>\n<li>오스틴에서 운행 중인 <strong>테슬라 ‘로보택시’ 차량이 최근 한 달간 5건의 추가 사고</strong>를 기록하며, 서비스 시작 이후 총 14건으로 늘어남</li>\n<li>새로 보고된 사고 중에는 <strong>입원 치료가 필요한 부상자 발생</strong> 사례가 포함되어 있으며, 테슬라는 이를 수개월 뒤에야 수정 보고함...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show HN은 죽지 않았다, 하지만 압도당하고 있다",
+      "link": "https://news.hada.io/topic?id=26770",
+      "published": "2026-02-18T09:58:08+09:00",
+      "summary": "<ul>\n<li>\n<strong>Show HN 게시물 수가 급증</strong>하면서 개별 프로젝트의 주목도와 참여율이 급격히 낮아지고 있음</li>\n<li>최근 몇 년간 <strong>게시물 볼륨은 폭발적으로 증가</strong>했지만, 평균 댓글 수와 노출 시간은 지속적으로 감소</li>\n<li>\n<strong>1포인트에 머무는 게시물 비율</strong>이 일반 게...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 오픈소스를 파괴하고 있다, 아직 제대로 작동하지도 않는데",
+      "link": "https://news.hada.io/topic?id=26769",
+      "published": "2026-02-18T09:55:07+09:00",
+      "summary": "<ul>\n<li>\n<strong>코드 머지를 거부</strong>한 것에 AI가 비난성 글을 게시하고, 허위 인용문 기사가 철회되는 등, <strong>AI가 오픈소스 생태계에 미치는 부정적 영향</strong>이 드러남</li>\n<li>오픈소스 유지관리자들은 <strong>AI가 만든 부정확한 코드(PR)와 버그 리포트</strong>로 인해 검토 부담이 급증하고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
+      "link": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
+      "published": "Wed, 18 Feb 2026 00:01:00 +0000",
+      "summary": "Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jack Altman joins Benchmark as GP",
+      "link": "https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/",
+      "published": "Tue, 17 Feb 2026 23:54:55 +0000",
+      "summary": "Jack Altman and Benchmark announced today that he would be joining the firm as a general partner.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ford turns to F1 and bounties to build a $30,000 electric truck",
+      "link": "https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/",
+      "published": "Tue, 17 Feb 2026 23:43:21 +0000",
+      "summary": "A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
+      "link": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
+      "published": "Tue, 17 Feb 2026 20:45:33 +0000",
+      "summary": "An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more inclined to overuse social media.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple is reportedly cooking up a trio of AI wearables",
+      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+      "published": "Tue, 17 Feb 2026 20:14:00 +0000",
+      "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "published": "Tue, 17 Feb 2026 17:48:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47050488\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
+      "link": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
+      "published": "Wed, 18 Feb 2026 01:19:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47055786\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thank HN: You helped save 33k lives",
+      "link": "https://news.ycombinator.com/item?id=47049824",
+      "published": "Tue, 17 Feb 2026 17:06:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47049824\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "link": "https://github.com/Zaneham/BarraCUDA",
+      "published": "Tue, 17 Feb 2026 20:35:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47052941\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rathbun's Operator",
+      "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
+      "published": "Wed, 18 Feb 2026 00:26:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47055424\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
