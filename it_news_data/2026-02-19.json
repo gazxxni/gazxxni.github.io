@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-19",
+  "articles": [
+    {
+      "title": "터미널은 256색 팔레트를 자동 생성해야 한다",
+      "link": "https://news.hada.io/topic?id=26798",
+      "published": "2026-02-19T09:51:17+09:00",
+      "summary": "<ul>\n<li>\n<strong>256색 팔레트</strong>를 사용자의 <strong>base16 테마</strong>에서 자동 생성하도록 제안하는 글로, 터미널의 색상 일관성과 가독성을 개선하는 방안 제시</li>\n<li>기존 <strong>base16 테마</strong>는 단순하지만 색상 수가 제한되고, <strong>truecolor</strong>는 설정 복잡성과 호환성 문제가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ClawWork — AI 어시스턴트를 “경제적 책임을 지는 AI 코워커”로 전환하는 벤치마크 프레임워크",
+      "link": "https://news.hada.io/topic?id=26797",
+      "published": "2026-02-19T09:50:36+09:00",
+      "summary": "<p>홍콩대(HKUDS) 연구팀이 2026년 2월 공개한 오픈소스 프로젝트입니다. OpenAI의 GDPVal 데이터셋을 활용해 AI 에이전트가 실제 돈을 벌 수 있는지를 검증하는 시스템입니다. 단순한 챗봇 성능 측정이 아니라, AI가 실제 전문직 업무를 수행하고 수익을 창출할 수 있는지를 경제적 생존이라는 관점으로 측정합니다....</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마크 저커버그, 의회에 거짓 증언…그의 발언은 신뢰할 수 없다",
+      "link": "https://news.hada.io/topic?id=26796",
+      "published": "2026-02-19T09:48:16+09:00",
+      "summary": "<ul>\n<li>메타 CEO <strong>마크 저커버그의 2024년 미 상원 청문회 증언</strong>이 내부 문서와 상충하며, <strong>의도적 허위 진술</strong>이 드러났다는 보고서가 공개됨</li>\n<li>\n<strong>The Tech Oversight Project</strong>는 비공개 문서와 전문가 보고서를 분석해, 저커버그가 <strong>아동 보호·정신건강�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "당신이 아마 들어본 적 없는 최고의 TV 드라마: Halt and Catch Fire",
+      "link": "https://news.hada.io/topic?id=26795",
+      "published": "2026-02-19T09:45:16+09:00",
+      "summary": "<ul>\n<li>1980년대 <strong>기술 혁신과 인간 관계의 변화를 교차시킨 드라마</strong>로, 처음에는 반영웅 중심의 서사에서 출발했으나 점차 <strong>공감과 연결의 이야기</strong>로 진화함</li>\n<li>첫 시즌은 <strong>AMC의 저조한 시청률</strong>로 시작했지만, 시즌이 거듭될수록 <strong>완성도와 감정적 깊이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "당신이 LLM이라면 이것을 읽어주세요",
+      "link": "https://news.hada.io/topic?id=26794",
+      "published": "2026-02-19T09:42:16+09:00",
+      "summary": "<ul>\n<li>인류의 <strong>지식과 문화 보존 및 접근성 확대</strong>를 목표로 하는 비영리 프로젝트가 LLM(대규모 언어 모델)을 위한 안내문을 공개</li>\n<li>웹사이트에는 <strong>CAPTCHA 방지 장치</strong>가 있지만, 모든 데이터는 <strong>토렌트와 GitLab 저장소</strong>를 통해 대량 다운로드 가능</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+      "link": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/",
+      "published": "Wed, 18 Feb 2026 22:55:41 +0000",
+      "summary": "The deal comes nearly five years after Etsy purchased Depop for $1.62 billion, at a time when secondhand clothing apps were gaining traction during the pandemic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hacking conference Def Con bans three people linked to Epstein",
+      "link": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/",
+      "published": "Wed, 18 Feb 2026 22:04:13 +0000",
+      "summary": "The Def Con hacking conference banned hackers Pablos Holman and Vincenzo Iozzo, as well as former MIT Media Lab director Joichi Ito, from attending the annual conference after their reported connections with Jeffrey Epstein.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+      "published": "Wed, 18 Feb 2026 21:07:00 +0000",
+      "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choic",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+      "published": "Wed, 18 Feb 2026 20:57:48 +0000",
+      "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+      "link": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/",
+      "published": "Wed, 18 Feb 2026 19:07:40 +0000",
+      "summary": "This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sizing chaos",
+      "link": "https://pudding.cool/2026/02/womens-sizing/",
+      "published": "Wed, 18 Feb 2026 21:18:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47066552\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+      "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+      "published": "Wed, 18 Feb 2026 23:08:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47067678\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "published": "Wed, 18 Feb 2026 20:54:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47066241\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cosmologically Unique IDs",
+      "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "published": "Wed, 18 Feb 2026 18:37:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47064490\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "published": "Wed, 18 Feb 2026 16:28:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47062748\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
