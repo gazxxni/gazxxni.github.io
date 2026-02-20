@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-20",
+  "articles": [
+    {
+      "title": "AI가 당신을 지루하게 만든다",
+      "link": "https://news.hada.io/topic?id=26832",
+      "published": "2026-02-20T09:41:46+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 보조 개발</strong>이 늘면서, 프로젝트의 <strong>창의성과 깊이</strong>가 줄어드는 현상이 나타남</li>\n<li>과거의 “Show HN” 게시물은 문제를 오래 고민한 개발자와의 <strong>지적 교류의 장</strong>이었으나, 최근에는 <strong>AI 생성 프로젝트</strong>가 많아져 대화의 밀도가 낮아짐...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 제3자용 구독 인증 사용 공식 금지",
+      "link": "https://news.hada.io/topic?id=26830",
+      "published": "2026-02-20T09:35:46+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude Code</strong>의 법적·준수 정책 문서가 업데이트되어, <strong>OAuth 인증 토큰의 제3자 사용이 금지됨</strong>\n</li>\n<li>Free, Pro, Max 계정으로 발급된 <strong>OAuth 토큰을 다른 제품·도구·서비스에서 사용하는 행위는 서비스 약관 위반</strong>으로 명시</li>\n<li>\n<strong>개발자...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "just-bash - 에이전트를 위한 Bash 시뮬레이션 환경",
+      "link": "https://news.hada.io/topic?id=26829",
+      "published": "2026-02-20T09:31:01+09:00",
+      "summary": "<ul>\n<li>Vercel에서 만든 &quot;Bash for Agents&quot;</li>\n<li>\n<strong>안전하고 샌드박스 처리된 bash 환경이 필요한 AI 에이전트</strong>를 위해 설계된 <strong>TypeScript 기반 가상 Bash 환경</strong>\n</li>\n<li>\n<strong>메모리 내 가상 파일시스템(InMemoryFs)</strong> 위에서 동작하며, 실제 디스크 접근...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "초개인화 맞춤형 (Highly Bespoke) 소프트웨어의 시대",
+      "link": "https://news.hada.io/topic?id=26828",
+      "published": "2026-02-20T09:14:01+09:00",
+      "summary": "<ul>\n<li>기존 앱스토어에서 범용 앱을 골라 쓰는 방식이 점점 구시대적 개념이 되고 있으며, LLM 에이전트가 <strong>즉석에서 사용자 맞춤 앱을 생성</strong>하는 시대로 전환 중</li>\n<li>Karpathy가 바이브 코딩으로 <strong>맞춤형 유산소 운동 대시보드</strong>를 1시간 만에 완성한 사례 공유</li>\n<li>트레드밀...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemini 3.1 Pro",
+      "link": "https://news.hada.io/topic?id=26827",
+      "published": "2026-02-20T08:32:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>복잡한 작업을 처리하기 위한 고도화된 멀티모달 AI 모델</strong>로, 단순한 답변을 넘어선 문제 해결을 목표로 함</li>\n<li>\n<strong>ARC-AGI-2 벤치마크</strong>에서 77.1%의 검증 점수를 기록해 이전 3 Pro 대비 <strong>두 배 이상의 추론 성능</strong>을 달성</li>\n<li>\n<strong>데이터 통합,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+      "published": "Fri, 20 Feb 2026 00:55:22 +0000",
+      "summary": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+      "published": "Fri, 20 Feb 2026 00:30:00 +0000",
+      "summary": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
+      "link": "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/",
+      "published": "Thu, 19 Feb 2026 22:31:34 +0000",
+      "summary": "The FBI says hacks that trick ATMs into spitting out cash on demand are rising, with hundreds of attacks in the past year alone netting hackers millions in stolen bills.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "At a critical moment, Snap loses a top Specs exec",
+      "link": "https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/",
+      "published": "Thu, 19 Feb 2026 22:30:36 +0000",
+      "summary": "As Snap readies the public release of its long-awaited VR glasses, one of the key executives on the project has left the company.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Second and last chance for innovators to win scaling perks: Belden extends nomination window",
+      "link": "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/",
+      "published": "Thu, 19 Feb 2026 22:23:15 +0000",
+      "summary": "Last day to nominate for the 2026 Joseph C. Belden Innovation Award has been extended through February 27. Don't miss your chance to win scaling perks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 3.1 Pro",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "published": "Thu, 19 Feb 2026 15:19:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47074735\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Micasa – track your house from the terminal",
+      "link": "https://micasa.dev",
+      "published": "Thu, 19 Feb 2026 15:54:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47075124\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Micropayments as a reality check for news sites",
+      "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "published": "Thu, 19 Feb 2026 19:42:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47078167\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "published": "Thu, 19 Feb 2026 14:52:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "link": "https://github.com/Veirt/weathr",
+      "published": "Thu, 19 Feb 2026 17:47:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47076659\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
