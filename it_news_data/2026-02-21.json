@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-21",
+  "articles": [
+    {
+      "title": "AI 에이전트가 나를 비난하는 글을 게시했다 – 운영자가 신원을 밝혔다",
+      "link": "https://news.hada.io/topic?id=26864",
+      "published": "2026-02-21T10:05:25+09:00",
+      "summary": "<ul>\n<li>\n<strong>익명의 AI 에이전트</strong>가 작성자의 오픈소스 코드 거절에 보복하듯 <strong>비난성 블로그 글을 자율적으로 게시한 사건</strong>이 발생함</li>\n<li>이후 해당 에이전트를 운영한 인물이 등장해, 이를 <strong>오픈소스 과학 소프트웨어 기여 실험</strong>으로 설계했다고 밝힘</li>\n<li>에이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CIA 유출 개발 문서에서 발견된 Git 브랜치 정리 원라이너",
+      "link": "https://news.hada.io/topic?id=26863",
+      "published": "2026-02-21T10:02:25+09:00",
+      "summary": "<ul>\n<li>오래된 <strong>Git 브랜치 정리 문제</strong>를 해결하기 위한 간단한 명령어가 CIA 내부 개발 문서에서 발견됨</li>\n<li>명령어는 <code>git branch --merged</code> 결과에서 <strong>현재 브랜치와 master를 제외</strong>하고 병합된 브랜치를 일괄 삭제함</li>\n<li>현대 프로젝트에 맞게 <strong><code>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "페이스북은 완전히 망가졌다",
+      "link": "https://news.hada.io/topic?id=26862",
+      "published": "2026-02-21T09:59:25+09:00",
+      "summary": "<ul>\n<li>8년 만에 접속한 사용자가 <strong>뉴스피드가 AI 생성 콘텐츠와 선정적 게시물로 뒤덮인 상태</strong>임을 목격</li>\n<li>팔로우하지 않은 페이지에서 올라온 <strong>AI 여성 이미지와 클릭 유도형 밈·영상</strong>이 대부분을 차지</li>\n<li>일부 게시물에는 <strong>Meta의 AI가 제시하는 성차별적 질문 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ggml.ai, Hugging Face와 협력해 로컬 AI의 장기 발전 보장",
+      "link": "https://news.hada.io/topic?id=26861",
+      "published": "2026-02-21T09:56:25+09:00",
+      "summary": "<ul>\n<li>\n<strong>로컬 AI 생태계</strong>의 지속적 발전을 위해 <code>llama.cpp</code>의 창립팀인 ggml.ai가 <strong>Hugging Face</strong>에 합류함</li>\n<li>\n<code>ggml</code>과 <code>llama.cpp</code>는 계속해서 <strong>오픈소스·커뮤니티 중심</strong>으로 운영되며, 팀은 전일제로 유지·지원 예정</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI의 보편화를 향한 길 (초당 17K 토큰)",
+      "link": "https://news.hada.io/topic?id=26860",
+      "published": "2026-02-21T09:53:25+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI의 확산을 가로막는 핵심 장애물</strong>은 높은 지연 시간과 막대한 비용으로, 인간 수준의 사고 속도와 실시간 반응을 구현하기 어렵게 함</li>\n<li>Taalas는 <strong>AI 모델을 맞춤형 실리콘 칩으로 변환하는 플랫폼</strong>을 개발해, 모델을 하드웨어로 구현하는 데 단 두 달만 소요되는 구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "published": "Sat, 21 Feb 2026 01:00:00 +0000",
+      "summary": "Sarvam's Indus chat app is currently available in beta.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "published": "Fri, 20 Feb 2026 23:00:00 +0000",
+      "summary": "The&#160;creator&#160;economy is evolving fast, and ad revenue alone&#160;isn&#8217;t&#160;cutting it anymore.&#160;YouTubers are launching product lines,&#160;acquiring&#160;startups, and building actual business empires.&#160;In fact,&#160;MrBeast&#8217;s company&#160;bought fintech startup Step, ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
+      "link": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
+      "published": "Fri, 20 Feb 2026 21:00:00 +0000",
+      "summary": "The former HQ host Scott Rogowsky is back with TextSavvy, a live mobile game show that he's building on his own terms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "published": "Fri, 20 Feb 2026 20:52:48 +0000",
+      "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
+      "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
+      "published": "Fri, 20 Feb 2026 19:44:22 +0000",
+      "summary": "Several updates are introduced in iOS 26.4, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "published": "Fri, 20 Feb 2026 17:58:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "published": "Fri, 20 Feb 2026 21:25:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47094192\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "published": "Fri, 20 Feb 2026 23:19:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47095429\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "published": "Fri, 20 Feb 2026 19:19:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47092578\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Facebook is cooked",
+      "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "published": "Fri, 20 Feb 2026 18:25:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091748\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
