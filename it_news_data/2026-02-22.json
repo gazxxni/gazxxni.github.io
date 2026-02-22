@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-22",
+  "articles": [
+    {
+      "title": "Claude Code, 앱 미리보기·코드 리뷰·PR 자동 수정·병합 기능 추가",
+      "link": "https://news.hada.io/topic?id=26887",
+      "published": "2026-02-22T09:51:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>클로드 코드 데스크톱</strong>에서 개발 서버 실행과 앱 미리보기를 지원, 브라우저 전환 없이 UI·로그·오류 확인 가능</li>\n<li>로컬 변경사항을 분석하는 <strong>Review code 버튼</strong>으로 푸시 전 버그·잠재 이슈를 인라인 코멘트로 확인 가능</li>\n<li>GitHub PR 상태를 앱 내에서 추적하고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "보안 인가 신청서에 적지 말아야 할 것 (1988)",
+      "link": "https://news.hada.io/topic?id=26886",
+      "published": "2026-02-22T09:37:58+09:00",
+      "summary": "<ul>\n<li>12세 때 <strong>암호학 책을 읽고 만든 비밀 코드</strong>가 FBI의 첩보 사건으로 오해받은 일화를 다룸</li>\n<li>분실한 <strong>안경 케이스 속 암호 키</strong>가 일본 스파이의 증거로 오인되어 FBI가 수주간 수사 진행</li>\n<li>조사 후 FBI는 안경을 돌려줬지만 <strong>암호 키는 기록용으로 보관</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LinkedIn 신원 인증을 하면 넘어가는 개인 정보들",
+      "link": "https://news.hada.io/topic?id=26885",
+      "published": "2026-02-22T09:34:58+09:00",
+      "summary": "<ul>\n<li>LinkedIn의 <strong>신원 인증 절차</strong>는 사용자가 여권과 얼굴 사진을 제출하면 완료되지만, 실제 데이터는 LinkedIn이 아닌 <strong>미국 기업 Persona</strong>로 전달됨</li>\n<li>Persona는 여권 사진, <strong>얼굴 인식용 생체정보</strong>, <strong>NFC 칩 데이터</strong>, <strong>기기 정보 및...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "sql-tap - 터미널 UI 기반 실시간 SQL 트래픽 뷰어",
+      "link": "https://news.hada.io/topic?id=26884",
+      "published": "2026-02-22T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>TiDB</strong> 등 주요 데이터베이스의 쿼리 흐름을 <strong>실시간으로 모니터링</strong> 및 시각화</li>\n<li>\n<strong>애플리케이션과 DB 사이 프록시(sql-tapd)</strong> 가 모든 SQL 요청을 가로채고, 이를 <strong>gRPC 스트림</strong>으...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임",
+      "link": "https://news.hada.io/topic?id=26883",
+      "published": "2026-02-22T09:07:39+09:00",
+      "summary": "<ul>\n<li>LLM 위에 에이전트가 추가된 이후, 그 위에서 <strong>오케스트레이션·스케줄링·컨텍스트 관리·툴 호출·지속성</strong>을 담당하는 <strong>Claws 레이어</strong>가 등장함</li>\n<li>에이전트의 실행 구조를 한 단계 추상화해 <strong>더 높은 수준의 자동화와 구성 가능성</strong> 확보</li>\n<li>OpenClaw는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "published": "Sat, 21 Feb 2026 21:38:01 +0000",
+      "summary": "\"It also takes a lot of energy to train a human.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+      "link": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
+      "published": "Sat, 21 Feb 2026 20:20:15 +0000",
+      "summary": "Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+      "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+      "published": "Sat, 21 Feb 2026 17:41:27 +0000",
+      "summary": "Is Microsoft's gaming division doubling down on AI?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google VP warns that two types of AI startups may not survive",
+      "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+      "published": "Sat, 21 Feb 2026 16:00:00 +0000",
+      "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+      "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+      "published": "Sat, 21 Feb 2026 15:25:44 +0000",
+      "summary": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "link": "https://boristane.com/blog/how-i-use-claude-code/",
+      "published": "Sun, 22 Feb 2026 00:29:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Are compilers deterministic?",
+      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
+      "published": "Sun, 22 Feb 2026 00:21:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "link": "https://github.com/xaskasdf/ntransformer",
+      "published": "Sat, 21 Feb 2026 20:57:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47104667\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "link": "https://www.science.org/doi/10.1126/science.adq7188",
+      "published": "Sat, 21 Feb 2026 21:51:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "published": "Sat, 21 Feb 2026 19:40:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47103931\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
