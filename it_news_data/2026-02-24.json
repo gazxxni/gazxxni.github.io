@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-24",
+  "articles": [
+    {
+      "title": "Electrobun v1: TypeScript로 빠르고 작고 크로스플랫폼 데스크톱 앱을 구축",
+      "link": "https://news.hada.io/topic?id=26950",
+      "published": "2026-02-24T10:29:27+09:00",
+      "summary": "<ul>\n<li>\n<strong>Electrobun v1</strong>은 TypeScript 기반으로 <strong>고속·경량·크로스플랫폼 데스크톱 앱</strong>을 개발할 수 있는 프레임워크</li>\n<li>macOS 전용으로 시작했으나 현재 <strong>macOS, Windows, Ubuntu</strong>를 모두 지원하며, 설치 프로그램과 자동 업데이트, <strong>차등 패치 생성 기능...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Git의 매직 파일들",
+      "link": "https://news.hada.io/topic?id=26949",
+      "published": "2026-02-24T10:22:05+09:00",
+      "summary": "<ul>\n<li>Git은 <strong>저장소 내 특정 파일들</strong>을 통해 동작 방식을 제어하며, 이들은 <code>.git/</code> 내부 설정이 아닌 <strong>커밋되어 코드와 함께 이동하는 파일</strong>임</li>\n<li>\n<code>.gitignore</code>, <code>.gitattributes</code>, <code>.lfsconfig</code>, <code>.gitmodules</code>, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 중국 AI 기업들의 Claude 불법 증류 공격 탐지 및 대응 공개",
+      "link": "https://news.hada.io/topic?id=26948",
+      "published": "2026-02-24T10:05:21+09:00",
+      "summary": "<p>Anthropic이 DeepSeek, MiniMax, Moonshot AI 세 중국 AI 기업이 Claude의 능력을 불법으로 추출했다고 공식 발표했습니다.</p>\n<p>공격 규모<br />\n세 기업이 총 24,000개의 허위 계정을 생성해 Claude와 1,600만 건 이상의 대화를 생성했으며, 이는 Anthropic의 서비스 약관과 지역 접근 제한을 명백히 위반한 것입",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽 최초 산업 규모의 균사체 포장재 생산업체 Magical Mushroom",
+      "link": "https://news.hada.io/topic?id=26947",
+      "published": "2026-02-24T10:03:33+09:00",
+      "summary": "<ul>\n<li>\n<strong>균사체(Mycelium)</strong> 와 농업 부산물을 활용해 <strong>플라스틱 포장재를 대체하는 산업용 포장재</strong>를 생산</li>\n<li>기존 <strong>발포 폴리스티렌(EPS)</strong> 과 동일한 강도와 비용을 유지하면서, <strong>지속적으로 남는 플라스틱 폐기물 문제를 제거</strong>\n</li>\n<li>완제품...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "바이낸스 직원들, 17억 달러 규모 암호화폐가 이란으로 송금된 사실 발견 후 해고",
+      "link": "https://news.hada.io/topic?id=26946",
+      "published": "2026-02-24T10:00:33+09:00",
+      "summary": "<ul>\n<li>내부 조사팀이 <strong>이란 관련 계좌에서 17억 달러 규모의 암호화폐 이동</strong>을 확인했으며, 일부 계좌는 테러 조직과 연계된 기관으로 연결됨</li>\n<li>조사 결과 보고 후 <strong>4명 이상의 직원이 해고 또는 정직</strong>되었으며, 회사는 “고객 데이터 처리 절차 위반”을 이유로 제시함</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "published": "Tue, 24 Feb 2026 00:57:14 +0000",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+      "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+      "published": "Tue, 24 Feb 2026 00:36:12 +0000",
+      "summary": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "published": "Mon, 23 Feb 2026 21:46:41 +0000",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+      "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+      "published": "Mon, 23 Feb 2026 20:35:06 +0000",
+      "summary": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "published": "Mon, 23 Feb 2026 19:57:27 +0000",
+      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Shatner is making an album with 35 metal icons",
+      "link": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "published": "Tue, 24 Feb 2026 00:33:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47131173\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "published": "Mon, 23 Feb 2026 21:44:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47129361\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "published": "Mon, 23 Feb 2026 23:58:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47130860\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+      "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "published": "Mon, 23 Feb 2026 20:05:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47127986\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "link": "https://spectrum.ieee.org/age-verification",
+      "published": "Mon, 23 Feb 2026 14:22:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
