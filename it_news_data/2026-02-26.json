@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-26",
+  "articles": [
+    {
+      "title": "Show GN: 웹 메모 – 읽고 있는 페이지에서 바로 메모하는 크롬 익스텐션 &amp; 앱",
+      "link": "https://news.hada.io/topic?id=27016",
+      "published": "2026-02-26T10:35:14+09:00",
+      "summary": "<p>출퇴근 길 지하철에서 글을 읽다가 &quot;이건 기록하고 싶은데..&quot; 하고 그냥 넘기신 적 있으신가요?<br />\n좋은 글을 읽다가 떠오른 생각을 남기고 싶은데, 메모 앱 열어서 URL 복사하고 붙여넣는 과정이 번거로워서 직접 만들었습니다.<br />\n읽고 있는 페이지에서 바로 메모 탭을 열면, 제목과 URL이 자동으로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국, 외교관들에게 데이터 주권 강화 움직임에 대응 지시",
+      "link": "https://news.hada.io/topic?id=27015",
+      "published": "2026-02-26T10:33:03+09:00",
+      "summary": "<ul>\n<li>미국 정부가 <strong>해외 외교관들에게 각국의 데이터 주권 정책에 대응하도록 지시</strong>함</li>\n<li>이러한 지시는 <strong>데이터 현지화 요구와 국가별 통제 강화 움직임</strong>에 대한 대응 조치로 제시됨</li>\n<li>미국은 <strong>글로벌 데이터 흐름의 자유로운 이동</strong>을 유지하려는 입장을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Cowork에서 반복 작업 예약 기능 출시",
+      "link": "https://news.hada.io/topic?id=27014",
+      "published": "2026-02-26T10:25:10+09:00",
+      "summary": "<p>Anthropic이 데스크탑 앱 Cowork에 스케줄 태스크(Scheduled Tasks) 기능을 추가했습니다. 작업을 한 번만 설정해두면 Claude가 정해진 주기에 맞춰 자동으로 실행해주는 기능입니다.<br />\n주요 활용 사례<br />\n∙\t매일 Slack 메시지, 이메일, 캘린더 이벤트 요약 브리핑<br />\n∙\t주간 Google Drive 데이터 리포트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code Remote Control",
+      "link": "https://news.hada.io/topic?id=27013",
+      "published": "2026-02-26T09:55:30+09:00",
+      "summary": "<ul>\n<li>\n<strong>로컬 개발 세션을 다른 기기에서 이어서 사용할 수 있는 기능</strong>으로, Claude Code가 실행 중인 컴퓨터에 원격으로 접속해 작업을 지속할 수 있음</li>\n<li>\n<strong>claude.ai/code 웹 인터페이스</strong>나 <strong>Claude 모바일 앱(iOS·Android)</strong> 을 통해 접속하며, 로컬 환경이 그...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "HN 신규 계정이 EM 대시를 사용할 확률이 10배 높음",
+      "link": "https://news.hada.io/topic?id=27012",
+      "published": "2026-02-26T09:52:30+09:00",
+      "summary": "<ul>\n<li>최근 <strong>Hacker News 신규 계정의 댓글 패턴</strong>을 분석한 결과, 기존 사용자와 뚜렷한 차이가 확인됨</li>\n<li>신규 계정의 댓글 중 <strong>17.47%가 EM 대시(—), 화살표 등 특수기호</strong>를 사용했으며, 기존 계정의 1.83%보다 약 10배 높음</li>\n<li>또한 신규 계정은 <strong>AI와 LLM 관련...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "published": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward. off more talk of the death of its business to AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+      "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+      "published": "Thu, 26 Feb 2026 00:00:00 +0000",
+      "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+      "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "published": "Wed, 25 Feb 2026 23:49:19 +0000",
+      "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia has another record quarter amid record capex spends",
+      "link": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+      "published": "Wed, 25 Feb 2026 23:04:42 +0000",
+      "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+      "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+      "published": "Wed, 25 Feb 2026 20:42:14 +0000",
+      "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jane Street Hit with Terra $40B Insider Trading Suit",
+      "link": "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/",
+      "published": "Thu, 26 Feb 2026 01:25:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47160613\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jimi Hendrix was a systems engineer",
+      "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "published": "Wed, 25 Feb 2026 20:16:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "First Website",
+      "link": "https://info.cern.ch",
+      "published": "Wed, 25 Feb 2026 23:02:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47159302\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making MCP cheaper via CLI",
+      "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "published": "Wed, 25 Feb 2026 20:29:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47157398\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Origin of the rule that swap size should be 2x of the physical memory",
+      "link": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
+      "published": "Wed, 25 Feb 2026 23:09:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47159364\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
