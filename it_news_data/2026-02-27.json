@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-27",
+  "articles": [
+    {
+      "title": "Oxfmt 베타 출시",
+      "link": "https://news.hada.io/topic?id=27044",
+      "published": "2026-02-27T10:02:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Prettier 대비 30배 이상</strong>, Biome 대비 3배 빠른 <strong>Rust 기반 코드 포매터</strong>\n</li>\n<li>Prettier의 JS/TS 테스트를 <strong>100% 통과</strong>하며 동일한 포맷 결과 보장</li>\n<li>이미 <strong>OpenClaw, VueJS, Huggingface, npmx</strong> 등 여러 오픈소스 프로젝트에서 채...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nano Banana 2: 프로 기능과 빠른 속도를 결합",
+      "link": "https://news.hada.io/topic?id=27043",
+      "published": "2026-02-27T09:45:24+09:00",
+      "summary": "<ul>\n<li>Nano Banana Pro의 고급 기능과 Gemini Flash의 속도를 결합, <strong>고속 이미지 생성과 편집 반복</strong>이 가능함</li>\n<li>\n<strong>세계 지식 기반 렌더링</strong>, <strong>정확한 텍스트 표현 및 번역</strong>, <strong>주제 일관성 유지</strong>, <strong>4K 해상도 지원</strong> 등 프로급 기능...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미 국방부와의 논의에 대한 Dario Amodei의 성명",
+      "link": "https://news.hada.io/topic?id=27042",
+      "published": "2026-02-27T09:42:24+09:00",
+      "summary": "<ul>\n<li>\n<strong>대규모 국내 감시</strong>와 <strong>완전 자율 무기</strong> 2가지 분야는 <strong>계약에서 제외</strong>함</li>\n<li>Anthropic은 <strong>미국과 민주주의 국가의 방어를 위한 AI 활용</strong>을 핵심 사명으로 삼고 있으며, 이를 위해 국방부 및 정보기관과 협력 중임</li>\n<li>Claude 모델은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "YC 기업들이 GitHub 활동을 수집해 사용자에게 스팸 메일을 발송한다는 제보",
+      "link": "https://news.hada.io/topic?id=27039",
+      "published": "2026-02-27T09:36:23+09:00",
+      "summary": "<ul>\n<li>일부 <strong>Y Combinator(이하 YC)</strong> 지원 기업들이 <strong>GitHub 사용자 활동 데이터를 자동 수집</strong>해 마케팅 이메일을 발송한 사례가 보고됨</li>\n<li>게시자는 <strong>GitHub 프로필의 커밋·레포지토리 활동</strong>을 기반으로 한 <strong>비동의 이메일 수신</strong>을 문제로 지적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Auto-Claude - 자율적 멀티 세션 AI 코딩",
+      "link": "https://news.hada.io/topic?id=27038",
+      "published": "2026-02-27T09:31:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 기반 코드 자동화와 다중 세션 관리</strong>를 결합해 개발 효율을 높이는 <strong>자율형 멀티 에이전트 코딩 프레임워크</strong>\n</li>\n<li>\n<strong>Claude Opus 4.6</strong> 모델로, 코드 생성·리뷰·QA·기획 등 <strong>전체 개발 사이클 자동화</strong> 지원</li>\n<li>자율 작업: 목표를 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount",
+      "link": "https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/",
+      "published": "Thu, 26 Feb 2026 23:55:39 +0000",
+      "summary": "In a one-two punch of centibillion-dollar offers, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount will acquire Warner Bros. Discovery. Netflix has lost.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+      "link": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "published": "Thu, 26 Feb 2026 23:43:32 +0000",
+      "summary": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "published": "Thu, 26 Feb 2026 23:19:06 +0000",
+      "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PayPal might not be looking to sell itself: Report",
+      "link": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
+      "published": "Thu, 26 Feb 2026 22:23:42 +0000",
+      "summary": "PayPal may not be in talks to be acquired, sources have told Semafor, after a previous news report that Stripe was sniffing around.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+      "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+      "published": "Thu, 26 Feb 2026 21:04:23 +0000",
+      "summary": "The deal paves the way for Form Energy to raise a new funding round before potentially going public next year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "published": "Thu, 26 Feb 2026 22:42:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47173121\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Layoffs at Block",
+      "link": "https://twitter.com/jack/status/2027129697092731343",
+      "published": "Thu, 26 Feb 2026 21:17:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47172119\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "published": "Thu, 26 Feb 2026 15:55:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47167763\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Will vibe coding end like the maker movement?",
+      "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "published": "Thu, 26 Feb 2026 16:07:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47167931\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Claude Code Chooses",
+      "link": "https://amplifying.ai/research/claude-code-picks",
+      "published": "Thu, 26 Feb 2026 18:12:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47169757\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
