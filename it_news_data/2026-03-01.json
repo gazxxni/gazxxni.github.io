@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-01",
+  "articles": [
+    {
+      "title": "Obsidian Sync가 이제 헤드리스 클라이언트를 지원",
+      "link": "https://news.hada.io/topic?id=27100",
+      "published": "2026-03-01T10:45:43+09:00",
+      "summary": "<ul>\n<li>\n<strong>Obsidian Sync</strong>가 데스크톱 앱 없이도 <strong>명령줄 환경에서 동기화</strong>할 수 있는 <strong>헤드리스 클라이언트</strong>를 제공</li>\n<li>CI 파이프라인, 서버, 자동화 스크립트 등 <strong>비대화형 환경</strong>에서 <strong>vault 동기화</strong>를 수행 가능</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 코딩이 초래하는 비용",
+      "link": "https://news.hada.io/topic?id=27099",
+      "published": "2026-03-01T10:44:43+09:00",
+      "summary": "<ul>\n<li>개발자들이 <strong>AI 코딩 도구를 광범위하게 사용</strong>하면서 생산성이 높아졌지만, 눈에 보이지 않는 <strong>인지적·조직적 비용</strong>이 발생하고 있음</li>\n<li>초기의 <strong>Copilot·Cursor</strong> 같은 보조형 도구에서, 최근에는 <strong>자율형 에이전트</strong>로 진화하며 인간이 AI를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "크로아티아, 31년 만에 지뢰 완전 제거 선언",
+      "link": "https://news.hada.io/topic?id=27098",
+      "published": "2026-03-01T09:50:49+09:00",
+      "summary": "<ul>\n<li>\n<strong>크로아티아 내무부 장관 다보르 보지노비치</strong>가 자국이 공식적으로 <strong>지뢰로부터 완전히 해방되었다</strong>고 발표</li>\n<li>\n<strong>조국전쟁 종료 31년</strong> 만에 모든 알려진 지뢰밭이 제거되었으며, 이는 국가적으로 중요한 이정표로 평가됨</li>\n<li>30여 년간의 작업 동안 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "전부 사기였다",
+      "link": "https://news.hada.io/topic?id=27097",
+      "published": "2026-03-01T09:47:48+09:00",
+      "summary": "<ul>\n<li>OpenAI의 <strong>Sam Altman</strong>이 Anthropic의 <strong>Dario Amodei</strong>를 공개적으로 지지한 바로 그날, 실제로는 Amodei의 사업을 빼앗는 <strong>비슷한 조건의 계약</strong>을 체결한 사실이 드러남</li>\n<li>뉴욕타임스 보도에 따르면 Altman은 <strong>수요일부터 비밀리에 계약을 추진</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국과 이스라엘, 이란에 대한 대규모 공격 단행 및 테헤란의 보복",
+      "link": "https://news.hada.io/topic?id=27096",
+      "published": "2026-03-01T09:44:48+09:00",
+      "summary": "<ul>\n<li>미국과 이스라엘이 <strong>이란을 대상으로 한 합동 군사공격</strong>을 개시했으며, 도널드 트럼프 대통령은 이를 통해 이란의 군사력과 미사일 프로그램을 해체하고 정권 교체를 목표로 한다고 발표함</li>\n<li>이 공격으로 <strong>이란 최고지도자 아야톨라 알리 하메네이</strong>가 사망했다고 이스라엘...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The trap Anthropic built for itself",
+      "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "published": "Sun, 01 Mar 2026 00:08:58 +0000",
+      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
+      "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
+      "published": "Sat, 28 Feb 2026 22:07:48 +0000",
+      "summary": "Netflix's co-CEO reportedly told Trump, \"I took your advice.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "link": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "published": "Sat, 28 Feb 2026 21:28:06 +0000",
+      "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "published": "Sat, 28 Feb 2026 21:05:06 +0000",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "published": "Sat, 28 Feb 2026 20:41:55 +0000",
+      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "published": "Sat, 28 Feb 2026 21:24:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "published": "Sat, 28 Feb 2026 22:19:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47200904\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Obsidian Sync now has a headless client",
+      "link": "https://help.obsidian.md/sync/headless",
+      "published": "Sat, 28 Feb 2026 16:31:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47197267\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The happiest I've ever been",
+      "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "published": "Thu, 26 Feb 2026 04:13:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47161759\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microgpt",
+      "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "Sun, 01 Mar 2026 01:39:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47202708\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
