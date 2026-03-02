@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-02",
+  "articles": [
+    {
+      "title": "portless - 포트 번호를 이름 기반 .localhost URL로 대체하는 도구",
+      "link": "https://news.hada.io/topic?id=27116",
+      "published": "2026-03-02T09:51:01+09:00",
+      "summary": "<ul>\n<li>로컬 개발시 <strong>포트 충돌</strong> 및 <strong>몇번 포트를 썼는지 기억해야 하는 고통</strong>을 해결해주는 <strong>Vercel Labs</strong>의 오픈소스 유틸</li>\n<li>각 개발 서버에 고유한 <strong>앱.localhost 서브도메인</strong>을 부여해, 사람과 <strong>AI 에이전트 모두가 인식 가능한 URL 체...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude로 전환해도 처음부터 다시 시작할 필요 없음",
+      "link": "https://news.hada.io/topic?id=27115",
+      "published": "2026-03-02T09:43:04+09:00",
+      "summary": "<ul>\n<li>\n<strong>다른 AI 서비스에서의 개인 설정과 맥락을 Claude로 가져올 수 있는 메모리 가져오기 기능</strong>을 소개</li>\n<li>한 번의 <strong>복사·붙여넣기만으로 기존 AI 대화 맥락을 Claude 메모리에 반영</strong>할 수 있음</li>\n<li>이 기능은 <strong>모든 유료 요금제에서 제공</strong>되며, 사용자...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ghostty – 터미널 에뮬레이터",
+      "link": "https://news.hada.io/topic?id=27114",
+      "published": "2026-03-02T09:40:04+09:00",
+      "summary": "<ul>\n<li>빠르고 기능이 풍부한 <strong>크로스플랫폼 터미널 에뮬레이터</strong>로, 각 운영체제의 <strong>네이티브 UI</strong>와 <strong>GPU 가속</strong>을 활용함 (맥/리눅스)</li>\n<li>설치 후 바로 실행할 수 있으며, <strong>별도의 설정이 필요 없는 구조</strong>로 설계</li>\n<li>수백 가지의 <strong>테...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "microgpt",
+      "link": "https://news.hada.io/topic?id=27113",
+      "published": "2026-03-02T09:37:04+09:00",
+      "summary": "<ul>\n<li>200줄짜리 <strong>순수 Python 단일 파일</strong>로 GPT 모델의 학습과 추론 전 과정을 구현한 최소형 언어모델 구조</li>\n<li>데이터셋, <strong>토크나이저</strong>, <strong>자동미분 엔진</strong>, <strong>GPT-2 유사 신경망</strong>, <strong>Adam 옵티마이저</strong>, <strong>훈련 및 추론 루프...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이란 최고지도자 아야톨라 알리 하메네이, 이스라엘 공습으로 사망하며 36년 통치 종료",
+      "link": "https://news.hada.io/topic?id=27112",
+      "published": "2026-03-02T05:33:39+09:00",
+      "summary": "<ul>\n<li>이란 최고지도자 <strong>알리 하메네이</strong>가 <strong>이스라엘의 공습</strong>으로 사망, 미국이 이를 지원함</li>\n<li>\n<strong>도널드 트럼프 전 미국 대통령</strong>이 사망 사실을 확인하고, 이스라엘과 함께 하메네이 정권의 붕괴를 촉구함</li>\n<li>하메네이는 <strong>1989년 최고지도자 취임 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
+      "link": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/",
+      "published": "Sun, 01 Mar 2026 19:05:35 +0000",
+      "summary": "Six newly-created accounts made a profit of $1 million by correctly betting that the U.S. would strike Iran by February 28.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Let’s explore the best alternatives to Discord",
+      "link": "https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/",
+      "published": "Sun, 01 Mar 2026 19:00:01 +0000",
+      "summary": "With many users feeling uneasy about Discord's new age verification requirement, here are some alternatives that could be worth exploring.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+      "published": "Sun, 01 Mar 2026 17:30:00 +0000",
+      "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+      "published": "Sun, 01 Mar 2026 17:00:00 +0000",
+      "summary": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "published": "Sun, 01 Mar 2026 16:30:10 +0000",
+      "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to talk to anyone, and why you should",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "published": "Tue, 24 Feb 2026 20:08:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47142183\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WebMCP is available for early preview",
+      "link": "https://developer.chrome.com/blog/webmcp-epp",
+      "published": "Sun, 01 Mar 2026 22:13:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47211249\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tove Jansson's criticized illustrations of The Hobbit",
+      "link": "https://tovejansson.com/hobbit-tolkien/",
+      "published": "Fri, 27 Feb 2026 16:17:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47182284\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ghostty – Terminal Emulator",
+      "link": "https://ghostty.org/docs",
+      "published": "Sun, 01 Mar 2026 12:13:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47206009\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Little Free Library Books",
+      "link": "https://littlefreelibrary.org/",
+      "published": "Sun, 01 Mar 2026 22:18:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47211280\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
