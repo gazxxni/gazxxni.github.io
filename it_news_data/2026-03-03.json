@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-03",
+  "articles": [
+    {
+      "title": "Jolla Phone – 유럽산 풀스택 대안 스마트폰",
+      "link": "https://news.hada.io/topic?id=27155",
+      "published": "2026-03-03T10:00:41+09:00",
+      "summary": "<ul>\n<li>\n<strong>Jolla Phone</strong>은 사용자가 직접 참여해 설계한 <strong>유럽산 독립형 Linux 스마트폰</strong>으로, 2026년 9월 첫 양산 1,000대 한정 판매 예정</li>\n<li>\n<strong>Sailfish OS 5</strong>를 탑재해 <strong>Android 앱 지원</strong>과 <strong>물리적 프라이버시 스위치</strong>, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에버렛, 판결 후 Flock 카메라 네트워크 운영 중단",
+      "link": "https://news.hada.io/topic?id=27154",
+      "published": "2026-03-03T09:57:41+09:00",
+      "summary": "<ul>\n<li>워싱턴주 <strong>에버렛 시가 Flock Safety의 차량 번호판 인식 카메라 네트워크를 중단</strong>함</li>\n<li>법원이 <strong>카메라 영상이 공공기록(public record)</strong> 에 해당한다고 판결한 것이 직접적 계기</li>\n<li>이 판결로 인해 <strong>시민이 해당 영상 접근을 요청할 수 있는 법적 근거</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 코드를 작성한다면 세션도 커밋의 일부가 되어야 할까?",
+      "link": "https://news.hada.io/topic?id=27153",
+      "published": "2026-03-03T09:54:41+09:00",
+      "summary": "<ul>\n<li>\n<strong>git-memento</strong>는 AI가 생성한 코드 세션을 <strong>Git 커밋에 자동으로 기록</strong>하는 확장 도구로, 각 커밋에 대응하는 AI 대화 내역을 <strong>git notes</strong>로 저장함</li>\n<li>커밋 시 AI 세션 ID를 지정하면, <strong>요약본은 <code>refs/notes/commits</code></strong>, 전체...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "누구와도 대화하는 법, 그리고 왜 그래야 하는가",
+      "link": "https://news.hada.io/topic?id=27152",
+      "published": "2026-03-03T09:51:40+09:00",
+      "summary": "<ul>\n<li>\n<strong>공공장소에서의 대화 회피</strong>가 일상화되면서, 사람 간의 연결 능력이 약화되고 있음</li>\n<li>\n<strong>스마트폰, 헤드폰, 재택근무, 팬데믹 이후의 거리두기 습관</strong> 등이 대화 단절의 주요 요인으로 지적됨</li>\n<li>연구자들은 <strong>대화에 대한 두려움이 실제보다 과장되어 있으며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "/e/OS - 완전한 ‘deGoogled’ 모바일 생태계",
+      "link": "https://news.hada.io/topic?id=27151",
+      "published": "2026-03-03T09:48:40+09:00",
+      "summary": "<ul>\n<li>오픈소스 기반의 <strong>/e/OS</strong>는 구글 서비스에 의존하지 않는 <strong>프라이버시 중심 모바일 운영체제</strong>로, 자체 앱과 온라인 서비스를 통합 제공</li>\n<li>\n<strong>Google 앱과 서버 연결을 완전히 제거</strong>하고, microG·BeaconDB·Murena Find 등으로 대체해 데이터 추적을 차단</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "published": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+      "link": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+      "published": "Tue, 03 Mar 2026 01:15:00 +0000",
+      "summary": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "published": "Tue, 03 Mar 2026 00:03:37 +0000",
+      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stripe wants to turn your AI costs into a profit center",
+      "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+      "published": "Mon, 02 Mar 2026 23:18:27 +0000",
+      "summary": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "link": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
+      "published": "Mon, 02 Mar 2026 23:01:57 +0000",
+      "summary": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The workers behind Meta’s smart glasses can see everything",
+      "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "published": "Mon, 02 Mar 2026 22:32:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47225130\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+      "published": "Mon, 02 Mar 2026 22:49:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47225318\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Closure of the Weatheradio Service in Canada",
+      "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+      "published": "Mon, 02 Mar 2026 23:03:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47225505\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "link": "https://www.ntik.me/posts/voice-agent",
+      "published": "Mon, 02 Mar 2026 21:23:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47224295\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Welcome (back) to Macintosh",
+      "link": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "published": "Mon, 02 Mar 2026 21:09:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47224118\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
