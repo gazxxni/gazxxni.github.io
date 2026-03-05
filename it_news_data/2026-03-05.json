@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-05",
+  "articles": [
+    {
+      "title": "아무도 단순함으로는 승진하지 못한다.",
+      "link": "https://news.hada.io/topic?id=27208",
+      "published": "2026-03-05T10:41:41+09:00",
+      "summary": "<p>요약 번역</p>\n<hr />\n<p>엔지니어 A는 기능을 50줄의 깔끔한 코드로 이틀 만에 완성한다. 읽기 쉽고, 테스트하기 쉽고, 다음 사람이 바로 이해할 수 있다. 엔지니어 B는 비슷한 기능을 받아들고 &quot;더 견고하게&quot; 만들겠다며 추상화 레이어, pub/sub 시스템, 설정 프레임워크를 도입해 3주를 쓴다. 승진 시즌",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwen의 땅에서 무언가 일어나고 있다",
+      "link": "https://news.hada.io/topic?id=27207",
+      "published": "2026-03-05T09:54:35+09:00",
+      "summary": "<ul>\n<li>Alibaba의 <strong>Qwen 팀 핵심 연구진이 대거 사임</strong>하면서, 최근 공개된 <strong>Qwen 3.5 모델 시리즈</strong>의 향후가 불투명해짐</li>\n<li>팀 리더 <strong>Lin Junyang</strong>이 사임을 발표했고, 이어 여러 핵심 인력들이 동반 퇴사한 것으로 보도됨</li>\n<li>Alibaba는 <strong>긴급 전사 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에이전틱 엔지니어링 패턴",
+      "link": "https://news.hada.io/topic?id=27206",
+      "published": "2026-03-05T09:51:35+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude Code·Codex 같은 코딩 에이전트 시대의 개발 방식</strong>을 정리한 가이드로, 에이전트와 협업하는 <strong>새로운 엔지니어링 패턴</strong> 제시</li>\n<li>코드 작성 비용이 급격히 낮아진 환경에서 <strong>개발 습관과 워크플로를 어떻게 바꿔야 하는지</strong> 다양한 패턴으로 설명...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "플록 카메라의 인터랙티브 지도",
+      "link": "https://news.hada.io/topic?id=27205",
+      "published": "2026-03-05T09:48:35+09:00",
+      "summary": "<ul>\n<li>\n<strong>자동차 번호판 인식기(LPR)</strong> 위치를 보여주는 <strong>크라우드소싱 기반 지도 서비스</strong>로, 사용자가 주변의 설치 지점을 확인할 수 있음</li>\n<li>\n<strong>OpenStreetMap 커뮤니티 데이터</strong>를 활용해 구축되었으며, 누구나 새로운 위치 정보를 추가할 수 있음</li>\n<li>지도는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "단순함으로는 승진하지 못한다",
+      "link": "https://news.hada.io/topic?id=27204",
+      "published": "2026-03-05T09:45:35+09:00",
+      "summary": "<ul>\n<li>\n<strong>소프트웨어 엔지니어링 문화</strong>에서 복잡한 시스템을 만드는 사람이 더 인정받고, 단순한 해결책을 선택한 사람은 평가받지 못하는 구조가 지속됨</li>\n<li>\n<strong>승진 평가와 인터뷰, 설계 리뷰</strong> 등에서 복잡성이 “영향력”으로 오인되어, 불필요한 추상화와 확장성을 추가하는 경...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+      "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "published": "Thu, 05 Mar 2026 01:08:28 +0000",
+      "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "published": "Wed, 04 Mar 2026 22:40:05 +0000",
+      "summary": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+      "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+      "published": "Wed, 04 Mar 2026 21:43:58 +0000",
+      "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+      "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+      "published": "Wed, 04 Mar 2026 20:05:12 +0000",
+      "summary": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "His house burned down. He used the insurance money to build PopSockets.",
+      "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
+      "published": "Wed, 04 Mar 2026 19:34:26 +0000",
+      "summary": "Does&#160;a&#160;consumer hardware&#160;company need to get on the&#160;VC treadmill to&#160;succeed?&#160;Eleven years and 290 million products sold across 115 countries later,&#160;PopSockets&#160;has proven that&#160;the bootstrapped, low-dilution path more&#160;viable&#160;than the industry give",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "MacBook Neo",
+      "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "published": "Wed, 04 Mar 2026 14:16:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47247645\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Building a new Flash",
+      "link": "https://bill.newgrounds.com/news/post/1607118",
+      "published": "Wed, 04 Mar 2026 20:16:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47253177\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Googleworkspace/CLI",
+      "link": "https://github.com/googleworkspace/cli",
+      "published": "Thu, 05 Mar 2026 00:22:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47255881\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Something is afoot in the land of Qwen",
+      "link": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "published": "Wed, 04 Mar 2026 15:55:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47249343\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
