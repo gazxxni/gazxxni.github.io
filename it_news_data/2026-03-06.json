@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-06",
+  "articles": [
+    {
+      "title": "구글 Chrome, 2026년 9월부터 2주 출시 주기로 전환",
+      "link": "https://news.hada.io/topic?id=27238",
+      "published": "2026-03-06T10:02:01+09:00",
+      "summary": "<ul>\n<li>2021년 6주에서 4주로 단축했던 크롬 출시 주기가 <strong>2026년 9월부터 2주 주기</strong>로 다시 한 번 빨라짐</li>\n<li>웹 플랫폼이 지속적으로 발전하는 상황에서 <strong>최신 성능 개선사항, 수정사항, 새로운 기능을 즉시 이용</strong>할 수 있도록 하는 것이 목표</li>\n<li>출시 빈도는 높아지지만 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이 프로젝트를 재라이선스할 권리가 없음",
+      "link": "https://news.hada.io/topic?id=27236",
+      "published": "2026-03-06T09:46:37+09:00",
+      "summary": "<ul>\n<li>\n<code>chardet</code>의 원 저자인 <strong>Mark Pilgrim</strong>이 프로젝트의 <strong>LGPL 라이선스 위반</strong>을 지적하며, 최근 버전 7.0.0의 <strong>MIT 라이선스 전환</strong>을 철회할 것을 요구함</li>\n<li>그는 유지보수자들이 “완전한 재작성”이라 주장하더라도, 원본 코드에 <strong>직접...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LLM의 L은 &quot;거짓말(Lying)&quot;을 의미한다",
+      "link": "https://news.hada.io/topic?id=27235",
+      "published": "2026-03-06T09:43:37+09:00",
+      "summary": "<ul>\n<li>LLM 기반 코딩 도구들의 과대 광고에도 불구하고, 실제 소프트웨어 개발 결과물의 품질은 크게 나아지지 않았으며 오히려 <strong>위조(forgery)</strong> 에 가까운 산출물이 범람하고 있음</li>\n<li>LLM이 하는 일의 본질은 개인이 자신 또는 타인의 <strong>잠재적 산출물을 모방</strong>하여 더 빠르게 만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미 연방 판사, 정부에 1,300억 달러 이상의 관세 환급 개시 명령",
+      "link": "https://news.hada.io/topic?id=27234",
+      "published": "2026-03-06T09:40:36+09:00",
+      "summary": "<ul>\n<li>연방무역법원 판사가 트럼프 행정부에 대해 <strong>대법원이 무효화한 글로벌 관세</strong>로 징수된 1,300억 달러 이상의 환급 절차를 즉시 개시하라고 명령</li>\n<li>Costco, FedEx, Pandora 등 대기업을 포함해 <strong>2,000건 이상의 환급 소송</strong>이 제기된 상태</li>\n<li>행정부는 즉시 효력 발생...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "위키백과, 관리자 계정 대량 유출로 읽기 전용 모드 전환되었다가 복구",
+      "link": "https://news.hada.io/topic?id=27233",
+      "published": "2026-03-06T09:37:36+09:00",
+      "summary": "<ul>\n<li>위키미디어 재단의 <strong>상태 페이지</strong>에 따르면, 2026년 3월 5일 위키백과를 포함한 여러 <strong>위키 서비스가 일시적으로 읽기 전용 모드</strong>로 전환됨</li>\n<li>\n<strong>위키 접근 장애</strong>로 시작되어, 이후 <strong>수정 기능이 제한</strong>되는 단계로 이어짐</li>\n<li>원인은 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic to challenge DOD’s supply chain label in court",
+      "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "published": "Fri, 06 Mar 2026 01:28:54 +0000",
+      "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply chain risk. He claims most Anthropic customers are unaffected by the label.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "published": "Thu, 05 Mar 2026 23:14:04 +0000",
+      "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+      "published": "Thu, 05 Mar 2026 22:38:26 +0000",
+      "summary": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "published": "Thu, 05 Mar 2026 21:54:37 +0000",
+      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
+      "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+      "published": "Thu, 05 Mar 2026 21:33:24 +0000",
+      "summary": "Hackers allegedly broke into the FBI’s networks, according to a report by CNN.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+      "published": "Wed, 04 Mar 2026 15:57:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47249387\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4/",
+      "published": "Thu, 05 Mar 2026 18:08:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47265045\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Where things stand with the Department of War",
+      "link": "https://www.anthropic.com/news/where-stand-department-war",
+      "published": "Fri, 06 Mar 2026 00:40:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47269263\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "link": "https://charm.land/blog/v2/",
+      "published": "Thu, 05 Mar 2026 23:26:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47268662\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "link": "https://406.fail/",
+      "published": "Thu, 05 Mar 2026 22:04:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47267947\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
