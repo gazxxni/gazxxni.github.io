@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-08",
+  "articles": [
+    {
+      "title": "Autoresearch - Karpathy의 자동 연구 프레임워크",
+      "link": "https://news.hada.io/topic?id=27300",
+      "published": "2026-03-08T10:11:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>nanochat LLM 학습 코어를 단일 GPU·단일 파일 약 630줄로 압축</strong>한 자기완결형 자율 연구 프레임워크로 <strong>AI 에이전트가 밤새 자율적으로 LLM 학습 실험을 반복</strong>\n</li>\n<li>인간은 <code>프롬프트</code>를 수정하고, AI 에이전트는 <strong><code>학습 코드</code>를 수정</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Go 표준 라이브러리에 UUID 패키지 추가 제안",
+      "link": "https://news.hada.io/topic?id=27299",
+      "published": "2026-03-08T09:51:05+09:00",
+      "summary": "<ul>\n<li>Go 언어에 <strong>UUID 생성 및 파싱 기능을 표준 라이브러리로 포함</strong>하자는 제안이 GitHub에서 논의됨</li>\n<li>제안자는 현재 대부분의 Go 서버·DB 프로젝트가 <strong>github.com/google/uuid</strong> 같은 외부 패키지에 의존하고 있음을 근거로 제시</li>\n<li>C#, Java, Python 등 주요 언어는 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ki Editor - AST 기반으로 동작하는 에디터",
+      "link": "https://news.hada.io/topic?id=27298",
+      "published": "2026-03-08T09:48:05+09:00",
+      "summary": "<ul>\n<li>\n<strong>코드 구조를 직접 조작</strong>할 수 있는 다중 커서 기반 <strong>구조적 편집기</strong>로, 구문 트리(AST)를 중심으로 작동</li>\n<li>\n<strong>구문 노드 단위 상호작용</strong>을 지원해, 코드 작성 의도와 실제 편집 동작 간의 간극을 줄임</li>\n<li>\n<strong>다중 커서 기능</strong>으로 여...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "비트토렌트를 통한 불법 도서 업로드가 공정 이용에 해당한다고 메타가 주장",
+      "link": "https://news.hada.io/topic?id=27297",
+      "published": "2026-03-08T09:45:05+09:00",
+      "summary": "<ul>\n<li>메타는 <strong>AI 모델 학습을 위해 비트토렌트를 통해 불법 도서를 다운로드 및 업로드한 행위</strong>가 공정 이용에 해당한다고 주장</li>\n<li>회사는 <strong>비트토렌트의 업로드 기능이 기술적으로 불가피한 과정</strong>이며, 데이터 확보를 위한 유일하고 효율적인 수단이었다고 설명</li>\n<li>저자...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LLM은 올바른 코드를 작성하지 않는다. 그럴듯한 코드를 작성할 뿐이다",
+      "link": "https://news.hada.io/topic?id=27296",
+      "published": "2026-03-08T09:42:05+09:00",
+      "summary": "<ul>\n<li>SQLite를 <strong>LLM이 Rust로 재작성한 버전</strong>은 기본 키 조회에서 원본보다 <strong>약 20,000배 느린 성능</strong>을 보임</li>\n<li>코드가 컴파일되고 테스트를 통과하지만, 내부적으로 <strong>핵심 알고리듬 오류</strong>와 비효율적 설계가 존재</li>\n<li>주요 원인은 <strong>PRIMARY KEY 인...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "published": "Sun, 08 Mar 2026 00:20:10 +0000",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "published": "Sat, 07 Mar 2026 22:56:31 +0000",
+      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "published": "Sat, 07 Mar 2026 20:44:25 +0000",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PopSockets founder David Barnett talks about building a viral business",
+      "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+      "published": "Sat, 07 Mar 2026 18:40:00 +0000",
+      "summary": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "published": "Sat, 07 Mar 2026 17:28:41 +0000",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
+      "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "published": "Sun, 08 Mar 2026 00:44:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47293119\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CasNum",
+      "link": "https://github.com/0x0mer/CasNum",
+      "published": "Sat, 07 Mar 2026 20:43:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47291292\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Science Fiction Is Dying. Long Live Post Sci-Fi?",
+      "link": "https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/",
+      "published": "Sun, 08 Mar 2026 00:57:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47293191\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A decade of Docker containers",
+      "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "published": "Sat, 07 Mar 2026 16:55:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47289311\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "link": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "published": "Fri, 06 Mar 2026 07:17:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47271988\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
