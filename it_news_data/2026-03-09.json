@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-09",
+  "articles": [
+    {
+      "title": "PM Skills - AI 에이전트를 PM으로 활용하기",
+      "link": "https://news.hada.io/topic?id=27327",
+      "published": "2026-03-09T10:11:01+09:00",
+      "summary": "<ul>\n<li>\n<strong>검증된 PM 프레임워크</strong>를 AI 워크플로우에 내장하여, 단순 문서 생성이 아닌 <strong>구조화된 제품 의사결정</strong>을 지원</li>\n<li>\n<strong>Claude Code/Cowork 용 플러그인 8개</strong>와 65개 PM 스킬, 36개 체인 워크플로우를 오픈소스로 제공</li>\n<li>디스커버리, 전략, 실행, 시...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Superset - AI 에이전트 시대를 위한 IDE",
+      "link": "https://news.hada.io/topic?id=27326",
+      "published": "2026-03-09T09:51:02+09:00",
+      "summary": "<ul>\n<li>Claude Code, Codex 등 <strong>여러 AI 코딩 에이전트를 병렬로 실행</strong>해 개발 효율을 극대화하는 <strong>확장 터미널</strong>\n</li>\n<li>각 작업을 <strong>독립된 Git worktree</strong>로 분리해 에이전트 간 충돌을 방지하는 <strong>격리형 워크스페이스 구조</strong>\n</li>\n<li>\n<strong>중앙...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AGI의 목표 시점이 바뀌는 가운데, OpenAI는 자사 헌장에 따라 경쟁을 중단해야 함",
+      "link": "https://news.hada.io/topic?id=27325",
+      "published": "2026-03-09T09:45:46+09:00",
+      "summary": "<ul>\n<li>OpenAI는 2018년 <strong>헌장(Charter)</strong> 에서 “다른 안전 중심 프로젝트가 AGI에 근접하면 경쟁을 멈추고 협력하겠다”는 <strong>‘자기희생 조항’</strong> 을 명시함</li>\n<li>Sam Altman의 발언을 정리한 표에 따르면 <strong>AGI 도달 예상 시점이 2033년에서 2025년으로 급격히 단축</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "FrameBook",
+      "link": "https://news.hada.io/topic?id=27324",
+      "published": "2026-03-09T09:42:45+09:00",
+      "summary": "<ul>\n<li>2006년형 <strong>블랙 폴리카보네이트 MacBook</strong> 외형에 <strong>Framework Laptop 13 메인보드</strong>를 이식해 재구성한 개인 제작 프로젝트</li>\n<li>노트북 내부를 완전히 분해한 뒤, <strong>3D 프린팅 스탠드오프</strong>와 <strong>슈퍼글루</strong>를 이용해 새 부품을 고정하고, <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "애플 512GB Mac Studio가 사라짐, 램 부족 사태의 간접 인정",
+      "link": "https://news.hada.io/topic?id=27323",
+      "published": "2026-03-09T09:39:45+09:00",
+      "summary": "<ul>\n<li>AI 수요 급증으로 인한 <strong>글로벌 메모리 공급 부족</strong> 속에서, Apple이 최상위 Mac Studio의 512GB RAM 구성을 조용히 제거함</li>\n<li>256GB 구성의 가격도 <strong>$1,600에서 $2,000으로 인상</strong>되었으며, Apple은 이에 대해 공식 코멘트를 내놓지 않음</li>\n<li>512GB Mac Studio는 $9,4...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+      "link": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
+      "published": "Sun, 08 Mar 2026 21:26:07 +0000",
+      "summary": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "published": "Sun, 08 Mar 2026 20:14:42 +0000",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "published": "Sun, 08 Mar 2026 16:30:00 +0000",
+      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s R2 gambit",
+      "link": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
+      "published": "Sun, 08 Mar 2026 16:03:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "published": "Sun, 08 Mar 2026 06:05:26 +0000",
+      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "link": "https://agent-safehouse.dev/",
+      "published": "Sun, 08 Mar 2026 20:30:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47301085\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microscopes can see video on a laserdisc",
+      "link": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "published": "Sat, 07 Mar 2026 22:03:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47291876\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PCB devboard the size of a USB-C plug",
+      "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+      "published": "Sun, 08 Mar 2026 05:04:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47294582\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (March 2026)",
+      "link": "https://news.ycombinator.com/item?id=47303111",
+      "published": "Mon, 09 Mar 2026 00:07:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47303111\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Blacksky AppView",
+      "link": "https://github.com/blacksky-algorithms/atproto",
+      "published": "Sun, 08 Mar 2026 21:40:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47301808\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
