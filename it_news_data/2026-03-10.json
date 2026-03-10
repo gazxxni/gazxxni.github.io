@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-10",
+  "articles": [
+    {
+      "title": "웨이브 펑션 콜랩스로 절차적 육각형 지도 만들기",
+      "link": "https://news.hada.io/topic?id=27357",
+      "published": "2026-03-10T09:50:30+09:00",
+      "summary": "<ul>\n<li>\n<strong>웨이브 펑션 콜랩스(WFC)</strong> 알고리듬을 이용해 약 4,100개의 육각형 타일로 구성된 <strong>중세풍 섬 지도</strong>를 자동 생성하는 프로젝트</li>\n<li>각 타일은 <strong>도로, 강, 해안, 절벽, 숲, 마을</strong> 등의 지형 정보를 포함하며, <strong>Three.js WebGPU</strong>와 <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sriracha 경영진의 공급업체 피해 사건",
+      "link": "https://news.hada.io/topic?id=27356",
+      "published": "2026-03-10T09:47:30+09:00",
+      "summary": "Sriracha 경영진의 공급업체 피해 사건",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "손글씨를 실제 폰트로 변환하는 무료 웹앱 FontCrafter",
+      "link": "https://news.hada.io/topic?id=27355",
+      "published": "2026-03-10T09:44:30+09:00",
+      "summary": "<ul>\n<li>브라우저 내에서 손글씨를 <strong>실제 설치 가능한 폰트 파일</strong>로 변환하며, 계정 생성이나 서버 업로드 없이 완전히 무료로 작동</li>\n<li>사용자는 템플릿을 인쇄해 손글씨를 작성하고 스캔 이미지를 업로드하면, 앱이 <strong>문자 인식·벡터 추출·OpenType 생성</strong>을 자동 처리</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 항소법원: 이메일로 약관 변경 통보 가능, 서비스 이용은 동의로 간주될 수 있음",
+      "link": "https://news.hada.io/topic?id=27354",
+      "published": "2026-03-10T09:41:30+09:00",
+      "summary": "<ul>\n<li>미국 제9순회항소법원은 <strong>Tile과 Life360</strong>이 제기한 <strong>중재 강제 신청 기각 결정</strong>을 뒤집고 사건을 환송함</li>\n<li>법원은 <strong>이메일을 통한 서비스 약관 변경 통보</strong>가 <strong>충분한 고지(inquiry notice)</strong> 로 인정될 수 있으며, 사용자가 이후 서비스를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아일랜드, 마지막 석탄 발전소 폐쇄로 유럽 15번째 석탄 무사용 국가로 전환",
+      "link": "https://news.hada.io/topic?id=27353",
+      "published": "2026-03-10T09:38:29+09:00",
+      "summary": "<ul>\n<li>아일랜드가 <strong>클레어 주의 Moneypoint 발전소</strong> 가동을 중단하며 유럽에서 15번째로 <strong>석탄 발전을 완전히 종료한 국가</strong>가 됨</li>\n<li>최근 몇 년간 <strong>풍력 중심의 재생에너지 발전 증가</strong>가 석탄 의존도 감소의 주요 요인으로 작용</li>\n<li>Moneypoint는 2029년까지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+      "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+      "published": "Tue, 10 Mar 2026 01:56:01 +0000",
+      "summary": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+      "link": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+      "published": "Tue, 10 Mar 2026 01:41:38 +0000",
+      "summary": "Archer's countersuit comes four months after Joby sued its rival for alleged 'corporate espionage.'",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Founders Fund nears $6B close for latest growth fund, sources say",
+      "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
+      "published": "Tue, 10 Mar 2026 01:03:48 +0000",
+      "summary": "The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on investments in its successful late-stage companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Electric air taxis are about to take flight in 26 states",
+      "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
+      "published": "Mon, 09 Mar 2026 22:30:35 +0000",
+      "summary": "The federal government has selected eight proposals to test electric aircraft across 26 states.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "published": "Mon, 09 Mar 2026 21:15:17 +0000",
+      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+      "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "published": "Tue, 10 Mar 2026 00:16:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47317616\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
+      "link": "https://scottaaronson.blog/?p=9615",
+      "published": "Tue, 10 Mar 2026 00:35:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47317739\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "link": "https://felixturner.github.io/hex-map-wfc/article/",
+      "published": "Mon, 09 Mar 2026 17:02:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47311815\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JSLinux Now Supports x86_64",
+      "link": "https://bellard.org/jslinux/",
+      "published": "Mon, 09 Mar 2026 16:43:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47311484\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Remotely use my guitar tuner",
+      "link": "https://realtuner.online/",
+      "published": "Fri, 06 Mar 2026 20:27:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47280654\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
