@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-11",
+  "articles": [
+    {
+      "title": "Karpathy, Autoresearch로 nanochat을 2일간 자동 튜닝해 GPT-2 학습 시간 11% 단축",
+      "link": "https://news.hada.io/topic?id=27402",
+      "published": "2026-03-11T10:41:56+09:00",
+      "summary": "<ul>\n<li>3일전 공개한 <strong><a href=\"https://news.hada.io/topic?id=27300\">Autoresearch 에이전트</a></strong> 가 depth=12 모델 기준으로 약 2일간 자율적으로 약 700개의 변경을 시도해, 검증 손실(validation loss)를 개선하는 <strong>약 20개의 유효한 변경사항</strong>을 발견</li>\n<li>발견된 변경사항들...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "메타, AI 에이전트용 소셜 네트워크 ‘Moltbook’ 인수",
+      "link": "https://news.hada.io/topic?id=27401",
+      "published": "2026-03-11T10:33:12+09:00",
+      "summary": "<ul>\n<li>\n<strong>메타(Meta)</strong> 가 <strong>AI 에이전트 전용 소셜 네트워크 Moltbook</strong>을 인수하며, 창립자 Matt Schlicht와 Ben Parr이 <strong>Meta Superintelligence Labs(MSL)</strong> 에 합류</li>\n<li>인수 금액은 공개되지 않았으며, <strong>3월 중순 거래 완료</strong> 후 두 창립자가 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Popover API - 브라우저 네이티브 툴팁의 새로운 가능성",
+      "link": "https://news.hada.io/topic?id=27400",
+      "published": "2026-03-11T10:29:02+09:00",
+      "summary": "<ul>\n<li>기존 툴팁 구현에서 필수였던 JavaScript 이벤트 리스너, 상태 관리, ARIA 속성 수동 동기화를 <strong>Popover API</strong>가 브라우저 네이티브 기능으로 대체</li>\n<li>\n<code>popover</code> 속성과 <code>popovertarget</code> 속성만으로 열기/닫기, <code>Esc</code> 키 처리, <strong>키보드 내비게이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Better Auth 마이그레이션까지 고려한 Cloudflare Workers 해시 템플릿",
+      "link": "https://news.hada.io/topic?id=27399",
+      "published": "2026-03-11T10:28:22+09:00",
+      "summary": "<p>Cloudflare Pages에서 Better Auth를 붙여 보다가 CPU time limit 에러가 계속 발생하였습니다. 그래서 Codex와 함께 만들어보았습니다.</p>\n<p>Cloudflare는 Worker끼리 공개 URL 없이 Service Binding과 <code>WorkerEntrypoint</code> RPC로 직접 통신할 수 있게 해 두고 있어서, 내부 인프라 성격의 기능은 이쪽이",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "얀 르쿤, 물리적 세계를 이해하는 AI 구축 위해 10억 달러 조달",
+      "link": "https://news.hada.io/topic?id=27398",
+      "published": "2026-03-11T10:25:26+09:00",
+      "summary": "<ul>\n<li>메타 전 최고 AI 과학자 <strong>얀 르쿤</strong>이 공동 설립한 스타트업 <strong>Advanced Machine Intelligence(AMI)</strong> 가 <strong>10억 달러 이상 투자 유치</strong>를 완료</li>\n<li>AMI는 <strong>세계 모델(world model)</strong> 을 개발해 물리적 세계를 이해하고 추론·계획·기억 기능을 갖춘...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature",
+      "link": "https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/",
+      "published": "Tue, 10 Mar 2026 23:01:47 +0000",
+      "summary": "Kalshi now offers a share option that will automatically embed the relevant prediction market chart into a Threads post.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google and Tesla think we’re managing the electrical grid all wrong",
+      "link": "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
+      "published": "Tue, 10 Mar 2026 20:42:44 +0000",
+      "summary": "The duo have teamed up with other companies to launch Utilize, which seeks to change how the grid is used and regulated.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "published": "Tue, 10 Mar 2026 20:10:06 +0000",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DOGE employee stole Social Security data and put it on a thumb drive, report says",
+      "link": "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/",
+      "published": "Tue, 10 Mar 2026 20:09:51 +0000",
+      "summary": "A whistleblower is accusing a former DOGE member of stealing a large number of Americans’ personal data while he was working at the Social Security Administration, with the plan of using it at his new job.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Pokémon Pokopia’ is a game about rehabilitating a broken world — and I love it",
+      "link": "https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/",
+      "published": "Tue, 10 Mar 2026 19:48:14 +0000",
+      "summary": "The latest Pokémon game is a cozy life simulator like \"Animal Crossing\" or \"Minecraft,\" but in a way that feels more grounded to our actual world.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tony Hoare has died",
+      "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "published": "Tue, 10 Mar 2026 14:50:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47324054\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "U+237C ⍼ Is Azimuth",
+      "link": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "published": "Tue, 10 Mar 2026 22:33:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47329605\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare crawl endpoint",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "published": "Tue, 10 Mar 2026 22:27:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47329557\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Agents that run while I sleep",
+      "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "published": "Tue, 10 Mar 2026 19:09:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47327559\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "published": "Tue, 10 Mar 2026 08:46:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47320600\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
