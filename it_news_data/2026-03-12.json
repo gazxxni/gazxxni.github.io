@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-12",
+  "articles": [
+    {
+      "title": "서비스는 소프트웨어가 되지 않을 것이다",
+      "link": "https://news.hada.io/topic?id=27428",
+      "published": "2026-03-12T10:31:01+09:00",
+      "summary": "<ul>\n<li>AI가 서비스 기업을 소프트웨어 기업으로 전환한다는 벤처캐피털 업계의 <strong>컨센서스가 확산</strong>되고 있지만, 실제로는 <strong>서비스 기업이 더 나은 서비스 기업이 되는 것</strong>이지 <strong>소프트웨어 기업으로 변하는 것이 아님</strong>\n</li>\n<li>전문 서비스 지출의 상당 부분은 산출물...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "JavaScript DRM의 허상: HotAudio 복사 보호를 3라운드 만에 무력화한 과정",
+      "link": "https://news.hada.io/topic?id=27427",
+      "published": "2026-03-12T10:26:02+09:00",
+      "summary": "<ul>\n<li>브라우저에서 실행되는 <strong>JavaScript 기반 DRM</strong>은 복호화된 오디오 데이터가 결국 JavaScript 접근 가능한 영역을 통과해야 하므로 근본적으로 우회 가능함</li>\n<li>HotAudio는 NSFW ASMR 오디오 호스팅 플랫폼으로, <strong>MediaSource Extensions API</strong>를 활용한 자체 암호화·청크 전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ralph-loop - 장시간 실행형 AI 에이전트 루프로 개발 업무 자동화하기",
+      "link": "https://news.hada.io/topic?id=27426",
+      "published": "2026-03-12T10:19:02+09:00",
+      "summary": "<ul>\n<li>반복하여 <strong>작업 목록을 순회하며 완료될 때까지 수행</strong>하는 <strong>장시간 실행형 AI 루프 시스템</strong>\n</li>\n<li>\n<strong>Docker 샌드박스 환경</strong>에서 안전하게 <strong>Claude Code</strong>/Codex/Gemini등의 AI CLI를 실행</li>\n<li>운영 방법\n<ul>\n<li>1단계: Ralph 설치 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "네트워크 효과에 역행하지 마라: 에이전트 시대에도 통하는 방어 전략",
+      "link": "https://news.hada.io/topic?id=27425",
+      "published": "2026-03-12T10:11:01+09:00",
+      "summary": "<ul>\n<li>소프트웨어 마진이 압축되는 시대에 <strong>네트워크 효과</strong>는 여전히 지속 가능한 소프트웨어 비즈니스를 구축하는 가장 신뢰할 수 있는 경로</li>\n<li>많은 사람들이 네트워크 효과라 부르는 것은 사실 <strong>집계(aggregation) 우위</strong>이며, 에이전트가 쉽게 복제할 수 있는 단일 플레이어 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "자바스크립트의 시간 문제를 해결한 9년의 여정, Temporal",
+      "link": "https://news.hada.io/topic?id=27424",
+      "published": "2026-03-12T09:47:02+09:00",
+      "summary": "<ul>\n<li>자바스크립트의 <strong>Date 객체 한계를 근본적으로 대체</strong>하는 새로운 표준 <strong>Temporal API</strong>가 9년간의 개발 끝에 <strong>ECMAScript Stage 4</strong>에 도달</li>\n<li>Temporal은 <strong>불변(immutable) 타입</strong>, <strong>명시적 시간대·달력 지원</strong>, <strong>나노초...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "published": "Wed, 11 Mar 2026 23:35:03 +0000",
+      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nuro is testing its autonomous vehicle tech on Tokyo’s streets",
+      "link": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/",
+      "published": "Wed, 11 Mar 2026 23:09:38 +0000",
+      "summary": "Nuro began testing its self-driving software on public roads in Tokyo, marking the first international expansion for the AV startup.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
+      "link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
+      "published": "Wed, 11 Mar 2026 23:00:00 +0000",
+      "summary": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "published": "Wed, 11 Mar 2026 22:51:39 +0000",
+      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
+      "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
+      "published": "Wed, 11 Mar 2026 22:45:35 +0000",
+      "summary": "inDrive has closed its acquisition of KraveMart, expanding grocery delivery in a market dominated by Foodpanda.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Temporal: A nine-year journey to fix time in JavaScript",
+      "link": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "published": "Wed, 11 Mar 2026 15:35:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "published": "Wed, 11 Mar 2026 20:56:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published": "Wed, 11 Mar 2026 19:29:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47340079\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "link": "http://satproto.org/",
+      "published": "Thu, 12 Mar 2026 00:22:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making WebAssembly a first-class language on the Web",
+      "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "published": "Wed, 11 Mar 2026 04:44:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47331811\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
