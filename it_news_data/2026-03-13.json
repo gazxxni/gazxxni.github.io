@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-13",
+  "articles": [
+    {
+      "title": "Google Maps, 새 AI 기능 Ask Maps와 몰입형 내비게이션 발표",
+      "link": "https://news.hada.io/topic?id=27454",
+      "published": "2026-03-13T10:33:01+09:00",
+      "summary": "<ul>\n<li>구글지도가 <strong>Gemini 모델</strong>을 결합해 대화형 탐색과 몰입형 내비게이션이라는 두 가지 대규모 업데이트를 발표, 10+년 만의 최대 개편</li>\n<li>\n<strong>Ask Maps</strong>는 복잡한 실제 질문에 대화형으로 답변하며, 3억 개 이상의 장소 정보와 5억 명 이상의 기여자 리뷰를 분석해 맞춤형 결...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아시아 각국, 이란 전쟁으로 인한 연료 위기 대응 위해 주4일제·재택근무 도입",
+      "link": "https://news.hada.io/topic?id=27453",
+      "published": "2026-03-13T09:46:43+09:00",
+      "summary": "<ul>\n<li>중동발 <strong>유가 급등과 호르무즈 해협 봉쇄</strong>로 아시아 지역이 심각한 연료 부족에 직면</li>\n<li>\n<strong>태국·베트남·필리핀·파키스탄 등</strong>이 공공부문 중심으로 <strong>재택근무와 주4일제</strong>를 시행하며 연료 절감 추진</li>\n<li>\n<strong>한국·일본·인도네시아</strong>는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "s@ : 정적 사이트 기반 탈중앙 소셜 네트워킹",
+      "link": "https://news.hada.io/topic?id=27452",
+      "published": "2026-03-13T09:43:43+09:00",
+      "summary": "<ul>\n<li>\n<strong>정적 웹사이트를 이용한 탈중앙 소셜 네트워킹 프로토콜</strong>로, 각 사용자가 자신의 데이터를 직접 소유하고 관리하는 구조</li>\n<li>모든 데이터는 <strong>암호화된 JSON 저장소</strong>에 보관되며, 브라우저 클라이언트가 피드를 집계하고 게시물을 발행</li>\n<li>\n<strong>서버나 릴레이 없...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "구현할까요? 아니요 (feat. claude-opus-4-6)",
+      "link": "https://news.hada.io/topic?id=27451",
+      "published": "2026-03-13T09:40:45+09:00",
+      "summary": "<h4>Korean Translation</h4>\n<ul>\n<li>구현할까요?</li>\n<li>아니요 ...</li>\n</ul>\n<pre><code class=\"language-text\">- 새로운 코드만: 새로운 함수 하나(print_itinerary), 새로운 인자 하나, main()의 분기 하나  \n- 기존 모델, 옵티마이저 또는 출력에 대한 변경 없음  \n- 새로운 의존성 없음  \n  \n이것이 전체 계...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이걸 구현할까? 아니",
+      "link": "https://news.hada.io/topic?id=27450",
+      "published": "2026-03-13T09:40:43+09:00",
+      "summary": "<ul>\n<li>여러 GitHub 사용자가 <strong>AI 모델의 엉뚱한 반응</strong>을 캡처해 공유하며 웃음을 나눈 게시물임</li>\n<li>“Shall I implement it? No”라는 <strong>모델의 대화 실패 사례</strong>가 중심이 되어, 다양한 밈과 이미지가 이어짐</li>\n<li>댓글들은 “2살짜리의 생각 같다”, “SOTA 모델은 아닐 것”...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "published": "Thu, 12 Mar 2026 23:25:39 +0000",
+      "summary": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "published": "Thu, 12 Mar 2026 22:25:50 +0000",
+      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
+      "link": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
+      "published": "Thu, 12 Mar 2026 20:27:17 +0000",
+      "summary": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Rivian is holding the $45,000 base model R2 until ‘late 2027’",
+      "link": "https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/",
+      "published": "Thu, 12 Mar 2026 20:24:02 +0000",
+      "summary": "Rivian spent the last two years promoting the R2 as a $45,000 SUV. But buyers won't be able to pay that price until late next year -- if at all.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Substack launches a built-in recording studio",
+      "link": "https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/",
+      "published": "Thu, 12 Mar 2026 18:24:18 +0000",
+      "summary": "Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Shall I implement it? No",
+      "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "published": "Thu, 12 Mar 2026 21:01:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47357042\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Malus – Clean Room as a Service",
+      "link": "https://malus.sh",
+      "published": "Thu, 12 Mar 2026 13:42:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47350424\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bubble Sorted Amen Break",
+      "link": "https://parametricavocado.itch.io/amen-sorting",
+      "published": "Thu, 12 Mar 2026 17:13:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47354098\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reversing memory loss via gut-brain communication",
+      "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "published": "Thu, 12 Mar 2026 16:38:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47353533\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+      "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+      "published": "Thu, 12 Mar 2026 14:48:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47351371\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
