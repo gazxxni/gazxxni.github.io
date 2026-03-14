@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-14",
+  "articles": [
+    {
+      "title": "Claude Code, Opus 4.6에서 1M Context 정식 지원",
+      "link": "https://news.hada.io/topic?id=27487",
+      "published": "2026-03-14T10:21:30+09:00",
+      "summary": "<ul>\n<li>기본 적용: Max, Team, Enterprise 사용자는 Opus 4.6에서 1M context가 자동으로 활성화됨</li>\n<li>추가 요금 없음: 900K 토큰 요청도 9K와 같은 토큰당 단가</li>\n<li>처리량 제한 없음: 컨텍스트가 길어져도 rate limit 감소 없이 기존 계정 처리량 그대로 적용</li>\n<li>beta header 전송 불필요: 200K 초...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "카타르 헬륨 생산 중단으로 반도체 공급망에 2주 시한 — 전 세계 공급의 30%가 시장에서 사라지며 SK하...",
+      "link": "https://news.hada.io/topic?id=27486",
+      "published": "2026-03-14T09:56:40+09:00",
+      "summary": "<ul>\n<li>이란의 드론 공격으로 <strong>카타르 Ras Laffan 헬륨 생산 단지</strong>가 가동 중단되며 전 세계 헬륨 공급의 약 30%가 사라짐</li>\n<li>\n<strong>QatarEnergy</strong>는 3월 4일 기존 계약에 대해 <strong>불가항력(force majeure)</strong> 을 선언했고, 재가동 계획은 아직 없는 상태</li>\n<li>헬륨 공...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vite 8.0 출시",
+      "link": "https://news.hada.io/topic?id=27485",
+      "published": "2026-03-14T09:53:40+09:00",
+      "summary": "<ul>\n<li>\n<strong>Rust 기반 번들러 Rolldown</strong>을 통합해 개발·빌드 속도를 대폭 향상한 Vite 8이 정식 공개됨</li>\n<li>기존 <strong>esbuild + Rollup 이중 구조</strong>를 하나의 통합 번들러로 단일화하여 <strong>최대 10~30배 빠른 빌드 성능</strong>을 달성</li>\n<li>새로운 <strong>플러그인 레지스트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TUI Studio – 시각적 터미널 UI 디자인 도구",
+      "link": "https://news.hada.io/topic?id=27484",
+      "published": "2026-03-14T09:50:40+09:00",
+      "summary": "<ul>\n<li>\n<strong>터미널 기반 애플리케이션 UI를 시각적으로 설계</strong>할 수 있는 Figma 유사 편집기 형태의 도구로, 드래그 앤 드롭 방식의 인터페이스 제공</li>\n<li>\n<strong>20개 이상의 TUI 컴포넌트</strong>와 <strong>CSS 유사 레이아웃 엔진</strong>을 지원해, Box·Button·Table 등 다양한 구성요소를 실...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CanIRun.ai — 내 컴퓨터에서 AI 모델을 실행할 수 있을까?",
+      "link": "https://news.hada.io/topic?id=27483",
+      "published": "2026-03-14T09:47:39+09:00",
+      "summary": "<ul>\n<li>\n<strong>CanIRun.ai</strong>는 사용자의 로컬 머신이 어떤 <strong>AI 모델을 실제로 실행할 수 있는지</strong>를 확인할 수 있는 웹 기반 도구</li>\n<li>브라우저의 <strong>WebGPU API</strong>를 활용해 하드웨어 성능을 추정하며, 결과는 실제 사양과 다를 수 있음</li>\n<li>모델별로 <strong>메모리 요...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "published": "Sat, 14 Mar 2026 00:12:22 +0000",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "published": "Sat, 14 Mar 2026 00:01:02 +0000",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Digg lays off staff and shuts down app as company retools",
+      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+      "published": "Fri, 13 Mar 2026 21:51:17 +0000",
+      "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "published": "Fri, 13 Mar 2026 21:37:01 +0000",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Facebook makes it easier for creators to report impersonators",
+      "link": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
+      "published": "Fri, 13 Mar 2026 20:48:43 +0000",
+      "summary": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "link": "https://claude.com/blog/1m-context-ga",
+      "published": "Fri, 13 Mar 2026 17:19:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47367129\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "published": "Fri, 13 Mar 2026 22:52:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47371064\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "link": "https://www.canirun.ai/",
+      "published": "Fri, 13 Mar 2026 12:46:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47363754\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "link": "https://channelsurfer.tv",
+      "published": "Wed, 11 Mar 2026 14:34:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47336100\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "link": "https://github.com/TomBadash/MouseControl",
+      "published": "Fri, 13 Mar 2026 18:42:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47368033\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
