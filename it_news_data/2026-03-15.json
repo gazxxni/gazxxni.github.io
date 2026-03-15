@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-15",
+  "articles": [
+    {
+      "title": "ChatGPT와 mRNA 백신으로 반려견 암 치료 — 인간 암 치료에도 희망",
+      "link": "https://news.hada.io/topic?id=27516",
+      "published": "2026-03-15T10:07:14+09:00",
+      "summary": "<p>시드니의 테크 기업가 Paul Conyngham은 2024년 반려견 Rosie가 악성 비만세포종 진단을 받자 ChatGPT를 활용해 치료 아이디어를 탐색하고 유전자 데이터를 분석했습니다. UNSW 연구진과 협력해 DNA 시퀀싱으로 정상세포와 암세포의 돌연변이를 비교하고, 머신러닝 알고리즘으로 치료 타깃을 특정한 뒤 맞춤형 mRNA 백...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "diffnav - GitHub 스타일의 Git diff pager",
+      "link": "https://news.hada.io/topic?id=27515",
+      "published": "2026-03-15T09:31:01+09:00",
+      "summary": "<ul>\n<li>\n<strong><a href=\"https://github.com/dandavison/delta\">delta</a></strong> 의 렌더링 기능을 기반으로 <strong>GitHub의 파일 트리 UI</strong>를 <strong>터미널</strong> 환경에서 재현</li>\n<li>파일 트리와 diff 내용을 <strong>동시에 표시</strong>해 대규모 코드 변경 내역을 <strong>빠르게 시각적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OnlyFans ‘채터(Chatter)’로 일하는 삶",
+      "link": "https://news.hada.io/topic?id=27514",
+      "published": "2026-03-15T09:15:34+09:00",
+      "summary": "<ul>\n<li>OnlyFans의 유료 구독자와 채팅하는 업무를 대행하는 <strong>'채터'</strong> 라 불리는 저임금 노동자들의 실태를 필리핀 현지 종사자 인터뷰를 통해 조명</li>\n<li>필리핀 거주 한 여성은 고수익 OnlyFans 모델을 사칭하며 <strong>시급 2달러 미만</strong>으로 팬들과 성적 채팅(sexting)을 하는 업무의 고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "진짜 내 일을 위한 Agentic Workflow",
+      "link": "https://news.hada.io/topic?id=27513",
+      "published": "2026-03-15T08:57:01+09:00",
+      "summary": "<ul>\n<li>Lablup의 신정규 대표가 <strong><a href=\"https://go.backend.ai/ko/\">Backend.AI:GO</a></strong> 를 40일간 개발하며 약 100만 줄의 코드를 <strong>130억 토큰</strong>으로 생성한 경험을 공유</li>\n<li>에이전트 코딩 시대에는 <strong>토큰 사용량</strong>이 <strong>IT 기업의 경쟁력</strong>과 직결...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "맥북 네오에서 Parallels 가상 머신으로 윈도우 실행 가능 확인",
+      "link": "https://news.hada.io/topic?id=27512",
+      "published": "2026-03-15T07:50:36+09:00",
+      "summary": "<ul>\n<li>가상화 소프트웨어 <strong>Parallels Desktop</strong>이 <strong>MacBook Neo</strong>에서 정상 작동함이 확인되었으며, <strong>기본 사용성 테스트</strong>를 통과함</li>\n<li>다만 <strong>8GB RAM</strong> 제한으로 인해 <strong>Windows 11 VM 실행 시 macOS와 동시 사용 시 메모리 부족 가능성</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+      "published": "Sat, 14 Mar 2026 21:24:10 +0000",
+      "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "published": "Sat, 14 Mar 2026 20:47:47 +0000",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+      "published": "Sat, 14 Mar 2026 17:23:24 +0000",
+      "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "published": "Sat, 14 Mar 2026 16:28:42 +0000",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "published": "Sat, 14 Mar 2026 16:00:00 +0000",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "link": "https://agelesslinux.org/",
+      "published": "Sat, 14 Mar 2026 22:10:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47381791\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "link": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "published": "Sat, 14 Mar 2026 23:10:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47382277\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "link": "https://github.com/xodn348/han",
+      "published": "Sat, 14 Mar 2026 21:27:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47381382\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
+      "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "published": "Sun, 15 Mar 2026 00:15:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47382791\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
+      "link": "https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027",
+      "published": "Sun, 15 Mar 2026 01:27:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47383298\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
