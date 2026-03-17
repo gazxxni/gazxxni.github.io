@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-17",
+  "articles": [
+    {
+      "title": "미국 직업 시장 시각화 도구",
+      "link": "https://news.hada.io/topic?id=27577",
+      "published": "2026-03-17T10:04:11+09:00",
+      "summary": "<ul>\n<li>Andrej Karpathy가 미국 노동통계국의 <strong>342개 직업</strong>과 <strong>1억 4,300만 개 일자리</strong> 데이터를 기반으로 직업별 고용 규모와 특성을 시각화한 도구</li>\n<li>각 직사각형의 <strong>면적은 고용 규모</strong>, <strong>색상은 선택한 지표</strong>(예: 성장 전망, 중간 임금, 교육 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내가 LLM으로 소프트웨어를 만드는 방법",
+      "link": "https://news.hada.io/topic?id=27576",
+      "published": "2026-03-17T10:01:11+09:00",
+      "summary": "<ul>\n<li>LLM을 활용한 소프트웨어 개발에서 <strong>아키텍트-개발자-리뷰어</strong> 다중 에이전트 워크플로우를 통해 수만 줄 규모의 프로젝트를 낮은 결함률로 유지하는 구체적인 방법론 공유</li>\n<li>프로그래밍 자체보다 <strong>무언가를 만드는 것</strong>에 관심이 있었으며, LLM이 코딩을 잘하게 되면서 만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "팔란티어의 영국 정부 핵심 역할, 국가 안보 위협이라는 국방부 내부 경고",
+      "link": "https://news.hada.io/topic?id=27575",
+      "published": "2026-03-17T09:58:10+09:00",
+      "summary": "<ul>\n<li>미국의 <strong>AI 감시·보안 기업 팔란티어(Palantir)</strong> 가 영국 국방부(MoD)와 다수의 정부 계약을 통해 국가 안보를 위협하고 있다는 내부 고위 기술자들의 경고가 제기됨</li>\n<li>내부 관계자들은 팔란티어가 <strong>데이터 통제권은 정부에 남더라도, 그로부터 도출된 ‘통찰(insights)’은 회사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "부패는 민주주의에서 사회적 신뢰를 더 크게 훼손한다",
+      "link": "https://news.hada.io/topic?id=27574",
+      "published": "2026-03-17T09:55:09+09:00",
+      "summary": "<ul>\n<li>\n<strong>부패 인식이 사회적 신뢰를 약화시키는 정도가 민주주의와 권위주의 체제에서 다르게 나타남</strong>을 62개국 데이터를 통해 분석</li>\n<li>민주주의에서는 <strong>평등·공정성 규범 위반</strong>이 신뢰 붕괴로 이어지는 <strong>규범적 증폭(normative amplification)</strong>, 그리고 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple, AirPods Max 2 공개",
+      "link": "https://news.hada.io/topic?id=27573",
+      "published": "2026-03-17T09:53:00+09:00",
+      "summary": "<ul>\n<li>\n<strong>H2 칩</strong> 기반의 오버이어형 헤드폰으로, 전 세대보다 <strong>최대 1.5배 향상된 액티브 노이즈 캔슬링(ANC)</strong> 성능을 제공</li>\n<li>\n<strong>고해상도 오디오</strong>와 <strong>로스리스(무손실) 음원 재생</strong>, <strong>초저지연 USB‑C 연결</strong>을 지원해 음악·영화·�...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SEC eyes shift to twice-yearly earnings reports",
+      "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+      "published": "Tue, 17 Mar 2026 00:27:10 +0000",
+      "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "published": "Mon, 16 Mar 2026 22:45:51 +0000",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "published": "Mon, 16 Mar 2026 21:41:37 +0000",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "published": "Mon, 16 Mar 2026 20:58:36 +0000",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "published": "Mon, 16 Mar 2026 20:30:00 +0000",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "published": "Tue, 17 Mar 2026 00:02:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47406779\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "link": "https://mistral.ai/news/leanstral",
+      "published": "Mon, 16 Mar 2026 20:59:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47404796\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta’s renewed commitment to jemalloc",
+      "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "published": "Mon, 16 Mar 2026 18:12:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47402640\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+      "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
+      "published": "Mon, 16 Mar 2026 17:13:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47401809\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The “small web” is bigger than you might think",
+      "link": "https://kevinboone.me/small_web_is_big.html",
+      "published": "Mon, 16 Mar 2026 17:17:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47401879\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
