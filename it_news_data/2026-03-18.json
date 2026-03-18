@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-18",
+  "articles": [
+    {
+      "title": "Claude Cowork Dispatch - 어디서든 Claude에게 작업시키기",
+      "link": "https://news.hada.io/topic?id=27605",
+      "published": "2026-03-18T10:33:02+09:00",
+      "summary": "<ul>\n<li>휴대폰이나 데스크톱 어디서든 Claude에게 작업을 지시하면, <strong>데스크톱 컴퓨터의 로컬 파일과 커넥터, 플러그인</strong>을 활용해 작업을 수행하고 결과를 메시지로 전달하는 기능</li>\n<li>하나의 <strong>지속적인 대화 스레드</strong>를 유지하므로, 이전 작업의 컨텍스트를 그대로 이어서 활용 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Open SWE: 사내 코딩 에이전트를 위한 오픈소스 프레임워크",
+      "link": "https://news.hada.io/topic?id=27604",
+      "published": "2026-03-18T10:32:02+09:00",
+      "summary": "<ul>\n<li>Stripe, Ramp, Coinbase 등 주요 엔지니어링 조직이 독립적으로 구축한 사내 코딩 에이전트들이 <strong>유사한 아키텍처 패턴</strong>으로 수렴하고 있으며, 이를 오픈소스로 구현한 프레임워크가 Open SWE</li>\n<li>\n<strong><a href=\"https://github.com/langchain-ai/deepagents\">Deep Agents</a></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마이크로소프트의 ‘해킹 불가능한’ Xbox One, ‘Bliss’에 의해 해킹됨",
+      "link": "https://news.hada.io/topic?id=27603",
+      "published": "2026-03-18T09:50:39+09:00",
+      "summary": "<ul>\n<li>2013년 출시 이후 보안이 뚫리지 않았던 <strong>Xbox One</strong>이 ‘Bliss’라는 <strong>전압 글리치(Voltage Glitch)</strong> 공격으로 완전히 해킹됨</li>\n<li>한 연구자가 <strong>RE//verse 2026 컨퍼런스</strong>에서 이 해킹을 시연하며, 두 번의 정밀한 전압 변조로 <strong>부트 ROM 수준의 보안...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kagi Small Web",
+      "link": "https://news.hada.io/topic?id=27602",
+      "published": "2026-03-18T09:47:39+09:00",
+      "summary": "<ul>\n<li>\n<strong>개인 블로그·독립 유튜브 채널·웹코믹</strong> 등 인간 중심의 콘텐츠를 탐색할 수 있는 플랫폼</li>\n<li>인터넷을 <strong>‘거대한 이웃 동네’</strong> 로 비유하며, 사람 간의 연결을 회복하려는 취지로 설계</li>\n<li>최근 7일 이내 게시물만 노출해 <strong>신선한 콘텐츠 순환</strong>을 유...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 SEC, 분기별 보고 의무 폐지 준비 중",
+      "link": "https://news.hada.io/topic?id=27601",
+      "published": "2026-03-18T09:44:39+09:00",
+      "summary": "<ul>\n<li>미국 <strong>증권거래위원회(SEC)</strong> 가 상장기업의 <strong>분기별 재무보고 의무를 폐지</strong>할 계획을 준비 중임</li>\n<li>이 조치는 <strong>기업의 행정 부담 완화</strong>와 <strong>단기 실적 중심 경영 완화</strong>를 목표로 함</li>\n<li>SEC는 <strong>연간 또는 반기 보고 체계로 전환...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "link": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+      "published": "Tue, 17 Mar 2026 21:39:17 +0000",
+      "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "published": "Tue, 17 Mar 2026 21:00:00 +0000",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "published": "Tue, 17 Mar 2026 20:50:04 +0000",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+      "link": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+      "published": "Tue, 17 Mar 2026 20:10:45 +0000",
+      "summary": "Apple's first-ever \"background security improvement\" fixes a vulnerability in its Safari browser running its latest software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kagi brings its ‘small web’ of a human-only internet to mobile devices",
+      "link": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+      "published": "Tue, 17 Mar 2026 20:03:26 +0000",
+      "summary": "Kagi's \"Small Web\" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A Decade of Slug",
+      "link": "https://terathon.com/blog/decade-slug.html",
+      "published": "Tue, 17 Mar 2026 18:59:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47416736\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python 3.15's JIT is now back on track",
+      "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "published": "Tue, 17 Mar 2026 18:37:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47416486\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "published": "Tue, 17 Mar 2026 15:16:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47413876\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "link": "https://github.com/gsd-build/get-shit-done",
+      "published": "Tue, 17 Mar 2026 20:23:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47417804\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "link": "https://github.com/adammiribyan/zeroboot",
+      "published": "Tue, 17 Mar 2026 13:43:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47412569\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
