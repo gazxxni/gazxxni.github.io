@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-19",
+  "articles": [
+    {
+      "title": "Linear MCP 서버를 CLI와 Agent Skill로 다시 만들었습니다",
+      "link": "https://news.hada.io/topic?id=27637",
+      "published": "2026-03-19T10:26:10+09:00",
+      "summary": "<p>CLI 도구(python) 하나로 Linear API 전체를 감싸는 Agent Skill을 만들었습니다. .env에 API 키 넣으면 끝이고, Agent가 SKILL.md 읽고 알아서 실행합니다. 사람이 커맨드를 외울 필요 없습니다.</p>\n<p>CLI 출력도 AI Agent만 읽는다고 가정하고 최대한 최적화했습니다.</p>\n<p>Claude Code 말고도 Cursor, Gemini",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 에이전트 프로토콜 개발자 가이드",
+      "link": "https://news.hada.io/topic?id=27636",
+      "published": "2026-03-19T10:05:02+09:00",
+      "summary": "<ul>\n<li>MCP, A2A, UCP, AP2, A2UI, AG-UI 등 <strong>6가지 AI 에이전트 프로토콜</strong>을 하나의 레스토랑 공급망 에이전트 시나리오로 묶어, 각 프로토콜이 해결하는 문제를 실전 코드와 함께 단계별로 설명하는 가이드</li>\n<li>Google의 <strong>Agent Development Kit(ADK)</strong> 를 활용해 빈 LLM에서 출발...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google의 AI 네이티브 &quot;바이브 디자인&quot; 플랫폼, Stitch 공개",
+      "link": "https://news.hada.io/topic?id=27635",
+      "published": "2026-03-19T10:04:01+09:00",
+      "summary": "<ul>\n<li>Google Labs가 자연어를 <strong>고품질 UI 디자인</strong>으로 변환하는 AI 네이티브 소프트웨어 디자인 캔버스로 Stitch를 전면 재구성</li>\n<li>와이어프레임 없이 비즈니스 목표나 사용자 경험을 설명하면 디자인이 생성되는 <strong>&quot;바이브 디자인(vibe design)&quot;</strong> 개념 도입</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "연방 사이버 보안 전문가들이 의심에도 불구하고 Microsoft 클라우드 서비스를 승인함",
+      "link": "https://news.hada.io/topic?id=27633",
+      "published": "2026-03-19T09:47:14+09:00",
+      "summary": "<ul>\n<li>미국 정부의 <strong>FedRAMP 프로그램</strong>이 보안 우려에도 불구하고 Microsoft의 <strong>Government Community Cloud High(GCC High)</strong> 서비스를 승인함</li>\n<li>내부 평가 보고서에서는 <strong>“전체 보안 상태를 평가할 자신이 없다”</strong> 고 명시되었으며, 일부 검토자는 시스템을 “...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nightingale – 컴퓨터의 모든 노래를 사용할 수 있는 오픈소스 노래방 앱",
+      "link": "https://news.hada.io/topic?id=27632",
+      "published": "2026-03-19T09:44:14+09:00",
+      "summary": "<ul>\n<li>개인 음악 파일을 <strong>노래방 형태로 변환</strong>해주는 오픈소스 애플리케이션으로, 음성 분리·가사 동기화·실시간 점수 기능을 제공</li>\n<li>\n<strong>UVR Karaoke 모델</strong>이나 <strong>Demucs</strong>를 이용해 보컬과 반주를 분리하고, <strong>WhisperX</strong>로 단어 단위 가사를 자동 전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta is having trouble with rogue AI agents",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "published": "Wed, 18 Mar 2026 23:42:46 +0000",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman’s thank-you to coders draws the memes",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "published": "Wed, 18 Mar 2026 23:12:58 +0000",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "published": "Wed, 18 Mar 2026 20:30:52 +0000",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "published": "Wed, 18 Mar 2026 20:01:19 +0000",
+      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "published": "Wed, 18 Mar 2026 18:32:32 +0000",
+      "summary": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "published": "Thu, 19 Mar 2026 00:15:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47433058\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Autoresearch for SAT Solvers",
+      "link": "https://github.com/iliazintchenko/agent-sat",
+      "published": "Thu, 19 Mar 2026 00:40:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47433265\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Warranty Void If Regenerated",
+      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "published": "Wed, 18 Mar 2026 20:45:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47431237\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "published": "Sun, 15 Mar 2026 15:59:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "link": "https://github.com/alainnothere/llm-circuit-finder",
+      "published": "Wed, 18 Mar 2026 21:31:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47431671\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
