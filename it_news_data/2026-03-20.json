@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-20",
+  "articles": [
+    {
+      "title": "하네스 엔지니어링이란?",
+      "link": "https://news.hada.io/topic?id=27667",
+      "published": "2026-03-20T10:05:10+09:00",
+      "summary": "<p>AI 에이전트 성능 = 모델 + 하네스</p>\n<p>최근 하네스 엔지니어링이 점점 더 중요해지고 있는데요, 클로드와 함께 조사한 내용 공유드립니다.</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "경찰 급습 영상 사용 관련 민사 재판에서 Afroman 승소",
+      "link": "https://news.hada.io/topic?id=27666",
+      "published": "2026-03-20T10:03:18+09:00",
+      "summary": "<ul>\n<li>오하이오 배심원단이 래퍼 <strong>Afroman</strong>이 2022년 자택 급습 영상을 뮤직비디오에 사용한 사건에서 <strong>민사 재판 승소 판결</strong>을 내림</li>\n<li>\n<strong>7명의 보안관실 소속 경찰관</strong>이 자신들의 이미지 사용으로 <strong>모욕감과 정신적 고통, 평판 손상</strong>을 입었다며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "덴마크, 그린란드 문제로 미국과의 전면전을 준비했다는 보도",
+      "link": "https://news.hada.io/topic?id=27665",
+      "published": "2026-03-20T10:00:18+09:00",
+      "summary": "<ul>\n<li>1월 덴마크가 <strong>그린란드 문제를 둘러싸고 미국과의 전면전을 준비했다는 보도</strong>가 제기됨</li>\n<li>\n<strong>프랑스, 독일, 북유럽 국가들</strong>이 덴마크에 군사적 지원을 제공한 것으로 전해짐</li>\n<li>\n<strong>정예 부대와 실탄을 장착한 F-35 전투기</strong>가 배치되었으며, 침공을 막...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "‘당신의 짜증이 곧 상품이다’",
+      "link": "https://news.hada.io/topic?id=27664",
+      "published": "2026-03-20T09:57:18+09:00",
+      "summary": "<ul>\n<li>뉴욕 타임스 웹사이트 하나의 페이지가 <strong>422개 네트워크 요청과 49MB 데이터</strong>를 로드하며, 페이지 안정화까지 2분이 걸리는 현실이 현대 웹의 심각한 퇴행을 보여줌</li>\n<li>광고, 모달, 자동재생 영상으로 가득 찬 웹 페이지들이 <strong>조회 가능성(viewability)과 체류 시간(time-on-page)...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "검증되지 않은 Android 앱 사이드로딩을 위한 Google의 새로운 24시간 절차 공개",
+      "link": "https://news.hada.io/topic?id=27663",
+      "published": "2026-03-20T09:54:18+09:00",
+      "summary": "<ul>\n<li>구글은 <strong>2026/9월부터 개발자 검증 프로그램</strong>을 시행해, 인증되지 않은 앱의 설치를 제한할 예정</li>\n<li>숙련 사용자는 검증을 우회해 앱을 설치할 수 있으나, <strong>숨겨진 설정</strong>을 통해 <strong>24시간 대기 시간</strong>을 거쳐야 완전히 적용됨</li>\n<li>Google은 이 지연이 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "published": "Thu, 19 Mar 2026 23:28:37 +0000",
+      "summary": "Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published": "Thu, 19 Mar 2026 22:09:24 +0000",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "published": "Thu, 19 Mar 2026 21:13:50 +0000",
+      "summary": "A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+      "link": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+      "published": "Thu, 19 Mar 2026 19:46:30 +0000",
+      "summary": "MLB is only the latest in a string of recently announced partnerships involving the prediction market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "published": "Thu, 19 Mar 2026 19:09:02 +0000",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Code: Channels",
+      "link": "https://code.claude.com/docs/en/channels",
+      "published": "Fri, 20 Mar 2026 00:22:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wayland set the Linux Desktop back by 10 years",
+      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+      "published": "Fri, 20 Mar 2026 00:01:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astral to Join OpenAI",
+      "link": "https://astral.sh/blog/openai",
+      "published": "Thu, 19 Mar 2026 13:05:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "published": "Thu, 19 Mar 2026 17:16:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "link": "https://github.com/cockpit-project/cockpit",
+      "published": "Thu, 19 Mar 2026 20:33:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
