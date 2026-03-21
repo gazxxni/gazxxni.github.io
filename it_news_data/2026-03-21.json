@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-21",
+  "articles": [
+    {
+      "title": "OpenCode – 오픈소스 AI 코딩 에이전트",
+      "link": "https://news.hada.io/topic?id=27698",
+      "published": "2026-03-21T10:33:01+09:00",
+      "summary": "<ul>\n<li>터미널, IDE, 데스크톱 환경에서 코드 작성을 지원하는 <strong>오픈소스 AI 코딩 에이전트</strong>로, macOS·Windows·Linux용 <strong>데스크톱 베타 앱</strong>을 제공</li>\n<li>\n<strong>Claude, GPT, Gemini</strong> 등 다양한 모델 제공자와 연동되며, <strong>무료 모델</strong>도 포함</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "'StravaLeaks': Le Monde, 피트니스 앱을 통해 프랑스 항공모함 위치를 실시간으로 추적",
+      "link": "https://news.hada.io/topic?id=27697",
+      "published": "2026-03-21T09:47:29+09:00",
+      "summary": "<ul>\n<li>프랑스 해군 장교가 <strong>Strava</strong> 피트니스 앱에 공개 프로필로 운동 기록을 업로드하면서, 지중해에서 작전 중인 <strong>항공모함 Charles de Gaulle</strong>의 정확한 위치가 실시간으로 노출</li>\n<li>Le Monde가 해당 데이터와 <strong>위성 이미지</strong>를 교차 검증하여 키프로스 북서쪽...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "척 노리스 사망: ‘워커 텍사스 레인저’ 액션 아이콘, 향년 86세",
+      "link": "https://news.hada.io/topic?id=27696",
+      "published": "2026-03-21T09:44:28+09:00",
+      "summary": "<ul>\n<li>무술 챔피언이자 <strong>‘워커, 텍사스 레인저’</strong> 주연으로 유명한 척 노리스가 하와이에서 별세, 향년 86세</li>\n<li>가족은 “그가 가족 곁에서 평화롭게 세상을 떠났다”고 밝혔으며, <strong>믿음과 헌신으로 삶을 살았다</strong>고 전함</li>\n<li>노리스는 <strong>유도, 가라테, 태권도, 탕수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ArXiv, 코넬 대학교로부터의 독립을 선언",
+      "link": "https://news.hada.io/topic?id=27694",
+      "published": "2026-03-21T09:41:28+09:00",
+      "summary": "<ul>\n<li>1991년 설립된 선구적인 논문 사전 공개 서버 <strong>ArXiv.org</strong>가 7월 1일부터 <strong>Cornell University로부터 독립한 비영리 법인</strong>으로 전환</li>\n<li>독립을 통해 <strong>기부자 기반 확대와 기술 인력 확충</strong>을 추진하며, 연간 30만 건에 달하는 <strong>급증하는 논문 제출량...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "뒤처져도 괜찮습니다, 고마워요!",
+      "link": "https://news.hada.io/topic?id=27693",
+      "published": "2026-03-21T09:38:28+09:00",
+      "summary": "<ul>\n<li>\n<strong>암호화폐와 AI 도구</strong> 등 새로운 기술에 대한 <strong>FOMO(놓칠까 봐 두려움)</strong> 를 무기화하는 현상에 대해 &quot;기다려도 괜찮다&quot;고 얘기하는 글</li>\n<li>암호화폐 초기 시절 &quot;뒤처지고 싶지 않지?&quot;라는 말이 회의적 태도를 무너뜨리는 <strong>교묘한 압박 수단</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "published": "Sat, 21 Mar 2026 01:40:28 +0000",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+      "link": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+      "published": "Fri, 20 Mar 2026 23:29:17 +0000",
+      "summary": "At the time, Musk had tweeted that Twitter had too many bots, which is why he was trying to renege on his commitment to buy the company.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "published": "Fri, 20 Mar 2026 20:53:09 +0000",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "published": "Fri, 20 Mar 2026 20:02:35 +0000",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+      "link": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+      "published": "Fri, 20 Mar 2026 19:15:55 +0000",
+      "summary": "It's the latest escalation in a regulatory battle over the future of prediction markets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenCode – Open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "published": "Fri, 20 Mar 2026 21:03:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Our commitment to Windows quality",
+      "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "published": "Fri, 20 Mar 2026 19:16:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47459296\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "published": "Fri, 20 Mar 2026 21:48:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "published": "Fri, 20 Mar 2026 23:57:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "published": "Fri, 20 Mar 2026 13:01:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47453942\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
