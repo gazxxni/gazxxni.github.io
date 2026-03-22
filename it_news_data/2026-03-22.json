@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-22",
+  "articles": [
+    {
+      "title": "Tinybox – 120B 파라미터를 지원하는 오프라인 AI 머신",
+      "link": "https://news.hada.io/topic?id=27727",
+      "published": "2026-03-22T10:37:55+09:00",
+      "summary": "<ul>\n<li>\n<strong>tinygrad</strong>는 단순성과 성능을 결합한 <strong>신경망 프레임워크</strong>로, 최소 연산 구조로 복잡한 모델을 구현</li>\n<li>이를 기반으로 한 <strong>tinybox</strong>는 딥러닝 학습과 추론을 위한 <strong>고성능 오프라인 AI 컴퓨터</strong>로, red·green·exa 세 가지 모델로 제공됨...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ubuntu 26.04, 46년 만에 ‘무음 sudo 비밀번호 입력’ 종료",
+      "link": "https://news.hada.io/topic?id=27726",
+      "published": "2026-03-22T10:34:55+09:00",
+      "summary": "<ul>\n<li>Ubuntu 26.04 LTS에서는 <code>sudo</code> 명령 실행 시 <strong>비밀번호 입력마다 별표(*)가 표시되는 시각적 피드백</strong>이 기본 활성화됨</li>\n<li>이 기능은 <strong>Rust로 재작성된 sudo-rs</strong> 도입으로 가능해졌으며, Canonical이 Ubuntu 25.10부터 이를 기본 sudo로 채택함</li>\n<li>일부 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google 검색, AI로 뉴스 헤드라인을 교체하기 시작",
+      "link": "https://news.hada.io/topic?id=27725",
+      "published": "2026-03-22T10:26:01+09:00",
+      "summary": "<ul>\n<li>Google이 검색 결과에서 언론사가 작성한 <strong>뉴스 헤드라인을 AI가 생성한 제목으로 교체</strong>하는 실험을 전통적인 &quot;10개의 파란 링크&quot; 검색에서도 시작</li>\n<li>The Verge는 자사가 작성하지 않은 헤드라인이 Google 검색 결과에 표시되는 사례를 다수 발견했으며, 일부는 <strong>원래 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "디자인 프로세스는 죽지 않았다, 압축되었을 뿐",
+      "link": "https://news.hada.io/topic?id=27724",
+      "published": "2026-03-22T09:47:01+09:00",
+      "summary": "<ul>\n<li>AI가 디자인 작업 속도를 높이면서 &quot;프로세스를 버려라&quot;는 주장이 확산되고 있지만, 이는 숙련된 디자이너의 작업 방식을 <strong>오해한 결과</strong>\n</li>\n<li>숙련된 디자이너가 &quot;그냥 만들기 시작했다&quot;고 말할 때, 실제로는 수년간 축적된 경험을 통해 <strong>프로세스를 내면화하고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아동 보호를 인터넷 접근 통제로 바꾸지 말라",
+      "link": "https://news.hada.io/topic?id=27723",
+      "published": "2026-03-22T09:41:34+09:00",
+      "summary": "<ul>\n<li>전 세계에서 확산 중인 <strong>연령 확인 제도</strong>가 단순한 아동 보호를 넘어 <strong>인터넷 접근 구조 자체를 재편</strong>하고 있음</li>\n<li>이 제도는 ‘접근 전 신원 증명’이라는 <strong>접근 통제 아키텍처</strong>로 작동하며, 일부는 <strong>운영체제 수준의 신원 계층</strong>으로 확장...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "It’s been 20 years since the first tweet",
+      "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "published": "Sat, 21 Mar 2026 20:30:47 +0000",
+      "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "published": "Sat, 21 Mar 2026 19:30:27 +0000",
+      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "published": "Sat, 21 Mar 2026 17:00:05 +0000",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "published": "Sat, 21 Mar 2026 16:28:00 +0000",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How fusion power works and the startups pursuing it",
+      "link": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
+      "published": "Sat, 21 Mar 2026 14:00:00 +0000",
+      "summary": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tinybox – Offline AI device 120B parameters",
+      "link": "https://tinygrad.org/#tinybox",
+      "published": "Sat, 21 Mar 2026 20:08:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "link": "https://tooscut.app/",
+      "published": "Sat, 21 Mar 2026 21:27:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Some things just take time",
+      "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "published": "Sat, 21 Mar 2026 14:46:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chest Fridge",
+      "link": "https://mtbest.net/chest-fridge/",
+      "published": "Sun, 22 Mar 2026 01:02:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47473279\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why craft-lovers are losing their craft",
+      "link": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+      "published": "Sun, 22 Mar 2026 00:46:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47473178\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
