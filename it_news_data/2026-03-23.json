@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-23",
+  "articles": [
+    {
+      "title": "극가성비 샤오미 모델",
+      "link": "https://news.hada.io/topic?id=27764",
+      "published": "2026-03-23T10:44:54+09:00",
+      "summary": "<p>xiaomi/mimo-v2-pro<br />\n최신 모델이 나와 한 번 써 봤어요.<br />\n일단, 저는 중국모델들에 대한 거부감이 컸어요.<br />\n가장 큰 문제는 중국말이 섞여 나오는 문제여서 사람들이 보는 결과물에서는 중국 모델을 사용할 수가 없었죠.<br />\n그리고 실제 공개되는 벤치마크 성능대비 성능도 더 떨어진다고 느꼈죠....</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PC Gamer가 37MB 용량의 계속 다운로드되는 기사에서 RSS 리더를 추천",
+      "link": "https://news.hada.io/topic?id=27763",
+      "published": "2026-03-23T10:32:51+09:00",
+      "summary": "<ul>\n<li>PC Gamer의 <strong>RSS 리더 추천 기사</strong>가 <strong>37MB에 달하는 초기 로드 용량</strong>을 가진 웹페이지로 지적됨</li>\n<li>페이지에는 <strong>알림·뉴스레터 팝업</strong>과 <strong>다수의 광고</strong>가 겹쳐 표시되어 본문 접근이 어려운 구조임</li>\n<li>로드 후에도 <strong>광고 데이터...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: skills-cleaner - 설치된 Skills의 유사성을 비교하고, 중복 기능을 식별하고 불필요한 Skill을 제거할 ...",
+      "link": "https://news.hada.io/topic?id=27762",
+      "published": "2026-03-23T10:22:00+09:00",
+      "summary": "<p>안녕하세요. Claude Plugin, Skills 많이들 설치해서 사용하고 있으실텐데요.<br />\nPlugin 설치할 때마다 많은 Skills.md가 .claude/plugin 디렉토리 안에 생성되고 있는데 정작 얼마나 많은 Skills.md 파일들이<br />\n만들어지는 지, 중복되는 기능의 Skill.md는 없는지 관리가 되지 않아서 불편함을 느꼈습니다....</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenClaw는 꿈처럼 보이지만 보안 악몽에 가까운 자율 에이전트",
+      "link": "https://news.hada.io/topic?id=27760",
+      "published": "2026-03-23T10:16:51+09:00",
+      "summary": "<ul>\n<li>Opus 기반의 <strong>차세대 자율 에이전트 OpenClaw</strong>는 이메일, 캘린더, 홈 자동화 등 다양한 앱을 통합해 개인 비서처럼 작동함</li>\n<li>그러나 <strong>SkillHub 스킬 검증 부재</strong>, <strong>토큰 노출</strong>, <strong>메모리 오염</strong> 등 다수의 취약점이 발견되어 심각한 보안 위험...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "자사 제품 사용에 지쳤다면, 이제는 스스로 만든 불편을 체험하라",
+      "link": "https://news.hada.io/topic?id=27759",
+      "published": "2026-03-23T10:13:50+09:00",
+      "summary": "<ul>\n<li>대기업의 <strong>고객센터 자동응답 시스템</strong>은 기술 혁신을 내세우지만 실제 고객 불만을 해결하지 못하는 현실을 드러냄</li>\n<li>\n<strong>Dogfooding</strong>이 단순한 내부 제품 사용이 아니라, 고객이 겪는 불편을 직접 체험해야 함을 강조</li>\n<li>경영진이 <strong>고객센터 대기나 오류 상황...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+      "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
+      "published": "Sun, 22 Mar 2026 19:50:16 +0000",
+      "summary": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Do you want to build a robot snowman?",
+      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "published": "Sun, 22 Mar 2026 19:45:07 +0000",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "published": "Sun, 22 Mar 2026 18:41:09 +0000",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published": "Sun, 22 Mar 2026 16:20:00 +0000",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Uber everywhere, all at once",
+      "link": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+      "published": "Sun, 22 Mar 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "published": "Sun, 22 Mar 2026 18:23:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47480507\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+      "published": "Sun, 22 Mar 2026 19:02:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47480886\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The future of version control",
+      "link": "https://bramcohen.com/p/manyana",
+      "published": "Sun, 22 Mar 2026 15:16:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47478401\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reports of code's death are greatly exaggerated",
+      "link": "https://stevekrouse.com/precision",
+      "published": "Sun, 22 Mar 2026 11:09:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47476315\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why I love NixOS",
+      "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "published": "Sun, 22 Mar 2026 17:17:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47479751\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
