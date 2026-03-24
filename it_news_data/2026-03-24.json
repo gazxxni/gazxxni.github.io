@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-24",
+  "articles": [
+    {
+      "title": "자신의 사이트에 게시하고 다른 곳으로 배포하기(POSSE)",
+      "link": "https://news.hada.io/topic?id=27795",
+      "published": "2026-03-24T10:34:43+09:00",
+      "summary": "<ul>\n<li>개인이 콘텐츠를 <strong>자신의 웹사이트에 먼저 게시하고</strong>, 그 복사본이나 링크를 <strong>소셜 미디어 등 외부 플랫폼</strong>에 배포하는 방식</li>\n<li>원본 게시물에는 <strong>정규 URL과 permashortlink</strong>를 포함해, 복사본에서도 원본으로 직접 접근 가능</li>\n<li>이 구조는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
+      "link": "https://news.hada.io/topic?id=27794",
+      "published": "2026-03-24T10:16:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude Code Desktop 및 Cowork</strong>과 연동되어 실제 컴퓨터의 마우스·키보드·화면을 직접 제어해 어떤 앱이든 사용 가능</li>\n<li>\n<strong>Dispatch</strong>와 함께 사용하면 자리를 비운 상태에서도 원격으로 Claude가 컴퓨터를 조작하도록 지시 가능</li>\n<li>현재 <strong>macOS에 먼저 출...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub, 99.9% 가용성 유지에도 어려움 겪는 중",
+      "link": "https://news.hada.io/topic?id=27793",
+      "published": "2026-03-24T09:38:24+09:00",
+      "summary": "<ul>\n<li>최근 <strong>GitHub의 잦은 서비스 장애</strong>가 이어지며, 업계 표준인 <strong>‘5 nines(99.999%)’</strong> 는커녕 <strong>‘3 nines(99.9%)’</strong> 달성도 어려운 상황</li>\n<li>2월 9일에는 <strong>Actions, Pull Request, 알림, Copilot</strong> 등 주요 기능이 동시 장애를 겪었고, 일부 서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Walmart: ChatGPT 결제 전환율, 웹사이트 대비 3배 낮아",
+      "link": "https://news.hada.io/topic?id=27792",
+      "published": "2026-03-24T09:38:18+09:00",
+      "summary": "<ul>\n<li>Walmart은 ChatGPT 내 <strong>Instant Checkout 기능</strong>을 통해 약 20만 개 상품을 테스트한 결과, <strong>웹사이트 결제 대비 전환율이 3배 낮음</strong>을 확인</li>\n<li>ChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, <strong>클릭아웃(웹사이트 이동) 거래의 3분의 1 수준</strong>에 그침...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trivy가 다시 공격받다: 광범위한 GitHub Actions 태그 변조로 비밀정보 유출",
+      "link": "https://news.hada.io/topic?id=27791",
+      "published": "2026-03-24T09:36:57+09:00",
+      "summary": "<ul>\n<li>공식 GitHub Action이 <strong>태그 강제 업데이트</strong>로 변조되어 <strong>악성코드가 배포된 공급망 공격</strong> 발생</li>\n<li>공격자는 <strong>76개 중 75개 태그를 악성 커밋으로 교체</strong>, 약 <strong>1만 개 이상의 워크플로</strong>가 영향을 받음</li>\n<li>변조된 스크립트는 <strong>비...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
+      "link": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
+      "published": "Mon, 23 Mar 2026 23:49:10 +0000",
+      "summary": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
+      "link": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
+      "published": "Mon, 23 Mar 2026 23:30:00 +0000",
+      "summary": "Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
+      "link": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
+      "published": "Mon, 23 Mar 2026 22:57:53 +0000",
+      "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "published": "Mon, 23 Mar 2026 22:36:39 +0000",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple Maps may be about to get ads",
+      "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+      "published": "Mon, 23 Mar 2026 22:33:03 +0000",
+      "summary": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "link": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "published": "Mon, 23 Mar 2026 22:52:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47496221\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "published": "Mon, 23 Mar 2026 21:28:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47495344\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Autoresearch on an old research idea",
+      "link": "https://ykumar.me/blog/eclip-autoresearch/",
+      "published": "Mon, 23 Mar 2026 18:40:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
+      "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+      "published": "Tue, 24 Mar 2026 01:42:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47497679\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "link": "https://twitter.com/anemll/status/2035901335984611412",
+      "published": "Mon, 23 Mar 2026 14:30:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47490070\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
