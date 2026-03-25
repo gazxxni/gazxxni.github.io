@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-25",
+  "articles": [
+    {
+      "title": "AI 얘기, 솔직히 질리지 않았어?",
+      "link": "https://news.hada.io/topic?id=27830",
+      "published": "2026-03-25T10:42:15+09:00",
+      "summary": "<p>이단자 소리 들을 각오를 하고 말한다. AI 얘기가 지겹다.</p>\n<p>AI는 대단하다. 근데 일상이 됐다.</p>\n<p>• 나도 AI 매일 쓴다. 내 워크플로우를 완전히 바꿔놨다<br />\n• 까다로운 도메인의 웹 스케일 회사에 새로 들어갔는데, AI 덕분에 몇 주 만에 생산성 0에서 1로 올라갈 수 있었다<br />\n• 변화의 속도가",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지",
+      "link": "https://news.hada.io/topic?id=27829",
+      "published": "2026-03-25T10:22:48+09:00",
+      "summary": "<ul>\n<li>2003년 Windows 전용 TPS 게임 <strong>GunZ: The Duel</strong>을<br />\n→ <strong>WebAssembly + WebGL 기반으로 브라우저에서 실행 가능하게 포팅</strong>\n</li>\n<li>설치 없이 <strong>크롬에서 URL만 열면 바로 플레이 가능</strong> <a href=\"https://gunz.sigr.io/\">https://gunz.sigr.io/</a>\n</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "트럼프 게시 직전 석유 거래 급증, 내부자 거래 의혹 제기",
+      "link": "https://news.hada.io/topic?id=27828",
+      "published": "2026-03-25T09:49:23+09:00",
+      "summary": "<ul>\n<li>트럼프가 <strong>이란 공격 연기 발표</strong>를 하기 약 15분 전, <strong>수억 달러 규모의 석유 선물 거래량</strong>이 급증함</li>\n<li>발표 직후 <strong>유가가 14% 급락</strong>하며, 하락에 베팅한 거래자들이 큰 이익을 얻음</li>\n<li>거래 시점과 규모가 비정상적으로 집중돼 <strong>사전 정보 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 이야기, 이제 지겹지 않나요?",
+      "link": "https://news.hada.io/topic?id=27827",
+      "published": "2026-03-25T09:46:23+09:00",
+      "summary": "<ul>\n<li>AI가 워크플로를 완전히 바꿔놓았고 생산성도 크게 높여줬지만, 매일 쓰다 보니 <strong>이제 더 이상 새로울 게 없는 일상</strong>이 됨</li>\n<li>Hacker News 등 개발자 커뮤니티가 거의 동일한 <strong>Claude Code 워크플로 자랑</strong>과 AI 도구 설정 이야기로 뒤덮여, 흥미로운 프로젝트와 문제 해결...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Wine 11, 커널 수준에서 Linux의 Windows 게임 실행 방식을 재작성해 대규모 성능 향상 달성",
+      "link": "https://news.hada.io/topic?id=27826",
+      "published": "2026-03-25T09:43:23+09:00",
+      "summary": "<ul>\n<li>Linux에서 Windows 게임 실행 구조를 <strong>커널 수준에서 전면 재설계</strong>해, 기존 wineserver 기반 동기화 병목을 제거</li>\n<li>새로운 <strong>NTSYNC 드라이버</strong>가 NT 동기화 객체를 커널에서 직접 처리하며, <strong>최대 8배 이상의 FPS 향상</strong>을 기록</li>\n<li>\n<strong>WoW64 완...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon just bought a startup making kid-size humanoid robots",
+      "link": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "published": "Wed, 25 Mar 2026 00:53:39 +0000",
+      "summary": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published": "Wed, 25 Mar 2026 00:47:20 +0000",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+      "link": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+      "published": "Wed, 25 Mar 2026 00:14:12 +0000",
+      "summary": "The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+      "link": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+      "published": "Wed, 25 Mar 2026 00:01:00 +0000",
+      "summary": "Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "published": "Tue, 24 Mar 2026 23:57:55 +0000",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "link": "https://spectrum.ieee.org/data-center-dc",
+      "published": "Wed, 25 Mar 2026 00:44:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47511703\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Flighty Airports",
+      "link": "https://flighty.com/airports",
+      "published": "Wed, 25 Mar 2026 00:29:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47511589\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Goodbye to Sora",
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "published": "Tue, 24 Mar 2026 20:01:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47508246\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "published": "Tue, 24 Mar 2026 21:24:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47509571\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "published": "Tue, 24 Mar 2026 18:03:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47506713\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
