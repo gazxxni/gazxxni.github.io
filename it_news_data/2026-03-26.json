@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-26",
+  "articles": [
+    {
+      "title": "나노 바나나 효과: Google의 바이럴 AI가 건축 시각화를 재편하는 방법",
+      "link": "https://news.hada.io/topic?id=27870",
+      "published": "2026-03-26T10:07:01+09:00",
+      "summary": "<ul>\n<li>최신 이미지 생성 모델인 <strong>Gemini 3 Pro Image</strong>(코드명 &quot;Nano Banana Pro&quot;)가 건축 시각화 업계에서 흥분과 불안을 동시에 촉발</li>\n<li>기존 AI 도구와 차별화되는 핵심은 <strong>도면 해독 능력(blueprint literacy)</strong> 으로, 평면도를 추상적 선이 아닌 건축 지시로 해석...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TurboQuant: 극단적 압축으로 AI 효율성을 재정의",
+      "link": "https://news.hada.io/topic?id=27868",
+      "published": "2026-03-26T09:49:10+09:00",
+      "summary": "<ul>\n<li>\n<strong>TurboQuant</strong>은 대규모 언어 모델과 벡터 검색 엔진을 위한 <strong>이론적으로 검증된 양자화 알고리듬 세트</strong>로, 성능 손실 없이 극단적 압축을 달성함</li>\n<li>\n<strong>Quantized Johnson-Lindenstrauss(QJL)</strong> 와 <strong>PolarQuant</strong>을 결합해 <strong>KV 캐시 병...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "구글 TurboQuant: 극한 압축으로 AI 효율성을 재정의하다",
+      "link": "https://news.hada.io/topic?id=27867",
+      "published": "2026-03-26T09:47:01+09:00",
+      "summary": "<ul>\n<li>고차원 벡터의 <strong>메모리 오버헤드 문제</strong>를 근본적으로 해결하는 양자화 알고리듬 세트로, LLM의 키-값 캐시 압축과 벡터 검색 모두에 적용 가능</li>\n<li>PolarQuant로 데이터를 고품질 압축한 뒤, QJL 알고리듬으로 잔여 오차를 1비트만으로 제거하는 <strong>2단계 압축 구조</strong>\n</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "슬로베니아 당국, 이스라엘 기업 Black Cube의 선거 조작 시도 혐의 제기",
+      "link": "https://news.hada.io/topic?id=27866",
+      "published": "2026-03-26T09:46:10+09:00",
+      "summary": "<ul>\n<li>\n<strong>이스라엘 정보회사 Black Cube</strong>가 슬로베니아 총선에 개입해 결과를 조작하려 한 혐의로 <strong>정부의 공식 비난</strong>을 받음</li>\n<li>\n<strong>텔아비브발 전용기</strong>를 타고 입국한 요원들이 <strong>극우 포퓰리스트 야당 본부</strong>를 방문한 사실이 확인됨</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구",
+      "link": "https://news.hada.io/topic?id=27865",
+      "published": "2026-03-26T09:46:02+09:00",
+      "summary": "<ul>\n<li>코드 변경 사항을 분석해 <strong>실제 브라우저 기반 테스트 플랜</strong>을 <strong>자동 생성 및 실행</strong>하는 CLI</li>\n<li>Claude 또는 Codex를 <strong>에이전트 백엔드</strong>로 선택 가능하며, 자연어 명령으로 테스트 흐름을 지정할 수 있음</li>\n<li>세가지 옵션으로 테스트: <code>changes...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "published": "Thu, 26 Mar 2026 00:30:00 +0000",
+      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+      "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "published": "Thu, 26 Mar 2026 00:03:52 +0000",
+      "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "published": "Wed, 25 Mar 2026 21:44:13 +0000",
+      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
+      "link": "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
+      "published": "Wed, 25 Mar 2026 21:19:57 +0000",
+      "summary": "The spyware founder's comments are the most direct suggestion yet from anyone inside Intellexa that the Mitsotakis government authorized the hacking of dozens of phones belonging to senior Greek government ministers, opposition leaders, military officials, and journalists.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Who’s driving Waymo’s self-driving cars? Sometimes, the police.",
+      "link": "https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/",
+      "published": "Wed, 25 Mar 2026 20:57:21 +0000",
+      "summary": "First responders have had to take control of Waymo vehicles and move them during emergency situations, including in at least two active crime scenes, TechCrunch found.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "published": "Wed, 25 Mar 2026 21:11:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47523330\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "False claims in a widely-cited paper. No corrections. No consequences",
+      "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259",
+      "published": "Thu, 26 Mar 2026 00:46:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47525378\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ARC-AGI-3",
+      "link": "https://arcprize.org/arc-agi/3",
+      "published": "Wed, 25 Mar 2026 18:16:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47521150\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "link": "https://rpastro.square.site/s/stories/phm",
+      "published": "Sun, 22 Mar 2026 14:28:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47477873\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The EU still wants to scan  your private messages and photos",
+      "link": "https://fightchatcontrol.eu/?foo=bar",
+      "published": "Wed, 25 Mar 2026 20:27:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47522709\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
