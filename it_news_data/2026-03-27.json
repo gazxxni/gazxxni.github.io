@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-27",
+  "articles": [
+    {
+      "title": "하루에 코딩은 4시간이 한계인 이유",
+      "link": "https://news.hada.io/topic?id=27906",
+      "published": "2026-03-27T10:10:01+09:00",
+      "summary": "<ul>\n<li>인지심리학 연구에 따르면 인간의 <strong>딥 워크(deep work) 한계</strong>는 하루 3~4시간이며, 그 이후에는 집중력과 코드 품질이 급격히 저하됨</li>\n<li>25만 명 이상의 개발자 분석 결과, 실제 <strong>코딩 시간 중앙값은 하루 52분</strong>에 불과하며, 나머지는 회의·관리·협업에 소모</li>\n<li>한 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어에 남은 길은 두 가지뿐",
+      "link": "https://news.hada.io/topic?id=27905",
+      "published": "2026-03-27T10:06:02+09:00",
+      "summary": "<ul>\n<li>공개 시장이 소프트웨어 섹터를 이미 재평가했으며, 소프트웨어의 <strong>터미널 밸류</strong>가 과거와 달라졌다는 신호를 보내고 있음</li>\n<li>지속 가능한 주식 가치 창출을 위한 경로는 <strong>AI 네이티브 신제품으로 매출 성장률 10%p 이상 가속</strong>하거나, <strong>SBC 포함 실질 영업이익률 4...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub에서 Codeberg로 이전하기, 게으른 사람들을 위한 방법",
+      "link": "https://news.hada.io/topic?id=27904",
+      "published": "2026-03-27T09:49:33+09:00",
+      "summary": "<ul>\n<li>일부 프로젝트를 <strong>GitHub에서 Codeberg로 옮기며</strong>, 최소한의 노력으로 이전을 시작하는 방법을 정리</li>\n<li>Codeberg의 <strong>저장소 가져오기 기능</strong>을 통해 이슈·PR·릴리스까지 포함한 완전한 이전이 가능하며, <strong>UI와 워크플로가 GitHub과 유사</strong>\n</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "삶을 더 편하게 만드는 셸 트릭 (정신 건강도 지켜주는 방법)",
+      "link": "https://news.hada.io/topic?id=27903",
+      "published": "2026-03-27T09:46:33+09:00",
+      "summary": "<ul>\n<li>다양한 <strong>키보드 단축키와 명령 조합</strong>을 활용해 셸 환경에서 작업 속도와 효율을 높이는 방법 정리</li>\n<li>\n<strong>CTRL + W, U, K, Y</strong> 등 기본 단축키로 줄 편집, <strong>CTRL + A/E, ALT + B/F</strong>로 커서 이동, <strong>reset</strong>으로 터미널 복구 가능</li>\n<li>Bash와...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "understudy - 시연으로 배우는 로컬 데스크톱 에이전트",
+      "link": "https://news.hada.io/topic?id=27902",
+      "published": "2026-03-27T09:46:02+09:00",
+      "summary": "<ul>\n<li>사용자가 한 번 보여주면 <strong>의도와 절차를 학습</strong>해 반복 수행하는 <strong>데스크톱 자동화 에이전트</strong>\n</li>\n<li>별도 워크플로 빌더 없이 <strong>직접 시연으로 학습</strong> 가능</li>\n<li>\n<strong>로컬 런타임</strong>에서 GUI·브라우저·쉘·파일시스템·메시징을 통합 제어</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "published": "Fri, 27 Mar 2026 01:26:40 +0000",
+      "summary": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "published": "Fri, 27 Mar 2026 01:18:38 +0000",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "published": "Thu, 26 Mar 2026 23:47:56 +0000",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "published": "Thu, 26 Mar 2026 21:50:10 +0000",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+      "link": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
+      "published": "Thu, 26 Mar 2026 20:42:50 +0000",
+      "summary": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "published": "Thu, 26 Mar 2026 22:41:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47536761\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "link": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+      "published": "Wed, 25 Mar 2026 15:46:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47518960\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chicago artist creates tourism posters for city's neighborhoods",
+      "link": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+      "published": "Thu, 26 Mar 2026 23:18:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47537106\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple discontinues the Mac Pro with no plans for future hardware",
+      "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "published": "Thu, 26 Mar 2026 21:04:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47535708\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "published": "Thu, 26 Mar 2026 23:33:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47537228\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
