@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-28",
+  "articles": [
+    {
+      "title": ".claude/ 폴더의 구조 분석",
+      "link": "https://news.hada.io/topic?id=27941",
+      "published": "2026-03-28T09:53:17+09:00",
+      "summary": "<ul>\n<li>\n<code>.claude/</code> 폴더는 <strong>Claude Code의 핵심 제어 디렉터리</strong>로, 프로젝트별 규칙·명령·권한·메모리 상태를 관리함</li>\n<li>\n<code>CLAUDE.md</code>는 Claude의 <strong>행동 원칙과 프로젝트 규칙을 정의하는 중심 파일</strong>로, 여러 계층의 설정을 병합해 적용함</li>\n<li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "jq보다 빠른 대안 jsongrep",
+      "link": "https://news.hada.io/topic?id=27940",
+      "published": "2026-03-28T09:50:17+09:00",
+      "summary": "<ul>\n<li>JSON 문서를 <strong>경로 기반으로 탐색</strong>하는 Rust CLI 도구로, 기존 <code>jq</code>, <code>jmespath</code>, <code>jsonpath-rust</code>, <code>jql</code>보다 <strong>검색 속도</strong>가 빠름</li>\n<li>쿼리를 <strong>정규 언어로 표현해 DFA로 컴파일</strong>하고, JSON 트리를 단일 패스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Windows 11 설치 시 강제되는 Microsoft 계정 요구를 폐지하려는 내부 움직임",
+      "link": "https://news.hada.io/topic?id=27939",
+      "published": "2026-03-28T09:47:16+09:00",
+      "summary": "<ul>\n<li>Windows 11은 성능과 안정성 개선 업데이트를 진행했지만, <strong>설치 과정에서 Microsoft 계정 로그인을 강제하는 정책</strong>은 유지됨</li>\n<li>이 정책은 <strong>사용자 불만이 가장 큰 요소</strong>로 지적되며, 공식 블로그에서도 관련 언급이 없음</li>\n<li>Microsoft 부사장 <strong>Scott Hanse...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Codex 활용 사례 모음",
+      "link": "https://news.hada.io/topic?id=27938",
+      "published": "2026-03-28T09:45:01+09:00",
+      "summary": "<ul>\n<li>OpenAI가 agentic 코딩 도구 <strong>Codex</strong>를 실무에 바로 적용할 수 있는 12가지 유즈케이스를 공식 문서로 정리해 공개했으며, 각 케이스에는 권장 팀/카테고리, 스타터 프롬프트, 활용 Skills 정보가 포함되어 있음</li>\n<li>Engineering·Front-end·Data·Integrations·Mobile·Evaluation 등 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "서류의 홍수: 저녁 식사 전 관료를 ‘익사’시킨 방법",
+      "link": "https://news.hada.io/topic?id=27937",
+      "published": "2026-03-28T09:44:16+09:00",
+      "summary": "<ul>\n<li>\n<strong>미국 사회보장국의 장애 재검토 절차</strong>가 시각장애인에게 반복적으로 장애 증명을 요구하며 <strong>비인간적 행정의 모순</strong>을 드러냄</li>\n<li>평생 시각장애인인 화자는 이메일 제출이 거부되고 <strong>우편·팩스만 허용되는 비합리적 규정</strong>에 직면함</li>\n<li>이에 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+      "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "published": "Fri, 27 Mar 2026 23:59:40 +0000",
+      "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "published": "Fri, 27 Mar 2026 21:44:45 +0000",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "published": "Fri, 27 Mar 2026 19:11:28 +0000",
+      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo’s skyrocketing ridership in one chart",
+      "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+      "published": "Fri, 27 Mar 2026 19:11:10 +0000",
+      "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "European Commission confirms cyberattack after hackers claim data breach",
+      "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+      "published": "Fri, 27 Mar 2026 17:59:29 +0000",
+      "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Make macOS consistently bad (unironically)",
+      "link": "https://lr0.org/blog/p/macos/",
+      "published": "Fri, 27 Mar 2026 19:15:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47547009\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't YOLO your file system",
+      "link": "https://jai.scs.stanford.edu/",
+      "published": "Sat, 28 Mar 2026 00:39:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550282\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Improving Composer through real-time RL",
+      "link": "https://cursor.com/blog/real-time-rl-for-composer",
+      "published": "Thu, 26 Mar 2026 16:48:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47532770\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "link": "https://twitchroulette.net/",
+      "published": "Fri, 27 Mar 2026 22:22:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47549160\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "link": "https://github.com/davidmonterocrespo24/velxio",
+      "published": "Fri, 27 Mar 2026 20:44:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47548013\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
