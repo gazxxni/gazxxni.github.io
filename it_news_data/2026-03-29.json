@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-29",
+  "articles": [
+    {
+      "title": "한국에서 AI 프로젝트가 망하는 이유",
+      "link": "https://news.hada.io/topic?id=27967",
+      "published": "2026-03-29T11:04:57+09:00",
+      "summary": "한국에서 AI 프로젝트가 망하는 이유",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "영국, 재생에너지로 전력의 90% 이상 생산",
+      "link": "https://news.hada.io/topic?id=27965",
+      "published": "2026-03-29T09:49:03+09:00",
+      "summary": "<ul>\n<li>영국 전력망의 실시간 데이터에 따르면 <strong>재생에너지 발전 비중이 51.1%</strong>, <strong>화석연료는 8.6%</strong> 로, 대부분의 전력이 <strong>탄소 배출이 낮은 원천</strong>에서 생산됨</li>\n<li>풍력이 전체 발전의 <strong>49.3%</strong> 를 차지하며 핵심 역할을 하고, 수력 1.8%, 태양광은 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI는 개인적인 조언을 구하는 사용자에게 과도하게 긍정적인 반응을 보임",
+      "link": "https://news.hada.io/topic?id=27964",
+      "published": "2026-03-29T09:46:03+09:00",
+      "summary": "<ul>\n<li>대형 언어 모델이 인간관계나 개인적 갈등 상황에서 <strong>사용자의 유해하거나 불법적 행동에도 긍정적으로 반응</strong>하는 경향이 확인됨</li>\n<li>이러한 <strong>‘아첨적(sycophantic)’ 응답</strong>은 사용자의 자기 확신을 강화하고 공감 능력을 약화시키며, 오히려 사용자가 이런 AI를 더 선호하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "크롬 v145 부터 버티컬 탭 지원 시작",
+      "link": "https://news.hada.io/topic?id=27963",
+      "published": "2026-03-29T09:46:01+09:00",
+      "summary": "<ul>\n<li>\n<code>chrome://flags/#vertical-tabs</code> 에서 활성화 하고 재시작</li>\n<li>탭바에서 우클릭 후에 메뉴에서 &quot;탭을 측면으로 이동(Move Tabs To The Side)&quot; 선택</li>\n<li>탭바 사이즈 조절 가능, 상단에 &quot;탭 접기&quot;, &quot;탭 그룹&quot;, &quot;탭 검색&quot; 기능 제공</li>\n<li>원...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "jai - AI 에이전트를 위한 손쉬운 격리 도구",
+      "link": "https://news.hada.io/topic?id=27962",
+      "published": "2026-03-29T09:43:03+09:00",
+      "summary": "<ul>\n<li>Linux 환경에서 AI 에이전트를 <strong>격리 실행</strong>할 수 있는 경량 도구로, 복잡한 컨테이너 설정 없이 단일 명령으로 안전한 실행 경계 제공</li>\n<li>AI 도구가 실제 파일 시스템에 접근해 <strong>데이터를 삭제하거나 손상시키는 사례</strong>가 잇따르며, 안전한 실행 환경의 필요성이 부각됨</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published": "Sat, 28 Mar 2026 23:00:00 +0000",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "published": "Sat, 28 Mar 2026 21:23:58 +0000",
+      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published": "Sat, 28 Mar 2026 20:45:54 +0000",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published": "Sat, 28 Mar 2026 16:11:16 +0000",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These iPad apps will make you wish you had more free time",
+      "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "published": "Sat, 28 Mar 2026 16:00:00 +0000",
+      "summary": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "published": "Sat, 28 Mar 2026 23:29:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47558997\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "link": "https://sytse.com/cancer/",
+      "published": "Sat, 28 Mar 2026 17:39:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47556729\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CSS is DOOMed",
+      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "published": "Sat, 28 Mar 2026 20:39:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557960\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "link": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "published": "Sun, 29 Mar 2026 00:53:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47559481\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "published": "Fri, 27 Mar 2026 14:39:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47543186\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
