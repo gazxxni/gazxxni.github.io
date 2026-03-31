@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-31",
+  "articles": [
+    {
+      "title": "AI가 두려워 직업을 바꾼다, 미국 청년들의 커리어 피벗 현장",
+      "link": "https://news.hada.io/topic?id=28032",
+      "published": "2026-03-31T10:40:08+09:00",
+      "summary": "<p>AI 기술 발전으로 인한 <strong>일자리 불안</strong>이 미국 청년들의 실제 커리어 선택을 크게 바꾸고 있다는 내용.<br />\n아직 커리어가 유연한 젊은 세대에서 AI가 자신의 직업을 대체할까 봐 두려워 직업을 전환(pivot)하는 사례가 급증.</p>\n<h5>주요 사례</h5>\n<ul>\n<li>보험회사 3년 반 근무한 28세 → 소방관",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI에게 글쓰기를 맡기지 말라",
+      "link": "https://news.hada.io/topic?id=28031",
+      "published": "2026-03-31T10:33:09+09:00",
+      "summary": "<ul>\n<li>글쓰기는 <strong>질문을 던지고 답을 찾아가는 사고의 과정</strong>으로, 단순한 문서 작성이 아닌 이해 확장의 행위임</li>\n<li>\n<strong>LLM이 생성한 글</strong>은 사고와 학습의 기회를 잃게 하며, 이는 <strong>“대신 운동을 시키는 것”</strong> 과 같은 자기 성장의 포기임</li>\n<li>자동 생성된 문...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft Copilot이 약 150만개의 GitHub Pull Request에 광고를 삽입함",
+      "link": "https://news.hada.io/topic?id=28030",
+      "published": "2026-03-31T09:53:33+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 서비스의 수익 압박 심화</strong>로 대형 기술 기업들이 <strong>광고 기반 모델</strong>로 전환 중</li>\n<li>Copilot이 자동 생성한 <strong>GitHub Pull Request</strong>에 “Raycast로 Copilot 코딩 에이전트 실행” 등의 <strong>광고 문구 삽입 사례</strong>가 다수 확인됨</li>\n<li>동일...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 버블은 어떻게 붕괴되는가",
+      "link": "https://news.hada.io/topic?id=28029",
+      "published": "2026-03-31T09:50:33+09:00",
+      "summary": "<ul>\n<li>\n<strong>AI 산업의 투자 거품</strong>은 이미 형성되어 있으며, 생산성과 수익성의 괴리로 인해 예상보다 빠른 시점에 붕괴 가능성 있음</li>\n<li>\n<strong>빅테크 기업들</strong>은 경쟁 우위를 지키기 위해 사상 최대 규모의 <strong>자본 지출 경쟁</strong>을 벌이고 있으나, 실제 집행 규모는 줄어들 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "정부 앱 ‘Fedware’: 금지된 앱보다 더 강력한 감시 수행",
+      "link": "https://news.hada.io/topic?id=28028",
+      "published": "2026-03-31T09:47:33+09:00",
+      "summary": "<ul>\n<li>미국 <strong>연방정부 공식 앱들이 민간 앱보다 더 많은 권한과 추적 기능을 요구</strong>하며, 위치·생체정보·기기 식별정보 등을 수집함</li>\n<li>\n<strong>White House, FBI, IRS, TSA, CBP, ICE</strong> 등 주요 기관 앱들이 공공서비스를 표방하지만, 실제로는 <strong>추적 SDK와 데이터 공유 구조</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "published": "Mon, 30 Mar 2026 23:41:48 +0000",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "published": "Mon, 30 Mar 2026 23:08:12 +0000",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+      "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "published": "Mon, 30 Mar 2026 21:53:09 +0000",
+      "summary": "A few things turned investors' heads and drew them to participate in such a big round out of the gate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "published": "Mon, 30 Mar 2026 20:24:53 +0000",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What we’re looking for in Startup Battlefield 2026 and how to put your best application forward",
+      "link": "https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/",
+      "published": "Mon, 30 Mar 2026 18:57:51 +0000",
+      "summary": "Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "link": "https://github.com/drona23/claude-token-efficient",
+      "published": "Tue, 31 Mar 2026 01:23:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47581701\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "published": "Mon, 30 Mar 2026 18:16:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47577761\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Android Developer Verification",
+      "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "published": "Mon, 30 Mar 2026 22:05:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47580297\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Do your own writing",
+      "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "published": "Mon, 30 Mar 2026 12:39:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47573519\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "link": "https://anishathalye.com/macbook-touchscreen/",
+      "published": "Mon, 30 Mar 2026 19:22:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47578572\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
