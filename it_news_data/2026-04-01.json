@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-01",
+  "articles": [
+    {
+      "title": "코딩 에이전트 구독료 뽕뽑기, 클로드코드, 코덱스, 제미나이, 오픈코드를 모두 묶어 텔레그램 봇으로 -...",
+      "link": "https://news.hada.io/topic?id=28079",
+      "published": "2026-04-01T10:38:10+09:00",
+      "summary": "<h2>코딩 에이전트 구독료 뽕뽑기: Claude Code, Codex, Gemini CLI, OpenCode를 텔레그램 봇으로 - cokacdir</h2>\n<p>이미 쓰고 있는 코딩 에이전트(Claude Code, Codex, Gemini CLI, OpenCode)를 텔레그램에서 그대로 쓸 수 있게 해주는 오픈소스 도구입니다.</p>\n<p>cokacdir은 자체 AI 에이전트를 내장하지 않습니다",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft: Copilot은 오락용으로만 제공됨",
+      "link": "https://news.hada.io/topic?id=28078",
+      "published": "2026-04-01T09:58:22+09:00",
+      "summary": "<ul>\n<li>Copilot은 <strong>AI 기반 대화형 서비스</strong>로, 사용자의 프롬프트에 응답을 생성하지만 그 결과는 <strong>정확하거나 신뢰할 수 없을 수 있음</strong>\n</li>\n<li>Microsoft는 Copilot을 <strong>오락용(Entertainment purposes only)</strong> 으로 제공하며, 중요한 조언이나 결정의 근거로 사용해서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Universal Claude.md – Claude 출력 토큰 절감",
+      "link": "https://news.hada.io/topic?id=28077",
+      "published": "2026-04-01T09:55:22+09:00",
+      "summary": "<ul>\n<li>Claude 모델의 <strong>불필요한 서두·마무리·재진술</strong>을 제거해 <strong>출력 토큰 낭비를 줄이는 설정 파일</strong>\n</li>\n<li>프로젝트 루트에 <code>CLAUDE.md</code>를 추가하면 <strong>코드 수정 없이 즉시 적용</strong>되며, <strong>평균 63%의 토큰 절감</strong> 효과</li>\n<li>\n<strong>A...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub, 반발 이후 Copilot의 Pull Request 광고 기능 중단",
+      "link": "https://news.hada.io/topic?id=28076",
+      "published": "2026-04-01T09:52:22+09:00",
+      "summary": "<ul>\n<li>\n<strong>GitHub Copilot</strong>이 <strong>Pull Request(PR)</strong> 내에 삽입하던 <strong>광고성 ‘tips’ 메시지 기능을 제거</strong>, 개발자 반발에 따른 조치임</li>\n<li>해당 메시지는 <strong>Raycast 앱 설치를 권장</strong>하는 문구와 링크를 포함해, Copilot이 자동으로 PR 설명에 추가했음...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code 소스 유출: 가짜 도구, 욕설 감지 정규식, 은폐 모드 등 내부 구조 드러남",
+      "link": "https://news.hada.io/topic?id=28074",
+      "published": "2026-04-01T09:49:22+09:00",
+      "summary": "<ul>\n<li>Anthropic이 npm 패키지에 <strong>소스맵을 포함해 배포</strong>하면서 Claude Code의 전체 코드가 공개되어, 내부 기능과 실험적 플래그가 모두 드러남</li>\n<li>코드에는 <strong>모델 모방 방지를 위한 가짜 도구 삽입(anti-distillation)</strong>, <strong>AI 정체를 숨기는 undercover 모드</strong>, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "published": "Wed, 01 Apr 2026 01:42:59 +0000",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
+      "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+      "published": "Wed, 01 Apr 2026 01:00:00 +0000",
+      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic is having a month",
+      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "published": "Tue, 31 Mar 2026 23:58:26 +0000",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "published": "Tue, 31 Mar 2026 22:46:25 +0000",
+      "summary": "Slack just got a whole lot more useful.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Robotaxi companies refuse to say how often their AVs need remote help",
+      "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
+      "published": "Tue, 31 Mar 2026 21:35:51 +0000",
+      "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "published": "Tue, 31 Mar 2026 13:04:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47586778\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "link": "https://arxiv.org/abs/2602.04118",
+      "published": "Fri, 27 Mar 2026 12:11:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47541733\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "published": "Wed, 01 Apr 2026 01:58:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47595865\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TruffleRuby",
+      "link": "https://chrisseaton.com/truffleruby/",
+      "published": "Sat, 28 Mar 2026 18:39:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557171\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "link": "https://scottlawsonbc.com/post/dot-system",
+      "published": "Tue, 31 Mar 2026 21:15:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47593556\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
