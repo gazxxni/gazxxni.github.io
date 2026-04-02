@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-02",
+  "articles": [
+    {
+      "title": "Show GN: Uviewer - 이미지, 만화, 텍스트, pdf, epub 통합뷰어",
+      "link": "https://news.hada.io/topic?id=28103",
+      "published": "2026-04-02T10:18:47+09:00",
+      "summary": "<p>Winui3로 만든 이미지, 만화, 텍스트, pdf, epub 통합뷰어입니다.<br />\n만화나 소설 읽기에 최적화해서 만들었습니다.<br />\n자세한 사용법은 github를 참조해 주세요.</p>\n<p>github<br />\nhttps://github.com/kirinonakar/Uviewer<br />\nmicrosoft store<br />\nhttps://apps.microsoft.com/detail/9N6DL9Q4S6FK?hl",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "lodash를 아직 쓰고 있다면 - package.json 한 줄로 번들 97% 줄이기",
+      "link": "https://news.hada.io/topic?id=28102",
+      "published": "2026-04-02T10:09:50+09:00",
+      "summary": "<p>토스 프론트엔드 팀에서 만든 lodash 대체 JavaScript 유틸리티 라이브러리 es-toolkit이 npm 주간 다운로드 1,800만 건을 넘기까지의 과정을 정리한 글입니다.</p>\n<ul>\n<li>2024년 &quot;한국에서 세계적으로 사용되는 JS 라이브러리가 나온 적이 있나?&quot;라는 질문에서 출발</li>\n<li>lodash가 10년 전 설계된",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Hermes Agent — 경험으로부터 스킬을 생성·개선하는 자기 학습형 자율 AI 에이전트",
+      "link": "https://news.hada.io/topic?id=28101",
+      "published": "2026-04-02T09:37:10+09:00",
+      "summary": "<ul>\n<li>\n<strong>자기 학습 루프</strong>를 내장한 자율 에이전트로, 사용 중 스킬을 스스로 생성하고 개선하며, 세션 간에 사용자 모델을 점진적으로 심화시킴</li>\n<li>IDE에 묶인 코딩 코파일럿이나 단일 API 챗봇 래퍼가 아닌 자율 에이전트로 <strong>실행 시간이 길수록 더 유능해짐</strong>\n</li>\n<li>실행 환...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NASA의 Artemis II 승무원, 달로 향하는 발사 성공",
+      "link": "https://news.hada.io/topic?id=28100",
+      "published": "2026-04-02T09:33:27+09:00",
+      "summary": "<ul>\n<li>4명의 우주비행사가 탑승한 <strong>Artemis II 유인 시험 비행</strong>이 Kennedy 우주센터 <strong>Launch Complex 39B</strong>에서 <strong>SLS 로켓</strong>을 통해 발사됨</li>\n<li>이번 임무는 <strong>50년 만의 첫 유인 심우주 비행</strong>으로, 약 10일간 달을 선회한 뒤 지구로 귀환하는 여정 수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 반품랩탑 - AI가 다나와 데이터와 오픈마켓 반품 특가를 매핑해 진짜 가성비 반품 노트북을 찾아주는 서...",
+      "link": "https://news.hada.io/topic?id=28099",
+      "published": "2026-04-02T04:53:25+09:00",
+      "summary": "<p>안녕하세요. 대형 오픈마켓에서 쏟아지는 반품 노트북을 볼 때마다, 실제 스펙을 정확히 확인하고 다나와의 최저가와 비교하는 데 큰 피로감을 느꼈습니다.</p>\n<p>이를 해결하기 위해, 흩어진 상거래 플랫폼의 노트북 특가 정보와 다나와의 방대한 데이터베이스를 AI로 통합하고 가시화하는 '반품랩탑(Banpoom Lapto",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "published": "Wed, 01 Apr 2026 22:58:39 +0000",
+      "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "published": "Wed, 01 Apr 2026 22:12:13 +0000",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The reputation of troubled YC startup Delve has gotten even worse",
+      "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "published": "Wed, 01 Apr 2026 21:23:47 +0000",
+      "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+      "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+      "published": "Wed, 01 Apr 2026 21:12:14 +0000",
+      "summary": "Passengers in Baidu's robotaxis were trapped for up to two hours.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
+      "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+      "published": "Wed, 01 Apr 2026 20:46:17 +0000",
+      "summary": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Live: Artemis II Launch Day Updates",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "published": "Wed, 01 Apr 2026 17:11:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47603657\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A new C++ back end for ocamlc",
+      "link": "https://github.com/ocaml/ocaml/pull/14701",
+      "published": "Wed, 01 Apr 2026 23:35:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47608058\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Quantum computing bombshells that are not April Fools",
+      "link": "https://scottaaronson.blog/?p=9665",
+      "published": "Thu, 02 Apr 2026 00:24:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47608495\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "published": "Wed, 01 Apr 2026 21:36:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47606840\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "link": "https://blog.cloudflare.com/emdash-wordpress/",
+      "published": "Wed, 01 Apr 2026 16:14:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47602832\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
