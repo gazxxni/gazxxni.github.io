@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-03",
+  "articles": [
+    {
+      "title": "이메일 난독화: 2026년에 효과적인 방법은?",
+      "link": "https://news.hada.io/topic?id=28147",
+      "published": "2026-04-03T09:59:14+09:00",
+      "summary": "<ul>\n<li>이메일 주소를 <strong>스팸 수집기</strong>로부터 보호하기 위해 다양한 <strong>HTML·CSS·JavaScript 난독화 기법</strong>을 실험해 차단율을 비교함</li>\n<li>426개 텍스트·399개 링크 표본을 대상으로 테스트한 결과, <strong>대부분의 JS 기반·CSS·SVG 기법이 100% 차단율</strong>을 기록함</li>\n<li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 숫자가 아니다 – 72,000명 이상의 팔레스타인 희생자를 추모하며",
+      "link": "https://news.hada.io/topic?id=28145",
+      "published": "2026-04-03T09:56:14+09:00",
+      "summary": "<ul>\n<li>\n<strong>가자 지구 학살로 희생된 72,000명 이상의 팔레스타인인</strong>을 추모하는 웹 기반 인터랙티브 추모 페이지</li>\n<li>화면에는 <strong>60,199개의 빛</strong>이 표시되어, 각 빛이 한 사람의 생명을 상징함</li>\n<li>사용자는 마우스를 올려 개별 생명을 <strong>기억(remember)</strong> 할 수 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwen3.6-Plus: 현실 세계 에이전트를 향하여",
+      "link": "https://news.hada.io/topic?id=28144",
+      "published": "2026-04-03T09:53:14+09:00",
+      "summary": "<ul>\n<li>\n<strong>Qwen3.6-Plus</strong>는 Qwen3.5 이후 공개된 대규모 업그레이드 모델로, <strong>에이전트형 코딩 능력</strong>과 <strong>멀티모달 추론 성능</strong>을 대폭 강화함</li>\n<li>\n<strong>1M 토큰 컨텍스트 윈도우</strong>를 지원하며, <strong>Alibaba Cloud Model Studio API</strong>를 통해 즉...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lemonade by AMD: GPU와 NPU를 활용한 빠른 오픈소스 로컬 LLM 서버",
+      "link": "https://news.hada.io/topic?id=28143",
+      "published": "2026-04-03T09:50:14+09:00",
+      "summary": "<ul>\n<li>\n<strong>AMD 지원 로컬 AI 서버</strong>로, GPU와 NPU를 활용해 <strong>텍스트·이미지·음성</strong>을 빠르게 처리하는 <strong>오픈소스 플랫폼</strong>\n</li>\n<li>\n<strong>로컬 실행과 개인정보 보호</strong>를 중시하며, <strong>OpenAI API 표준</strong>과 호환되어 다양한 앱과 즉시 연동 가능</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Steam의 리눅스 사용률이 3월에 5%를 돌파",
+      "link": "https://news.hada.io/topic?id=28142",
+      "published": "2026-04-03T09:47:14+09:00",
+      "summary": "<ul>\n<li>\n<strong>Steam 플랫폼에서 리눅스 이용 비율</strong>이 3월 기준 <strong>5%를 넘어섬</strong>\n</li>\n<li>이는 Valve의 <strong>Steam Hardware &amp; Software Survey</strong> 통계에 기반한 수치임</li>\n<li>리눅스 게이밍의 성장은 <strong>Steam Deck</strong>과 <strong>Proton 호환성 향상</strong>의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+      "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "published": "Thu, 02 Apr 2026 22:56:29 +0000",
+      "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "published": "Thu, 02 Apr 2026 21:26:48 +0000",
+      "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+      "link": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+      "published": "Thu, 02 Apr 2026 20:06:29 +0000",
+      "summary": "Next time around, the pressure will be on SpaceX and Blue Origin.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gateway Capital announces first close of $25M Fund II",
+      "link": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
+      "published": "Thu, 02 Apr 2026 19:45:19 +0000",
+      "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "published": "Thu, 02 Apr 2026 19:21:00 +0000",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google releases Gemma 4 open models",
+      "link": "https://deepmind.google/models/gemma/gemma-4/",
+      "published": "Thu, 02 Apr 2026 16:10:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47616361\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "published": "Thu, 02 Apr 2026 16:00:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47616242\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale's new macOS home",
+      "link": "https://tailscale.com/blog/macos-notch-escape",
+      "published": "Thu, 02 Apr 2026 18:22:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47618189\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "published": "Thu, 02 Apr 2026 02:37:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47609356\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cursor 3",
+      "link": "https://cursor.com/blog/cursor-3",
+      "published": "Thu, 02 Apr 2026 18:13:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47618084\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
