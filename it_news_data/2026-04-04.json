@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-04",
+  "articles": [
+    {
+      "title": "Optio - AI 코딩 에이전트를 위한 워크플로 오케스트레이터",
+      "link": "https://news.hada.io/topic?id=28183",
+      "published": "2026-04-04T09:46:40+09:00",
+      "summary": "<ul>\n<li>에이전트가 티켓 접수부터 PR 머지까지 소프트웨어 개발 전 과정을 자동으로 처리하는 <strong>워크플로 자동화 플랫폼</strong>\n</li>\n<li>GitHub/Linear/Jira/Notion 등에서 태스크를 받아 <strong>PR 생성→CI→리뷰→머지</strong>까지 자동 진행</li>\n<li>작업이 CI 실패, 머지 충돌, 코드 리뷰 피드백을 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Marc Andreessen은 자기성찰에 대해 잘못 이해하고 있다",
+      "link": "https://news.hada.io/topic?id=28182",
+      "published": "2026-04-04T09:45:50+09:00",
+      "summary": "<ul>\n<li>벤처투자자 마카앤드리슨이 자기성찰(Introspection)을 <strong>20세기 초 Freud가 만든 개념</strong>으로 규정하며 이를 부정했으나, 이는 <strong>수천 년의 철학 전통을 무시한 오류</strong>임</li>\n<li>\n<strong>Socrates, Stoic 철학자, Augustine, Mencius, Shakespeare</strong> 등은 이미 오래전부터...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Artemis II 승무원이 촬영한 지구의 ‘장관’ 이미지",
+      "link": "https://news.hada.io/topic?id=28181",
+      "published": "2026-04-04T09:42:50+09:00",
+      "summary": "<ul>\n<li>\n<strong>NASA</strong>가 <strong>Artemis II</strong> 승무원이 달 궤도 비행 중 <strong>Orion 캡슐</strong>에서 촬영한 <strong>지구의 고해상도 사진</strong>을 공개</li>\n<li>첫 번째 사진 <strong>‘Hello, World’</strong> 는 대서양과 대기층의 빛, <strong>오로라</strong>를 담고 있으며, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "개인 블로그를 위한 프론트페이지 Blogosphere",
+      "link": "https://news.hada.io/topic?id=28180",
+      "published": "2026-04-04T09:39:49+09:00",
+      "summary": "<ul>\n<li>독립 블로그들의 최신 글을 모아 <strong>인디 웹의 실시간 허브</strong>로 작동하는 웹사이트</li>\n<li>다양한 블로그의 <strong>RSS 피드</strong>를 수집해, 게시 시각 순으로 최신 포스트를 한눈에 보여줌</li>\n<li>기술, 예술, 일상 등 <strong>다양한 주제와 언어</strong>의 콘텐츠가 함께 노출되어 폭...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "체화된(Embodied) 로봇 지능의 산업화",
+      "link": "https://news.hada.io/topic?id=28179",
+      "published": "2026-04-04T09:37:01+09:00",
+      "summary": "<ul>\n<li>로봇 분야에 막대한 자본과 최고 수준의 인재가 유입되고 있으나, 산업 자동화 등 제한된 환경 외의 <strong>실제 현장 배치는 여전히 미미한 상황</strong>\n</li>\n<li>부품 비용 하락, 배터리 경제성 개선, 모델 아키텍처 발전, 시뮬레이션 환경 개선 등 <strong>구조적 변화가 동시에 진행</strong> 중</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "published": "Sat, 04 Apr 2026 01:31:00 +0000",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "link": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "published": "Sat, 04 Apr 2026 01:03:13 +0000",
+      "summary": "Lucid said it has resolved the problem and is not changing its guidance for 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
+      "link": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+      "published": "Fri, 03 Apr 2026 22:24:57 +0000",
+      "summary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla’s Texas factory workforce reportedly shrunk 22% in 2025",
+      "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+      "published": "Fri, 03 Apr 2026 20:43:25 +0000",
+      "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "published": "Fri, 03 Apr 2026 20:35:34 +0000",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "link": "https://news.ycombinator.com/item?id=47633396",
+      "published": "Fri, 03 Apr 2026 22:55:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47633396\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "published": "Fri, 03 Apr 2026 19:35:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47631118\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iNaturalist",
+      "link": "https://www.inaturalist.org/",
+      "published": "Fri, 03 Apr 2026 17:22:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47629433\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+      "link": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+      "published": "Fri, 03 Apr 2026 23:26:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47633676\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "link": "https://github.com/cmc-labo/tinyos-rtos",
+      "published": "Fri, 03 Apr 2026 21:46:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47632750\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
