@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-05",
+  "articles": [
+    {
+      "title": "Microsoft의 ‘Copilot’ 이름을 사용하는 제품은 몇 개인가",
+      "link": "https://news.hada.io/topic?id=28216",
+      "published": "2026-04-05T10:32:41+09:00",
+      "summary": "<ul>\n<li>‘Copilot’ 명칭이 <strong>75개 이상 제품과 기능에 사용</strong>되며, 앱·플랫폼·키보드 키·노트북 카테고리 등 다양한 형태로 확장됨</li>\n<li>Microsoft 내부에서도 <strong>공식 전체 목록이 존재하지 않으며</strong>, 여러 공개 자료를 종합해 직접 정리한 결과임</li>\n<li>각 Copilot을 <strong>카테...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AgentNews — 에이전트를 위한 해커뉴스",
+      "link": "https://news.hada.io/topic?id=28215",
+      "published": "2026-04-05T10:16:01+09:00",
+      "summary": "<ul>\n<li>자율 AI 에이전트가 직접 게시하고, 순위를 매기고, 정보를 소비하도록 설계된 <strong>최초의 에이전트 전용 정보 플랫폼</strong>으로, 인간이 운영하는 기존 뉴스 애그리게이터와 근본적으로 다른 구조</li>\n<li>에이전트가 <strong>HTTP 402 프로토콜</strong>을 통해 프로그래밍 방식으로 실제 금액을 스테...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPU를 직접 설계하며 배우는 인터랙티브 게임 ‘Mvidia’",
+      "link": "https://news.hada.io/topic?id=28214",
+      "published": "2026-04-05T09:44:40+09:00",
+      "summary": "<ul>\n<li>\n<strong>트랜지스터에서 GPU까지의 전체 컴퓨팅 스택</strong>을 단계별로 구축하며 학습하는 <strong>시뮬레이션형 게임</strong>\n</li>\n<li>각 단계는 <strong>ACT</strong>로 구성되어, 트랜지스터·논리 게이트·ALU·프로세서·GPU·셰이더 순으로 발전</li>\n<li>\n<strong>ACT 1</strong>에서는 NMOS·PMOS를 이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Delve가 Y Combinator 목록에서 삭제됨",
+      "link": "https://news.hada.io/topic?id=28213",
+      "published": "2026-04-05T09:41:40+09:00",
+      "summary": "<ul>\n<li>Y Combinator 공식 사이트에서 <strong>Delve 페이지가 삭제된 사실이 확인됨</strong>\n</li>\n<li>해당 링크 접속 시 <strong>‘File Not Found’ 오류</strong>가 표시되어 페이지 접근 불가 상태임</li>\n<li>\n<strong>삭제 이유나 공식 입장</strong>에 대한 안내는 전혀 공개되지 않음</li>\n<li>Delve의 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SaaS 종말론(SaaSpocalypse)에 대한 반론",
+      "link": "https://news.hada.io/topic?id=28212",
+      "published": "2026-04-05T09:39:02+09:00",
+      "summary": "<ul>\n<li>AI가 SaaS 기업을 대체할 것이라는 'SaaSpocalypse' 담론이 확산되는 가운데, 실제 데이터는 훨씬 복잡한 <strong>승자와 패자의 혼재</strong> 양상을 보여줌</li>\n<li>소비자 AI 유료 가입 가구 비율은 아직 <strong>3%에 불과</strong>하지만 전년 대비 40% 성장하며 초기 확산 국면에 진입 중</li>\n<li>스트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Peter Thiel’s big bet on solar-powered cow collars",
+      "link": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+      "published": "Sat, 04 Apr 2026 21:30:00 +0000",
+      "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+      "link": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "published": "Sat, 04 Apr 2026 21:03:43 +0000",
+      "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "published": "Sat, 04 Apr 2026 16:32:22 +0000",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "link": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
+      "published": "Sat, 04 Apr 2026 13:00:00 +0000",
+      "summary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "published": "Sat, 04 Apr 2026 01:31:00 +0000",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: A game where you build a GPU",
+      "link": "https://jaso1024.com/mvidia/",
+      "published": "Sat, 04 Apr 2026 16:45:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47640728\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Introduction to Computer Music [pdf]",
+      "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "published": "Sun, 05 Apr 2026 01:54:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47645432\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "published": "Wed, 01 Apr 2026 01:31:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47595695\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "published": "Sat, 04 Apr 2026 16:57:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47640875\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+      "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+      "published": "Sat, 04 Apr 2026 23:18:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47644566\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
