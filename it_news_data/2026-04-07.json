@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-07",
+  "articles": [
+    {
+      "title": "고용주들이 개인 데이터를 이용해 지원자가 수락할 최저 연봉을 계산함",
+      "link": "https://news.hada.io/topic?id=28276",
+      "published": "2026-04-07T09:58:44+09:00",
+      "summary": "<ul>\n<li>기업들이 <strong>지원자의 개인 정보와 온라인 데이터</strong>를 분석해 제시 가능한 <strong>최저 급여 수준</strong>을 산출</li>\n<li>데이터에는 <strong>이전 직장 급여, 거주지, 소비 패턴, 온라인 활동</strong> 등이 포함됨</li>\n<li>이러한 분석은 <strong>채용 과정의 협상력 불균형</strong>을 심화...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vibe Coding의 광신적 문화는 과도한 Dogfooding의 결과",
+      "link": "https://news.hada.io/topic?id=28275",
+      "published": "2026-04-07T09:55:44+09:00",
+      "summary": "<ul>\n<li>\n<strong>Claude 코드 유출</strong> 이후 드러난 낮은 품질의 원인은 <strong>내부 검증 없이 AI 대화만으로 개발하는 ‘vibe coding’ 문화</strong>로 지적됨</li>\n<li>개발자들이 코드를 직접 확인하지 않고 <strong>AI가 알아서 하게 두는 비합리적 방식</strong>을 따르며, 중복된 에이전트와 도구가 방치...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프랑스, 미국에 보관 중이던 마지막 금 회수",
+      "link": "https://news.hada.io/topic?id=28274",
+      "published": "2026-04-07T09:52:44+09:00",
+      "summary": "<ul>\n<li>프랑스 중앙은행이 뉴욕 연방준비은행에 보관 중이던 <strong>129톤의 금</strong>을 회수해 파리 금고로 이전함</li>\n<li>회수된 금은 프랑스 전체 금 보유량의 약 <strong>5%</strong> 로, 1920년대 후반부터 미국에 예치된 마지막 잔여분임</li>\n<li>금괴를 직접 운송하지 않고 <strong>미국 보유분을 매각 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sam Altman이 우리의 미래를 통제할지도 모른다 – 그를 신뢰할 수 있을까?",
+      "link": "https://news.hada.io/topic?id=28273",
+      "published": "2026-04-07T09:49:44+09:00",
+      "summary": "<ul>\n<li>OpenAI CEO <strong>Sam Altman</strong>은 내부 갈등과 해임 사태를 거쳐 복귀했으며, 이후에도 <strong>기만적 행태와 권력 집중</strong> 논란이 이어짐</li>\n<li>그는 <strong>AI 인프라 확장과 정부 계약, 군사·감시 시스템 표준화</strong>까지 영향력을 넓히며, OpenAI를 <strong>1조 달러 규모 기업</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code, 2월 업데이트 이후 복잡한 엔지니어링 작업에서 사용 불가 수준으로 품질 저하",
+      "link": "https://news.hada.io/topic?id=28272",
+      "published": "2026-04-07T09:46:44+09:00",
+      "summary": "<ul>\n<li>클로드 코드가 2월 업데이트 후 <strong>지시를 무시하거나 반대로 수행</strong> 또는 <strong>작업을 완료하지 않고 완료했다고 주장</strong>하는 등 <strong>복잡한 엔지니어링 작업 실패</strong> 현상이 다수 보고됨</li>\n<li>저하의 핵심 원인으로 <strong><code>redact-thinking-2026-02-12</code> 배포...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published": "Mon, 06 Apr 2026 21:54:26 +0000",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gas prices aren’t the only factor fueling used EV sales",
+      "link": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+      "published": "Mon, 06 Apr 2026 21:15:09 +0000",
+      "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published": "Mon, 06 Apr 2026 18:54:33 +0000",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netflix is expanding into kids’ games with a new stand-alone app",
+      "link": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
+      "published": "Mon, 06 Apr 2026 18:21:49 +0000",
+      "summary": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
+      "link": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
+      "published": "Mon, 06 Apr 2026 18:17:23 +0000",
+      "summary": "The NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident and that no incidents resulted in injury. Tesla has also issued a number of software updates.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netflix Void Model: Video Object and Interaction Deletion",
+      "link": "https://github.com/Netflix/void-model",
+      "published": "Fri, 03 Apr 2026 15:38:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47627998\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Solod – A Subset of Go That Translates to C",
+      "link": "https://github.com/solod-dev/solod",
+      "published": "Tue, 07 Apr 2026 00:48:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47669337\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "link": "https://github.com/matthartman/ghost-pepper",
+      "published": "Mon, 06 Apr 2026 19:50:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47666024\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "link": "https://www.freestyle.sh/",
+      "published": "Mon, 06 Apr 2026 16:32:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47663147\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "link": "https://words.filippo.io/crqc-timeline/",
+      "published": "Mon, 06 Apr 2026 15:31:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47662234\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
