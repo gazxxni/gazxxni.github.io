@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-08",
+  "articles": [
+    {
+      "title": "코드 에이전트 오케스트라 - 멀티 에이전트 코딩을 제대로 작동시키는 법",
+      "link": "https://news.hada.io/topic?id=28303",
+      "published": "2026-04-08T10:05:02+09:00",
+      "summary": "<ul>\n<li>단일 AI 어시스턴트와 동기적 루프로 협업하던 방식에서, 여러 에이전트가 각자의 <strong>컨텍스트 윈도우와 파일 범위</strong>를 가지고 비동기적으로 동작하는 오케스트레이터 모델로의 전환이 2026년 현재 진행 중</li>\n<li>서브에이전트(Subagents), <strong>에이전트 팀(Agent Teams)</strong>, 계층적 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이제 Google Vids Screen Recorder Chrome 확장으로 직접 화면 녹화 가능",
+      "link": "https://news.hada.io/topic?id=28302",
+      "published": "2026-04-08T09:58:01+09:00",
+      "summary": "<ul>\n<li>Chrome 확장 프로그램 하나로 <strong>별도 앱 없이 브라우저 어느 탭에서나</strong> 클릭 한 번으로 화면 녹화를 시작할 수 있는 기능이 Google Vids에 추가됨</li>\n<li>이번 업데이트는 화면 녹화 확장 외에도 <strong>Veo 3.1 기반 영상 생성, Lyria 3 기반 커스텀 음악, AI 아바타</strong> 등 대규모 AI ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프롬프트에서 하네스까지 - AI 에이전틱 패턴 4년의 기록",
+      "link": "https://news.hada.io/topic?id=28301",
+      "published": "2026-04-08T09:46:01+09:00",
+      "summary": "<ul>\n<li>2022~2026년, AI 개발 패러다임이 세 번 전환됨: <strong>Prompt Engineering → Context Engineering → Harness Engineering</strong>\n</li>\n<li>각 전환은 이전 패러다임이 약속을 지키지 못한 실패에서 비롯되었으며, <strong>엔지니어링의 엄밀함</strong>은 사라진 것이 아니라 프롬프트에서 컨텍스트로,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Mythos Preview 시스템 카드",
+      "link": "https://news.hada.io/topic?id=28300",
+      "published": "2026-04-08T09:45:15+09:00",
+      "summary": "<ul>\n<li>Anthropic이 개발한 <strong>Claude Mythos Preview</strong>는 이전 세대보다 <strong>추론·소프트웨어 엔지니어링·지식 작업</strong> 등에서 크게 향상된 <strong>대형 언어 모델</strong>임</li>\n<li>\n<strong>사이버보안 탐지와 방어 능력</strong>이 매우 강력해, <strong>공격적 활용 위험</strong> 때문...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "우린 이미 ‘Idiocracy’인가?",
+      "link": "https://news.hada.io/topic?id=28299",
+      "published": "2026-04-08T09:42:15+09:00",
+      "summary": "<ul>\n<li>2006년 영화 <strong>‘Idiocracy’</strong> 의 디스토피아적 미래와 현재 사회를 비교한 <strong>‘Idiocracy Proximity Index’</strong> 가 공개되어, 현실 유사도를 수치로 제시함</li>\n<li>정치, 기업, 교육, 과학, 환경, 문화 등 전 영역에서 영화 속 설정과 실제 사례를 나란히 배치해 <strong>평균 유...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "published": "Tue, 07 Apr 2026 21:35:02 +0000",
+      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "published": "Tue, 07 Apr 2026 21:24:54 +0000",
+      "summary": "Eclipse will put some of that money towards incubating, or building startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "published": "Tue, 07 Apr 2026 19:59:06 +0000",
+      "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "published": "Tue, 07 Apr 2026 18:46:55 +0000",
+      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Intel signs on to Elon Musk’s Terafab chips project",
+      "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "published": "Tue, 07 Apr 2026 18:10:01 +0000",
+      "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "link": "https://www.anthropic.com/glasswing",
+      "published": "Tue, 07 Apr 2026 18:09:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679121\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US and Iran agree to provisional ceasefire",
+      "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "published": "Tue, 07 Apr 2026 22:41:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47682276\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lunar Flyby",
+      "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "published": "Tue, 07 Apr 2026 15:03:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47676509\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "published": "Tue, 07 Apr 2026 18:18:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "link": "https://z.ai/blog/glm-5.1",
+      "published": "Tue, 07 Apr 2026 16:32:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47677853\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
