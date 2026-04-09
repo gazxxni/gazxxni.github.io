@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-09",
+  "articles": [
+    {
+      "title": "12,000톤의 오렌지 껍질이 예상치 못한 숲을 만든 이야기",
+      "link": "https://news.hada.io/topic?id=28322",
+      "published": "2026-04-09T06:32:40+09:00",
+      "summary": "<ul>\n<li>1990년대 코스타리카에서 버려진 <strong>12,000톤의 오렌지 껍질</strong>이 20년 후 <strong>무성한 숲으로 변한 생태 복원 사례</strong>로 확인됨</li>\n<li>\n<strong>프린스턴대 연구진</strong>이 황폐한 초지에 오렌지 껍질을 투기해 <strong>토양 회복과 생물량 증가</strong>를 유도한 실험이었음</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS에서 49.7일 후 TCP 네트워킹이 중단되는 버그 발견",
+      "link": "https://news.hada.io/topic?id=28321",
+      "published": "2026-04-09T06:29:49+09:00",
+      "summary": "<ul>\n<li>macOS의 <strong>TCP 타임스탬프 카운터(<code>tcp_now</code>)</strong> 가 부팅 후 약 49.7일이 지나면 32비트 오버플로로 인해 내부 <strong>TCP 시계가 정지</strong>함</li>\n<li>이로 인해 <strong>TIME_WAIT 상태의 연결이 만료되지 않고 누적</strong>되어 임시 포트가 해제되지 않음</li>\n<li>시간이 지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Mythos Preview의 사이버보안 능력 평가",
+      "link": "https://news.hada.io/topic?id=28320",
+      "published": "2026-04-09T05:34:06+09:00",
+      "summary": "<ul>\n<li>Anthropic의 <strong>Claude Mythos Preview</strong>는 제로데이 탐지, 익스플로잇 생성, 리버스 엔지니어링 등에서 <strong>기존 언어모델을 능가하는 보안 분석 성능</strong>을 보임</li>\n<li>OpenBSD·FFmpeg·FreeBSD 등에서 <strong>수십 년간 미발견된 취약점</strong>을 자율적으로 찾아내고, 완전한 공...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모든 시대를 바꾼 GPU의 30년 연대기",
+      "link": "https://news.hada.io/topic?id=28319",
+      "published": "2026-04-09T04:33:05+09:00",
+      "summary": "<ul>\n<li>1996년부터 2025년까지의 <strong>49종 GPU</strong>를 시대별로 정리해, 기술 발전과 시장 변화를 시각화한 데이터 스토리</li>\n<li>각 세대는 <strong>트랜지스터 수·소비전력·가격·대표 게임</strong>을 기준으로 구분되며, GPU의 진화 흐름을 한눈에 보여줌</li>\n<li>\n<strong>Voodoo Graphics</strong>에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cloudflare에서 Bunny.net으로 전환",
+      "link": "https://news.hada.io/topic?id=28318",
+      "published": "2026-04-09T00:32:50+09:00",
+      "summary": "<ul>\n<li>중앙집중화된 <strong>Cloudflare 의존성</strong>을 줄이기 위해 개인 블로그를 <strong>bunny.net</strong>으로 이전한 사례</li>\n<li>\n<strong>bunny.net</strong>은 슬로베니아 기반의 <strong>유럽 CDN 서비스</strong>로, 전 세계적으로 빠른 성능과 효율적인 PoP 네트워크를 제공</li>\n<li>도메인 등록은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "published": "Wed, 08 Apr 2026 21:50:41 +0000",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "published": "Wed, 08 Apr 2026 21:19:07 +0000",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "published": "Wed, 08 Apr 2026 21:00:00 +0000",
+      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LittleSnitch for Linux",
+      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "published": "Thu, 09 Apr 2026 00:26:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47697870\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "published": "Wed, 08 Apr 2026 15:40:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47691730\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "link": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "published": "Wed, 08 Apr 2026 19:23:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47695012\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Little Snitch for Linux – Because Nothing Else Came Close",
+      "link": "https://obdev.at/blog/little-snitch-for-linux/",
+      "published": "Thu, 09 Apr 2026 00:39:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47697952\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "link": "https://kalmanfilter.net",
+      "published": "Wed, 08 Apr 2026 17:11:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47693153\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
