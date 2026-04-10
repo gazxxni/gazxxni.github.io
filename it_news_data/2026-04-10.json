@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-10",
+  "articles": [
+    {
+      "title": "Microsoft가 사용자에게 유료 저장 공간 결제를 유도하기 위해 다크 패턴을 사용하고 있나?",
+      "link": "https://news.hada.io/topic?id=28374",
+      "published": "2026-04-10T10:51:19+09:00",
+      "summary": "<ul>\n<li>Outlook에서 <strong>저장 공간 부족 오류</strong>가 발생하며 이메일 수신이 중단되는 사례가 보고됨</li>\n<li>실제 원인은 <strong>Windows 11의 기본 설정이 데스크톱 파일을 OneDrive에 자동 동기화</strong>해 무료 5GB 한도를 초과한 것이었음</li>\n<li>오류 메시지는 문제 해결책으로 <strong>유료 저장...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Adam Back이 자신이 사토시 나카모토가 아닌 이유를 설명하다",
+      "link": "https://news.hada.io/topic?id=28373",
+      "published": "2026-04-10T10:45:02+09:00",
+      "summary": "<ul>\n<li>\n<strong>뉴욕타임스의 18개월 탐사보도</strong>가 영국 컴퓨터 과학자이자 Blockstream CEO인 Adam Back을 비트코인 창시자 Satoshi Nakamoto로 지목했으나, Back은 이를 즉각 부인</li>\n<li>AI를 활용한 <strong>문체 분석(stylometry)</strong> 에서 Back이 12명의 용의자 중 가장 근접한 일치를 보였으나,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 누구나 바로 이용 가능, 마이리얼트립 파트너 API &amp; MCP 서버 공개",
+      "link": "https://news.hada.io/topic?id=28372",
+      "published": "2026-04-10T10:40:44+09:00",
+      "summary": "<p>안녕하세요, 마이리얼트립 마케팅파트너 팀입니다.<br />\n마케팅파트너 팀은 그동안 여행 크리에이터 중심의 어필리에이트 생태계를 만들어왔습니다.<br />\n이제는 글/콘텐츠가 아닌 '서비스(코드)'가 가장 강력한 마케팅의 파트너가 될 것이라 생각했습니다.</p>\n<p>이 전환을 위해 사업팀이 직접 클로드 코드를 활용",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "FreeBSD 사용에 적합한 최고의 노트북들",
+      "link": "https://news.hada.io/topic?id=28371",
+      "published": "2026-04-10T10:02:05+09:00",
+      "summary": "<ul>\n<li>FreeBSD Foundation이 주요 <strong>노트북 모델의 하드웨어 호환성</strong>을 평가해 점수화한 결과를 공개</li>\n<li>\n<strong>Framework Laptop 시리즈</strong>, <strong>HP EliteBook 845 G7</strong>, <strong>Lenovo Yoga 11e</strong>, <strong>Acer Aspire A315-24PT</strong> 등이 <strong>8/8 완전 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Advisor 전략: Opus를 조언자로 활용해 Sonnet의 지능을 끌어올리기",
+      "link": "https://news.hada.io/topic?id=28370",
+      "published": "2026-04-10T09:51:01+09:00",
+      "summary": "<ul>\n<li>Claude Platform에서 <strong>어드바이저 전략</strong>이 공식 도입됨 — Opus를 어드바이저로, Sonnet 또는 Haiku를 실행자(executor)로 조합해 비용은 낮추면서 Opus 수준에 근접한 추론 능력을 에이전트에 적용하는 패턴</li>\n<li>Sonnet이 태스크를 단독 수행 시보다 Opus 어드바이저 결합 시 <strong>SWE...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "published": "Thu, 09 Apr 2026 22:13:26 +0000",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "published": "Thu, 09 Apr 2026 21:29:11 +0000",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "EFF is the latest organization to leave X",
+      "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+      "published": "Thu, 09 Apr 2026 21:26:18 +0000",
+      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What founders can learn from Anjuna’s layoffs and recovery",
+      "link": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+      "published": "Thu, 09 Apr 2026 21:17:30 +0000",
+      "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hyperg",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+      "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+      "published": "Thu, 09 Apr 2026 21:01:36 +0000",
+      "summary": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "published": "Thu, 09 Apr 2026 19:48:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47708818\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "published": "Thu, 09 Apr 2026 15:12:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47704804\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "link": "https://charcuterie.elastiq.ch/",
+      "published": "Thu, 09 Apr 2026 20:12:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47709158\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "link": "https://eaw.app/picoz80/",
+      "published": "Thu, 09 Apr 2026 18:53:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47708041\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "link": "https://github.com/aloshdenny/reverse-SynthID",
+      "published": "Thu, 09 Apr 2026 20:10:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47709130\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
