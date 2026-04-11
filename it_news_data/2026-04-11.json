@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-11",
+  "articles": [
+    {
+      "title": "WireGuard, Microsoft 서명 문제 해결 후 새 Windows 버전 공개",
+      "link": "https://news.hada.io/topic?id=28408",
+      "published": "2026-04-11T10:32:41+09:00",
+      "summary": "<ul>\n<li>\n<strong>WireGuardNT v0.11</strong>과 <strong>WireGuard for Windows v0.6</strong>이 공개되어 커널 드라이버와 관리 도구가 모두 최신화됨</li>\n<li>새 버전은 <strong>패킷 손실 없는 허용 IP 제거 처리</strong>, <strong>낮은 MTU 지원</strong>, <strong>버그 수정 및 성능 향상</strong>을 포함함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "일리노이주 AI 책임 제한 법안에 대한 OpenAI의 지지",
+      "link": "https://news.hada.io/topic?id=28406",
+      "published": "2026-04-11T09:56:47+09:00",
+      "summary": "<ul>\n<li>\n<strong>OpenAI</strong>가 일리노이주 상원 법안 <strong>SB 3444</strong>를 지지하며, AI 모델이 대규모 인명 피해나 막대한 재산 피해를 일으킨 경우에도 일정 조건하에 <strong>AI 연구소의 법적 책임을 제한</strong>하는 내용임\n<ul>\n<li>법안은 AI 모델이 100명 이상 사망 또는 중상, 혹은 10억 달러 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS의 Privacy &amp; Security 설정을 신뢰할 수 없는 이유",
+      "link": "https://news.hada.io/topic?id=28405",
+      "published": "2026-04-11T09:53:47+09:00",
+      "summary": "<ul>\n<li>macOS의 <strong>Privacy &amp; Security 설정이 실제 접근 권한 상태를 반영하지 못하는 문제</strong>가 확인됨</li>\n<li>Documents 폴더 접근이 차단된 상태에서도 <strong>Insent 앱이 여전히 파일을 읽을 수 있는 현상</strong>이 발생</li>\n<li>사용자가 폴더를 직접 선택하면 <strong>TCC 시스템이 이를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 여전히 Skills보다 MCP를 선호한다",
+      "link": "https://news.hada.io/topic?id=28404",
+      "published": "2026-04-11T09:50:47+09:00",
+      "summary": "<ul>\n<li>\n<strong>MCP</strong>는 LLM이 도구의 내부 구조를 몰라도 작업을 요청할 수 있는 <strong>API 추상화 기반 표준 인터페이스</strong>로, 원격 사용과 자동 업데이트를 지원함</li>\n<li>\n<strong>Zero-Install 구조</strong>, <strong>OAuth 인증</strong>, <strong>샌드박싱 보안</strong>을 통해 설치 부담과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프랑스, 미국 기술 의존 줄이기 위해 Windows 대신 Linux로 전환",
+      "link": "https://news.hada.io/topic?id=28403",
+      "published": "2026-04-11T09:47:47+09:00",
+      "summary": "<ul>\n<li>프랑스 정부가 <strong>Microsoft Windows를 사용하는 일부 공공 부문 컴퓨터를 Linux로 전환</strong>해 <strong>미국 기술 의존도를 줄이고 디지털 주권을 강화</strong>하려는 계획을 발표함</li>\n<li>전환은 정부 디지털 기관 <strong>DINUM</strong>에서 우선 시행되며, 구체적인 <strong>일정과 배포판 선...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+      "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "published": "Sat, 11 Apr 2026 00:44:17 +0000",
+      "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to watch NASA’s Artemis II splash back down to Earth",
+      "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+      "published": "Fri, 10 Apr 2026 21:18:09 +0000",
+      "summary": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "published": "Fri, 10 Apr 2026 20:27:52 +0000",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Battery recycler Ascend Elements files for bankruptcy",
+      "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+      "published": "Fri, 10 Apr 2026 19:16:52 +0000",
+      "summary": "Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "published": "Fri, 10 Apr 2026 16:41:34 +0000",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Filing the corners off my MacBooks",
+      "link": "https://kentwalters.com/posts/corners/",
+      "published": "Fri, 10 Apr 2026 22:16:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47724352\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Artemis II safely splashes down",
+      "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "published": "Sat, 11 Apr 2026 00:10:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47725583\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "published": "Fri, 10 Apr 2026 19:10:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47722333\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "1D Chess",
+      "link": "https://rowan441.github.io/1dchess/chess.html",
+      "published": "Fri, 10 Apr 2026 15:37:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47719740\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Installing Every* Firefox Extension",
+      "link": "https://jack.cab/blog/every-firefox-extension",
+      "published": "Fri, 10 Apr 2026 21:56:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47724118\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
