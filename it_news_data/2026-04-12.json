@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-12",
+  "articles": [
+    {
+      "title": "Show GN: OCR 번역기 - VLM 기반 윈도우용 rust/slint 앱",
+      "link": "https://news.hada.io/topic?id=28431",
+      "published": "2026-04-12T10:16:54+09:00",
+      "summary": "<p>rust/slint로 만든 윈도우용 OCR 번역기입니다.<br />\nVLM 기반으로 gemini와 로컬 모델을 지원합니다. (LM Studio, OpenAI compatible API등)<br />\n단축키, 오버레이, 텍스트 박스, 자동 재번역, 클립보드, 프롬프트 변경, 스타일 기능 등 다양한 기능을 지원합니다.<br />\n텍스트 박스 모드에서는 번역중인 화면 내...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta의 HyperAgents — 에이전트가 스스로 자신의 하네스를 설계할 때",
+      "link": "https://news.hada.io/topic?id=28430",
+      "published": "2026-04-12T10:02:02+09:00",
+      "summary": "<ul>\n<li>Meta와 UBC가 공동 발표한 <strong>HyperAgents</strong>는 작업 수행 코드뿐 아니라 개선 메커니즘 자체까지 스스로 수정하는 <strong>자기참조적 AI 에이전트</strong> 프레임워크</li>\n<li>코딩, 논문 리뷰, 로보틱스, 수학 채점 등 다양한 도메인에서 자기 개선을 반복한 결과, 에이전트가 <strong>영속 메...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "HyperAgents: Meta AI의 자기 개선 에이전트 프레임워크",
+      "link": "https://news.hada.io/topic?id=28429",
+      "published": "2026-04-12T10:01:02+09:00",
+      "summary": "<ul>\n<li>인간 엔지니어링 의존도를 줄이기 위해 <strong>자기 자신의 학습과 문제 해결 과정을 스스로 개선</strong>하는 자기 참조형 AI 에이전트 시스템으로, 기존 재귀적 자기 개선 방식의 고정된 메타 메커니즘 한계를 극복</li>\n<li>태스크 에이전트(목표 과제 수행)와 메타 에이전트(자기 자신과 태스크 에이전트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
+      "link": "https://news.hada.io/topic?id=28428",
+      "published": "2026-04-12T09:36:59+09:00",
+      "summary": "<ul>\n<li>Anthropic의 <strong>Claude Mythos</strong>가 대규모 제로데이 취약점을 자동 탐지한 이후, <strong>소형 오픈 모델들도 동일한 취약점 탐지에 성공</strong>\n</li>\n<li>\n<strong>3.6B~5.1B 파라미터급 모델</strong>이 FreeBSD·OpenBSD 버그를 재현하며, 일부는 Mythos와 다른 <strong>창의적 익스플로잇 경...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
+      "link": "https://news.hada.io/topic?id=28427",
+      "published": "2026-04-12T09:35:02+09:00",
+      "summary": "<ul>\n<li>장기 실행 에이전트를 위한 <strong>호스팅 서비스</strong> Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 <strong>인터페이스 기반 아키텍처</strong>를 채택</li>\n<li>하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kalshi wins temporary pause in Arizona criminal case",
+      "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+      "published": "Sat, 11 Apr 2026 21:20:24 +0000",
+      "summary": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "published": "Sat, 11 Apr 2026 20:32:23 +0000",
+      "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "published": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "published": "Sat, 11 Apr 2026 14:03:00 +0000",
+      "summary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+      "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "published": "Sat, 11 Apr 2026 00:44:17 +0000",
+      "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "published": "Sat, 11 Apr 2026 16:47:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The End of Eleventy",
+      "link": "https://brennan.day/the-end-of-eleventy/",
+      "published": "Sun, 12 Apr 2026 01:55:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47735535\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "published": "Sat, 11 Apr 2026 20:58:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733971\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "published": "Sat, 11 Apr 2026 19:15:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pijul a FOSS distributed version control system",
+      "link": "https://pijul.org/",
+      "published": "Tue, 07 Apr 2026 10:16:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47672941\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
