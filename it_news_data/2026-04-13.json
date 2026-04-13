@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-13",
+  "articles": [
+    {
+      "title": "Show GN: winclipshot: Windows 터미널에서 Ctrl+V로 스크린샷을 붙여넣을 수 있게 해주는 도구",
+      "link": "https://news.hada.io/topic?id=28472",
+      "published": "2026-04-13T10:36:37+09:00",
+      "summary": "<p>원래 제가 혼자 윈도우에서 Claude Code 쓸 때 사용하던 건데, 주위 분이 공유해달라고 하셔서 오픈소스로 간단하게 만들었습니다.</p>\n<p>Windows 터미널에서는 Ctrl+V로 스크린샷을 붙여넣을 수 없습니다. 터미널이 클립보드의 이미지 데이터를 처리할 수 없기 때문입니다.</p>\n<p>winclipshot은 클립보드 변경 이벤",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "게으름의 미덕을 잃는 위험",
+      "link": "https://news.hada.io/topic?id=28471",
+      "published": "2026-04-13T10:32:44+09:00",
+      "summary": "<ul>\n<li>프로그래밍에서의 <strong>게으름</strong>은 단순한 태만이 아니라, <strong>추상화와 단순함을 추구하는 지적 미덕</strong>으로 정의됨</li>\n<li>진정한 게으름은 <strong>문제를 깊이 숙고해 미래의 시간을 절약하는 과정</strong>이며, 이는 후대 개발자에게도 이익을 줌</li>\n<li>현대의 고수준 추상화와...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프런티어의 종말",
+      "link": "https://news.hada.io/topic?id=28470",
+      "published": "2026-04-13T10:27:03+09:00",
+      "summary": "<ul>\n<li>\n<strong>Anthropic의 Mythos 발표</strong>를 계기로, 인터넷이 더 이상 누구나 자유롭게 탐험할 수 있는 <strong>무허가적 창조 공간</strong>이 아니게 되었음</li>\n<li>\n<strong>노동과 지능이 자본으로 대체</strong>되며, 소수 기업이 <strong>AI 시대의 영구적 우위</strong>를 점하는 구조가 고착화되고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "rzweb - Rizin을 이용한 브라우저 기반 리버스 엔지니어링 플랫폼",
+      "link": "https://news.hada.io/topic?id=28469",
+      "published": "2026-04-13T10:16:02+09:00",
+      "summary": "<ul>\n<li>오픈소스 리버스 엔지니어링 프레임워크 <strong>Rizin</strong>의 기능을 웹에서 즉시 활용할 수 있는 경량 분석 도구</li>\n<li>설치나 서버 없이 <strong>바이너리 분석을 수행</strong> 가능</li>\n<li>모든 연산이 <strong>WebAssembly</strong>로 로컬에서 처리되어, 파일이 외부로 전송되지 않음</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "레바논의 대부분 도시와 마을이 Apple 지도에서 사라짐",
+      "link": "https://news.hada.io/topic?id=28468",
+      "published": "2026-04-13T10:05:08+09:00",
+      "summary": "<ul>\n<li>Apple 지도에서 <strong>레바논 지역의 다수 도시와 마을 이름이 표시되지 않는 문제</strong>가 발생</li>\n<li>사용자들은 <strong>지명 검색과 위치 탐색이 불가능하거나 제한되는 상황</strong>을 보고</li>\n<li>지도에는 <strong>일부 주요 도로와 경계선만 남아 있어 행정구역 파악이 어려운 상태</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "published": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "published": "Sun, 12 Apr 2026 17:02:20 +0000",
+      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "published": "Sun, 12 Apr 2026 16:06:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "Sun, 12 Apr 2026 15:07:08 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "published": "Sun, 12 Apr 2026 22:38:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47745284\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bring Back Idiomatic Design (2023)",
+      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "published": "Sun, 12 Apr 2026 12:21:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47738827\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DIY Soft Drinks",
+      "link": "https://blinry.org/diy-soft-drinks/",
+      "published": "Sun, 12 Apr 2026 16:38:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47741701\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "link": "https://boringbar.app/",
+      "published": "Sun, 12 Apr 2026 17:25:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47742200\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Perfectable Programming Language",
+      "link": "https://alok.github.io/lean-pages/perfectable-lean/",
+      "published": "Sun, 12 Apr 2026 21:11:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47744540\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
