@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-14",
+  "articles": [
+    {
+      "title": "damn-my-slow-kt - KT 인터넷 SLA 미달 자동 측정 &amp; 요금 감면 신청 도구",
+      "link": "https://news.hada.io/topic?id=28511",
+      "published": "2026-04-14T11:11:43+09:00",
+      "summary": "<ul>\n<li>KT의 SLA(최저속도 보장제도)를 활용해 매일 자동으로 속도를 측정하고, 계약 속도의 50% 미만일 경우 자동으로 이의신청까지 대행</li>\n<li>KT는 <strong>매일 측정해야 매일 감면</strong>되는 구조라, 30일 연속 미달이면 당월 요금 전액 감면까지 가능한 점을 겨냥</li>\n<li>하루 최대 10회 (2시간 간격) 측...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemma 4를 Codex CLI에서 로컬 모델로 실행한 실험",
+      "link": "https://news.hada.io/topic?id=28510",
+      "published": "2026-04-14T11:03:07+09:00",
+      "summary": "<ul>\n<li><strong>Gemma 4</strong>를 클라우드 대신 <strong>로컬 Codex CLI 환경</strong>에서 실행해 도구 호출 성능과 안정성을 검증한 사례로, GPT-5.4 대비 <strong>비용·프라이버시 이점</strong>을 확인</li>\n<li><strong>Mac(M4 Pro)</strong> 과 <strong>NVIDIA GB10</strong> 두 환경에서 각각 <strong>llama...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2026년 홈랩 현황",
+      "link": "https://news.hada.io/topic?id=28509",
+      "published": "2026-04-14T10:41:28+09:00",
+      "summary": "<ul>\n<li>개인 인프라를 <strong>OrangePI 5</strong>에서 시작해 <strong>GMKTec NUC</strong>으로 확장하며, <strong>Docker 기반 서비스</strong>와 <strong>Cloudflare Tunnel</strong> 중심으로 구성</li>\n<li>모든 구성은 <strong>Ansible</strong>과 <strong>SOPS</strong>로 자동화되어 있으며, <strong>Traefik...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub Stacked PRs",
+      "link": "https://news.hada.io/topic?id=28508",
+      "published": "2026-04-14T10:41:26+09:00",
+      "summary": "<ul>\n<li>대규모 코드 변경을 <strong>작고 검토 가능한 PR 단위로 분할</strong>해 순차적으로 관리할 수 있게 하는 GitHub의 새로운 기능</li>\n<li>각 PR은 독립적으로 리뷰되며, 전체 스택은 <strong>한 번의 클릭으로 병합</strong>할 수 있음</li>\n<li>GitHub UI와 <code>gh stack</code> CLI를 통해 <strong>스택 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "당신의 스타트업은 이미 사망 선고를 받았을 수 있다",
+      "link": "https://news.hada.io/topic?id=28507",
+      "published": "2026-04-14T10:41:24+09:00",
+      "summary": "<ul>\n<li>2년 이상 된 스타트업 대부분은 AI 시대의 급변하는 환경 속에서 <strong>사업 계획과 기술 스택이 구식</strong>이 되었을 가능성이 높으며, 즉시 현황을 점검해야 함</li>\n<li>2025년 기준 VC 투자금의 <strong>3분의 2가 AI 관련 딜</strong>에 집중되면서, 비AI 스타트업은 점점 줄어드는 자금 풀을 놓고 경...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "published": "Tue, 14 Apr 2026 00:26:18 +0000",
+      "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+      "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+      "published": "Mon, 13 Apr 2026 21:11:58 +0000",
+      "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft is officially killing its Outlook Lite app next month",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+      "published": "Mon, 13 Apr 2026 20:59:12 +0000",
+      "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "published": "Mon, 13 Apr 2026 20:20:47 +0000",
+      "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "published": "Mon, 13 Apr 2026 17:54:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47755629\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "published": "Mon, 13 Apr 2026 20:36:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lean proved this program correct; then I found a bug",
+      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "published": "Tue, 14 Apr 2026 00:25:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47759709\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "link": "https://github.com/fabienmillet/WiiFin",
+      "published": "Mon, 13 Apr 2026 23:33:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47759341\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published": "Mon, 13 Apr 2026 15:31:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
