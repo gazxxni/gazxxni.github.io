@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-15",
+  "articles": [
+    {
+      "title": "완전히 재작성된 Claude Code 데스크탑 앱 공개",
+      "link": "https://news.hada.io/topic?id=28536",
+      "published": "2026-04-15T10:31:02+09:00",
+      "summary": "<ul>\n<li>한개의 창에서 멀티 클로드 세션을 실행하며, 사이드 바에서 관리 가능</li>\n<li>통합 터미널, 내장 파일 편집, HTML/PDF 프리뷰, 빠른 diff 뷰어, SSH 연결 기능 등을 포함</li>\n<li>드래그앤-드롭으로 레이아웃 조정 가능</li>\n<li>CLI 플러그인들도 코맨드 라인에서와 똑같이 동작</li>\n</ul>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flock Safety의 개인정보 수집 거부 요청과 회사의 대응",
+      "link": "https://news.hada.io/topic?id=28535",
+      "published": "2026-04-15T09:52:37+09:00",
+      "summary": "<ul>\n<li>캘리포니아 거주자가 <strong>Flock Safety</strong>에 본인과 가족, 차량 관련 <strong>개인정보 삭제 및 수집 금지 요청</strong>을 제출함</li>\n<li>회사는 자신이 <strong>데이터 처리자(Processor)</strong> 일 뿐이며, 데이터의 통제권은 <strong>고객 기관</strong>에 있다고 밝히며 요청을 거부함</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "jj – Jujutsu용 CLI",
+      "link": "https://news.hada.io/topic?id=28534",
+      "published": "2026-04-15T09:49:37+09:00",
+      "summary": "<ul>\n<li><strong>Jujutsu의 명령줄 인터페이스</strong>인 <code>jj</code>는 <strong>분산 버전 관리 시스템(DVCS)</strong> 기반 도구</li>\n<li><strong><code>git</code>보다 단순하고 직관적이면서도 더 강력한 기능</strong>을 제공</li>\n<li><strong><code>git</code>과 Mercurial의 장점을 결합</strong>해 핵심...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code Routines 공개",
+      "link": "https://news.hada.io/topic?id=28533",
+      "published": "2026-04-15T09:48:55+09:00",
+      "summary": "<ul>\n<li>일정, API 호출, GitHub 이벤트에 따라 자동 실행되는 <strong>클라우드 기반 코드 자동화 기능</strong>으로, Anthropic 인프라에서 동작</li>\n<li>루틴은 <strong>프롬프트, 저장소, 커넥터, 트리거</strong>로 구성되며, 노트북이 꺼져 있어도 실행 지속</li>\n<li>트리거는 <strong>스케줄, API, GitHub 이벤...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "희귀 콘서트 녹음 수천 건, Internet Archive에 공개",
+      "link": "https://news.hada.io/topic?id=28532",
+      "published": "2026-04-15T09:46:37+09:00",
+      "summary": "<ul>\n<li>1980년대부터 콘서트를 직접 녹음해온 <strong>음악 팬 Aadam Jacobs</strong>가 보유한 1만여 개의 카세트 테이프가 <strong>Internet Archive</strong>를 통해 디지털화됨</li>\n<li>현재 약 <strong>2,500개의 공연 녹음본</strong>이 업로드되어 있으며, <strong>1989년 Nirvana 공연</strong>을 비롯해 Son...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "published": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "published": "Tue, 14 Apr 2026 21:33:38 +0000",
+      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
+      "link": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "published": "Tue, 14 Apr 2026 18:31:34 +0000",
+      "summary": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "published": "Tue, 14 Apr 2026 18:09:12 +0000",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
+      "link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
+      "published": "Tue, 14 Apr 2026 18:00:09 +0000",
+      "summary": "Waymo's commercial service will eventually follow testing if the U.K. government approves.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stop Flock",
+      "link": "https://stopflock.com",
+      "published": "Tue, 14 Apr 2026 21:56:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47772012\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code Routines",
+      "link": "https://code.claude.com/docs/en/routines",
+      "published": "Tue, 14 Apr 2026 16:54:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47768133\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "published": "Tue, 14 Apr 2026 13:46:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47765604\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Orange Pi 6 Plus",
+      "link": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "published": "Sat, 11 Apr 2026 17:48:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47732535\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fuck the cloud (2009)",
+      "link": "https://ascii.textfiles.com/archives/1717",
+      "published": "Tue, 14 Apr 2026 22:00:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47772048\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
