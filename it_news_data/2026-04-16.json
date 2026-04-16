@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-16",
+  "articles": [
+    {
+      "title": "오픈소스 HWP/HWPX 처리 도구 목록",
+      "link": "https://news.hada.io/topic?id=28582",
+      "published": "2026-04-16T11:11:35+09:00",
+      "summary": "<p>위키피디아는 무언가를 소개하고 광고하는 광고판은 아닙니다. 하지만 단기간에 라이브러리가 쏟아져 나왔다는 것은 시대를 정의할 수 있는 하나의 현상으로 볼 수도 있을 것 같았습니다.</p>\n<p>그래서 지금의 이 현상을 문서로 기록하고, 지금까지 나온 HWP/HWPX 오픈소스 도구를 정리하여 미디어위키에 올려보았습",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 에이전트 스킬, 벤치마크 성능의 절반도 현실에서 안 나온다",
+      "link": "https://news.hada.io/topic?id=28581",
+      "published": "2026-04-16T11:07:47+09:00",
+      "summary": "<p>UC Santa Barbara, MIT CSAIL, MIT-IBM Watson AI Lab 연구팀이 <strong>AI 에이전트의 스킬 활용 능력</strong>을 현실적으로 평가한 연구 결과입니다.</p>\n<p>연구팀은 오픈소스에서 <strong>34,198개</strong>의 스킬(워크플로, API 사용법, 모범 사례 등 구조화된 지식)을 수집해 테스트했습니다. 기존 벤치마크(",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS용 Gemini 앱 출시",
+      "link": "https://news.hada.io/topic?id=28580",
+      "published": "2026-04-16T11:02:02+09:00",
+      "summary": "<ul>\n<li>swift로 개발된 <strong>맥 네이티브 앱</strong>, <strong>Option + Space</strong> 단축키로 미니 채팅창 호출 지원</li>\n<li>현재 열려 있는 창을 선택해서 Gemini에 공유하면 &quot;문서, 코드, 데이터&quot;등의 <strong>컨텍스트 기반 답변</strong>을 바로 제공</li>\n<li><strong>Nano Banana</strong>로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Project Think: Cloudflare에서 차세대 AI 에이전트 구축하기",
+      "link": "https://news.hada.io/topic?id=28579",
+      "published": "2026-04-16T10:52:02+09:00",
+      "summary": "<ul>\n<li>Cloudflare가 <strong>Agents SDK</strong>의 차세대 버전인 Project Think를 발표하며, 장기 실행 에이전트를 위한 내구적 실행·서브 에이전트·샌드박스 코드 실행·영속 세션 등 새로운 핵심 프리미티브를 제공</li>\n<li>기존 코딩 에이전트들은 로컬 노트북에서만 실행되고, 유휴 상태에서도 비용이 발생하며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Agents SDK의 차세대 진화",
+      "link": "https://news.hada.io/topic?id=28578",
+      "published": "2026-04-16T10:38:02+09:00",
+      "summary": "<ul>\n<li>OpenAI가 <strong>Agents SDK</strong>를 대폭 업데이트하여, 에이전트가 파일 검사·명령 실행·코드 편집·장기 작업을 <strong>제어된 샌드박스 환경</strong>에서 수행할 수 있는 표준화된 인프라 제공</li>\n<li>새 하니스(harness)는 <strong>구성 가능한 메모리</strong>, 샌드박스 인식 오케스트레이션, Co...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+      "published": "Wed, 15 Apr 2026 22:44:26 +0000",
+      "summary": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ford EV and tech chief leaving automaker",
+      "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "published": "Wed, 15 Apr 2026 21:52:05 +0000",
+      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Wait, could they still actually break up Live Nation?",
+      "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "published": "Wed, 15 Apr 2026 21:38:09 +0000",
+      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
+      "link": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+      "published": "Wed, 15 Apr 2026 21:05:21 +0000",
+      "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "published": "Wed, 15 Apr 2026 19:28:36 +0000",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cybersecurity looks like proof of work now",
+      "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "published": "Tue, 14 Apr 2026 18:08:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Arguing with Agents",
+      "link": "https://blowmage.com/2026/04/14/arguing-with-agents/",
+      "published": "Thu, 16 Apr 2026 02:13:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47787854\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I made a terminal pager",
+      "link": "https://theleo.zone/posts/pager/",
+      "published": "Wed, 15 Apr 2026 22:27:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google broke its promise to me – now ICE has my data",
+      "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "published": "Wed, 15 Apr 2026 17:44:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cal.com is going closed source",
+      "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "published": "Wed, 15 Apr 2026 15:26:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
