@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-18",
+  "articles": [
+    {
+      "title": "미국 법안, 모든 기기에 온디바이스 연령 확인 의무화",
+      "link": "https://news.hada.io/topic?id=28648",
+      "published": "2026-04-18T09:40:57+09:00",
+      "summary": "<ul>\n<li><strong>Parents Decide Act(H.R. 8250)</strong> 는 모든 <strong>운영체제 제공자</strong>가 신규 기기 설정 시 사용자 <strong>생년월일 입력을 요구</strong>하도록 의무화함</li>\n<li><strong>Apple·Google</strong>뿐 아니라 <strong>노트북, 콘솔, 스마트 TV, 차량 시스템</strong> 등 모든 범용 컴퓨팅...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "정밀 위치정보 판매 금지",
+      "link": "https://news.hada.io/topic?id=28647",
+      "published": "2026-04-18T09:37:57+09:00",
+      "summary": "<ul>\n<li>미국 광고기술 기반 감시 시스템 <strong>Webloc</strong>이 전 세계 최대 5억 대의 모바일 기기에서 <strong>정밀 위치데이터</strong>를 수집·판매하고 있음</li>\n<li>이 데이터는 <strong>기기 식별자, 좌표, 앱 프로필</strong>을 포함하며, <strong>미국 경찰·군·연방기관</strong> 등 다양한 정부 조직이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아이작 아시모프: 마지막 질문 (1956)",
+      "link": "https://news.hada.io/topic?id=28646",
+      "published": "2026-04-18T09:34:57+09:00",
+      "summary": "<ul>\n<li>인류는 <strong>태양 에너지 변환 기술</strong>을 완성하고, 거대 컴퓨터 <strong>Multivac</strong>의 도움으로 문명을 확장하며 <strong>엔트로피를 되돌릴 수 있는가</strong>를 묻기 시작함</li>\n<li>세대를 거듭하며 인류는 <strong>Microvac</strong>을 통해 행성 간 이주를 일상화하고, 우주의 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemma Gem - 브라우저에서 Google Gemma 4 모델을 완전 온디바이스로 실행하는 Chrome 확장",
+      "link": "https://news.hada.io/topic?id=28645",
+      "published": "2026-04-18T09:31:02+09:00",
+      "summary": "<ul>\n<li>Google의 <strong>Gemma 4 모델</strong>을 <strong>WebGPU</strong> 기반으로 완전 온디바이스 실행해서 브라우저 안에 상주하는 <strong>개인 AI 어시스턴트</strong>로 활용</li>\n<li><strong>API 키·클라우드·외부 데이터 전송 없음</strong> - 모든 추론이 로컬에서 처리되며 데이터가 기기를 벗어나지 않...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Postgres 큐를 건강하게 유지하기",
+      "link": "https://news.hada.io/topic?id=28644",
+      "published": "2026-04-18T08:00:07+09:00",
+      "summary": "<ul>\n<li>Postgres에서 <strong>job queue</strong>를 운영할 때 발생하는 고질적 문제인 <strong>dead tuple 누적</strong>과 이에 따른 <strong>테이블 bloat</strong>, 성능 저하의 원인과 해결 방법 정리</li>\n<li>큐 테이블은 대부분의 행이 <strong>삽입-읽기-삭제</strong>로 짧게 순환되므로 크기는 일정하지만 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "published": "Fri, 17 Apr 2026 22:34:02 +0000",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "published": "Fri, 17 Apr 2026 20:38:17 +0000",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "published": "Fri, 17 Apr 2026 20:16:13 +0000",
+      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "published": "Fri, 17 Apr 2026 19:17:26 +0000",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Design",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "Fri, 17 Apr 2026 15:04:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47806725\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A simplified model of Fil-C",
+      "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "published": "Fri, 17 Apr 2026 21:38:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47810872\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "published": "Fri, 17 Apr 2026 18:17:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47808913\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "link": "https://www.nature.com/articles/d41586-026-01204-5",
+      "published": "Fri, 17 Apr 2026 22:30:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47811283\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "published": "Fri, 17 Apr 2026 15:29:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47807006\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
