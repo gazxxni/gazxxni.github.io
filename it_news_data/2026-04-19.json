@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-19",
+  "articles": [
+    {
+      "title": "Show GN: Paperclip + Gastown에서 영감을 받은, “영구기관” 컨셉의 오픈소스 AI 에이전트 프레임워크",
+      "link": "https://news.hada.io/topic?id=28676",
+      "published": "2026-04-19T10:34:01+09:00",
+      "summary": "<p>안녕하세요,</p>\n<p>Paperclip과 Gastown에서 영감을 받아, 토큰만 있으면 AI가 스스로 일을 이어가며 제품을 키워나가는 “영구기관(perpetual engine)” 컨셉의 오픈소스 에이전트 프레임워크를 만들었습니다.</p>\n<p>핵심 아이디어는 단순합니다:<br />\nAI를 단발성 호출이 아니라, 지속적으로 작동하는 시스템으로",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "분리된 구간 집합 위에서 계산하는 계산기",
+      "link": "https://news.hada.io/topic?id=28675",
+      "published": "2026-04-19T10:01:14+09:00",
+      "summary": "<ul>\n<li><strong>분리된 구간들의 합집합</strong>을 입력으로 받아 사칙연산, 함수 호출, 거듭제곱까지 수행하며, <strong>interval union arithmetic</strong>를 브라우저에서 직접 계산 가능</li>\n<li>결과 구간은 입력 합집합에서 고른 값들로 같은 식을 실수 위에서 계산했을 때의 값을 <strong>반드시 포함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "일본 철도가 이렇게 뛰어난 이유",
+      "link": "https://news.hada.io/topic?id=28674",
+      "published": "2026-04-19T09:58:14+09:00",
+      "summary": "<ul>\n<li><strong>민간 소유</strong>와 <strong>다수 기업 경쟁</strong>이 함께 자리 잡으며, 철도 운영사들이 노선 운행뿐 아니라 도시 조성까지 묶어 수익과 수요를 함께 키운 구조</li>\n<li>철도회사는 주택·상업시설·오락시설·병원 같은 <strong>부대사업 포트폴리오</strong>를 철도축을 따라 구축했고, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kdenlive 현황",
+      "link": "https://news.hada.io/topic?id=28673",
+      "published": "2026-04-19T09:55:14+09:00",
+      "summary": "<ul>\n<li>연 3회의 <strong>KDE Gear 릴리스 주기</strong>에 맞춰 기능 추가와 유지보수를 이어가며, 2025년에는 기능 확장보다 <strong>안정성 우선</strong> 기조 유지</li>\n<li>25.04.0에서는 <strong>자동 마스킹 도구</strong>, C++ 라이브러리 기반 <strong>OpenTimelineIO 가져오기·내보내기</strong>, 오디오 파...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Opus 4.6과 Opus 4.7의 토큰 비용 계산기",
+      "link": "https://news.hada.io/topic?id=28672",
+      "published": "2026-04-19T09:52:14+09:00",
+      "summary": "<ul>\n<li><strong>Opus 4.7의 새 토크나이저</strong>로 인해 동일 프롬프트가 <strong>더 많은 토큰</strong>으로 집계되는 문제를 분석할 수 있는 계산 도구</li>\n<li>같은 입력이 콘텐츠 유형에 따라 <strong>1.0~1.35배</strong> 토큰으로 매핑되며, 단어를 바꾸지 않아도 <strong>요청당 비용 증가</strong></li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "published": "Sat, 18 Apr 2026 21:37:15 +0000",
+      "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the f",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "published": "Sat, 18 Apr 2026 20:00:00 +0000",
+      "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "published": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "published": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "published": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "published": "Sat, 18 Apr 2026 20:54:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47819453\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "link": "https://tokens.billchambers.me/leaderboard",
+      "published": "Sat, 18 Apr 2026 16:05:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47816960\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "link": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "published": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47791771\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "published": "Sat, 18 Apr 2026 19:00:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47818485\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "published": "Sat, 18 Apr 2026 16:26:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47817132\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
