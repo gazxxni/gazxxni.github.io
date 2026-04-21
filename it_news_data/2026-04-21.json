@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-21",
+  "articles": [
+    {
+      "title": "사우나가 심박수에 미치는 효과",
+      "link": "https://news.hada.io/topic?id=28741",
+      "published": "2026-04-21T10:14:53+09:00",
+      "summary": "<ul>\n<li>고온·건조 환경 노출은 <strong>심혈관계 자극</strong>과 함께 사우나 중 심박수 상승을 일으키고, 같은 날 밤에는 <strong>최저 심박수 감소</strong>로 이어짐</li>\n<li>약 <strong>5만9천 건</strong>의 일일 기록과 <strong>256명 사용자</strong> 데이터를 비교한 결과, 사우나 사용일은 비사용일보다 활...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NSA가 블랙리스트에도 불구하고 Anthropic의 Mythos를 사용 중",
+      "link": "https://news.hada.io/topic?id=28740",
+      "published": "2026-04-21T10:11:53+09:00",
+      "summary": "<ul>\n<li><strong>Anthropic Mythos Preview</strong>가 NSA에서 사용 중이며, DoD 고위 당국자들이 Anthropic를 <strong>공급망 리스크</strong>로 규정한 뒤에도 활용이 이어짐</li>\n<li>DoD는 2월 Anthropic 차단과 함께 벤더들에도 같은 조치를 추진했지만, 군 내부에서는 해당 도구의 사용 범위가 더 넓게 이어짐...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Atlassian, AI 학습을 위한 기본 데이터 수집 활성화",
+      "link": "https://news.hada.io/topic?id=28739",
+      "published": "2026-04-21T10:08:53+09:00",
+      "summary": "<ul>\n<li><strong>Jira</strong>, <strong>Confluence</strong> 등 Atlassian Cloud 제품의 고객 메타데이터와 앱 내 콘텐츠가 2026년 8월 17일부터 <strong>Rovo</strong>와 Rovo Dev 학습에 기본 활용 예정</li>\n<li>요금제별 기본값이 다르게 적용되며, Free·Standard·Premium에서는 <strong>메타데이터 기여</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwen3.6-Max-Preview: 더 똑똑하고, 더 정교하며, 계속 진화 중",
+      "link": "https://news.hada.io/topic?id=28738",
+      "published": "2026-04-21T10:05:53+09:00",
+      "summary": "<ul>\n<li><strong>독점 호스팅 모델</strong> 초기 프리뷰로 공개됐으며, Qwen3.6-Plus 대비 <strong>에이전트형 코딩</strong>, 세계 지식, 지시 이행 성능 향상</li>\n<li>여섯 개 주요 코딩 벤치마크에서 최고 점수 기록이 명시됐고, SkillsBench <strong>+9.9</strong>, SciCode <strong>+6.3</strong>, NL2Repo </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마침내 InfoWars는 우리 것이 됐다",
+      "link": "https://news.hada.io/topic?id=28737",
+      "published": "2026-04-21T10:02:52+09:00",
+      "summary": "<ul>\n<li><strong>Global Tetrahedron</strong>가 <strong>InfoWars.com 통제 계획</strong> 완료를 밝히며, 지난 1년 반 동안 키워 온 더 크고 더 잔혹하며 시장 데이터에 더 맞춘 구상을 전면에 내세움</li>\n<li>새 InfoWars는 광고로 뒤덮인 <strong>무한한 가상 표면</strong> 위에 사기와 목적 없는 거짓말, 몇 초만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Who is John Ternus, the incoming Apple CEO?",
+      "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "published": "Tue, 21 Apr 2026 01:02:04 +0000",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "published": "Mon, 20 Apr 2026 23:10:27 +0000",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "published": "Mon, 20 Apr 2026 22:00:00 +0000",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+      "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+      "published": "Mon, 20 Apr 2026 20:42:01 +0000",
+      "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
+      "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+      "published": "Mon, 20 Apr 2026 20:20:29 +0000",
+      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "published": "Mon, 20 Apr 2026 20:39:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "link": "https://zef-lang.dev/implementation",
+      "published": "Tue, 21 Apr 2026 00:48:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47843194\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jujutsu megamerges for fun and profit",
+      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "published": "Mon, 20 Apr 2026 21:32:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47841129\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "published": "Mon, 20 Apr 2026 14:05:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47834565\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "link": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "published": "Mon, 20 Apr 2026 18:39:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47838703\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
