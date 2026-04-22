@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-22",
+  "articles": [
+    {
+      "title": "SpaceX, AI 코딩 스타트업 Cursor를 600억 달러에 인수할 옵션 확보",
+      "link": "https://news.hada.io/topic?id=28765",
+      "published": "2026-04-22T11:10:30+09:00",
+      "summary": "<ul>\n<li>SpaceX가 AI 코드 생성 스타트업 Cursor와 전략적 파트너십을 체결하고, 올해 말 600억 달러에 인수하거나 협업 대가로 100억 달러를 지급하는 옵션을 확보했다고 X에 공식 발표</li>\n<li>“SpaceXAI와 Cursor는 세계 최고의 코딩 및 지식 업무 AI를 만들기 위해 긴밀히 협력 중”이라며, SpaceX의 100만 H100급...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code가 Pro 요금제에서 제거될 예정인가?",
+      "link": "https://news.hada.io/topic?id=28764",
+      "published": "2026-04-22T10:43:16+09:00",
+      "summary": "<ul>\n<li>Anthropic이 월 20달러 <strong>Pro 플랜</strong> 신규 가입자에게서 AI 코딩 도구 Claude Code 접근 권한을 제거한 것으로 확인되며, 기존 Pro 사용자는 현재까지 웹 앱을 통한 접근이 유지되는 상황</li>\n<li>지원 문서가 기존 &quot;<strong>Pro or Max Plan</strong>&quot;에서 &quot;Max Plan&quot;으로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ChatGPT Images 2.0 공개",
+      "link": "https://news.hada.io/topic?id=28763",
+      "published": "2026-04-22T10:33:05+09:00",
+      "summary": "<ul>\n<li>OpenAI가 <strong>이미지 생성 모델의 차세대 버전</strong>을 공개, 소개글 자체에 문자로 적지 않고 Images 2.0 이용해서 생성한 이미지에 넣은 텍스트로만 소개함</li>\n<li>복잡한 시각적 작업과 정밀한 텍스트 렌더링을 포함한 즉시 사용 가능한 결과물 생성에 초점을 맞춤</li>\n<li>최초의 <strong>사고(t...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 신규 Pro($20/월) 사용자에게 Claude Code 제공 중단?",
+      "link": "https://news.hada.io/topic?id=28762",
+      "published": "2026-04-22T10:22:32+09:00",
+      "summary": "<ul>\n<li>Anthropic이 월 $20짜리 <strong>Claude Pro 플랜 신규 가입자</strong>에게서 <strong>Claude Code 접근을 제외한 것으로 보인다는 보도</strong></li>\n<li>기존에는 Pro/Max 플랜에서 Claude Code 사용 가능하다는 안내가 있었지만, 현재 지원 문서 문구가 <strong>“Pro or Max” → “Max”</strong> 로 변...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic - OpenClaw : 다시 사용 가능해짐",
+      "link": "https://news.hada.io/topic?id=28761",
+      "published": "2026-04-22T09:50:58+09:00",
+      "summary": "<ul>\n<li>Anthropic 담당자가 <strong>OpenClaw 스타일의 Claude CLI 사용이 다시 허용</strong>된다고 통보함</li>\n<li><strong>Anthropic API 키</strong>와 <strong>Claude CLI 재사용</strong>을 함께 지원하며, 기존 Anthropic 토큰 프로필도 실행 시 계속 인정됨</li>\n<li><strong>Claude CLI 백엔드</strong>는 다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "published": "Wed, 22 Apr 2026 00:37:33 +0000",
+      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published": "Tue, 21 Apr 2026 23:26:45 +0000",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published": "Tue, 21 Apr 2026 22:58:22 +0000",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "published": "Tue, 21 Apr 2026 21:09:09 +0000",
+      "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "published": "Tue, 21 Apr 2026 18:50:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47852835\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "published": "Sun, 19 Apr 2026 04:28:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47821801\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "link": "https://twitter.com/spacex/status/2046713419978453374",
+      "published": "Tue, 21 Apr 2026 22:13:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47855293\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "published": "Tue, 21 Apr 2026 17:14:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47851634\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "link": "https://www.brex.com/crabtrap",
+      "published": "Tue, 21 Apr 2026 15:29:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47850212\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
