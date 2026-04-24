@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-24",
+  "articles": [
+    {
+      "title": "Show GN: Piko – 네이버 플레이스 URL 하나로 가게 홈페이지 즉시 생성",
+      "link": "https://news.hada.io/topic?id=28840",
+      "published": "2026-04-24T10:33:14+09:00",
+      "summary": "<p>네이버 플레이스(지도) URL 하나만 붙여넣으면 가게 홈페이지가 딸깍 완성되는 서비스를 만들었습니다.</p>\n<p><strong>배경</strong><br />\n소상공인 대부분이 네이버 플레이스에는 등록되어 있지만, 별도 홈페이지는 없습니다. 홈페이지를 만들려면 개발자 고용, 웹빌더 학습, 비용 부담이 따라옵니다. Piko는 이 과",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국이 이렇게 부유한데도 어떻게 이렇게 우울해졌나",
+      "link": "https://news.hada.io/topic?id=28839",
+      "published": "2026-04-24T10:17:37+09:00",
+      "summary": "<ul>\n<li><strong>자기보고 행복도</strong>와 소비자심리, 노동자 만족도 같은 정서 지표가 2020년 이후 미국에서 함께 급락했고, 그 하락이 2024년까지도 크게 회복되지 않음</li>\n<li>실업률과 성장률, 임금 상승처럼 <strong>경제 지표</strong>는 비교적 강했지만, 팬데믹 이후 이어진 감정의 하락은 거의 모든 인구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "최근 Claude Code 품질 보고에 대한 업데이트",
+      "link": "https://news.hada.io/topic?id=28838",
+      "published": "2026-04-24T10:14:36+09:00",
+      "summary": "<ul>\n<li>최근 한 달간 체감된 <strong>Claude 품질 저하</strong>는 <code>Claude Code</code>, <code>Claude Agent SDK</code>, <code>Claude Cowork</code>에 걸친 <strong>서로 다른 세 가지 변경</strong>에서 발생했고, API는 영향받지 않음</li>\n<li>기본 추론 강도를 <code>medium</code>으로 낮춘 뒤 <strong>지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Bitwarden CLI, 진행 중인 Checkmarx 공급망 캠페인에서 손상됨",
+      "link": "https://news.hada.io/topic?id=28837",
+      "published": "2026-04-24T10:11:36+09:00",
+      "summary": "<ul>\n<li>npm용 <strong>Bitwarden CLI 패키지</strong>가 진행 중인 <strong>Checkmarx 공급망 공격</strong>의 일부로 손상됐고, 현재 확인된 영향 범위는 <code>@bitwarden/cli</code> 2026.4.0 빌드에 한정됨</li>\n<li>패키지에 포함된 <strong><code>bw1.js</code> 악성 코드</strong>는 <code>audit.checkmarx[.]c...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Palantir 직원들이 자신들이 나쁜 편인지 고민하기 시작함",
+      "link": "https://news.hada.io/topic?id=28836",
+      "published": "2026-04-24T10:08:36+09:00",
+      "summary": "<ul>\n<li><strong>이민 집행용 소프트웨어</strong>와 군사 지원 업무가 겹치면서, 내부에서는 시민적 자유를 지킨다는 기존 정체성보다 <strong>남용을 가능하게 하는 위치</strong>에 더 가까운지 되묻게 됨</li>\n<li>회사는 다양한 신념과 치열한 내부 토론을 강조했지만, 지난 1년 동안 많은 피드백이 <strong>철학적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "published": "Fri, 24 Apr 2026 00:11:25 +0000",
+      "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+      "link": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+      "published": "Thu, 23 Apr 2026 23:32:33 +0000",
+      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "link": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "published": "Thu, 23 Apr 2026 22:44:12 +0000",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+      "published": "Thu, 23 Apr 2026 21:33:51 +0000",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "published": "Thu, 23 Apr 2026 21:00:00 +0000",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "published": "Thu, 23 Apr 2026 18:01:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "published": "Thu, 23 Apr 2026 14:17:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47876043\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "published": "Thu, 23 Apr 2026 22:01:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47882697\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "link": "https://blog.meshcore.io/2026/04/23/the-split",
+      "published": "Thu, 23 Apr 2026 16:55:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47878117\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "published": "Thu, 23 Apr 2026 20:53:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47881786\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
