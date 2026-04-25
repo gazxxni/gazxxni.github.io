@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-25",
+  "articles": [
+    {
+      "title": "Show GN: 온라인으로 즐기는 랜덤뽑기 모음 사이트",
+      "link": "https://news.hada.io/topic?id=28866",
+      "published": "2026-04-25T09:59:36+09:00",
+      "summary": "<p>안녕하세요!</p>\n<p>온라인 게임처럼 방을 만들고 친구들을 초대하여 랜덤뽑기 또는 순위를 정할수 있는 게임을들 모아둔 사이트입니다.</p>\n<p>방을 만들고 초대 버튼을 누르면 초대링크 또는 QR 코드로 친구를 방에 초대할 수 있어요</p>\n<p>5가지 랜덤 게이중 1개를 골라서 실시간으로 결과를 확인할 수 있습니다.",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "과도한 고민, 범위 확장, 구조적 diff로 프로젝트를 망치는 법",
+      "link": "https://news.hada.io/topic?id=28865",
+      "published": "2026-04-25T09:50:12+09:00",
+      "summary": "<ul>\n<li>프로젝트는 <strong>바로 만들어 끝내는 흐름</strong>과 조사와 설계가 커지며 원래 문제를 놓치는 흐름으로 갈리기 쉬우며, 실제 진전에는 <strong>그냥 해보는 쪽</strong>이 더 앞설 때가 많음</li>\n<li>Emacs용 fuzzy path 검색을 만들면서도 <strong>좋은 라이브러리의 부가 기능</strong>이 새 요구를 낳...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "노르웨이, 16세 미만 소셜미디어 금지 추진",
+      "link": "https://news.hada.io/topic?id=28864",
+      "published": "2026-04-25T09:47:12+09:00",
+      "summary": "<ul>\n<li><strong>16세 미만 아동의 social media 접근 제한</strong> 법안이 Norway에서 추진되고 있으며, 아이들이 온라인에서 겪을 수 있는 <strong>잠재적 해악</strong> 우려에 대응하는 조치로 보임</li>\n<li>정부는 이 법안 추진과 관련해 <strong>대중의 요구가 압도적</strong>이었다고 밝혔고, <strong>연말 전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude를 해지한 이유: 토큰 문제, 품질 저하, 부실한 지원",
+      "link": "https://news.hada.io/topic?id=28863",
+      "published": "2026-04-25T09:44:12+09:00",
+      "summary": "<ul>\n<li>초기 몇 주 동안은 빠른 속도와 공정하게 느껴진 <strong>토큰 허용량</strong>, 좋은 결과 품질로 만족도가 높았지만 약 3주 전부터 체감이 크게 바뀜</li>\n<li>10시간 쉬고 돌아온 뒤 <strong>Claude Haiku</strong>에 짧은 질문 두 개만 보냈는데 사용량이 100%까지 치솟았고, 지원 채널은 문의 핵심을 다루...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크",
+      "link": "https://news.hada.io/topic?id=28862",
+      "published": "2026-04-25T09:31:02+09:00",
+      "summary": "<ul>\n<li>Python <strong>Scrapy의 아키텍처</strong>를 Go 언어의 성능을 활용하여 네이티브 구현한 고성능 웹 스크래핑 프레임워크</li>\n<li><code>goscrapy startproject</code> 명령어 한 줄로 프로젝트 구조, Go 모듈 초기화, 의존성 해결까지 <strong>자동 스캐폴딩</strong></li>\n<li>Go의 동시성 모델 기반 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "published": "Fri, 24 Apr 2026 23:32:11 +0000",
+      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "published": "Fri, 24 Apr 2026 21:53:44 +0000",
+      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+      "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "published": "Fri, 24 Apr 2026 21:35:30 +0000",
+      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "published": "Fri, 24 Apr 2026 21:05:59 +0000",
+      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "published": "Fri, 24 Apr 2026 16:04:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47892074\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My audio interface has SSH enabled by default",
+      "link": "https://hhh.hn/rodecaster-duo-fw/",
+      "published": "Fri, 24 Apr 2026 19:30:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47894747\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Iliad fragment found in Roman-era mummy",
+      "link": "https://www.thehistoryblog.com/archives/75877",
+      "published": "Wed, 22 Apr 2026 14:18:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47864056\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "published": "Fri, 24 Apr 2026 14:28:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47890799\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Paraloid B-72",
+      "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "published": "Wed, 22 Apr 2026 04:17:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47858939\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
