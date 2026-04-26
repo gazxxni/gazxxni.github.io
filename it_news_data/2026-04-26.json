@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-26",
+  "articles": [
+    {
+      "title": "Go WebAssembly와 grdp로 만든 웹 기반 RDP 클라이언트",
+      "link": "https://news.hada.io/topic?id=28899",
+      "published": "2026-04-26T11:22:48+09:00",
+      "summary": "<ul>\n<li>브라우저만으로 Windows 원격 데스크톱에 접속할 수 있는 <strong>웹 기반 RDP 클라이언트</strong>이며, <strong>plugin 없이</strong> 동작함</li>\n<li>브라우저의 <strong>Go WebAssembly</strong>와 서버 측 <strong>WebSocket-to-TCP 프록시</strong>를 분리해, 브라우저가 직접 열 수 없는 RDP TCP 연결을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code 루틴이 내 재정을 지켜볼 수 있을까?",
+      "link": "https://news.hada.io/topic?id=28898",
+      "published": "2026-04-26T11:21:20+09:00",
+      "summary": "<ul>\n<li><strong>Plaid 연동 금융 데이터</strong>를 MCP 도구로 연결해 잔액, 거래, 투자, 대출 정보를 다루고, 반복되던 금융 점검을 <strong>Claude Code routines</strong>로 자동화할 수 있게 됨</li>\n<li>기존 cron 기반 브라우저 자동화는 렌더링 문제, <strong>2FA 프롬프트</strong>, 일부 계좌만 수집되는 오...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CSS를 질의 언어로 보기",
+      "link": "https://news.hada.io/topic?id=28897",
+      "published": "2026-04-26T11:17:16+09:00",
+      "summary": "<ul>\n<li><strong>CSS 선택자와 선언</strong>은 이미 존재하는 요소 집합을 고르고 그 결과에 속성을 적용한다는 점에서, 관계를 질의하고 사실을 만드는 Datalog과 구조적으로 맞닿아 있음</li>\n<li>일반 CSS는 <strong>선택 결과를 다시 선택 조건으로 쓰는 재귀 계산</strong>을 지원하지 않아, dark 테마가 자손으로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPT-5.5 바이오 버그 바운티",
+      "link": "https://news.hada.io/topic?id=28896",
+      "published": "2026-04-26T11:12:18+09:00",
+      "summary": "<ul>\n<li><strong>생물학 안전장치</strong>를 점검하기 위해 GPT‑5.5를 대상으로, 다섯 개의 바이오 안전 질문을 모두 통과시키는 <strong>범용 jailbreak</strong> 탐색 프로그램이 열림</li>\n<li>범위는 <strong>Codex Desktop 전용 GPT‑5.5</strong>로 제한되며, 새 채팅에서 moderation을 유도하지 않고 하나의 프...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trump, 미국 국립과학재단(NSF) 감독 기구인 국가과학위원회 위원 24명 전원 해임",
+      "link": "https://news.hada.io/topic?id=28895",
+      "published": "2026-04-26T10:33:06+09:00",
+      "summary": "<ul>\n<li>트럼프 대통령이 미국 국립과학재단(NSF)을 감독하는 <strong>국가과학위원회(NSB)</strong> 위원 24명 전원을 즉시 해임했으며, 과학계에서는 76년 역사를 가진 연구 기관의 독립성을 훼손하려는 조치로 해석</li>\n<li>NSB는 행정부와 의회에 과학 정책을 자문하고, <strong>90억 달러 규모 NSF의 정책 수립과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Maine’s governor vetoes data center moratorium",
+      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "published": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "published": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The climate tech IPO window could finally be cracking open",
+      "link": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+      "published": "Sat, 25 Apr 2026 16:33:00 +0000",
+      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "published": "Sun, 26 Apr 2026 00:12:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47905984\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "USB Cheat Sheet (2022)",
+      "link": "https://fabiensanglard.net/usbcheat/index.html",
+      "published": "Sat, 25 Apr 2026 21:51:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47904876\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "published": "Sat, 25 Apr 2026 17:40:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47903126\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Free Universal Construction Kit",
+      "link": "https://fffff.at/free-universal-construction-kit/",
+      "published": "Wed, 22 Apr 2026 07:20:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47860198\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Privacy Filter",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "published": "Thu, 23 Apr 2026 00:14:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47870901\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
