@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-28",
+  "articles": [
+    {
+      "title": "하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대",
+      "link": "https://news.hada.io/topic?id=28966",
+      "published": "2026-04-28T11:18:36+09:00",
+      "summary": "<p>애디 오스마니(Addy Osmani)가 정리한 “하네스 엔지니어링(Harness Engineering)”에 관한 분석입니다. 그는 지난 2년 동안 업계의 관심이 “어떤 AI 모델이 더 똑똑한가”라는 질문에만 쏠려 있었다고 진단합니다. GPT가 더 깔끔한 코드를 짜는지, 클로드가 환각을 덜 일으키는지를 두고 끝없이 비교가 이어졌지만,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "pgbackrest는 더 이상 유지보수 되지 않음",
+      "link": "https://news.hada.io/topic?id=28965",
+      "published": "2026-04-28T09:56:12+09:00",
+      "summary": "<ul>\n<li>PostgreSQL용 <strong>백업·복구 도구</strong>로서 대규모 환경까지 확장되도록 설계됐지만, 이제 <strong>유지보수를 종료</strong> 함</li>\n<li>bug fix, PR review, 이슈 대응, 신규 기능 개발이 모두 중단됐고, 불규칙하게 끌고 가기보다 명확히 멈추는 쪽을 택함</li>\n<li>전체·differential·incremental...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mercor에서 AI 계약자 4만 명의 음성 샘플 4TB 유출",
+      "link": "https://news.hada.io/topic?id=28964",
+      "published": "2026-04-28T09:53:12+09:00",
+      "summary": "<ul>\n<li><strong>음성 생체정보</strong>와 <strong>정부 발급 신분증</strong>이 한 줄의 데이터로 묶인 대규모 유출이 발생했고, 유출된 샘플 인덱스 기준으로 4만 명이 넘는 AI 계약자가 포함됨</li>\n<li>계약자당 평균 <strong>2~5분 분량</strong>의 깨끗한 녹음이 담겨 있어, 약 15초 참조 오디오만으로도 가능한...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "벽을 응시하는 남자들",
+      "link": "https://news.hada.io/topic?id=28963",
+      "published": "2026-04-28T09:50:11+09:00",
+      "summary": "<ul>\n<li><strong>정보 과부하</strong>와 반복적인 <strong>도파민 자극</strong>이 겹치면 브레인 포그가 심해지고 집중력과 생산성이 함께 떨어짐</li>\n<li>잠 부족 뒤 카페인에 의존하고, 집중이 안 되면 음악·팟캐스트·Hacker News 같은 <strong>미디어 소비</strong>로 넘어가며 같은 흐름이 다시 이어짐</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub Copilot이 사용량 기반 과금으로 전환됨",
+      "link": "https://news.hada.io/topic?id=28962",
+      "published": "2026-04-28T09:47:11+09:00",
+      "summary": "<ul>\n<li><strong>2026년 6월 1일</strong>부터 모든 GitHub Copilot 요금제가 월별 <strong>GitHub AI Credits</strong> 기준으로 과금되며, 사용량은 모델별 공개 API 요율에 따라 입력 토큰, 출력 토큰, 캐시된 토큰 소비량으로 계산됨</li>\n<li>Copilot은 에디터 안 보조 도구를 넘어 <strong>agentic platform</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+      "link": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+      "published": "Mon, 27 Apr 2026 20:37:49 +0000",
+      "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+      "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+      "published": "Mon, 27 Apr 2026 19:09:53 +0000",
+      "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "published": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "published": "Mon, 27 Apr 2026 17:24:21 +0000",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+      "link": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
+      "published": "Mon, 27 Apr 2026 17:07:06 +0000",
+      "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "published": "Mon, 27 Apr 2026 13:22:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47921248\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Integrated by Design",
+      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "published": "Mon, 27 Apr 2026 23:14:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "published": "Mon, 27 Apr 2026 21:55:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meetings are forcing functions",
+      "link": "https://www.mooreds.com/wordpress/archives/3734",
+      "published": "Sun, 26 Apr 2026 03:12:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47906942\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "published": "Mon, 27 Apr 2026 20:44:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47927070\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
