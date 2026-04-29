@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-29",
+  "articles": [
+    {
+      "title": "Show GN: shell history에서 반복 명령을 찾아 alias/workflow로 바꿔주는 CLI를 만들었습니다",
+      "link": "https://news.hada.io/topic?id=29007",
+      "published": "2026-04-29T11:47:21+09:00",
+      "summary": "<p>며칠 동안 만든 작은 CLI 사이드프로젝트를 공유합니다.</p>\n<p>shell alias는 좋습니다. 빠르고, 단순하고, 손에 익습니다.</p>\n<p>근데 alias를 계속 <code>.zshrc</code>에 처박는 방식은 오래 못 간다고 생각했습니다.</p>\n<p>처음에는 괜찮습니다.</p>\n<pre><code class=\"language-bash\">alias gs='git status -",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MiMo-V2.5 — Xiaomi의 오픈소스 옴니모델 AI 모델",
+      "link": "https://news.hada.io/topic?id=29006",
+      "published": "2026-04-29T11:22:02+09:00",
+      "summary": "<ul>\n<li>텍스트, 이미지, 비디오, 오디오를 <strong>단일 아키텍처</strong>에서 통합 처리하는 <strong>네이티브 옴니모달 모델</strong>로, <strong>에이전트 작업에 특화</strong></li>\n<li>MIT 라이센스로 상용 배포 및 파인튜닝까지 모두 가능 - 별도 허가 필요없음</li>\n<li><strong>Sparse MoE</strong> 구조로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code가 작성한 코드의 소유자는 누구인가?",
+      "link": "https://news.hada.io/topic?id=29005",
+      "published": "2026-04-29T11:07:31+09:00",
+      "summary": "<ul>\n<li><strong>AI 보조 코드의 저작권</strong>은 인간의 의미 있는 창작 기여가 있는지에 달려 있으며, AI가 주로 만들고 인간이 거의 손대지 않은 결과물은 보호를 받지 못할 수 있음</li>\n<li>핵심 판단 기준은 <strong>meaningful human authorship</strong>이며, 목표만 지시하는 수준보다 아키텍처를 정하고 결...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "창작 작업을 위한 Claude",
+      "link": "https://news.hada.io/topic?id=29004",
+      "published": "2026-04-29T10:48:13+09:00",
+      "summary": "<ul>\n<li>기존 창작 소프트웨어에 <strong>Claude 커넥터</strong>를 붙여 아이디어 도출, 제작, 반복 업무 자동화를 한 흐름으로 연결</li>\n<li>Blender, Adobe, Autodesk Fusion, Ableton, Splice 등과의 <strong>새 커넥터 세트</strong>를 공개해 3D, 디자인, 음악, 라이브 비주얼 작업까지 다룰 수 있게 됨</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon Bedrock에 OpenAI 모델 도입: OpenAI와 AWS CEO 인터뷰",
+      "link": "https://news.hada.io/topic?id=29003",
+      "published": "2026-04-29T10:44:47+09:00",
+      "summary": "<ul>\n<li><strong>OpenAI의 frontier 모델</strong>이 Amazon Bedrock의 <strong>AWS 네이티브 에이전트 런타임</strong>에 들어오며, 단순 모델 제공을 넘어 기업용 managed agent 형태로 결합됨</li>\n<li><strong>Bedrock Managed Agents</strong>는 identity, permissions, logging, governance, deployment를 함께 묶...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "published": "Wed, 29 Apr 2026 00:40:16 +0000",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "published": "Tue, 28 Apr 2026 19:48:02 +0000",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "published": "Tue, 28 Apr 2026 18:49:54 +0000",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+      "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+      "published": "Tue, 28 Apr 2026 18:16:54 +0000",
+      "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "published": "Tue, 28 Apr 2026 18:15:00 +0000",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "published": "Tue, 28 Apr 2026 19:44:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47939579\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude system prompt bug wastes user money and bricks managed agents",
+      "link": "https://github.com/anthropics/claude-code/issues/49363",
+      "published": "Tue, 28 Apr 2026 23:59:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942492\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How ChatGPT serves ads",
+      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "published": "Tue, 28 Apr 2026 23:54:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "published": "Tue, 28 Apr 2026 21:17:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47940921\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We decreased our LLM costs with Opus",
+      "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "published": "Wed, 29 Apr 2026 00:57:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942903\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
