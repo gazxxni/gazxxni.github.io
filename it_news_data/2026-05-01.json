@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-01",
+  "articles": [
+    {
+      "title": "AI가 디자인을 대신하는 시대, 왜 디자인 시스템이 더 중요해질까?",
+      "link": "https://news.hada.io/topic?id=29060",
+      "published": "2026-05-01T11:13:46+09:00",
+      "summary": "<p>AI 시대의 디자인 시스템 재정의: 기계가 이해할 수 있는 언어의 필요성</p>\n<p>AI 기반 디자인 도구가 급속도로 발전하면서 기존 디자인 시스템이 필요할까에 대한 질문.<br />\n그러나 역설적이게도 AI가 등장한 시점일수록 더욱 정교하고 체계적인 디자인 시스템이 필수가 되는 현실.</p>\n<p>핵심 개념:<br />\n• 발",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "스마트 안경 사용자 성관계 영상을 본 노동자들이 일자리를 잃은 뒤 논란에 휩싸인 Meta",
+      "link": "https://news.hada.io/topic?id=29059",
+      "published": "2026-05-01T09:48:49+09:00",
+      "summary": "<ul>\n<li><strong>AI 학습용 스마트 안경 콘텐츠</strong>를 검토하던 케냐 Sama 노동자들은 Meta의 계약 종료로 <strong>1,108명 해고</strong>가 예상되는 분쟁에 놓여 있음</li>\n<li>계약 종료는 노동자들이 Meta 안경 영상에서 사용자의 <strong>화장실 이용과 성관계 장면</strong>을 봤다고 한 지 <strong>두 달도...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Zig 프로젝트의 anti-AI 기여 정책에 대한 근거",
+      "link": "https://news.hada.io/topic?id=29058",
+      "published": "2026-05-01T09:45:49+09:00",
+      "summary": "<ul>\n<li>Zig는 이슈, Pull Request, 버그 트래커 댓글, 번역에서 <strong>LLM 사용</strong>을 금지하는 강한 규칙을 운영함</li>\n<li>영어 사용은 권장 사항일 뿐 필수는 아니며, 기여자는 <strong>모국어 작성</strong>이 가능하고 다른 사람은 각자 선택한 번역 도구로 내용을 해석할 수 있음</li>\n<li>Bun은 자체 Z...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "벨기에, 원자력 발전소 해체 중단",
+      "link": "https://news.hada.io/topic?id=29057",
+      "published": "2026-05-01T09:42:49+09:00",
+      "summary": "<ul>\n<li>벨기에는 원전 운영을 유지하고 공급 통제를 강화하기 위해 <strong>원자력 발전소 해체 중단</strong>을 결정함</li>\n<li>정부는 원전 운영사 <strong>ENGIE</strong>와 발전소 국유화를 협상 중이며, ENGIE는 벨기에 정부와 독점 협상 의향서에 서명함</li>\n<li>협상 대상은 <strong>7개 원자로 전체</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "고블린은 어디에서 왔나",
+      "link": "https://news.hada.io/topic?id=29056",
+      "published": "2026-05-01T09:39:49+09:00",
+      "summary": "<ul>\n<li>GPT-5.1 이후 ChatGPT 답변에서 <strong>goblin·gremlin</strong> 같은 생물 비유가 늘었고, 일반적인 모델 버그처럼 eval이나 training metric만으로 특정 변경점을 바로 찾기 어려웠음</li>\n<li>핵심 원인은 ChatGPT 성격 커스터마이징의 <strong>Nerdy personality</strong> 학습에서 생물 비유가 들어간 출...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "published": "Fri, 01 May 2026 02:00:00 +0000",
+      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "published": "Thu, 30 Apr 2026 23:59:15 +0000",
+      "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "published": "Thu, 30 Apr 2026 23:58:52 +0000",
+      "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "published": "Thu, 30 Apr 2026 23:07:56 +0000",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "published": "Thu, 30 Apr 2026 22:12:52 +0000",
+      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenWarp",
+      "link": "https://openwarp.zerx.dev",
+      "published": "Fri, 01 May 2026 02:10:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47970622\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "published": "Thu, 30 Apr 2026 16:41:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965060\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "published": "Wed, 29 Apr 2026 17:09:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47951295\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "published": "Thu, 30 Apr 2026 16:43:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965108\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "published": "Thu, 30 Apr 2026 16:09:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
