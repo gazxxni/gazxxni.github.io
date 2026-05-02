@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-02",
+  "articles": [
+    {
+      "title": "Grok 4.3",
+      "link": "https://news.hada.io/topic?id=29090",
+      "published": "2026-05-02T09:33:36+09:00",
+      "summary": "<ul>\n<li><strong>grok-4.3</strong>은 xAI API에서 제공되는 모델이며, 모델 이름은 <code>grok-4.3</code>, 별칭은 <code>grok-4.3-latest</code>임</li>\n<li>컨텍스트 창은 <strong>1,000,000 토큰</strong>이며, 사용 가능 리전은 <code>us-east-1</code>과 <code>eu-west-1</code>로 표시됨</li>\n<li>지원 기능은 외...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Fincept Terminal - 금융 분석 플랫폼 오픈소스",
+      "link": "https://news.hada.io/topic?id=29089",
+      "published": "2026-05-02T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>Bloomberg Terminal($24,000/년), Refinitiv Eikon($20,000+/년)의 무료 대안</strong>을 목표로 하는 오픈소스 금융 분석 플랫폼으로, v4는 <strong>C++20 + Qt6</strong> 네이티브 앱으로 구축</li>\n<li><strong>CFA 수준 분석 기능</strong> 내장 — DCF 모델, 포트폴리오 최적화, 리스크 메트릭(Va...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Spotify가 인간 아티스트와 AI를 구분하기 위해 ‘Verified’ 배지를 추가함",
+      "link": "https://news.hada.io/topic?id=29088",
+      "published": "2026-05-02T08:38:45+09:00",
+      "summary": "<ul>\n<li>Spotify가 아티스트가 <strong>AI 생성 인격</strong>이 아니라 인간임을 식별할 수 있도록 ‘<strong>Verified by Spotify</strong>’ 배지를 도입함</li>\n<li>배지는 아티스트 이름 옆에 <strong>초록색 체크 아이콘</strong>과 ‘Verified by Spotify’ 문구로 표시되며, “진정성을 보여주는 정의된 기준”...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI는 대중이 생각하는 것보다 물을 적게 사용한다",
+      "link": "https://news.hada.io/topic?id=29087",
+      "published": "2026-05-02T08:36:32+09:00",
+      "summary": "<ul>\n<li>캘리포니아의 <strong>AI 데이터센터</strong> 물 사용 우려는 실제 규모를 정량화하면 주 전체 인간 물 사용량에 비해 작은 편으로 나타남</li>\n<li>캘리포니아에는 약 <strong>1,500만 제곱피트</strong>의 데이터센터 바닥 면적이 있으며, 모두 증발 냉각으로 계속 가동된다고 가정하면 연간 <strong>32,000...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "WhatCable - USB-C 케이블을 검사하는 작은 메뉴 막대 앱",
+      "link": "https://news.hada.io/topic?id=29086",
+      "published": "2026-05-02T08:33:34+09:00",
+      "summary": "<ul>\n<li>Mac에 꽂힌 USB-C 케이블이 <strong>실제로 무엇을 할 수 있는지</strong>와 Mac 충전이 느릴 수 있는 이유를 <strong>쉬운 문장</strong>으로 보여주는 macOS 메뉴 막대 앱</li>\n<li>USB-C 케이블은 겉모습이 같아도 USB 2.0 충전 전용부터 <strong>240W / 40Gbps Thunderbolt 4</strong>까지 차이가 크며, Wh...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "published": "Fri, 01 May 2026 23:06:50 +0000",
+      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "published": "Fri, 01 May 2026 22:39:05 +0000",
+      "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "published": "Fri, 01 May 2026 22:13:27 +0000",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "published": "Fri, 01 May 2026 18:23:04 +0000",
+      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "published": "Fri, 01 May 2026 20:06:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47979583\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Artemis II Photo Timeline",
+      "link": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "published": "Wed, 29 Apr 2026 20:48:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47954394\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Good developers learn to program. Most courses teach a language",
+      "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "published": "Sat, 02 May 2026 00:14:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47981995\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "published": "Fri, 01 May 2026 17:47:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47977748\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The smelly baby problem",
+      "link": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "published": "Wed, 29 Apr 2026 15:48:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47950070\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
