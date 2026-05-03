@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-03",
+  "articles": [
+    {
+      "title": "캘리포니아, 교통법규를 위반한 무인차에 티켓 발부 시작",
+      "link": "https://news.hada.io/topic?id=29113",
+      "published": "2026-05-03T10:43:44+09:00",
+      "summary": "<ul>\n<li>캘리포니아 <strong>DMV</strong>의 새 규정으로 경찰이 교통법규를 위반한 자율주행차의 <strong>제조사에 직접 통지</strong>할 수 있게 됨</li>\n<li>새 절차는 운전자가 없는 차량에 기존 방식으로 티켓을 발부하기 어려웠던 문제를 해결하기 위해, 경찰이 제조사에 “<strong>notice of AV noncompliance...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS VM은 얼마나 빠르고, 얼마나 작아질 수 있을까?",
+      "link": "https://news.hada.io/topic?id=29112",
+      "published": "2026-05-03T10:25:19+09:00",
+      "summary": "<ul>\n<li><strong>Mac mini M4 Pro</strong>에서 macOS 26.4.1 VM을 다시 측정한 결과, 5개 가상 코어와 16GB vRAM 구성에서도 CPU 단일 코어와 GPU 성능이 호스트에 근접함</li>\n<li><a href=\"https://www.geekbench.com/\">Geekbench</a> 6.7.1 기준 <strong>단일 코어 CPU</strong>는 VM 3,855 / 호스트 3,948, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "알고리듬 채용에서의 AI 자기선호: 실증 증거와 시사점",
+      "link": "https://news.hada.io/topic?id=29111",
+      "published": "2026-05-03T09:54:51+09:00",
+      "summary": "<ul>\n<li>LLM이 이력서 생성과 평가 양쪽에 쓰이면서, 평가 모델이 자신이 만든 산출물을 더 높게 고르는 <strong>자기선호</strong>가 채용 선별의 새 편향으로 나타남</li>\n<li>연구는 생성형 AI 확산 전 수집된 <strong>인간 작성 이력서 2,245개</strong>를 바탕으로 GPT-4o, LLaMA 3.3-70B, DeepSeek-V3 등 여러 LL...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NetHack 5.0.0 릴리스 노트",
+      "link": "https://news.hada.io/topic?id=29110",
+      "published": "2026-05-03T09:51:51+09:00",
+      "summary": "<blockquote>\n<p>NetHack은 Rogue와 Hack의 먼 후손이며 NetHack 3.6의 직접 후손인 던전 탐험 게임임</p>\n</blockquote>\n<ul>\n<li>기존 <strong>저장 게임</strong>과 <strong>bones 파일</strong>은 NetHack 5.0.0에서 작동하지 않음</li>\n<li>NetHack DevTeam이 <strong>2026년 5월 2일</strong> NetHack 5.0.0을 릴리",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask.com이 종료됨",
+      "link": "https://news.hada.io/topic?id=29109",
+      "published": "2026-05-03T09:48:50+09:00",
+      "summary": "<ul>\n<li><strong>IAC</strong>가 검색 사업 집중 방향을 조정하면서 <strong>Ask.com을 포함한 검색 사업 중단</strong>을 결정함</li>\n<li><strong>Ask.com</strong>은 전 세계 질문에 답해 온 지 <strong>25년</strong> 만인 2026년 5월 1일 공식 종료됨</li>\n<li>Ask.com을 수십 년간 구축하고 지원한 <strong>엔지니...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "published": "Sat, 02 May 2026 21:54:58 +0000",
+      "summary": "Bad news for Tilly Norwood.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "published": "Sat, 02 May 2026 21:11:28 +0000",
+      "summary": "Owner IAC says it's discontinuing its search business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+      "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "published": "Sat, 02 May 2026 17:05:41 +0000",
+      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "published": "Sat, 02 May 2026 16:00:00 +0000",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "published": "Sat, 02 May 2026 14:00:00 +0000",
+      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "published": "Sat, 02 May 2026 19:57:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47989883\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "published": "Sun, 03 May 2026 00:01:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47991802\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "link": "https://ladybird.org/newsletter/2026-04-30/",
+      "published": "Sat, 02 May 2026 20:46:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47990318\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "published": "Sat, 02 May 2026 21:14:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47990606\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "published": "Sat, 02 May 2026 17:32:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47988504\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
