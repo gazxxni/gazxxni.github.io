@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-04",
+  "articles": [
+    {
+      "title": "이메일 주소 심층 분석",
+      "link": "https://news.hada.io/topic?id=29144",
+      "published": "2026-05-04T10:41:02+09:00",
+      "summary": "<ul>\n<li>이메일 주소는 단순한 사용자명과 도메인의 조합이 아니라, <strong>RFC 표준에 정의된 복잡한 구조와 규칙, 보안 함정</strong>을 포함하는 체계</li>\n<li>로컬 파트(@ 앞)에는 따옴표 형식, 주석, 유니코드 등 일반적으로 알려지지 않은 <strong>다양한 유효 형식</strong>이 존재하며, 대부분의 실무 환경에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI o1은 응급실 환자의 67%를 정확히 진단했고 분류 의사는 50~55%를 기록",
+      "link": "https://news.hada.io/topic?id=29143",
+      "published": "2026-05-04T10:34:08+09:00",
+      "summary": "<ul>\n<li>Harvard 연구에서 OpenAI의 <strong>o1 추론 모델</strong>은 응급실 초기 <strong>분류(triage)</strong> 진단에서 인간 의사보다 높은 정확도를 보였고, LLM은 임상 추론의 대부분 벤치마크를 넘어선 것으로 평가됨</li>\n<li>Boston 병원 응급실에 온 <strong>76명 환자</strong>의 표준 전자의무기록을 읽는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Linux 7.0이 PostgreSQL을 망가뜨린 방법",
+      "link": "https://news.hada.io/topic?id=29142",
+      "published": "2026-05-04T10:25:02+09:00",
+      "summary": "<ul>\n<li>Linux 7.0에서 기존 서버 기본값이던 <strong>PREEMPT_NONE</strong> 선점 모드가 제거되면서, 동일 하드웨어에서 PostgreSQL 처리량이 절반으로 급감하는 심각한 성능 회귀가 발생</li>\n<li>AWS 엔지니어가 96-vCPU Graviton4 머신에서 pgbench를 실행한 결과, Linux 6.x 대비 Linux 7.0에서 <strong>초당 트랜...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon에서 약 1,000번 면접을 진행하며 얻은 교훈",
+      "link": "https://news.hada.io/topic?id=29141",
+      "published": "2026-05-04T10:10:02+09:00",
+      "summary": "<ul>\n<li>아마존에서 17년간 근무하며 약 1,000번의 면접(그 중 약 600회는 <strong>Bar Raiser</strong> 면접)을 진행한 경험을 바탕으로, 기술 면접보다 행동 면접이 채용 결정에 미치는 영향을 분석한 내용</li>\n<li>기술적으로 뛰어난 후보자가 탈락하는 주된 이유는 기술 부족이 아니라 <strong>자기 표현 방식</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPT-5.5 vs GPT-5.4 vs Opus 4.7 - 실제 코딩 작업 56개 벤치마크 비교",
+      "link": "https://news.hada.io/topic?id=29140",
+      "published": "2026-05-04T09:59:02+09:00",
+      "summary": "<ul>\n<li>두 개의 오픈소스 저장소(Zod, graphql-go-tools)에서 추출한 <strong>56개 실제 코딩 작업</strong>을 대상으로 GPT-5.5, GPT-5.4, Opus 4.7 세 모델의 패치 품질을 비교한 벤치마크 결과 공개</li>\n<li>GPT-5.5는 테스트 통과율, 인간 패치와의 동등성, <strong>코드 리뷰 통과율(clean pass)</strong> 모든 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "published": "Mon, 04 May 2026 02:02:25 +0000",
+      "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "published": "Sun, 03 May 2026 20:16:51 +0000",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "published": "Sun, 03 May 2026 18:00:09 +0000",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "published": "Sun, 03 May 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
+      "published": "Sun, 03 May 2026 13:00:00 +0000",
+      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "link": "https://partyon.xyz/@nullagent/116499715071759135",
+      "published": "Sun, 03 May 2026 18:03:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47999636\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "link": "https://samcollins.blog/underdrawings/",
+      "published": "Fri, 01 May 2026 18:07:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47977990\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "published": "Sun, 03 May 2026 23:36:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48002777\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "published": "Sun, 03 May 2026 23:12:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48002607\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "link": "https://github.com/aattaran/deepclaude",
+      "published": "Sun, 03 May 2026 22:13:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48002136\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
