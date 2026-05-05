@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-05",
+  "articles": [
+    {
+      "title": "Issues와 Webhooks 장애 – 해결됨",
+      "link": "https://news.hada.io/topic?id=29181",
+      "published": "2026-05-05T09:47:50+09:00",
+      "summary": "<ul>\n<li><a href=\"https://www.githubstatus.com/\">GitHub</a>는 <strong>Issues</strong>와 <strong>Webhooks</strong> 성능 저하를 조사한 뒤 2026년 5월 4일 16:40 UTC에 장애를 해결됨 상태로 전환함</li>\n<li>이번 장애는 <strong>Git Operations</strong>, Webhooks, Issues, Pull Requests, Actions, Packages, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2027년부터 EU에서 스마트폰 탈착식 배터리 의무화",
+      "link": "https://news.hada.io/topic?id=29180",
+      "published": "2026-05-05T09:44:50+09:00",
+      "summary": "<ul>\n<li><strong>2027년 2월 18일</strong>부터 EU의 신규 스마트폰과 태블릿은 최종 사용자가 표준 공구로 배터리를 직접 분리·교체할 수 있도록 설계되어야 함</li>\n<li>새 모델은 드라이버 같은 <strong>표준 공구</strong>로 배터리 교체가 가능해야 하며, 열이나 용제가 필요한 접착제는 대부분 금지되고 특수 공구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "헬스장에서 낯선 사람에게 말 걸기",
+      "link": "https://news.hada.io/topic?id=29179",
+      "published": "2026-05-05T09:41:50+09:00",
+      "summary": "<ul>\n<li>대학 졸업 후 친구를 만들지 못해 거의 매일 가던 <strong>헬스장</strong>에서 한 달 동안 낯선 사람에게 직접 말을 걸었고, 총 <strong>35명</strong>과 대화를 시도함</li>\n<li>처음에는 “여기서 자주 보는데 꽤 강해 보이네요. <a href=\"https://en.wikipedia.org/wiki/Split_weight_training\">split</a>이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Understand-Anything - 코드/지식베이스를 인터랙티브 지식 그래프로 변환하는 플러그인",
+      "link": "https://news.hada.io/topic?id=29178",
+      "published": "2026-05-05T09:31:01+09:00",
+      "summary": "<ul>\n<li><strong>멀티 에이전트 파이프라인</strong>이 프로젝트의 모든 파일·함수·클래스·의존성을 자동 분석해 인터랙티브 지식 그래프로 만들어 주는 AI 플러그인</li>\n<li><code>/understand</code>로 분석 시작, <code>/understand-dashboard</code>로 <strong>웹 대시보드</strong> 실행</li>\n<li><strong>구조적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "상호작용을 위해 많은 작은 HTML 페이지를 내비게이션으로 이어 붙일 수 있음",
+      "link": "https://news.hada.io/topic?id=29177",
+      "published": "2026-05-05T09:02:01+09:00",
+      "summary": "<ul>\n<li><a href=\"https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/\">(L)ots of (L)ittle ht(M)l page(s)</a> 접근은 <strong>JavaScript 기반 페이지 내부 상호작용</strong>을 여러 작은 HTML 페이지 사이의 이동으로 대체함</li>\n<li>상호작용은 HTML 페이지 간 <strong>내비게이션</strong>으로 구성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "published": "Tue, 05 May 2026 00:13:30 +0000",
+      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "published": "Mon, 04 May 2026 22:21:32 +0000",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "published": "Mon, 04 May 2026 21:53:21 +0000",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "published": "Mon, 04 May 2026 19:12:49 +0000",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Katie Haun raises $1B for new venture funds",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "published": "Mon, 04 May 2026 19:12:15 +0000",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bun is being ported from Zig to Rust",
+      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "published": "Tue, 05 May 2026 01:08:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48016880\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "published": "Mon, 04 May 2026 19:42:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48013919\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Talking to strangers at the gym",
+      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "published": "Mon, 04 May 2026 11:41:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48007438\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Agent Skills",
+      "link": "https://addyosmani.com/blog/agent-skills/",
+      "published": "Mon, 04 May 2026 21:40:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48015397\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "When Networking Doesn't Work",
+      "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "published": "Mon, 04 May 2026 20:56:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48014868\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
