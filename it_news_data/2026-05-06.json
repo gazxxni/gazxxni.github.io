@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-06",
+  "articles": [
+    {
+      "title": "Show GN: oh-my-free-models - 무료 LLM 중 지금 가장 빠른 모델로 코딩 에이전트를 라우팅하는 로컬 프록시",
+      "link": "https://news.hada.io/topic?id=29215",
+      "published": "2026-05-06T10:12:10+09:00",
+      "summary": "<p>oh-my-free-models (omfm) 는 코딩 에이전트를 여러 무료 provider 중 지금 가장 빠른 모델로 라우팅하는 로컬 프록시입니다. OpenAI 또는 Anthropic 호환 에이전트의 baseURL을 localhost 로 바꾸고 free 모델 몇 개를 골라두면, latency·rate-limit·quota가 흔들리는 동안에도 <code>omfm</code> 이 요청을 계속 흘...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemma 4 가속: 다중 토큰 예측 drafter로 더 빠른 추론",
+      "link": "https://news.hada.io/topic?id=29214",
+      "published": "2026-05-06T10:10:20+09:00",
+      "summary": "<ul>\n<li>Google은 <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\">Gemma 4</a> 공개 후 몇 주 만에 다운로드 6,000만 회를 넘겼고, Gemma 4 제품군용 <strong>다중 토큰 예측(MTP) drafter</strong>를 공개함</li>\n<li>MTP drafter는 특화된 <strong>추측 디코딩(speculative ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 당신의 데이터베이스를 삭제한 게 아니라, 당신이 삭제한 것이다",
+      "link": "https://news.hada.io/topic?id=29213",
+      "published": "2026-05-06T10:07:19+09:00",
+      "summary": "<ul>\n<li>Cursor/Claude 에이전트가 <strong>프로덕션 데이터베이스</strong>를 삭제했다는 사건의 핵심은 AI의 답변 분석이 아니라, 전체 삭제가 가능한 API 엔드포인트가 왜 배포된 시스템에 있었는가임</li>\n<li>2010년 <strong>SVN</strong> 배포 사고에서는 수동 복사 절차 중 trunk가 삭제됐고, 같은 실수를 막기 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": ".de TLD가 DNSSEC 때문에 오프라인인가?",
+      "link": "https://news.hada.io/topic?id=29212",
+      "published": "2026-05-06T10:04:19+09:00",
+      "summary": "<ul>\n<li><strong>nic.de</strong> DNSSEC Debugger 결과는 2026-05-06 00:38:26 UTC 기준이며, 루트에서 <code>.de</code>를 거쳐 <code>nic.de</code>까지 이어지는 신뢰 체인을 단계별로 검증함</li>\n<li>루트 영역은 <strong>DS=20326/SHA-256</strong>와 <strong>DS=38696/SHA-256</strong>를 포함하고, <code>.de...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google Chrome이 동의 없이 기기에 4GB AI 모델을 조용히 설치함",
+      "link": "https://news.hada.io/topic?id=29210",
+      "published": "2026-05-06T09:58:19+09:00",
+      "summary": "<ul>\n<li>Chrome 사용자 프로필에 <code>OptGuideOnDeviceModel</code> 디렉터리와 약 <strong>4GB</strong> <code>weights.bin</code>이 생성되며, 이는 온디바이스 LLM <strong>Gemini Nano</strong> 가중치 파일</li>\n<li>최근 Chrome은 하드웨어 요건을 만족하는 기기에 “Help me write”, 온디바이스 사기 탐지 등...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "published": "Wed, 06 May 2026 00:07:47 +0000",
+      "summary": "The Silicon Valley AV startup has not started driverless testing yet.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "published": "Tue, 05 May 2026 23:50:10 +0000",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "published": "Tue, 05 May 2026 23:05:50 +0000",
+      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "published": "Tue, 05 May 2026 22:57:41 +0000",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "published": "Tue, 05 May 2026 22:31:57 +0000",
+      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": ".de TLD offline due to DNSSEC?",
+      "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "published": "Tue, 05 May 2026 20:16:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48027897\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "published": "Tue, 05 May 2026 16:14:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48024540\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Write some software, give it away for free",
+      "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "published": "Tue, 05 May 2026 21:26:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "StarFighter 16-Inch",
+      "link": "https://us.starlabs.systems/pages/starfighter",
+      "published": "Wed, 06 May 2026 02:03:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031261\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "link": "https://susam.net/inverse-laws-of-robotics.html",
+      "published": "Tue, 05 May 2026 15:27:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48023861\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
