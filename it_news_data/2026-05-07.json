@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-07",
+  "articles": [
+    {
+      "title": "RAM 가격이 기업들에 더 높은 가격, 더 나쁜 사양, 또는 둘 다를 선택하도록 압박하고 있음",
+      "link": "https://news.hada.io/topic?id=29251",
+      "published": "2026-05-07T09:50:07+09:00",
+      "summary": "<ul>\n<li>2026년 기기 시장은 <strong>RAM 가격 상승</strong>으로 휴대폰, PC 부품, 게이밍 기기에서 가격 인상과 사양 축소가 동시에 나타나는 축소 인플레이션 양상을 보임</li>\n<li>SK Hynix, Samsung, Micron은 AI 데이터센터용 <strong>HBM</strong> 생산에 맞춰 사업을 조정해 왔고, RAM 가격은 향후 2년 이상 내...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Toprank - SEO 및 광고 관리용 Claude Code 플러그인",
+      "link": "https://news.hada.io/topic?id=29250",
+      "published": "2026-05-07T09:46:02+09:00",
+      "summary": "<ul>\n<li>Google Search Console, Google Ads, Meta Ads 데이터에 직접 접근해 <strong>트래픽 분석, 낭비 광고비 탐지, 크리에이티브 피로도 진단, 메타 태그 수정</strong>까지 수행하는 오픈소스 마케팅 자동화 도구</li>\n<li>Google Ads 스킬 4개 + Meta Ads 스킬 2개 + SEO 스킬 9개 + 크로스 모델 스킬 1개로 구성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에이전트가 이제 Cloudflare 계정을 만들고, 도메인을 구매하고, 배포할 수 있음",
+      "link": "https://news.hada.io/topic?id=29249",
+      "published": "2026-05-07T09:43:07+09:00",
+      "summary": "<ul>\n<li>코딩 에이전트가 이제 사용자를 대신해 <strong>Cloudflare 계정 생성</strong>, 유료 구독 시작, 도메인 등록, API 토큰 획득, 프로덕션 배포까지 직접 수행할 수 있음</li>\n<li>사람은 권한 부여와 Cloudflare 서비스 약관 동의에만 참여하면 되며, 대시보드 방문, API 토큰 복사·붙여넣기, <strong>신용카드...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "StarFighter 16인치",
+      "link": "https://news.hada.io/topic?id=29248",
+      "published": "2026-05-07T09:40:07+09:00",
+      "summary": "<ul>\n<li><strong>StarFighter</strong>는 Intel Core Ultra 또는 Ryzen 9, 최대 64GB 7500MT/s LPDDR5X 메모리, 최대 18시간 배터리를 갖춘 풀사이즈 Linux 성능 노트북임</li>\n<li><strong>16인치 4K IPS</strong> 디스플레이는 3840×2400 해상도, 16:10 화면비, 625cd/m² 밝기, 120Hz 주사율, 178도 시야각과 180도 힌...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub 장애를 기여로 보여주는 Red Squares",
+      "link": "https://news.hada.io/topic?id=29247",
+      "published": "2026-05-07T09:37:07+09:00",
+      "summary": "<ul>\n<li><strong>Red Squares</strong>는 GitHub의 커밋 기여 그래프를 패러디해, 초록색 칸 대신 빨간 칸으로 GitHub.com 플랫폼 장애를 표시함</li>\n<li>각 <strong>빨간 칸</strong>은 GitHub가 장애를 겪은 하루를 뜻하며, 색이 진할수록 장애가 더 오래 지속된 날을 나타냄</li>\n<li>최근 1년 동안 GitHub 다운타임...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "published": "Wed, 06 May 2026 22:30:00 +0000",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "published": "Wed, 06 May 2026 21:57:56 +0000",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "published": "Wed, 06 May 2026 21:43:24 +0000",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "published": "Wed, 06 May 2026 21:32:55 +0000",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+      "published": "Wed, 06 May 2026 20:39:16 +0000",
+      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "published": "Wed, 06 May 2026 15:44:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48037555\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Vatican's Website in Latin",
+      "link": "https://www.vatican.va/latin/latin_index.html",
+      "published": "Thu, 07 May 2026 01:26:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48044311\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Appearing productive in the workplace",
+      "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "published": "Wed, 06 May 2026 16:18:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48038001\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "published": "Wed, 06 May 2026 15:06:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48037128\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+      "published": "Thu, 07 May 2026 00:12:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48043706\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
