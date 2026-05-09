@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-09",
+  "articles": [
+    {
+      "title": "David Attenborough의 100세 생일",
+      "link": "https://news.hada.io/topic?id=29314",
+      "published": "2026-05-09T09:53:31+09:00",
+      "summary": "<ul>\n<li>King Charles III와 Queen Camilla는 Sir David Attenborough의 <strong>100세 생일</strong>을 축하하며 <a href=\"https://www.instagram.com/p/DYEioAKjP0x/?hl=en&amp;img_index=1\">매우 행복한 생일을 기원</a>했고, 1958년 BBC Zoo Quest 관련 사진도 함께 공개함</li>\n<li>Sir David는 생일을 앞두고 받은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "웹페이지가 요청하지 않았는데도 브라우저가 알려준 모든 것을 보여줌",
+      "link": "https://news.hada.io/topic?id=29313",
+      "published": "2026-05-09T09:50:30+09:00",
+      "summary": "<ul>\n<li><strong>taken.</strong> 은 방문 직후 첫 밀리초 동안 브라우저가 넘긴 데이터만으로 위치, 기기, 브라우저, 언어, GPU, 배터리, 폰트, 사용자 선호 등을 보여주며, 익스플로잇이나 해킹 없이 공개 문서화된 표준 기능만 사용함</li>\n<li>모든 요청 헤더의 <strong>IP 주소</strong>를 <a href=\"http://feeds.feedburner.com/&quot;https:/ip-ap...\"></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google Cloud Fraud Defence는 포장만 바꾼 WEI일 뿐",
+      "link": "https://news.hada.io/topic?id=29312",
+      "published": "2026-05-09T09:47:30+09:00",
+      "summary": "<ul>\n<li><strong>Google Cloud Fraud Defense</strong>는 2026년 “reCAPTCHA의 다음 진화”로 발표됐지만, 핵심은 2023년 철회된 <strong>Web Environment Integrity</strong>와 같은 기기 증명 인프라에 있음</li>\n<li>Fraud Defense의 QR 챌린지는 사용자가 휴대폰으로 코드를 스캔하면 <strong>Play Integrity API...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "폴란드는 이제 20대 경제 대국에 포함됨",
+      "link": "https://news.hada.io/topic?id=29311",
+      "published": "2026-05-09T09:44:30+09:00",
+      "summary": "<ul>\n<li><a href=\"https://apnews.com/hub/poland\"><strong>폴란드</strong></a>는 한 세대 전 배급 경제와 낮은 임금 수준에서 벗어나 연간 산출 1조 달러를 넘겼고, 스위스를 제치며 <strong>세계 20위 경제</strong>가 됨</li>\n<li>폴란드의 1인당 GDP는 IMF 구매력 조정·현재 달러 기준 <strong>1990년 6,730달러...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Camofox Browser - AI 에이전트를 위한 스텔스 헤드리스 브라우저",
+      "link": "https://news.hada.io/topic?id=29310",
+      "published": "2026-05-09T09:31:01+09:00",
+      "summary": "<ul>\n<li>Cloudflare·봇 탐지 우회, Puppeteer/Playwright 대체 가능</li>\n<li><strong>Camoufox</strong>(Firefox 포크) 기반으로 <strong>C++ 레벨에서 핑거프린트 스푸핑</strong>\n<ul>\n<li>shim이나 wrapper 없이 Google, Cloudflare 등 대부분의 봇 탐지 우회</li>\n</ul>\n</li>\n<li>접근성 스냅샷 이용: 원시 HTML ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "published": "Fri, 08 May 2026 22:59:05 +0000",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "San Francisco’s housing market has lost its mind",
+      "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+      "published": "Fri, 08 May 2026 22:32:31 +0000",
+      "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
+      "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+      "published": "Fri, 08 May 2026 20:50:03 +0000",
+      "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "published": "Fri, 08 May 2026 20:02:52 +0000",
+      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "published": "Fri, 08 May 2026 18:33:21 +0000",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "published": "Fri, 08 May 2026 18:45:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48067119\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI's WebRTC problem",
+      "link": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "published": "Thu, 07 May 2026 17:11:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48051951\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "People Hate AI Art",
+      "link": "https://mccue.dev/pages/5-8-26-ai-art",
+      "published": "Sat, 09 May 2026 00:39:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48070548\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The React2Shell Story",
+      "link": "https://lachlan.nz/blog/the-react2shell-story/",
+      "published": "Fri, 08 May 2026 16:39:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48065511\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "published": "Fri, 08 May 2026 17:55:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48066524\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
