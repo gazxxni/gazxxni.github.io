@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-11",
+  "articles": [
+    {
+      "title": "Open Design - Claude Design의 로컬 퍼스트 오픈소스 대체제",
+      "link": "https://news.hada.io/topic?id=29376",
+      "published": "2026-05-11T11:42:13+09:00",
+      "summary": "<ul>\n<li><strong>에이전트를 내장하지 않고</strong> 사용자의 PATH에 있는 16종 코딩 에이전트 CLI(Claude Code, Codex등)를 자동 감지하여 디자인 엔진으로 활용</li>\n<li><strong>31개 스킬</strong> 내장: 웹 프로토타입, SaaS 랜딩, 대시보드, 모바일 앱, 소셜 캐러셀, 매거진 포스터, PM 스펙, OKR, 인보이스 등 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사고 보고서: CVE-2024-YIKES",
+      "link": "https://news.hada.io/topic?id=29374",
+      "published": "2026-05-11T11:33:52+09:00",
+      "summary": "<ul>\n<li><strong>CVE-2024-YIKES</strong>는 JavaScript 의존성 탈취가 Rust·Python 공급망으로 확산된 사고임</li>\n<li><code>left-justify</code> 피싱으로 <code>.npmrc</code>, <code>.pypirc</code>, Cargo·Gem 자격 증명이 유출됨</li>\n<li><code>vulpine-lz4</code>의 악성 <code>build.rs</code>가 CI 호스트에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Bifrost - 초고속 엔터프라이즈 AI 게이트웨이",
+      "link": "https://news.hada.io/topic?id=29373",
+      "published": "2026-05-11T10:16:02+09:00",
+      "summary": "<ul>\n<li><strong>LiteLLM 대비 50배 빠름</strong>. 적응형 로드 밸런서, 클러스터 모드, 가드레일, 1,000개 이상 모델 지원, 5k RPS에서 100µs 미만 오버헤드</li>\n<li>OpenAI, Anthropic, AWS Bedrock, Google Vertex 15개 이상 AI 프로바이더를 <strong>단일 OpenAI 호환 API</strong>로 통합</li>\n<li><code>npx -y...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
+      "link": "https://news.hada.io/topic?id=29372",
+      "published": "2026-05-11T10:01:02+09:00",
+      "summary": "<ul>\n<li><strong>Claude Cowork 플러그인</strong> 또는 <strong>Managed Agents API</strong> 두 가지 방식으로 동일한 에이전트를 실행할 수 있는 금융 서비스 워크플로우 자동화 레퍼런스 레포지토리</li>\n<li>투자은행, 주식 리서치, 사모펀드, 자산관리 등 주요 금융 분야를 커버하는 <strong>10종의 워크플로우 에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ymawky - ARM64 어셈블리로 직접 만든 웹 서버",
+      "link": "https://news.hada.io/topic?id=29371",
+      "published": "2026-05-11T09:48:58+09:00",
+      "summary": "<ul>\n<li><strong>ymawky</strong>는 ARM64 어셈블리만으로 작성된 정적 파일 웹 서버로, libc 없이 syscall만 사용하고 연결마다 fork하는 구조로 동작함</li>\n<li>개발 대상은 <strong>MacOS</strong>이며 실행은 <strong>Apple silicon arm64</strong>에서만 가능하고, 빌드에는 Xcode Command Line Tools와 <code>ma...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Get ready for the whisper-filled office of the future",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "published": "Sun, 10 May 2026 21:15:30 +0000",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "published": "Sun, 10 May 2026 20:40:41 +0000",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "published": "Sun, 10 May 2026 18:08:54 +0000",
+      "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "published": "Sun, 10 May 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "published": "Sun, 10 May 2026 15:34:25 +0000",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "published": "Sun, 10 May 2026 17:54:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48086190\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Local AI needs to be the norm",
+      "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "published": "Sun, 10 May 2026 17:19:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Running local models on an M4 with 24GB memory",
+      "link": "https://jola.dev/posts/running-local-models-on-m4",
+      "published": "Sun, 10 May 2026 23:09:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm going back to writing code by hand",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "published": "Mon, 11 May 2026 01:23:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "published": "Mon, 11 May 2026 02:43:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48090521\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
