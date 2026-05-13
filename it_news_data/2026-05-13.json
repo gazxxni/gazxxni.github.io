@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-13",
+  "articles": [
+    {
+      "title": "새로운 Mac 스틸러가 Claude에서 Apple 지원으로 위장하고 있습니다",
+      "link": "https://news.hada.io/topic?id=29456",
+      "published": "2026-05-13T11:14:12+09:00",
+      "summary": "<p>보안 연구원들과 'Bleeping Computer'는 최근 맥 사용자를 겨냥한 새로운 공격 방식을 발견했습니다. 공격자들은 공유된 클로드(Claude) 채팅창 내에서 애플 지원팀(Apple Support)을 사칭하며, 맥에 '클로드 코드(Claude Code)' 소프트웨어를 설치하는 방법을 안내하며 접근합니다.</p>\n<h4>공격 방식 및 특징</h4>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, Claude에게 &quot;왜&quot;를 가르치다 - 정렬 훈련(Alignment Training) 개선 사례",
+      "link": "https://news.hada.io/topic?id=29455",
+      "published": "2026-05-13T10:33:56+09:00",
+      "summary": "<p>Anthropic이 작년 공개했던 에이전트 정렬 실패(agentic misalignment) 연구 - 모델이 셧다운을 피하기 위해 엔지니어를 협박하는 등의 행동을 보였던 사례 - 의 후속 개선 내용을 공개함. Claude 4 Opus는 협박 시나리오에서 최대 96%의 비율로 정렬 실패 행동을 보였으나, Claude Haiku 4.5 이후 모든 모델(Haiku 4...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Canvas 운영사 Instructure, 해킹범에게 몸값 지불",
+      "link": "https://news.hada.io/topic?id=29454",
+      "published": "2026-05-13T10:19:17+09:00",
+      "summary": "<ul>\n<li>Instructure는 학습관리시스템 <strong>Canvas</strong>를 두 차례 침해한 <strong>ShinyHunters</strong>에 몸값(Ransom)을 지급하고 복구 합의를 맺음</li>\n<li>합의에 따라 해커들이 <strong>8,800개 이상 기관</strong>의 약 2억7,500만 명 사용자 관련 침해 데이터를 반환했다고 밝힘</li>\n<li>Instructur...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "EU, 아동을 겨냥한 TikTok·Instagram의 ‘중독적 설계’ 단속 추진",
+      "link": "https://news.hada.io/topic?id=29453",
+      "published": "2026-05-13T10:09:34+09:00",
+      "summary": "<ul>\n<li>EU 집행위원회는 올해 후반 TikTok과 Instagram의 <strong>중독적 설계</strong> 기능을 겨냥한 규제 조치를 추진할 계획임</li>\n<li>대상에는 TikTok의 <strong>무한 스크롤</strong>, 자동 재생, 푸시 알림처럼 어린이 이용을 붙잡는 기능이 포함됨</li>\n<li>Meta는 Instagram과 Facebook에서 자체 <strong>최...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어 아키텍처 배우기",
+      "link": "https://news.hada.io/topic?id=29452",
+      "published": "2026-05-13T10:06:34+09:00",
+      "summary": "<ul>\n<li><strong>소프트웨어 설계</strong>는 강의보다 실제 프로젝트에서 책임을 맡고 문제가 자기 일이 될 때 더 깊게 배워짐</li>\n<li><strong>Conway’s Law</strong>는 소프트웨어가 조직의 사회적 구조를 반복한다는 관점이며, 과학 코드와 산업 코드의 차이도 인센티브에서 생길 수 있음</li>\n<li>rust-analyzer...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "published": "Wed, 13 May 2026 00:26:48 +0000",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "published": "Tue, 12 May 2026 18:45:05 +0000",
+      "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+      "published": "Tue, 12 May 2026 18:14:58 +0000",
+      "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "published": "Tue, 12 May 2026 18:05:15 +0000",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "published": "Tue, 12 May 2026 17:36:34 +0000",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "published": "Tue, 12 May 2026 21:55:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48115127\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Starship V3",
+      "link": "https://www.spacex.com/updates#starship-v3",
+      "published": "Wed, 13 May 2026 01:29:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48116781\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Googlebook",
+      "link": "https://googlebook.google/",
+      "published": "Tue, 12 May 2026 17:37:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48111545\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My graduation cap runs Rust",
+      "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "published": "Wed, 13 May 2026 00:04:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48116207\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kraftwerk's radical 1976 track",
+      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "published": "Tue, 12 May 2026 23:13:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48115823\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
