@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-14",
+  "articles": [
+    {
+      "title": "Starship V3",
+      "link": "https://news.hada.io/topic?id=29491",
+      "published": "2026-05-14T11:18:18+09:00",
+      "summary": "<ul>\n<li><strong>Starship과 Super Heavy V3</strong>는 Raptor 3, 새 발사대, 비행 시험 학습을 반영해 완전·고속 재사용을 목표로 다시 설계됨</li>\n<li><strong>Super Heavy V3</strong>는 그리드 핀을 3개로 줄이되 각 핀을 50% 키웠고, 통합 hot stage와 새 연료 이송 튜브를 적용함</li>\n<li><strong>Starship V3...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 피그마 PDF 추출 플러그인",
+      "link": "https://news.hada.io/topic?id=29490",
+      "published": "2026-05-14T11:17:22+09:00",
+      "summary": "<p>포트폴리오를 Figma로 정리하던 중, 원하는 프레임 몇 개만 골라서 하나의 PDF로 내보내고 싶었습니다.</p>\n<p>그런데 Figma 기본 기능으로는 선택한 프레임들을 한 번에 하나의 PDF로 추출할 수 없어서, 각각 PDF로 저장한 뒤 별도로 합쳐야 했습니다. 생각보다 번거로운 작업이었습니다.<br />\n찾아보니 TinyImage",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "코드 공장의 구성요소",
+      "link": "https://news.hada.io/topic?id=29488",
+      "published": "2026-05-14T10:30:51+09:00",
+      "summary": "<p>제가 요즘 1인개발자 팀으로 일하고 있는 방식을 공유하고자 이 글을 써보았습니다. 한국에서도 Agentic Coding으로 토이 프로젝트가 아닌 큰 프로젝트를 수행할 때의 노하우가 활발히 공유되었으면 하는 생각입니다.</p>\n<h4>가벼운 요약</h4>\n<ul>\n<li>Claude Code, Ralph Loop, OpenClaw 등의 모든 도구는 하네스로",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "중국 AI 연구소 내부에서 얻은 교훈",
+      "link": "https://news.hada.io/topic?id=29487",
+      "published": "2026-05-14T10:13:02+09:00",
+      "summary": "<ul>\n<li>중국 주요 AI 연구소들을 직접 방문하고 연구자들과 대화한 경험을 바탕으로, 중미 AI 생태계의 <strong>문화적 차이</strong>와 그것이 모델 개발에 미치는 영향을 분석한 현장 보고</li>\n<li>중국 연구자들은 개인의 명성보다 <strong>최종 모델의 품질 최적화</strong>에 집중하는 문화적 성향을 보이며, 핵...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 분야의 다음 최대 해자는 &quot;조직&quot;이다",
+      "link": "https://news.hada.io/topic?id=29486",
+      "published": "2026-05-14T10:01:01+09:00",
+      "summary": "<ul>\n<li>AI 업계에서 제품, 워크플로, 기술적 우위가 빠르게 수렴하고 복제 가능해지면서, <strong>기업의 조직 구조 자체</strong>가 가장 강력한 경쟁 해자로 부상</li>\n<li>위대한 기업은 단순히 뛰어난 인재가 모이는 곳이 아니라, 특정 유형의 인재가 비로소 자신을 표현할 수 있게 해주는 <strong>조직적 발명품...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "published": "Wed, 13 May 2026 19:49:42 +0000",
+      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "published": "Wed, 13 May 2026 19:28:06 +0000",
+      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
+      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+      "published": "Wed, 13 May 2026 18:12:29 +0000",
+      "summary": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+      "published": "Wed, 13 May 2026 17:42:20 +0000",
+      "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Scorched Earth 2000 is back",
+      "link": "http://www.scorch2000.com/web/",
+      "published": "Thu, 14 May 2026 00:41:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48129694\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "published": "Sun, 10 May 2026 20:54:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48087887\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "link": "https://fredchan.org/blog/locality-domains-guide/",
+      "published": "Wed, 13 May 2026 14:45:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48122635\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cisco Workforce Reductions",
+      "link": "https://blogs.cisco.com/news/our-path-forward",
+      "published": "Thu, 14 May 2026 01:38:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48130123\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "published": "Sat, 09 May 2026 11:14:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48073979\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
