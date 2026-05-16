@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-16",
+  "articles": [
+    {
+      "title": "Github 19만스타에 빛나는 Claude Code 플러그인 Superpowers 사용기",
+      "link": "https://news.hada.io/topic?id=29552",
+      "published": "2026-05-16T10:51:02+09:00",
+      "summary": "<p>AI 코딩 도구의 가장 큰 문제는 기획 없이 폭주한다는 것<br />\n단순히 '메모앱 만들어'라고 요청하면 사용자의 의도를 무시하고 기획에 없던 기능까지 추가하곤 함<br />\n이 문제를 해결하기 위해 등장한 것이 Claude Code 플러그인 Superpowers<br />\n현재 188,000개 이상의 깃허브 스타를 받고 있는 이 도구는 코딩...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Windows XP 데스크톱처럼 Wikipedia 탐색하기",
+      "link": "https://news.hada.io/topic?id=29551",
+      "published": "2026-05-16T09:50:57+09:00",
+      "summary": "<ul>\n<li><strong>Wikipedia File Explorer</strong>는 Wikipedia 카테고리를 Windows XP 데스크톱의 폴더처럼 열어 탐색하는 웹 인터페이스임</li>\n<li>Wikipedia의 <strong>카테고리</strong>는 폴더처럼, 문서는 파일처럼 열리며 카테고리 없는 약 100개 안팎의 페이지를 제외하면 모든 항목에 접근 가능함</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mullvad exit IP는 놀라울 정도로 식별 가능함",
+      "link": "https://news.hada.io/topic?id=29550",
+      "published": "2026-05-16T09:47:57+09:00",
+      "summary": "<ul>\n<li><strong>Mullvad</strong>는 서버 하나에 여러 exit IP를 두지만, WireGuard 키 기반으로 결정적으로 배정해 접속마다 무작위로 바뀌지 않음</li>\n<li>9개 서버에서 pubkey를 반복 변경해 모은 <strong>3,650개 데이터 포인트</strong>는 가능한 8.2조 개 조합 중 284개 조합에만 배정됨</li>\n<li>각 서버의 ex...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "지금 많은 기업이 AI 집단 광기에 빠져 있다고 믿는다",
+      "link": "https://news.hada.io/topic?id=29549",
+      "published": "2026-05-16T09:44:57+09:00",
+      "summary": "<ul>\n<li>미첼 하시모토: &quot;<strong>지금 많은 기업이 심각한 AI 집단 광기에 빠져 있으며, 그들과 이성적인 대화를 나누는 것은 불가능하다</strong>&quot;</li>\n<li>클라우드 인프라 자동화 시대의 <strong>MTBF vs MTTR 논쟁</strong>이 이제 소프트웨어 개발 산업 전체로 확산되고 있으며, AI 에이전트에 대한 맹...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Project Gutenberg - 계속 더 좋아지고 있음",
+      "link": "https://news.hada.io/topic?id=29548",
+      "published": "2026-05-16T09:41:57+09:00",
+      "summary": "<ul>\n<li><strong>Project Gutenberg</strong>는 75,000권 이상의 무료 eBook을 제공하며, epub·Kindle 다운로드와 온라인 읽기를 지원함</li>\n<li>도서는 세계 주요 문학 작품 중심이며, 특히 <strong>미국 저작권이 만료된 오래된 작품</strong>에 초점을 둠</li>\n<li>이용은 <strong>100% 무료</strong>이고 요금·등...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "published": "Fri, 15 May 2026 20:30:20 +0000",
+      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "published": "Fri, 15 May 2026 20:25:35 +0000",
+      "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+      "published": "Fri, 15 May 2026 18:51:33 +0000",
+      "summary": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "published": "Fri, 15 May 2026 18:14:44 +0000",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+      "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "published": "Fri, 15 May 2026 17:13:26 +0000",
+      "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "link": "https://www.gutenberg.org/",
+      "published": "Fri, 15 May 2026 16:15:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48150431\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "published": "Fri, 15 May 2026 20:26:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48153379\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Naturally Occurring Quasicrystals",
+      "link": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "published": "Thu, 14 May 2026 14:32:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48136000\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Bird Eye Was Pushed to an Evolutionary Extreme",
+      "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "published": "Thu, 14 May 2026 07:17:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48132106\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Additive Blending on the Nintendo 64",
+      "link": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "published": "Fri, 15 May 2026 14:39:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48149259\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
