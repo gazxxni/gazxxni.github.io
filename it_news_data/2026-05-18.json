@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-18",
+  "articles": [
+    {
+      "title": "AI는 기술이지, 제품이 아니다",
+      "link": "https://news.hada.io/topic?id=29614",
+      "published": "2026-05-18T10:37:25+09:00",
+      "summary": "<ul>\n<li>AI는 <strong>개별 제품이 아닌 기반 기술</strong>로 보아야 하며, 모든 디바이스에 스며드는 <strong>무선 네트워킹과 유사한 보편적 인프라</strong>로 자리잡을 것</li>\n<li>Steven Levy는 Apple 차기 CEO가 <strong>‘킬러 AI 제품’을 출시해야 한다</strong>고 주장했으나, 이는 <strong>Apple의 제품 철...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
+      "link": "https://news.hada.io/topic?id=29613",
+      "published": "2026-05-18T10:06:01+09:00",
+      "summary": "<ul>\n<li><strong>파라미터 수가 아닌 실측 벤치마크 기반</strong>으로 사용자 하드웨어에 맞는 로컬 LLM을 자동 추천하는 CLI 도구</li>\n<li>GPU/CPU/RAM을 자동 감지하고 HuggingFace 모델 중 시스템에 맞는 <strong>상위 모델을 랭킹</strong>으로 제시\n<ul>\n<li>NVIDIA, AMD, Apple Silicon, CPU-only 모두 지원</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 구독은 엔터프라이즈의 시한폭탄",
+      "link": "https://news.hada.io/topic?id=29612",
+      "published": "2026-05-18T10:04:26+09:00",
+      "summary": "<ul>\n<li>OpenAI, Anthropic, Google 등은 기업에 <strong>실제 제공 비용보다 낮은 구독 가격</strong>을 제시해, 가격 조정 때 큰 비용 충격을 만들 수 있음</li>\n<li>Claude Pro·ChatGPT Plus의 월 <strong>20달러</strong> 정액제는 고사용자의 실제 API 환산 비용이 좌석당 월 200~400달러까지 커질 수 있음</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2025년 4월 이후 5개 주에서 Flock 카메라 최소 25대가 파괴됨",
+      "link": "https://news.hada.io/topic?id=29611",
+      "published": "2026-05-18T10:01:25+09:00",
+      "summary": "<ul>\n<li>미국 전역에서 <strong>Flock Safety 감시 카메라</strong> 절단·파손·해체가 이어지며, 2025년 4월 이후 5개 주에서 최소 25대가 파괴됨</li>\n<li>La Mesa, Eugene·Springfield, Suffolk, Greenview, Lisbon에서 파손이 발생했고, 도시·교외와 민주당·공화당 성향 주를 모두 가로지름</li>\n<li>Virginia Suffo...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 여러분의 프로세스를 더 빠르게 만들지는 않을 것 같습니다",
+      "link": "https://news.hada.io/topic?id=29610",
+      "published": "2026-05-18T09:58:25+09:00",
+      "summary": "<ul>\n<li>프로세스 최적화 흐름 속에서 AI에 대한 <strong>비현실적 기대</strong>가 확산되고 있으나, 단순히 AI 도입만으로 처리 속도가 개선되지는 않음</li>\n<li>소프트웨어 개발이 오래 걸리는 진짜 원인은 코딩 속도가 아니라, <strong>모호한 요구사항을 명확한 문제 정의로 전환하는 과정</strong>에 있음</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "published": "Sun, 17 May 2026 20:15:00 +0000",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "published": "Sun, 17 May 2026 19:46:34 +0000",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "published": "Sun, 17 May 2026 16:32:04 +0000",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "published": "Sun, 17 May 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+      "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+      "published": "Sun, 17 May 2026 15:00:00 +0000",
+      "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GenCAD",
+      "link": "https://gencad.github.io/",
+      "published": "Sun, 17 May 2026 21:40:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "There Is No 'Hard Problem of Consciousness'",
+      "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "published": "Mon, 18 May 2026 02:59:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48175140\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "link": "https://github.com/tech4bot/rk3562deb",
+      "published": "Sun, 17 May 2026 13:16:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "link": "https://askanastronaut.issinrealtime.org/",
+      "published": "Fri, 15 May 2026 19:25:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48152754\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Prolog Coding Horror",
+      "link": "https://www.metalevel.at/prolog/horror",
+      "published": "Sun, 17 May 2026 21:15:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
