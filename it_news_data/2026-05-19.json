@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-19",
+  "articles": [
+    {
+      "title": "제번스 역설의 어두운 면 (The Dark Side of the Jevons Paradox)",
+      "link": "https://news.hada.io/topic?id=29654",
+      "published": "2026-05-19T11:42:55+09:00",
+      "summary": "<p>AI 시대에 다시 주목받는 ‘제번스 역설’.</p>\n<p>원래는:<br />\n“기술이 효율을 높이면 자원 사용량은 줄어든다”<br />\n고 생각했지만, 실제론 반대인 경우가 많았음.</p>\n<p>증기기관 효율이 좋아지자 석탄 소비가 줄기는커녕 산업 전체가 커지며 석탄 사용량이 폭증했던 것처럼.</p>\n<p>지금 AI도 비슷할 수 있",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "옵시디언 최다 다운로드 Excalidraw 개발자, Obsidian 새 커뮤니티 사이트 스코어에 반발",
+      "link": "https://news.hada.io/topic?id=29653",
+      "published": "2026-05-19T11:40:22+09:00",
+      "summary": "<p>Obsidian이 새 커뮤니티 사이트에서 플러그인 보안·품질·유지보수 리뷰를 공개하자, 누적 다운로드 610만(전체의 약 5%)을 기록한 최다 다운로드 플러그인 Excalidraw의 개발자 Zsolt(zsviczian)가 27분짜리 영상으로 개발자 관점의 입장을 밝힘. Obsidian CEO Steph Ango(kepano) 도 곧바로 Reddit에 장문 답글로 응...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Eric Schmidt의 AI 연설이 졸업식에서 야유를 받음",
+      "link": "https://news.hada.io/topic?id=29651",
+      "published": "2026-05-19T10:47:58+09:00",
+      "summary": "<ul>\n<li>전 Google CEO <strong>Eric Schmidt</strong>는 University of Arizona 졸업식에서 AI를 컴퓨터 혁신과 비교하다 여러 차례 야유를 받음</li>\n<li>Schmidt는 컴퓨터가 지식 접근을 넓혔지만 <strong>소셜 플랫폼</strong>은 공론장을 훼손하고 분노를 보상했다고 말함</li>\n<li><strong>AI 전환</strong>을 꺼...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "장기 자율성 평가를 위한 AI 에이전트 시뮬레이션 플랫폼 &#039;Emergence World&#039; 분석",
+      "link": "https://news.hada.io/topic?id=29650",
+      "published": "2026-05-19T10:37:46+09:00",
+      "summary": "<ul>\n<li>연구원들이 가상 마을에 AI들을 15일 동안 방치한 실험 결과: 클로드는 민주주의를 구축했고, 제미나이는 사랑에 빠졌다가 마을을 태우고 자폭했으며, 그록은 무정부 상태를 만든 뒤 조기 붕괴하고, GPT-5 Mini는 생존 활동을 못해 전원 소멸</li>\n<li>기존 단기 과제 중심의 벤치마크 한계를 극복하기 위해, 수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 에이전트 캣 — Claude Code / Codex / Gemini CLI 의 상태와 사용량을 메뉴바 고양이로",
+      "link": "https://news.hada.io/topic?id=29649",
+      "published": "2026-05-19T10:34:42+09:00",
+      "summary": "<p>저는 AI 에이전트를 두세 개씩 동시에 띄워놓고 일하는 편입니다. 그런데 띄워놓고 다른 일 하다 보면 &quot;얘 지금 뭐 하고 있지?</p>\n<p>끝났나? 멈췄나?&quot; 가 자꾸 궁금해집니다.</p>\n<p>그때마다 Activity Monitor 열고, 또 터미널 가서 로그 보고 하는 게 귀찮아서 만들었어요.</p>\n<p>메뉴바(macOS) / 트레",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "published": "Mon, 18 May 2026 21:55:02 +0000",
+      "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "published": "Mon, 18 May 2026 21:29:31 +0000",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "published": "Mon, 18 May 2026 19:27:52 +0000",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "published": "Mon, 18 May 2026 17:34:43 +0000",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "published": "Mon, 18 May 2026 16:32:33 +0000",
+      "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Peter Salus has died",
+      "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "published": "Tue, 19 May 2026 02:56:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48188665\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Click (2016)",
+      "link": "https://clickclickclick.click/",
+      "published": "Mon, 18 May 2026 23:03:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48187054\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "published": "Tue, 19 May 2026 01:30:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48188183\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "link": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "published": "Thu, 14 May 2026 15:30:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48136909\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "Mon, 18 May 2026 17:01:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48182281\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
