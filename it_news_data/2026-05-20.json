@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-20",
+  "articles": [
+    {
+      "title": "Bambu의 AGPLv3 위반에 대한 포괄적 대응",
+      "link": "https://news.hada.io/topic?id=29694",
+      "published": "2026-05-20T11:03:41+09:00",
+      "summary": "<ul>\n<li><strong>Bambu Studio</strong>는 AGPLv3 기반 PrusaSlicer 수정 버전이지만, 독점 네트워킹 라이브러리의 전체 소스와 설치 정보를 제공하지 않았음</li>\n<li>AGPLv3의 <strong>Corresponding Source</strong>에는 생성·설치·실행·수정에 필요한 코드와 밀접히 결합된 동적 링크 라이브러리 소스가 포함됨</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "What&#039;s new in Chrome from Google I/O 2026",
+      "link": "https://news.hada.io/topic?id=29693",
+      "published": "2026-05-20T10:54:36+09:00",
+      "summary": "<p>Chrome 개발자 데브렐팀을 이끄는 Paul Kinlan이 발표한 이번 키노트는 지난 6개월간 웹 개발 환경에 일어난 급격한 변화와, Chrome이 준비 중인 새로운 기술들을 폭넓게 다뤘습니다. 핵심은 세 가지 축으로 정리됩니다. 에이전트(AI 비서)가 사용자 대신 웹을 탐색하는 시대에 사이트를 준비시키는 일, 개발 도구가 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cursor Composer 2.5, Cursor 내 가장 많이 선택받는 모델로 등극 — 10x 사용량 보너스",
+      "link": "https://news.hada.io/topic?id=29691",
+      "published": "2026-05-20T10:53:13+09:00",
+      "summary": "<ul>\n<li>Cursor CEO Michael Truell가 X에 “Composer 2.5가 Cursor에서 가장 많이 선택되는 모델이 됐다. 하루 동안 모든 사용자에게 10배 사용량을 제공한다” ￼고 발표</li>\n<li>출시 직후 채택률이 빠르게 올라간 신호로, Anthropic/OpenAI 모델을 두고 자체 모델이 디폴트로 선택받는 흐름</li>\n</ul>\n<p>Compose...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미네소타, 예측시장을 금지한 첫 주가 되다",
+      "link": "https://news.hada.io/topic?id=29690",
+      "published": "2026-05-20T10:36:05+09:00",
+      "summary": "<ul>\n<li><strong>미네소타</strong>는 Kalshi와 Polymarket 같은 예측시장 사이트의 주 내 운영을 금지한 미국 첫 주가 됐고, 법은 8월부터 시행됨</li>\n<li>새 법은 스포츠·선거·라이브 엔터테인먼트·세계 정세 등 미래 결과에 돈을 거는 시스템을 <strong>예측시장</strong>으로 정의하고 운영·광고를 범죄화함</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CISA 관리자가 AWS GovCloud 키를 GitHub에 유출",
+      "link": "https://news.hada.io/topic?id=29689",
+      "published": "2026-05-20T10:10:43+09:00",
+      "summary": "<ul>\n<li>CISA 계약자가 운영한 공개 <strong>Private-CISA</strong> 저장소가 고권한 AWS GovCloud 계정과 내부 시스템 자격 증명을 노출함</li>\n<li>GitHub 계정에는 비밀 정보 게시를 막는 기본 설정을 비활성화한 흔적과 <strong>평문 비밀번호</strong>, 토큰, 로그가 포함됨</li>\n<li>노출 파일 <strong>important...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "published": "Tue, 19 May 2026 21:33:30 +0000",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "published": "Tue, 19 May 2026 21:25:31 +0000",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "published": "Tue, 19 May 2026 21:16:25 +0000",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord enables end-to-end encrypted voice and video calling for every user",
+      "link": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/",
+      "published": "Tue, 19 May 2026 21:14:08 +0000",
+      "summary": "Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mach Industries just spent $50M to solve a major defense tech problem",
+      "link": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/",
+      "published": "Tue, 19 May 2026 21:09:56 +0000",
+      "summary": "Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Railway Blocked by Google Cloud",
+      "link": "https://status.railway.com/?date=20260519",
+      "published": "Wed, 20 May 2026 00:23:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48201484\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 3.5 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "published": "Tue, 19 May 2026 17:43:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48196570\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
+      "link": "https://fivethirtyeightindex.com/",
+      "published": "Wed, 20 May 2026 01:34:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48201973\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "link": "https://virtualosmuseum.org/",
+      "published": "Tue, 19 May 2026 15:53:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48195009\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google changes its search box",
+      "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "published": "Tue, 19 May 2026 18:34:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48197370\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
