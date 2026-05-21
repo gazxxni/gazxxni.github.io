@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-21",
+  "articles": [
+    {
+      "title": "나는 소프트웨어 엔지니어가 아니다",
+      "link": "https://news.hada.io/topic?id=29730",
+      "published": "2026-05-21T11:02:32+09:00",
+      "summary": "<ul>\n<li><strong>소프트웨어 엔지니어</strong>라는 정체성 거부는 23년 전 “좋은 해커지만 엔지니어는 아니다”라는 평가에서 시작됨</li>\n<li><strong>에이전트 패러다임</strong>은 비결정적 프로그램으로 결정적이어야 하는 프로그램을 만들게 하는 방식처럼 느껴짐</li>\n<li>코드에 대한 믿음은 <strong>가독성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google I/O 2026에서 발표한 모든 것",
+      "link": "https://news.hada.io/topic?id=29729",
+      "published": "2026-05-21T11:01:01+09:00",
+      "summary": "<ul>\n<li>핵심 축은 <strong>Gemini 3.5 Flash</strong>, <strong>Gemini Omni Flash</strong>, <strong>Antigravity 2.0</strong>, <strong>Google AI Studio</strong>, <strong>Gemma 4</strong>, <strong>Android 17</strong>, <strong>Chrome/Web</strong>, <strong>Firebase</strong>, <strong>Google Play</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google이 이제 우리를 싫어하는 것 같다",
+      "link": "https://news.hada.io/topic?id=29728",
+      "published": "2026-05-21T10:58:55+09:00",
+      "summary": "<ul>\n<li><strong>Pokémon Central Wiki</strong>는 15년 넘게 이탈리아어 Pokémon 정보의 주요 출처였지만, 현재 Google 검색 결과에서 거의 사라짐</li>\n<li>wiki.pokemoncentral.it는 <strong>MediaWiki</strong> 기반의 대형 위키인데도 <code>site:</code> 검색 결과가 문자 그대로 4개만 반환됨</li>\n<li>색인 급감...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 내가 만든 AI사이트,앱을 홍보 할 곳이 없어서 만들어봤어",
+      "link": "https://news.hada.io/topic?id=29727",
+      "published": "2026-05-21T10:50:30+09:00",
+      "summary": "<p>왜 만들었나요?</p>\n<p>두가지를 제공해보고 싶었어요.<br />\n첫번재로 AI제품이 쏟아지는데 어떤 제품들이 있는지, 그중에 어떤게 인기가 있는지 한눈에 볼 수있으면 좋겠다고 생각이 들었어요. 그중에도 해외사이트와 다르게, 한국 개발사들의 제품을 우선 검색할수도 있으면 했구요</p>\n<p>두번째로는 바이브 코딩",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사고 보고서: Google Cloud에 의해 차단된 Railway [해결됨]",
+      "link": "https://news.hada.io/topic?id=29725",
+      "published": "2026-05-21T09:58:21+09:00",
+      "summary": "<ul>\n<li><strong>Railway</strong>의 광범위한 서비스 장애는 해결됐으며, 원인은 Railway의 Google Cloud 계정 차단으로 확인됨</li>\n<li>장애 중 사용자는 <code>&quot;no healthy upstream&quot;</code>, <code>&quot;unconditional drop overload&quot;</code>, <strong>로그인 실패</strong>, 대시보드 접근 불가를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "published": "Thu, 21 May 2026 00:28:31 +0000",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "published": "Thu, 21 May 2026 00:21:21 +0000",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "published": "Wed, 20 May 2026 23:03:02 +0000",
+      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "published": "Wed, 20 May 2026 22:30:45 +0000",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "published": "Wed, 20 May 2026 22:26:08 +0000",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "published": "Wed, 20 May 2026 19:05:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48212493\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "published": "Wed, 20 May 2026 13:43:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48207660\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What is Demand Coop and why tech workers should join one",
+      "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "published": "Thu, 21 May 2026 01:20:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48216619\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "link": "https://github.com/kageroumado/phosphene",
+      "published": "Wed, 20 May 2026 23:54:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48215979\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DOS Zone",
+      "link": "https://dos.zone/",
+      "published": "Wed, 20 May 2026 22:53:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48215418\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
