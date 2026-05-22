@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-22",
+  "articles": [
+    {
+      "title": "대화에 AI 생성 텍스트 벽 던지기",
+      "link": "https://news.hada.io/topic?id=29758",
+      "published": "2026-05-22T11:35:34+09:00",
+      "summary": "<ul>\n<li><strong>슬롭 수류탄</strong>은 한 문장으로 충분한 채팅이나 이메일에 거대한 AI 생성 답변을 붙여 넣어 대화 매체를 망가뜨리는 행동임</li>\n<li>“회의가 몇 시냐”는 질문에 일정 관리 모범 사례 10쪽짜리 분석을 던지는 식으로, 질문의 크기와 답변 형식이 어긋남</li>\n<li>Redis와 Memcached 선택처럼 판...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Project Hail Mary - 항성 항법 차트",
+      "link": "https://news.hada.io/topic?id=29757",
+      "published": "2026-05-22T09:51:38+09:00",
+      "summary": "<ul>\n<li><strong>Hail Mary</strong>는 <code>GAIA DR3 · ECL J2000 · SOL-CENTRED</code> 기준으로 만든 항성 항법 차트임</li>\n<li>차트의 목적지는 <strong>Tau Ceti</strong>이며, 범위는 <strong>17.72 pc / 57.8 ly</strong>로 제시됨</li>\n<li>근거리 항성장은 <strong>53,836개 항목</strong>으로 구성되고, 배...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "제로에서 성장 엔진 구축하기: Claude Code로 ARR 38% 끌어올린 방법",
+      "link": "https://news.hada.io/topic?id=29756",
+      "published": "2026-05-22T09:49:01+09:00",
+      "summary": "<ul>\n<li>기존 성장팀 없이 단일 운영자가 <strong>Claude Code</strong> 기반으로 전체 인수 시스템을 구축, 6개월 만에 <strong>ARR $20M → $27.6M(+38%)</strong> 달성</li>\n<li>95% 입소문 의존 구조에서 <strong>4,582건 예약 데이터 분석</strong>으로 시작해 ICP·브랜드·실행 3단계 순차 진행</li>\n<li><strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google의 Antigravity 미끼와 바꿔치기",
+      "link": "https://news.hada.io/topic?id=29755",
+      "published": "2026-05-22T09:48:38+09:00",
+      "summary": "<ul>\n<li><strong>Antigravity 2.0</strong> 자동 업데이트가 기존 IDE를 독립형 Codex 스타일 대화형 도구로 바꾸면서 실행 바로가기에서 IDE가 사라짐</li>\n<li>기존 Antigravity IDE는 Google AI Ultra 플랜의 일상 도구였고, <strong>계획-검토-구현 루프</strong>가 끊기며 작업 방식이 중단됨</li>\n<li>다운로드 페...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "agentmemory - AI 코딩 에이전트용 영구 메모리 시스템",
+      "link": "https://news.hada.io/topic?id=29754",
+      "published": "2026-05-22T09:46:01+09:00",
+      "summary": "<ul>\n<li>AI 코딩 에이전트가 세션이 끝나면 잊어버리는 문제를 해결</li>\n<li>도구 사용을 백그라운드에서 자동 캡처·압축, 다음 세션 시작 시 컨텍스트 주입</li>\n<li>매 세션마다 스택·아키텍처 <strong>재설명 필요 없음</strong>, 내장 메모리(CLAUDE.md)의 200줄 한계와 stale 문제 해소</li>\n<li>Claude Code, Cu...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "published": "Fri, 22 May 2026 00:37:00 +0000",
+      "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+      "published": "Fri, 22 May 2026 00:07:47 +0000",
+      "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+      "published": "Thu, 21 May 2026 21:39:03 +0000",
+      "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+      "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+      "published": "Thu, 21 May 2026 21:13:23 +0000",
+      "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+      "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+      "published": "Thu, 21 May 2026 21:00:42 +0000",
+      "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "link": "https://valhovey.github.io/gaia-mary/",
+      "published": "Thu, 21 May 2026 16:23:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48225297\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "published": "Thu, 21 May 2026 18:54:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48227397\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using Kagi Search with Low Vision",
+      "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "published": "Thu, 21 May 2026 19:32:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48227860\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Death of the Brick and Mortar Toy Store",
+      "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "published": "Tue, 19 May 2026 12:48:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48192605\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "published": "Thu, 21 May 2026 20:56:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48228788\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
