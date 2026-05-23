@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-23",
+  "articles": [
+    {
+      "title": "AI로 시장조사할 때 프롬프트에 넣어야 할 제약 조건 4가지",
+      "link": "https://news.hada.io/topic?id=29785",
+      "published": "2026-05-23T10:55:37+09:00",
+      "summary": "<p>AI 시장조사 활용 시 신뢰도 검증의 중요성</p>\n<p>AI로 시장조사 업무를 빠르게 처리할 수 있는 시대가 됐지만, AI가 생성한 데이터의 정확성 검증은 필수<br />\n실제 경험에 기반한 AI의 4가지 주요 오류 유형과 이를 방지하기 위한 프롬프트 제약 방법 소개</p>\n<p>주요 AI 리서치 오류 유형</p>\n<p>• Case 1: 그",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS의 기능을 100% 활용하는 실시간 다국어 AI Voice Agent — TalkMode",
+      "link": "https://news.hada.io/topic?id=29784",
+      "published": "2026-05-23T10:07:27+09:00",
+      "summary": "<p>제목:<br />\n맥 위에서 동작하는 실시간 AI 음성 Agent — TalkMode</p>\n<p>부제:<br />\n시선 추적(Gaze), 실시간 STT/TTS, Claude/OpenAI 연동 기반의 Agent-OS 스타일 음성 인터페이스</p>\n<p><a href=\"https://talkmode.baryon.ai/\">TalkMode</a> 는 단순 음성 챗봇보다는<br />\n“실시간 작업형 AI 음성 Agent”에",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "일본 기업은 왜 그렇게 다양한 일을 많이 하는가",
+      "link": "https://news.hada.io/topic?id=29783",
+      "published": "2026-05-23T09:54:02+09:00",
+      "summary": "<ul>\n<li><strong>Toto</strong>는 변기·비데 회사로 알려졌지만 정전척 성장으로 AI 반도체 공급망의 핵심 공급자가 됐고, 일본식 다각화의 전형을 보여줌</li>\n<li>일본 기업의 특이점은 단순한 사업 확장이 아니라 세라믹, 광학, 소재, 장비 같은 <strong>고정밀 투입재</strong>를 여러 영역에서 잘 만든다는 데 있음...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Steve Wozniak, 학생들에게 AI, 즉 actual intelligence가 있다고 말한 뒤 박수 받음",
+      "link": "https://news.hada.io/topic?id=29782",
+      "published": "2026-05-23T09:51:01+09:00",
+      "summary": "<ul>\n<li><strong>Steve Wozniak</strong>은 Grand Valley State University 졸업식에서 AI를 농담처럼 풀어내며 웃음과 박수를 받음</li>\n<li>노동시장에 들어가는 졸업생들에게 “여러분은 AI, 즉 <strong>actual intelligence</strong>를 가지고 있다”고 말함</li>\n<li>AI를 깊게 다루려면 시간이 오래 걸린다며 인류...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LLM이라면, 이것을 읽어 주세요",
+      "link": "https://news.hada.io/topic?id=29781",
+      "published": "2026-05-23T09:48:01+09:00",
+      "summary": "<ul>\n<li><strong>Anna’s Archive</strong>는 인류의 지식과 문화를 백업하고 전 세계 누구나 접근할 수 있게 하려는 비영리 프로젝트임</li>\n<li>웹사이트에는 과부하 방지를 위한 <strong>CAPTCHA</strong>가 있지만, 전체 데이터는 토렌트와 JSON API로 대량 다운로드 가능함</li>\n<li>HTML과 코드는 <strong>GitLab...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "published": "Fri, 22 May 2026 23:03:33 +0000",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+      "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+      "published": "Fri, 22 May 2026 22:55:57 +0000",
+      "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+      "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+      "published": "Fri, 22 May 2026 21:37:17 +0000",
+      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "published": "Fri, 22 May 2026 21:02:36 +0000",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "published": "Fri, 22 May 2026 20:40:48 +0000",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is AI Profitable Yet?",
+      "link": "https://isaiprofitable.com/",
+      "published": "Sat, 23 May 2026 02:10:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48243863\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "published": "Fri, 22 May 2026 21:36:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48241997\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Japanese companies do so many different things",
+      "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "published": "Fri, 22 May 2026 15:22:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48237163\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Project Glasswing: An Initial Update",
+      "link": "https://www.anthropic.com/research/glasswing-initial-update",
+      "published": "Fri, 22 May 2026 19:31:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48240419\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "link": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "published": "Wed, 20 May 2026 09:03:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48204985\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
