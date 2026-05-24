@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-24",
+  "articles": [
+    {
+      "title": "Google의 IBM화?",
+      "link": "https://news.hada.io/topic?id=29817",
+      "published": "2026-05-24T10:46:04+09:00",
+      "summary": "<ul>\n<li>Google의 <strong>수직 통합</strong>은 TSMC 실리콘, TPU, 자체 데이터센터, 모델, 검색엔진까지 가진 강점에서 조직과 제품의 부담으로 바뀐 상태로 보임</li>\n<li>Railway의 <strong>GCP 계정 차단</strong>은 대형 고객도 예고 없는 자동 삭제와 연락 창구 부재를 겪을 수 있다는 Google Cloud 신뢰 문제를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI는 아직 수익성이 있는가?",
+      "link": "https://news.hada.io/topic?id=29816",
+      "published": "2026-05-24T10:04:49+09:00",
+      "summary": "<ul>\n<li><strong>프런티어 AI 기업</strong>들의 누적 지출과 매출을 합산하면, 2026년 5월 현재 AI 산업 전체는 아직 수익을 내지 못하고 있음</li>\n<li>산업 전체 누적 지출은 <strong>1.4조 달러</strong>, 누적 매출은 <strong>6,130억 달러</strong>이며, 페이지는 로드 이후 AI 지출 카운터도 보여줌</li>\n<li>Am...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Electrobun 2.0은 Rust 재작성으로 인해 Bun에서 분리될 예정",
+      "link": "https://news.hada.io/topic?id=29815",
+      "published": "2026-05-24T10:00:45+09:00",
+      "summary": "<ul>\n<li><strong>Electrobun 2.0</strong>은 yt-dlp가 내린 결정과 비슷하게 <strong>Bun의 Rust 재작성</strong> 때문에, Bun 의존을 줄이는 방향으로 바뀌며, 런타임 의존 구조도 달라질 예정임</li>\n<li>분리 결정에는 <strong>Anthropic</strong>이 인간 리뷰, 합리적인 롤아웃, 안정화 과정을 충분히 거치지 않는다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "BambuStudio는 포크 이후 PrusaSlicer AGPL 라이선스를 위반해 왔다",
+      "link": "https://news.hada.io/topic?id=29814",
+      "published": "2026-05-24T09:41:12+09:00",
+      "summary": "<ul>\n<li><strong>BambuStudio</strong>는 AGPL-3.0 기반 PrusaSlicer 포크로, 슬라이서 코드는 공개했지만 클라우드 통신용 네트워크 플러그인은 닫힌 바이너리로 남겼다는 의혹을 받음</li>\n<li>닫힌 플러그인은 <strong>핵심 기능</strong>에 필요하고 BambuStudio 없이는 의미 있게 작동하지 않아, 파일 분리만으로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Texas 여성이 마을 수질에 관한 Facebook 게시물로 체포됨",
+      "link": "https://news.hada.io/topic?id=29813",
+      "published": "2026-05-24T09:38:12+09:00",
+      "summary": "<ul>\n<li><strong>Jennifer Combs</strong>는 Texas Trinidad의 상수도 문제를 다룬 Facebook 게시물 이후 주 교도소급 중범죄 혐의로 체포됨</li>\n<li>게시물은 물속 박테리아로 주민들이 입원했다는 신고와 함께 변색·침전물·냄새·건강 문제 제보를 요청했음</li>\n<li>적용 혐의는 <strong>허위 경보 또는 보고</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "published": "Sat, 23 May 2026 20:03:13 +0000",
+      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These special phone and app features can help protect you from spyware",
+      "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "published": "Sat, 23 May 2026 16:00:00 +0000",
+      "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "published": "Sat, 23 May 2026 15:08:00 +0000",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "published": "Sat, 23 May 2026 14:50:00 +0000",
+      "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "published": "Sat, 23 May 2026 13:00:00 +0000",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "published": "Sun, 24 May 2026 01:21:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48253386\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "published": "Sun, 24 May 2026 00:51:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48253186\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wake up! 16b",
+      "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "published": "Sun, 24 May 2026 00:30:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48253060\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Time to talk about my writerdeck",
+      "link": "https://veronicaexplains.net/my-first-writerdeck/",
+      "published": "Sat, 23 May 2026 18:45:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48250144\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "published": "Fri, 22 May 2026 21:27:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48241890\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
