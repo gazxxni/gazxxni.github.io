@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-25",
+  "articles": [
+    {
+      "title": "Greg Brockman 인터뷰: AI가 곧 폭발적으로 성장할 것! 앞으로 어떤 일이 벌어질까?",
+      "link": "https://news.hada.io/topic?id=29850",
+      "published": "2026-05-25T10:43:33+09:00",
+      "summary": "<ul>\n<li>Greg Brockman은 OpenAI가 AGI 미션을 달성하려면 비영리 한계를 넘어 <strong>영리 법인</strong>과 대규모 컴퓨트를 확보해야 했다고 봄</li>\n<li>OpenAI의 기술 전환점은 Dota의 <strong>PPO 확장</strong>, 언어 모델의 의미 학습, GPT-4 이후 AGI 기준 재검토로 이어짐</li>\n<li>AI 개발은 이미 AI로 가속...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flue - 샌드박스 에이전트 프레임워크",
+      "link": "https://news.hada.io/topic?id=29849",
+      "published": "2026-05-25T10:01:02+09:00",
+      "summary": "<ul>\n<li><strong>TypeScript 기반 에이전트 하네스 프레임워크</strong>로, Claude Code·Codex 같은 코딩 에이전트의 사용 경험을 <strong>100% 헤드리스·프로그래머블</strong> 방식으로 재구성</li>\n<li>사용자가 구축한 에이전트가 클로드 코드를 사용하는 것처럼 자율적으로 문제를 해결하고 작업 완료</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Codex, 활용 사례 모음 대폭 확장",
+      "link": "https://news.hada.io/topic?id=29847",
+      "published": "2026-05-25T09:51:02+09:00",
+      "summary": "<ul>\n<li>OpenAI가 <strong>Codex의 활용 사례</strong> 페이지를 대폭 개편해, 기존 12개에서 <strong>52개의 유스케이스</strong>로 확장 공개</li>\n<li>이제 단순한 코딩 보조를 넘어 <strong>엔지니어링·디자인·데이터·재무·운영·QA·세일즈 등 전사 팀이 일감을 위임하는 플랫폼</strong>으로 포지셔닝이 이동</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "왜 Vivado 2026.1은 무료 티어에서 Linux 지원을 중단하는가?",
+      "link": "https://news.hada.io/topic?id=29846",
+      "published": "2026-05-25T09:48:35+09:00",
+      "summary": "<ul>\n<li><strong>Vivado 2026.1 BASIC 티어</strong>에서 Linux 지원이 제외되는 변화가 쟁점이며, Windows에서는 가능한 입문용 설계를 Linux에서는 왜 막는지가 핵심임</li>\n<li>공개 스레드는 2026년 5월 18일 시작됐고 <strong>23개 답변</strong>과 <strong>1.34K 조회수</strong>가 표시됐으며, 무료 사용자와 소...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon Web Services - 4년 그리고 퇴사",
+      "link": "https://news.hada.io/topic?id=29845",
+      "published": "2026-05-25T09:45:35+09:00",
+      "summary": "<ul>\n<li><strong>AWS에서의 4년</strong>을 보냈고, 조직 변화속에서 해고당했지만, 회사가 예전 모습과 달라져 오히려 다행이라고 생각</li>\n<li>Amazon의 <strong>대체 가능한 인력</strong> 관점은 물류센터 운영에는 맞을 수 있어도, 시간이 쌓여야 하는 IT 조직 지식과는 잘 맞지 않음</li>\n<li>AWS의 초점은 고객...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "published": "Sun, 24 May 2026 21:39:21 +0000",
+      "summary": "We're in the transition period -- all of us.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "published": "Sun, 24 May 2026 19:00:00 +0000",
+      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "published": "Sun, 24 May 2026 17:00:00 +0000",
+      "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Robotaxi reality check",
+      "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "published": "Sun, 24 May 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "published": "Sun, 24 May 2026 15:00:00 +0000",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "link": "https://audiomass.co/?multitrack=1",
+      "published": "Sun, 24 May 2026 15:25:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48258015\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "published": "Sun, 24 May 2026 13:02:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48256953\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Migrating from Go to Rust",
+      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "published": "Sun, 24 May 2026 18:31:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48259808\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "published": "Sun, 24 May 2026 19:10:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48260117\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "link": "https://ohwr.org/projects/white-rabbit/",
+      "published": "Sat, 23 May 2026 08:38:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48245916\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
