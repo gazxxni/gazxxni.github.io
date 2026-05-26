@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-26",
+  "articles": [
+    {
+      "title": "출구 IP VPN 서버 완화 조치 배포",
+      "link": "https://news.hada.io/topic?id=29886",
+      "published": "2026-05-26T11:38:28+09:00",
+      "summary": "<ul>\n<li><strong>Mullvad</strong>가 VPN 출구 IP 서버 간 지문 식별에 대응하는 새 완화 조치 적용 서버 목록을 공개함</li>\n<li>완화 조치는 <strong>VPN 서버 간 출구 IP 지문 식별</strong> 문제와 연결되며, 대상 서버별 적용 여부를 확인할 수 있음</li>\n<li>서버 목록은 <strong>2026년 5월 25일</strong> 마지막...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jira는 튜링 완전하다",
+      "link": "https://news.hada.io/topic?id=29885",
+      "published": "2026-05-26T11:35:28+09:00",
+      "summary": "<ul>\n<li><strong>Jira Automation</strong>은 두 무한 카운터와 유한 명령 상태를 가진 Minsky 머신을 표현해 Jira의 튜링 완전성을 보일 수 있음</li>\n<li>Epic 상태는 <strong>프로그램 카운터</strong>, 연결된 Bug와 Task 수는 두 레지스터가 되며, Automation 규칙이 명령별 디스패치 테이블이 됨</li>\n<li><code>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask GN: 1인 개발자, 평시에 만들어 둔 &#039;관리 도구&#039;가 비상 상황에서 큰 도움이 된 경험 있으신가요?",
+      "link": "https://news.hada.io/topic?id=29884",
+      "published": "2026-05-26T11:15:57+09:00",
+      "summary": "<p>안녕하세요. 1인 개발자로 세이프클릭(SafeClick)이라는 어르신용 피싱 차단 앱을 운영하고 있습니다.</p>\n<p>며칠 전 관리자 페이지에서 무의미한 자동화 로그인이 한 시간 만에 약 1,600건 들어오는 상황을 마주쳤습니다. DDoS급 트래픽은 아니고, 익명 가입 API를 표적으로 한 봇 작동이었습니다.</p>\n<p>큰 소동",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask GN: 최근 상용 AI 모델 중 어떤 모델을 메인으로 사용하시나요 ?",
+      "link": "https://news.hada.io/topic?id=29883",
+      "published": "2026-05-26T11:08:22+09:00",
+      "summary": "<p>카카오에서 29,000원에 판매했던 GPT Pro의 만료가 대략 6주정도 남아서요</p>\n<p>사용량은 엔트리 요금제보단 확실히 더 쓰는거 같은데 어떤 모델의 어떤 요금제를 구매할지 고민이 되네요</p>\n<p>이전에는 엔트리 요금제로 여러 모델을 구매해 장단 비교가 잘 되었는데</p>\n<p>최근에 GPT Pro에 빠져 다른 모델은 쳐",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "중국 딥시크, V4-Pro API 75% 영구 가격 인하 단행",
+      "link": "https://news.hada.io/topic?id=29882",
+      "published": "2026-05-26T11:02:03+09:00",
+      "summary": "<blockquote>\n<p>중국 AI 스타트업 딥시크가 주력 AI 모델인 'V4-Pro'의 이용 가격을 75% 영구 인하하면서 글로벌 AI 가격 전쟁과 시장 변화를 예고하고 있습니다.</p>\n</blockquote>\n<hr />\n<h4>전문 번역</h4>\n<p>중국의 AI 스타트업 딥시크(DeepSeek)가 지금까지의 인공지능 경쟁 중 가장 대담한 가격 책정 조치를 단",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "published": "Mon, 25 May 2026 16:00:00 +0000",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "published": "Mon, 25 May 2026 15:09:41 +0000",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "published": "Mon, 25 May 2026 15:00:00 +0000",
+      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "published": "Mon, 25 May 2026 14:30:00 +0000",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "published": "Mon, 25 May 2026 14:00:00 +0000",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Using AI to write better code more slowly",
+      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "published": "Mon, 25 May 2026 23:16:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48272984\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "published": "Mon, 25 May 2026 22:30:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48272670\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Shamir's Secret Sharing Works",
+      "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "published": "Mon, 25 May 2026 22:37:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48272715\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "published": "Mon, 25 May 2026 19:37:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48270770\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Exit IP VPN servers mitigation rollout",
+      "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "published": "Mon, 25 May 2026 17:45:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48269580\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
