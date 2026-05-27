@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-27",
+  "articles": [
+    {
+      "title": "빅테크들의 반노동 전략이 Wikipedia에도 적용되고 있다.",
+      "link": "https://news.hada.io/topic?id=29917",
+      "published": "2026-05-27T12:18:25+09:00",
+      "summary": "<ul>\n<li><strong>위키미디어 재단</strong>은 5월 MediaWiki 장기 리드 개발자 Brooke Vibber를 해고하고 Community Tech 팀을 해체하며 노조와 충돌함</li>\n<li><strong>Community Tech</strong>는 편집자 요청을 구현하던 팀이었고 엔지니어 대부분이 노조 조직자였으며, 편집자들은 연대 청원과 집단행동을 약속함...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "공격자들이 ClickFix 공격을 위해 700개의 Ghost CMS 사이트를 탈취함",
+      "link": "https://news.hada.io/topic?id=29916",
+      "published": "2026-05-27T11:18:28+09:00",
+      "summary": "<blockquote>\n<p>고스트 CMS(Ghost CMS)의 심각한 취약점(CVE-2026-26980)을 악용한 대규모 해킹 공격으로 700개 이상의 웹사이트가 감염되어 가짜 보안 인증을 유도하는 '클릭픽스(ClickFix)' 공격에 노출되었습니다.</p>\n</blockquote>\n<hr />\n<h4>전문 번역</h4>\n<p>공격자들이 최근 공개된 고스트 CMS(Ghost CMS)의",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: GPU-Usage-Audit: GPU가 그냥 노는 게 아니라 &#039;잡아둔 채&#039; 놀고 있다면?!",
+      "link": "https://news.hada.io/topic?id=29915",
+      "published": "2026-05-27T10:09:53+09:00",
+      "summary": "<p>nvidia-smi에 util 1%로 찍히면 카드가 비어 보이지만,<br />\n누가 주피터 노트북에 8GB 올려두고 자리를 비우면 그 GPU는 아무도 못 씁니다.<br />\n공유 서버나 시간당 과금 GPU에서는 보이지 않는 낭비죠.</p>\n<p>그래서 만들었습니다. GPU-Usage-Audit!</p>\n<p>NVIDIA 드라이버만 깔려있다면 GPU 메트릭을 SQLite에",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 구직을 AI에게 외주 주는 시대: 10분 대화로 실리콘밸리 꽂아주는 Harper",
+      "link": "https://news.hada.io/topic?id=29914",
+      "published": "2026-05-27T10:05:56+09:00",
+      "summary": "<p>안녕하세요, 긱뉴스 여러분. AI 탤런트 에이전트 Harper 입니다.</p>\n<p>&quot;스포츠 선수들은 최고의 구단을 찾아주는 전담 에이전트가 있는데, 왜 탑티어 메이커들은 이직할 때마다 직접 이력서를 깎고 잡보드를 뒤져야 할까요?&quot;</p>\n<p>저는 지난 10여 년간 마켓플레이스 도메인에서 프로덕트를 만들어오며",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "커밋에서 광고하지 마세요",
+      "link": "https://news.hada.io/topic?id=29913",
+      "published": "2026-05-27T10:02:09+09:00",
+      "summary": "<ul>\n<li><strong>커밋 메시지</strong>는 기술적 정보를 담는 공간이며, “Assisted by blabot” 같은 문구는 도구나 회사 이름을 노출하는 광고가 됨</li>\n<li>오픈소스 프로젝트가 해당 회사들로부터 돈을 받지 않는데도, 구독료를 낸 사용자가 커밋 안에 <strong>홍보 문구</strong>를 넣는 관행이 문제임</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+      "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "published": "Tue, 26 May 2026 23:49:05 +0000",
+      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "published": "Tue, 26 May 2026 22:55:01 +0000",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+      "published": "Tue, 26 May 2026 22:55:01 +0000",
+      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "published": "Tue, 26 May 2026 22:37:46 +0000",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "link": "https://developers.cloudflare.com/flagship/",
+      "published": "Tue, 26 May 2026 23:36:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48287468\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "published": "Tue, 26 May 2026 19:25:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48284712\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Where does next-token prediction leave us?",
+      "link": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+      "published": "Wed, 27 May 2026 01:10:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48288191\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "published": "Mon, 25 May 2026 20:41:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48271448\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "published": "Fri, 22 May 2026 17:17:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48238703\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
