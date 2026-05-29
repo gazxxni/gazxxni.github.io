@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-29",
+  "articles": [
+    {
+      "title": "Bricks and Minifigs가 한 남성의 20만 달러 LEGO 컬렉션을 훔쳤다",
+      "link": "https://news.hada.io/topic?id=29979",
+      "published": "2026-05-29T09:37:05+09:00",
+      "summary": "<ul>\n<li><strong>Ed Mansell</strong>의 LEGO Star Wars 컬렉션은 20만 달러 이상으로 추산됐고, 아들 Bryan이 Salem의 Bricks &amp; Minifigs와 위탁 판매 계약을 맺음</li>\n<li>계약은 매장이 판매액의 <strong>10%</strong> 를 가져가는 구조였지만, 본사가 Salem 매장을 통제한 뒤 기존 소유자의 반환 시도가 막힘...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Valve, Steam Deck 가격 인상",
+      "link": "https://news.hada.io/topic?id=29978",
+      "published": "2026-05-29T09:35:23+09:00",
+      "summary": "<ul>\n<li><strong>Steam Deck OLED</strong> 가격이 크게 올라 512GB는 $549에서 $789, 1TB는 $649에서 $949로 $300인상됨</li>\n<li>Valve는 인상 이유를 <strong>메모리·저장장치 비용 상승</strong>으로 들었고, Steam Deck 기기 자체의 변경은 없다고 밝힘</li>\n<li>메모리·저장장치 부족은 Steam Machine과 Steam Fr...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "실제 팩트체크에서 프런티어 LLM 간 불일치",
+      "link": "https://news.hada.io/topic?id=29977",
+      "published": "2026-05-29T09:33:08+09:00",
+      "summary": "<ul>\n<li><strong>프런티어 LLM 5종</strong>은 실제 사용자 제출 클레임 1,000개 중 67%에서 판정이 갈렸고, 5개가 모두 일치한 경우는 33%였음</li>\n<li><strong>다수 판정</strong>은 정답 라벨이 아니라 불일치 측정 기준이며, 비만장일치 67%에서는 최소 1개 모델이 틀릴 수밖에 없음</li>\n<li>4단계 루브릭에서 2칸...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CodeBoarding - 코드베이스용 인터랙티브 아키텍처 다이어그램",
+      "link": "https://news.hada.io/topic?id=29976",
+      "published": "2026-05-29T09:31:02+09:00",
+      "summary": "<ul>\n<li>사람과 AI 에이전트가 함께 보는 코드베이스 지도를 자동으로 그려주는 오픈소스 도구</li>\n<li><strong>정적 분석과 LLM 추론을 결합</strong>해 코드베이스의 고수준 아키텍처 다이어그램과 주요 컴포넌트 문서를 자동 생성</li>\n<li>결과물은 <code>.codeboarding/</code> 디렉터리에 <strong>Markdown 문서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "하루 쉬어도 될까요?",
+      "link": "https://news.hada.io/topic?id=29975",
+      "published": "2026-05-29T09:24:15+09:00",
+      "summary": "<ul>\n<li><strong>AI가 생산성을 10배 높인다면</strong>, 일주일 걸리던 산출물을 월요일 정오까지 만들 수 있어야 하며 노동시간도 줄어야 함</li>\n<li>전 세계 사무직과 미국 노동력 상당 부분이 <strong>AI 생산성 혁명</strong>을 겪는다면, 더 빠른 일·학습·사회적 상호작용의 혜택도 생활로 돌아와야 함</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+      "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "published": "Fri, 29 May 2026 01:22:16 +0000",
+      "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "published": "Fri, 29 May 2026 00:44:37 +0000",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "published": "Fri, 29 May 2026 00:14:35 +0000",
+      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+      "published": "Thu, 28 May 2026 23:01:52 +0000",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "published": "Thu, 28 May 2026 21:24:01 +0000",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cars are trying to spy on you, and it's only just the beginning",
+      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "published": "Fri, 29 May 2026 03:01:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48318481\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "Thu, 28 May 2026 16:49:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48311647\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "published": "Thu, 28 May 2026 19:24:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48314136\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "link": "https://nick.winans.io/blog/nice-nano/",
+      "published": "Thu, 28 May 2026 20:25:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48314951\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ten Basic Clouds",
+      "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "published": "Sun, 24 May 2026 21:52:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48261377\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
