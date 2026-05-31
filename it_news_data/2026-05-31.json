@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-31",
+  "articles": [
+    {
+      "title": "Microsoft가 영구 라이선스 오프라인 제품의 기능을 저하시킴",
+      "link": "https://news.hada.io/topic?id=30037",
+      "published": "2026-05-31T11:37:22+09:00",
+      "summary": "<ul>\n<li><strong>Office 2019 및 2021 for Mac</strong> 일부 설치본은 2026년 7월 13일 인증서 만료 뒤 보기 전용인 축소 기능 모드로 전환될 예정</li>\n<li>축소 기능 모드에서는 Word, Excel, PowerPoint, Outlook, OneNote 파일을 열어 볼 수 있지만 <strong>편집·저장·전체 기능</strong>은 사용할 수 없음</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "지루한 기술을 선택하라, Revisited (2025)",
+      "link": "https://news.hada.io/topic?id=30036",
+      "published": "2026-05-31T11:15:01+09:00",
+      "summary": "<ul>\n<li>검증 가능한 기술 스택에 집중하는 <strong>&quot;Choose Boring Technology&quot;</strong> 원칙은 AI 코딩 도구 시대에 더욱 중요해짐</li>\n<li>기업은 한정된 <strong>&quot;innovation tokens&quot;</strong> 를 신뢰성이 입증된 기술에 전략적으로 사용해야 함</li>\n<li>모던 AI 코딩 도구는 거의 모든 기...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "지루한 기술을 선택하라 (2015)",
+      "link": "https://news.hada.io/topic?id=30035",
+      "published": "2026-05-31T11:06:02+09:00",
+      "summary": "<ul>\n<li>새로운 기술을 절제하고 <strong>검증된 기술(boring technology)</strong> 을 우선 채택하는 것이 회사의 장기 성공에 유리함</li>\n<li>모든 회사는 약 <strong>3개의 혁신 토큰(innovation tokens)</strong> 만 보유하며, NodeJS·MongoDB·신생 도구를 고를 때마다 한 개씩 소모</li>\n<li>검증된 기술은 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, OpenAI를 제치고 가장 가치 있는 AI 스타트업이 됨",
+      "link": "https://news.hada.io/topic?id=30033",
+      "published": "2026-05-31T09:36:48+09:00",
+      "summary": "<ul>\n<li><strong>Anthropic</strong>은 신규 투자 라운드 이후 평가액에서 OpenAI를 넘어 세계에서 가장 가치 있는 AI 스타트업이 됨</li>\n<li>Claude 개발사 Anthropic의 평가액은 <strong>1조 달러에 근접</strong>했으며, 2월 약 3,800억 달러에서 거의 3배 높아짐</li>\n<li><strong>Series H</strong> 라운드에서 6...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claw Patrol - 에이전트를 위한 보안 방화벽",
+      "link": "https://news.hada.io/topic?id=30032",
+      "published": "2026-05-31T09:31:01+09:00",
+      "summary": "<ul>\n<li>에이전트에게 <strong>프로덕션 접근 권한</strong>을 주면서도 안심할 수 있도록, 에이전트 자격 증명을 대신 보관하고 트래픽을 와이어 레벨에서 파싱하며 사용자가 작성한 규칙으로 모든 액션을 게이팅하는 <strong>에이전트용 보안 방화벽</strong></li>\n<li>기존 권한 체계의 한계를 보완하는 <strong>액션...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "published": "Sat, 30 May 2026 21:45:00 +0000",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "published": "Sat, 30 May 2026 21:12:37 +0000",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snap alums unveil Ghost Angels fund",
+      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "published": "Sat, 30 May 2026 17:00:00 +0000",
+      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "published": "Sat, 30 May 2026 16:30:00 +0000",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "published": "Sat, 30 May 2026 15:59:58 +0000",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "published": "Sat, 30 May 2026 23:26:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48341578\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "published": "Sat, 30 May 2026 20:40:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48340411\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shantell Sans (2023)",
+      "link": "https://shantellsans.com/process",
+      "published": "Sat, 30 May 2026 22:06:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48341062\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Racket v9.2 is now available",
+      "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "published": "Thu, 28 May 2026 09:42:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48306713\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "published": "Fri, 29 May 2026 02:49:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48318402\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
