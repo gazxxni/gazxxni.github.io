@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-02",
+  "articles": [
+    {
+      "title": "CS336: 처음부터 만드는 언어 모델링",
+      "link": "https://news.hada.io/topic?id=30107",
+      "published": "2026-06-02T12:33:33+09:00",
+      "summary": "<ul>\n<li><strong>언어 모델</strong>은 현대 NLP 애플리케이션의 기반이며, 하나의 범용 시스템으로 다양한 하위 작업을 다루는 새 패러다임을 연다</li>\n<li>이 과정은 사전학습용 <strong>데이터 수집·정제</strong>, Transformer 구축, 학습, 배포 전 평가까지 언어 모델 개발 전 과정을 직접 구현하게 함</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "설계상 불법: 생성형 AI의 인권 비용 드러내기",
+      "link": "https://news.hada.io/topic?id=30106",
+      "published": "2026-06-02T12:01:31+09:00",
+      "summary": "<ul>\n<li><strong>독립형 생성형 AI 시스템</strong>은 불법 웹 스크래핑에 기반할 때 설계·개발·배포 전 과정에서 <strong>국제인권법(IHRL)</strong> 및 기준과 충돌함</li>\n<li>이 기술은 정교한 자동화와 효율성을 약속하지만, 데이터 수집과 모델 학습 관행이 <strong>프라이버시 권리</strong>를 남용하는 구조에 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia Cosmos 3",
+      "link": "https://news.hada.io/topic?id=30105",
+      "published": "2026-06-02T11:59:35+09:00",
+      "summary": "<ul>\n<li><strong>NVIDIA Cosmos 3</strong>는 물리 AI를 위한 단일 오픈 기반 모델로, 물리 추론·월드 생성·행동 생성을 하나의 모델 안에서 결합함</li>\n<li><strong>Mixture-of-Transformers</strong> 구조는 Reasoner tower와 Generator tower를 나눠 입력 이해와 물리 인식 생성 출력을 연결하며, 여러 모델과 추론...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft, NVIDIA 기반 Surface Laptop Ultra로 MacBook Pro 경쟁 제품을 만듦",
+      "link": "https://news.hada.io/topic?id=30104",
+      "published": "2026-06-02T11:40:18+09:00",
+      "summary": "<ul>\n<li><strong>Surface Laptop Ultra</strong>는 Microsoft가 Computex 2026에서 공개한 Surface 계열 최상위 노트북으로, Windows on Arm과 NVIDIA 협업을 앞세워 MacBook Pro 라인업에 직접 대응함</li>\n<li>하드웨어는 20코어 NVIDIA Grace CPU, Blackwell RTX GPU, 최대 <strong>128GB 통합 메모리</strong>, 1페...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SRE에서의 AI: Google은 어떻게 신뢰성 있는 운영의 미래를 설계하는가",
+      "link": "https://news.hada.io/topic?id=30103",
+      "published": "2026-06-02T11:08:38+09:00",
+      "summary": "<ul>\n<li>AI 코딩 어시스턴트가 코드 생성·배포 속도를 끌어올리면서(생산성 최대 4배 목표) 사람이 일일이 검토하는 전통적 SRE 관행은 더 이상 확장 불가능 — Google이 SRE를 AI 시대에 맞게 재설계한 방법을 정리한 글</li>\n<li>단순히 기존 작업을 AI로 자동화하는 게 아니라, 자율 완화 에이전트(AI Operator), 실...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "published": "Mon, 01 Jun 2026 23:20:52 +0000",
+      "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "published": "Mon, 01 Jun 2026 22:55:09 +0000",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "published": "Mon, 01 Jun 2026 21:40:35 +0000",
+      "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "published": "Mon, 01 Jun 2026 20:26:08 +0000",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "macOS needs its grid back",
+      "link": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "published": "Tue, 02 Jun 2026 01:28:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48364800\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48359102\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "published": "Mon, 01 Jun 2026 23:45:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48364055\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "published": "Tue, 02 Jun 2026 01:05:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48364620\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "published": "Mon, 01 Jun 2026 21:50:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48363132\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
