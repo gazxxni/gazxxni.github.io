@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-04",
+  "articles": [
+    {
+      "title": "DaVinci Resolve 21",
+      "link": "https://news.hada.io/topic?id=30168",
+      "published": "2026-06-04T11:38:11+09:00",
+      "summary": "<ul>\n<li><strong>DaVinci Resolve 21</strong>은 정지 사진용 Photo page를 추가하고 AI, 편집, 컬러, Fusion, Fairlight, 몰입형·VR 워크플로를 함께 확장한 대규모 업데이트임</li>\n<li><strong>AI 도구</strong>는 콘텐츠·대사·얼굴 검색, 10초 음성 샘플 기반 음성 생성, 초점 조정, 얼굴 나이·형상 변경, 잡티 제거...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
+      "link": "https://news.hada.io/topic?id=30166",
+      "published": "2026-06-04T10:55:40+09:00",
+      "summary": "<p>The Cathedral, the Bazaar, and the Winchester Mystery House</p>\n<p>1998년 에릭 레이먼드가 발표한 '대성당과 바자르'는 오픈소스 운동의 출발점이 된 문서입니다. 폐쇄적이고 통제된 '대성당' 방식과 개방적이고 분산된 '바자르' 방식을 대비시킨 이 글은, 인터넷이 코드 협업 비용을 낮추면서 바자르 모델이 한",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google I/O 2026 주요 발표 12가지 키노트 모아보기",
+      "link": "https://news.hada.io/topic?id=30165",
+      "published": "2026-06-04T10:26:01+09:00",
+      "summary": "<ul>\n<li>영상부터 시작해 모든 입력을 결과물로 변환하는 <strong>Gemini Omni</strong>와 에이전트·코딩에 특화된 <strong>Gemini 3.5 Flash</strong> 등 신규 모델들 공개</li>\n<li>Search 안에서 24시간 작동하는 <strong>information agents</strong>와 Antigravity 기반 <strong>생성형 UI</strong>로 검색 경험을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OAuth 2.0 Token Exchange의 다양한 얼굴",
+      "link": "https://news.hada.io/topic?id=30164",
+      "published": "2026-06-04T10:22:02+09:00",
+      "summary": "<ul>\n<li>하나의 보안 토큰을 다른 토큰으로 변환하는 <strong>표준 기반 메커니즘</strong>으로, RFC 8693에 정의된 OAuth 2.0 확장 사양</li>\n<li>인가 서버를 <strong>Security Token Service(STS)</strong> 로 전환해, 클라이언트가 보낸 토큰을 검증하고 다른 컨텍스트·대상(audience)·목적에 맞는 새 토큰을 발급...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "&#039;배틀쉽&#039; 게임을 활용해 AI 에이전트에게 더 나은 질문법 가르치기",
+      "link": "https://news.hada.io/topic?id=30163",
+      "published": "2026-06-04T10:15:02+09:00",
+      "summary": "<ul>\n<li>고전 추리 게임 <strong>배틀쉽</strong>을 자연어 질문·응답 형태로 재구성해, 불확실한 환경에서 AI 에이전트가 <strong>좋은 질문</strong>을 던지는 능력을 측정하는 테스트베드 구축</li>\n<li>한 명이 숨은 함선 위치를 묻는 <strong>선장(captain)</strong>, 팀원이 실시간으로 답하는 <strong>관측자(sp...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+      "published": "Thu, 04 Jun 2026 03:52:15 +0000",
+      "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+      "published": "Thu, 04 Jun 2026 00:30:00 +0000",
+      "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Defense tech is flooded with money, but who’s built to last?",
+      "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "published": "Wed, 03 Jun 2026 20:51:41 +0000",
+      "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uber to put 500 data-collection vehicles on the road this year",
+      "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+      "published": "Wed, 03 Jun 2026 20:08:28 +0000",
+      "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
+      "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "published": "Thu, 04 Jun 2026 00:44:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48392232\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "published": "Wed, 03 Jun 2026 19:02:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48388324\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "published": "Thu, 04 Jun 2026 00:56:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48392343\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "American capitalism has taken an apocalyptic turn",
+      "link": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn",
+      "published": "Thu, 04 Jun 2026 02:44:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48393043\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "published": "Wed, 03 Jun 2026 16:04:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48385906\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
