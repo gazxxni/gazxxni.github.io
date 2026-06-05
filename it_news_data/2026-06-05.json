@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-05",
+  "articles": [
+    {
+      "title": "Show GN: smol-image-processor – EXIF/메타데이터 제거 후 WebP로 정규화하는 마이크로서비스 (Bun/Elysia)",
+      "link": "https://news.hada.io/topic?id=30196",
+      "published": "2026-06-05T11:29:41+09:00",
+      "summary": "<p>백엔드에서 사용자 이미지 업로드를 받을 때 조용히 따라오는 문제들이 있습니다.</p>\n<ul>\n<li>JPEG에는 GPS 좌표, 기기 모델명, 촬영 시각이 EXIF로 담겨 있을 수 있다</li>\n<li>ICC 프로파일 같은 색상 메타데이터도 그대로 저장·배포될 수 있다</li>\n<li>JPEG, PNG, GIF, WebP가 뒤섞여 들어오면 저장/CDN/렌더링",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI-네이티브 스타트업을 만드는 방법",
+      "link": "https://news.hada.io/topic?id=30195",
+      "published": "2026-06-05T10:00:03+09:00",
+      "summary": "<ul>\n<li>AI가 반복 업무를 야간에 처리하는 동안 <strong>창업자는 제품 개선에 집중</strong>하는 새로운 운영 모델로, 진짜 변화는 시간 사용이 아니라 <strong>회사가 학습·반복·진화하는 속도</strong>에 있음</li>\n<li><strong>AI-네이티브 회사</strong>는 운영 모델 자체가 바뀌어, 적은 인원이 덜 조율하고 에이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ian의 안전한 신발끈 매듭",
+      "link": "https://news.hada.io/topic?id=30194",
+      "published": "2026-06-05T09:46:13+09:00",
+      "summary": "<ul>\n<li><strong>Ian's Secure Shoelace Knot</strong>은 “Double Slip Knot”으로도 불리며, 두 고리를 교차한 뒤 가운데 구멍으로 함께 통과시켜 스스로 풀리지 않게 하는 대칭적 신발끈 매듭임</li>\n<li>묶는 방식은 왼쪽-위-오른쪽 <strong>Starting Knot</strong>에서 두 끝을 토끼 귀 모양 고리로 접고, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국, 붕괴 위험에 처한 대서양 해류 추적 시스템 해체 예정",
+      "link": "https://news.hada.io/topic?id=30193",
+      "published": "2026-06-05T09:43:13+09:00",
+      "summary": "<ul>\n<li><strong>Trump 행정부</strong>가 태평양과 대서양의 900개 이상 관측 장비로 구성된 해양 관측 시스템을 해체하려는 계획임</li>\n<li><strong>NSF</strong>는 Oregon, Washington, Alaska, North Carolina 연안과 Greenland-Iceland 사이 해역의 Ocean Observatories Initiative 수중 인프라를 모두 제거하겠다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 사용과 수학 능력 저하 속 Berkeley CS 수업에서 낙제 성적 급증",
+      "link": "https://news.hada.io/topic?id=30192",
+      "published": "2026-06-05T09:40:12+09:00",
+      "summary": "<ul>\n<li>Berkeley CS 수업의 <strong>낙제율</strong>은 2026년 봄 CS 10 35.3%, CS 61A 10.6%로 과거 학기보다 크게 높아졌고, 하위 과정 D·F 비율 7%와 평균 GPA 2.8~3.3이라는 EECS 지침에서 벗어남</li>\n<li>Dan Garcia는 Claude, ChatGPT, Google Gemini 같은 <strong>LLM</strong> 사용으로 학업 부정행위가 크게...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "published": "Fri, 05 Jun 2026 00:06:47 +0000",
+      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "published": "Thu, 04 Jun 2026 22:43:26 +0000",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "published": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "published": "Thu, 04 Jun 2026 21:44:09 +0000",
+      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "published": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "link": "https://fb.watch/HxPu0fSyeH/",
+      "published": "Fri, 05 Jun 2026 00:44:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48406640\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "link": "https://arxiv.org/abs/2606.04032",
+      "published": "Thu, 04 Jun 2026 23:11:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "link": "https://github.com/anthropics/defending-code-reference-harness",
+      "published": "Thu, 04 Jun 2026 20:11:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48403980\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "link": "https://github.com/alibaba/open-code-review",
+      "published": "Fri, 05 Jun 2026 00:04:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48406358\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "published": "Thu, 04 Jun 2026 13:00:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48398055\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
