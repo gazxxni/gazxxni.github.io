@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-06",
+  "articles": [
+    {
+      "title": "GOV.UK, Stripe를 네덜란드 제공업체 Adyen으로 교체",
+      "link": "https://news.hada.io/topic?id=30226",
+      "published": "2026-06-06T11:36:42+09:00",
+      "summary": "<ul>\n<li>공공 서비스의 온라인 결제 구축 부담을 줄이는 <strong>GOV.UK Pay</strong>가 다수 결제 처리에서 Stripe 대신 네덜란드 제공업체 <strong>Adyen</strong>을 사용</li>\n<li>Adyen은 지방정부, 경찰, 군 부대의 카드 결제와 <strong>pay by bank</strong> 서비스를 맡으며, 계약 기간은 3년이고 최대 <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "pg_durable - PostgreSQL을 위한 내구성 SQL 함수",
+      "link": "https://news.hada.io/topic?id=30225",
+      "published": "2026-06-06T11:29:05+09:00",
+      "summary": "<ul>\n<li>PostgreSQL 내부에서 <strong>재시도, 스케줄링, 병렬 fan-out, 조건 분기</strong>를 작은 SQL DSL만으로 처리하는 <strong>durable function</strong> 확장</li>\n<li>컨테이너나 외부 서비스 없이 <strong>Postgres와 백그라운드 워커</strong>만으로 동작</li>\n<li>모든 단계가 PostgreSQL에 상태를 체크포인...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Conventional Commits 사용을 중단하라",
+      "link": "https://news.hada.io/topic?id=30224",
+      "published": "2026-06-06T11:02:21+09:00",
+      "summary": "<ul>\n<li><strong>Conventional Commits</strong>는 <code>&lt;type&gt;[optional scope]: &lt;description&gt;</code> 형식으로 커밋 메시지에 의미를 부여하려 하지만, 변경 유형을 앞세우고 범위를 선택사항으로 둬 실제 탐색에 필요한 정보를 뒤로 미룸</li>\n<li>기여자·디버거·장애 대응자는 커밋 로그에서 변경이 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "우주비행사들, 공기 누출 수리로 대피한 뒤 ISS 복귀 지시 받아",
+      "link": "https://news.hada.io/topic?id=30223",
+      "published": "2026-06-06T10:35:42+09:00",
+      "summary": "<ul>\n<li><strong>ISS 승무원</strong> 5명이 러시아 구역 공기 누출 수리 중 SpaceX Crew Dragon “Freedom”에 머문 뒤, 수리 중단과 함께 정상 임무 복귀 지시를 받음</li>\n<li><strong>Zvezda 서비스 모듈</strong> 전이 터널 PrK의 균열과 누출은 수년간 이어진 문제이며, NASA와 Roscosmos가 원인 파악과 임시 완화...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "한국의 포럼/커뮤니티는 이제 모든 이미지를 AI 검열 도구로 검사해야 함",
+      "link": "https://news.hada.io/topic?id=30222",
+      "published": "2026-06-06T09:51:31+09:00",
+      "summary": "<ul>\n<li><strong>전기통신사업법</strong> 변경으로 한국 인터넷 커뮤니티와 포럼 운영자에게 사용자가 업로드하는 모든 이미지와 영상을 AI로 검사하도록 요구함</li>\n<li>AI 모델 실행용 하드웨어는 정부가 제공하지 않으며, 웹사이트 운영자가 <strong>데이터센터급 Nvidia GPU</strong>를 직접 구매해야 해 소규모 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+      "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "published": "Fri, 05 Jun 2026 22:35:01 +0000",
+      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Founders share VC horror stories, and some are naming names",
+      "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "published": "Fri, 05 Jun 2026 21:47:56 +0000",
+      "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "published": "Fri, 05 Jun 2026 20:31:04 +0000",
+      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "published": "Fri, 05 Jun 2026 20:00:00 +0000",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "published": "Fri, 05 Jun 2026 18:57:20 +0000",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "published": "Sat, 06 Jun 2026 00:33:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48420148\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How LLMs Work",
+      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "published": "Wed, 03 Jun 2026 20:15:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48389360\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "link": "https://github.com/microsoft/pg_durable",
+      "published": "Fri, 05 Jun 2026 15:59:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48414367\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "published": "Fri, 05 Jun 2026 15:00:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48413464\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "published": "Fri, 05 Jun 2026 15:04:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48413500\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
