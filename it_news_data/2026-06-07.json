@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-07",
+  "articles": [
+    {
+      "title": "Ask HN: HN 이용자들은 왜 이렇게 AI에 반대하나요?",
+      "link": "https://news.hada.io/topic?id=30249",
+      "published": "2026-06-07T10:03:55+09:00",
+      "summary": "<ul>\n<li>지난 6개월 동안 HN Best RSS 피드에서 AI가 “나쁜 코드”를 쓰고, “버그”를 만들고, “기술 부채”를 만든다는 식의 게시물을 거의 매일 접하고 있음</li>\n<li>20년 이상 소프트웨어 엔지니어로 일했지만, 코드는 목적을 위한 수단이며, 사용자는 코드가 <strong>AI</strong>로 작성됐는지 수작업으로 작성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소식통들: 미 국방부, 미국 내 이스라엘 스파이 활동 위협을 최고 수준으로 상향",
+      "link": "https://news.hada.io/topic?id=30248",
+      "published": "2026-06-07T10:00:55+09:00",
+      "summary": "<ul>\n<li>이스라엘의 미국 내 정보수집 우려가 중동 분쟁 관련 미국 정부의 내부 논의와 의사결정을 겨냥한 <strong>방첩 경보</strong>로 확대된 사안</li>\n<li>현·전직 미국 관리들은 국방정보국(DIA)이 최근 이스라엘 위협 수준을 최고 단계인 <strong>critical</strong>로 올렸고, 7쪽짜리 평가 문서에서 인적 스파이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GrapheneOS 사용자가 GrapheneOS 사용으로 당국에 신고됨",
+      "link": "https://news.hada.io/topic?id=30246",
+      "published": "2026-06-07T09:54:55+09:00",
+      "summary": "<ul>\n<li><strong>GrapheneOS</strong>는 보안·프라이버시 보호 기능을 강화한 OS로, Yoti 고객지원 응답 캡처의 “GrapheneOS 실행 기기를 자동 플래그 처리하고 당국 및 보안팀에 자동 보고” 문구가 논란의 출발점</li>\n<li>핵심 우려는 연령·신원 확인 서비스가 GrapheneOS 사용 자체를 보고 사유로 삼으면 개인정보...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "S&amp;P 500, SpaceX 거부하며 OpenAI와 Anthropic 편입도 차단",
+      "link": "https://news.hada.io/topic?id=30245",
+      "published": "2026-06-07T09:51:54+09:00",
+      "summary": "<ul>\n<li>대형 수익성 있는 미국 기업을 대표하는 주가지수 편입 기준이 유지되며, SpaceX의 IPO 직후 <strong>패시브 펀드</strong> 자금 유입 가능성이 제한</li>\n<li>S&amp;P Dow Jones Indices는 재무 생존성 심사, 12개월 <strong>seasoning period</strong>, 최소 IWF 요건을 바꾸지 않기로 결정</li>\n<li>검토된 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia, Windows PC용 괴물 같은 CPU 시스템 제안",
+      "link": "https://news.hada.io/topic?id=30244",
+      "published": "2026-06-07T09:37:42+09:00",
+      "summary": "<ul>\n<li>NVIDIA의 Windows PC용 고성능 시스템은 CPU·GPU가 <strong>128GB 공유 메모리</strong>를 함께 쓰고 최대 6,144개 CUDA 코어를 제공하는 칩 구성</li>\n<li>CPU는 성능 코어 10개와 효율 코어 10개를 갖추며, 성능 코어는 <strong>Cortex-X925</strong> 기반이고 SVE2는 최근 AMD 칩보다 낮지만 Apple Silicon보...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "published": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "published": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "published": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "published": "Sat, 06 Jun 2026 15:00:00 +0000",
+      "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "published": "Sun, 07 Jun 2026 02:46:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48431286\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "published": "Sun, 07 Jun 2026 03:21:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48431461\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "link": "https://arxiv.org/abs/2601.14470",
+      "published": "Sun, 07 Jun 2026 01:37:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48430923\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "link": "https://openai.com/index/harness-engineering/",
+      "published": "Fri, 05 Jun 2026 18:20:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48416264\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "link": "https://ntsc.rs/",
+      "published": "Sat, 06 Jun 2026 19:17:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48428025\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
