@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-09",
+  "articles": [
+    {
+      "title": "Show GN: 로컬에서 작동하는 회의녹취 및 Decision Wiki 검색 시스템",
+      "link": "https://news.hada.io/topic?id=30315",
+      "published": "2026-06-09T11:59:41+09:00",
+      "summary": "<p>한국어 회의를 로컬에서 녹음하고, 전사·요약·Decision Wiki 정리하고 검색 (AI 챗)할 수 있는 오픈소스 도구를 만들어봤습니다.</p>\n<p>저처럼 업무 환경상 외부AI나 회의 녹취/전사 서비스를 사용할 수 없는 분들에게 도움이 되지 않을까 합니다.<br />\n하루에 회의가 10개 이상 있는 날은 회의에서 나온 회의록과",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 둔화하고 있다",
+      "link": "https://news.hada.io/topic?id=30314",
+      "published": "2026-06-09T11:39:50+09:00",
+      "summary": "<ul>\n<li>생성형 AI 인프라는 데이터센터 투자와 컴퓨트 약정을 정당화하려면 2030년까지 연간 2조 달러가 넘는 <strong>AI 컴퓨트 매출</strong>을 만들어야 함</li>\n<li>계획된 190GW 데이터센터는 GW당 800억~1,000억 달러 비용을 적용하면 9.5조~15조 달러 규모이며, 이를 실현하려면 연간 5,000억~1조 달러의 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Siri AI",
+      "link": "https://news.hada.io/topic?id=30313",
+      "published": "2026-06-09T10:40:21+09:00",
+      "summary": "<ul>\n<li><strong>개인형 AI 비서</strong>가 앱과 사용자 맥락에 통합되어 자연어 대화, 앱 작업, 글쓰기, 시각 검색을 지원하며, Siri AI는 올해 말 영어로 제공 예정</li>\n<li>Siri AI는 공개형 질문, 아이디어 브레인스토밍, 개인 맥락 검색, 앱 내 작업 실행, 온라인 정보 기반 답변을 지원하는 <strong>Apple Inte...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "감시는 안전이 아니다: 영국의 최신 개인정보 위협에 관한 성명 [pdf]",
+      "link": "https://news.hada.io/topic?id=30312",
+      "published": "2026-06-09T10:37:21+09:00",
+      "summary": "<ul>\n<li>영국에서 판매되거나 사용되는 모든 기기의 모든 콘텐츠를 나체 추정 기준으로 스캔하라는 요구는 <strong>아동 보호</strong>가 아니라 모든 사람의 개인정보와 소통권을 위험하게 만드는 조치</li>\n<li>연령 확인과 콘텐츠 스캔을 결합해 모든 영국 거주자에게 나이 증명이나 전체 콘텐츠 스캔을 요구하는 방...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "xAI는 프런티어 연구소보다 데이터센터 REIT에 더 가까워지고 있다",
+      "link": "https://news.hada.io/topic?id=30311",
+      "published": "2026-06-09T10:27:47+09:00",
+      "summary": "<ul>\n<li>대규모 <strong>GPU 임대</strong> 사업은 AI 모델 학습·추론용 데이터센터 용량을 외부 기업에 제공해 월 단위 매출을 만드는 구조</li>\n<li>Claude 제품은 심각한 용량 문제로 피크 시간 구독 제한을 겪었고, xAI의 <strong>Colossus 1</strong> 접근 후 제한 철회와 피크 시간 압박 완화</li>\n<li>Anthropic...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "published": "Tue, 09 Jun 2026 01:56:48 +0000",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "published": "Tue, 09 Jun 2026 00:45:56 +0000",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "published": "Mon, 08 Jun 2026 22:41:45 +0000",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "published": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "published": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "published": "Mon, 08 Jun 2026 19:14:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48450142\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Siri AI",
+      "link": "https://www.apple.com/apple-intelligence/",
+      "published": "Mon, 08 Jun 2026 18:17:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48449084\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "link": "https://vorpus.github.io/performativeUI/",
+      "published": "Mon, 08 Jun 2026 14:05:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48445554\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "link": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "published": "Mon, 08 Jun 2026 15:13:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48446428\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "published": "Mon, 08 Jun 2026 15:27:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48446639\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
