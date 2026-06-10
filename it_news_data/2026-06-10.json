@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-10",
+  "articles": [
+    {
+      "title": "WWDC 2026: Apple이 접고 있다(Folding)",
+      "link": "https://news.hada.io/topic?id=30351",
+      "published": "2026-06-10T12:28:30+09:00",
+      "summary": "<ul>\n<li>WWDC 2026의 종이접기 샘플 앱과 iOS 27 베타 문자열은 Apple이 <strong>접히는 화면</strong>과 가변 레이아웃을 준비한다는 신호로 연결됨</li>\n<li>iOS 27 베타에서 <code>foldState</code>, <code>angleDegrees</code>, 내장 디스플레이 총수를 반환하는 <strong>시스템 키</strong>가 발견됨</li>\n<li>App...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Playwright 봇 탐지를 우회하는 스킬",
+      "link": "https://news.hada.io/topic?id=30350",
+      "published": "2026-06-10T12:19:00+09:00",
+      "summary": "<p>Playwright로 사이트에 접속하면 봇탐지에 바로 막히는 경우가 많습니다. 인터넷에 떠도는 &quot;스텔스&quot; 스니펫들을 붙여봤더니, 어떤 건 오히려 더 잘 걸리더군요. 그래서 8개 탐지기로 직접 측정해보고, 실제로 통과하는 조합만 골라 스킬로 만들었습니다.</p>\n<p>설치 / 사용</p>\n<ul>\n<li>설치: npx skills",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 빅브라더 - 한국의 포럼/커뮤니티 사업자를 위한 이미지 AI 검열 도구",
+      "link": "https://news.hada.io/topic?id=30348",
+      "published": "2026-06-10T11:35:25+09:00",
+      "summary": "<ul>\n<li>7월 1일부터 전기통신사업법 제22조의5제2항 및 같은 법 시행령 제30조의6에 따라서 국내 커뮤니티 및 포럼 사업자들은 사용자들의 모든 이미지들을 AI를 통해 확인하고 필터링해야 함.</li>\n<li>웹사이트 운영자가 Nvidia GPU를 구매하고, 스스로 필터링을 위한 AI 서빙 및 소프트웨어를 구축해야 함.</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SpaceX IPO, 100억 달러 규모 이상의 주문이 잇따라 접수되며 초과 청약됨",
+      "link": "https://news.hada.io/topic?id=30347",
+      "published": "2026-06-10T10:57:02+09:00",
+      "summary": "<ul>\n<li>555.6백만 주를 주당 $135 고정가로 발행하는 <strong>공모가 초과 청약</strong> 상태이며, 다수 기관투자자가 1곳당 약 <strong>$10B 이상</strong> 규모로 주문 제출</li>\n<li>이번 상장으로 약 <strong>$750억 조달</strong>, 기업가치 약 <strong>$1.8조</strong> 평가 예상</li>\n<li>기관투자자 주문은 뉴...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "apple/container, Container Machine 기능 추가",
+      "link": "https://news.hada.io/topic?id=30346",
+      "published": "2026-06-10T10:40:02+09:00",
+      "summary": "<ul>\n<li>Mac에서 Linux 컨테이너를 <strong>경량 가상 머신</strong> 형태로 생성·실행하는 도구</li>\n<li>WWDC26에서 새로 추가된 <strong><a href=\"https://github.com/apple/container/blob/main/docs/container-machine.md\">Container Machine</a></strong> 은 홈 디렉토리와 저장소가 <strong>자동으로 마운트</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+      "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+      "published": "Wed, 10 Jun 2026 03:35:07 +0000",
+      "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "published": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "published": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "published": "Tue, 09 Jun 2026 21:00:00 +0000",
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "published": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "macOS Container Machines",
+      "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "published": "Wed, 10 Jun 2026 00:29:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48469658\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Fable 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published": "Tue, 09 Jun 2026 16:58:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48463808\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rich Sutton on AI creativity and discovery",
+      "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "published": "Wed, 10 Jun 2026 02:25:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48470581\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Upcoming breaking changes for npm v12",
+      "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "published": "Tue, 09 Jun 2026 21:01:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48467705\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "published": "Wed, 10 Jun 2026 01:44:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48470248\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
