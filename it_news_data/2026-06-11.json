@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-11",
+  "articles": [
+    {
+      "title": "Ask HN: 아직도 Vision Pro를 사용하고 있나요?",
+      "link": "https://news.hada.io/topic?id=30389",
+      "published": "2026-06-11T10:56:12+09:00",
+      "summary": "<ul>\n<li>거의 2년 전 같은 주제의 <a href=\"https://news.ycombinator.com/item?id=40872102\">스레드</a>가 있었고, 시간이 더 지난 지금 <strong>Vision Pro</strong>에 대한 생각이 궁금함</li>\n<li>답변을 종합해보면, <strong>매일 수시간 사용</strong>부터 <strong>일주일 만에 방치</strong>까지 사용자별 경험이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apache Burr: 신뢰할 수 있는 AI 에이전트와 애플리케이션 구축",
+      "link": "https://news.hada.io/topic?id=30388",
+      "published": "2026-06-11T10:53:38+09:00",
+      "summary": "<ul>\n<li><strong>Apache Burr</strong>는 간단한 챗봇부터 복잡한 멀티 에이전트 시스템까지 의사결정형 AI 애플리케이션을 Python으로 구성하는 프레임워크임</li>\n<li>애플리케이션은 <strong>액션과 전이</strong> 집합으로 정의되며, DSL이나 YAML 없이 Python 함수와 데코레이터로 작성됨</li>\n<li>Burr UI는 실행...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rich Sutton의 AI 창의성과 발견",
+      "link": "https://news.hada.io/topic?id=30387",
+      "published": "2026-06-11T10:51:39+09:00",
+      "summary": "<ul>\n<li>지도학습으로 훈련된 <strong>생성 AI</strong>는 사례와 비슷하게 행동하는 모방 모델로, 유용하더라도 과학·수학의 새로운 발견에는 한계가 있음</li>\n<li>인터넷 답변이나 문서 요약에서는 새로움이 오히려 <strong>환각</strong>이 되며, 좋은 답변은 원천 자료의 품질에서 나옴</li>\n<li>소설·이미지 생성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DiffusionGemma: 4배 빠른 텍스트 생성",
+      "link": "https://news.hada.io/topic?id=30386",
+      "published": "2026-06-11T10:49:27+09:00",
+      "summary": "<ul>\n<li><strong>DiffusionGemma</strong>는 텍스트 확산 방식으로 전체 텍스트 블록을 동시에 생성하는 Apache 2.0 라이선스의 26B MoE 실험용 공개 모델임</li>\n<li>일반적인 자기회귀 LLM의 순차적 토큰 생성 대신 <strong>256토큰 병렬 생성</strong>을 사용해 전용 GPU에서 최대 4배 빠른 텍스트 생성을 제공함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어 해커톤이여 안녕. 하드웨어 해커톤이여 영원하라",
+      "link": "https://news.hada.io/topic?id=30385",
+      "published": "2026-06-11T10:46:59+09:00",
+      "summary": "<ul>\n<li>48시간 해커톤에서 오래된 회전식 전화기에 <strong>Raspberry Pi</strong>를 연결해 양방향 오디오, 벨, 수화기 스위치를 서버와 연동하는 데모를 구현함</li>\n<li>데모는 <strong>AI 에이전트</strong>가 음악을 조사하고 Spotify API로 재생목록을 만들며, 사용자의 음악 요청을 처리하도록 구성</li>\n<li>참...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "published": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "summary": "If you doubted his genius, doubt no more.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "published": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "published": "Wed, 10 Jun 2026 22:24:12 +0000",
+      "summary": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all&#160;s",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "published": "Wed, 10 Jun 2026 21:33:32 +0000",
+      "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "published": "Wed, 10 Jun 2026 20:21:25 +0000",
+      "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "published": "Thu, 11 Jun 2026 00:10:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48484584\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "published": "Wed, 10 Jun 2026 16:42:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48478969\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "πFS",
+      "link": "https://github.com/philipl/pifs",
+      "published": "Wed, 10 Jun 2026 18:54:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48480978\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "link": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "published": "Tue, 09 Jun 2026 17:23:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48464258\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+      "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "published": "Wed, 10 Jun 2026 22:07:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48483387\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
