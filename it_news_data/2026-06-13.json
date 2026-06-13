@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-13",
+  "articles": [
+    {
+      "title": "Anthropic, 미국 정부 지시로 Fable 5·Mythos 5 모델 전면 차단",
+      "link": "https://news.hada.io/topic?id=30446",
+      "published": "2026-06-13T10:50:28+09:00",
+      "summary": "<ul>\n<li>Anthropic이 미국 정부의 수출통제(export control) 지시에 따라 최신 AI 모델인 Fable 5와 Mythos 5의 사용을 전면 중단.</li>\n<li>정부는 “국가안보(National Security)“를 이유로 들었지만 구체적인 사유는 공개하지 않음.</li>\n<li>명령 내용은 “미국 내외를 불문하고 모든 외국인(Foreign Nationals)에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 정부, Fable 5와 Mythos 5 에 대해 모든 외국인의 접근 중단 지시",
+      "link": "https://news.hada.io/topic?id=30445",
+      "published": "2026-06-13T10:45:01+09:00",
+      "summary": "<ul>\n<li>미국 정부가 <strong>국가안보 권한</strong>을 근거로 내린 <strong>수출 통제 명령</strong>에 따라, 미국 내외를 막론한 <strong>모든 외국 국적자의 Fable 5·Mythos 5 접근이 차단</strong>되며 규정 준수를 위해 전체 고객 대상 서비스가 즉시 중단됨</li>\n<li>명령은 ET 기준 오후 5시 21분에 접수됐으며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, Codex에 원할때 토큰 리밋 리셋이 가능한 기능 도입",
+      "link": "https://news.hada.io/topic?id=30444",
+      "published": "2026-06-13T10:31:02+09:00",
+      "summary": "<ul>\n<li>월간 1회 정도의 <strong>레이트 리밋 리셋 기능</strong>을 기본으로 제공, 저장해 뒀다가 필요할 때 리셋을 사용 가능</li>\n<li>친구 추천 기능을 도입, 초대를 보내서 referal이 가입하면 <strong>양쪽에 1회씩 추가</strong>로 지급\n<ul>\n<li>앞으로 2주간, <strong>최대 3명</strong>까지 가능. 기존에 2달...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "기획서 작성에 하루 쓰는 PM, AI로 10분 수준으로 단축해본 이야기",
+      "link": "https://news.hada.io/topic?id=30443",
+      "published": "2026-06-13T10:02:14+09:00",
+      "summary": "<p>PM(프로덕트 매니저)들이 기획서 작성에 소비하는 시간을 AI로 단축할 수 있을까?<br />\n최근 AI 기술의 발전으로 PRD 초안 작성, 요구사항 정리, 화면 목업까지 자동화되고 있지만, 실제 업무에 적용하려면 문제가 발생함.</p>\n<p>주요 문제점</p>\n<p>• AI가 생성하는 초안은 「인터넷 어딘가의 평균적인 PRD」에 가",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "사람들이 서로 마주칠 수 있는 장소로 사이트를 바꾸기",
+      "link": "https://news.hada.io/topic?id=30442",
+      "published": "2026-06-13T10:01:24+09:00",
+      "summary": "<ul>\n<li><strong>Town Square</strong>는 웹사이트 하단에 현재 방문자를 막대인간으로 보여주고, 같은 사이트를 보는 사람들이 페이지·이동·메시지를 통해 서로 만날 수 있게 함</li>\n<li>목표는 새 <strong>소셜 네트워크</strong>가 아니라, 화면 반대편에 실제 사람이 있다는 웹의 작은 감각을 되살리는 데 있음</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "published": "Fri, 12 Jun 2026 23:15:14 +0000",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "published": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "published": "Fri, 12 Jun 2026 20:20:00 +0000",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Open Source AI Must Win",
+      "link": "https://opensourceaimustwin.com/?share=v2",
+      "published": "Sat, 13 Jun 2026 02:14:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48511908\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "published": "Sat, 13 Jun 2026 00:51:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48511072\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "link": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "published": "Sat, 13 Jun 2026 00:58:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48511121\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Renault: Electric motors with no rare earths",
+      "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "published": "Fri, 12 Jun 2026 22:08:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48510010\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "published": "Fri, 12 Jun 2026 15:15:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48505231\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
