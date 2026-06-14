@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-14",
+  "articles": [
+    {
+      "title": "이메일의 미래",
+      "link": "https://news.hada.io/topic?id=30477",
+      "published": "2026-06-14T10:49:22+09:00",
+      "summary": "<ul>\n<li>AI가 받은편지함을 읽고 요약하며 작업까지 수행하는 환경에서는 <strong>발신자 검증</strong>이 이메일 신뢰의 핵심 조건이 됨</li>\n<li>SPF, DKIM, DMARC는 서버 권한, 메시지 무결성, 실패 시 처리 방침을 결합해 <strong>이메일 인증</strong>의 기본 구조를 이룸</li>\n<li>AI 필터와 AI 보조 도구가 이메...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "repo-slopscore: 커밋 기록 분석으로 Git 저장소의 AI/LLM 기여 감지",
+      "link": "https://news.hada.io/topic?id=30475",
+      "published": "2026-06-14T10:04:51+09:00",
+      "summary": "<ul>\n<li><strong>repo-slopscore</strong>는 Git 저장소의 커밋 기록을 분석해 AI/LLM 기여를 감지하는 도구로 소개됨</li>\n<li>서비스는 홈, <strong>저장소 스캔</strong>, 소스 코드 링크를 제공하며 소스 코드는 codeberg.org/polyphony/repo-slopscore에 공개됨</li>\n<li>스캔된 전체 저장소 수는 <strong>3058개...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이 Fable 사안에 드리운 거대한 그림자",
+      "link": "https://news.hada.io/topic?id=30474",
+      "published": "2026-06-14T10:02:03+09:00",
+      "summary": "<ul>\n<li>강력한 AI 모델인 <strong>Fable 5</strong>와 <strong>Mythos 5</strong>는 미국 정부의 수출통제 지시 이후 모든 고객 접근이 갑자기 중단됨</li>\n<li>미국 정부 지시는 미국 안팎의 <strong>외국 국적자</strong>와 Anthropic 외국 국적 직원까지 접근 차단 대상으로 삼았고, Anthropic은 준수를 위해 전체 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mozilla를 떠나며",
+      "link": "https://news.hada.io/topic?id=30473",
+      "published": "2026-06-14T09:59:03+09:00",
+      "summary": "<ul>\n<li>Firefox와 Mozilla는 대형 브라우저와 다른 <strong>틈새 브라우저</strong>·오픈소스 조직으로 유지되어 왔고, 성장은 대형 브라우저 모방보다 커뮤니티와의 협업에서 나왔음</li>\n<li>Mozilla 직원은 급여를 받는 작은 일부이며, 브라우저를 만들고 번역하고 버그를 고친 <strong>커뮤니티</strong>를 고객이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon CEO와 미국 당국자의 대화가 Anthropic 모델 단속을 촉발함",
+      "link": "https://news.hada.io/topic?id=30472",
+      "published": "2026-06-14T09:56:03+09:00",
+      "summary": "<ul>\n<li>트럼프 행정부가 Anthropic의 <strong>최상위 AI 모델에 대한 모든 해외 사용을 차단</strong>하는 결정을 내렸으며, 이는 Amazon CEO와 재무장관을 포함한 미국 당국자 간 대화에서 비롯됨</li>\n<li>Amazon 연구진이 <strong>일련의 프롬프트</strong>로 Fable 5 모델에서 사이버공격에 활용될 수 있는 차단 대...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "published": "Sun, 14 Jun 2026 00:03:49 +0000",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "published": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "link": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+      "published": "Sun, 14 Jun 2026 02:59:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48523773\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "link": "https://juniperspring.org/posts/honda-evil-valet/",
+      "published": "Sun, 14 Jun 2026 00:49:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "link": "https://desfontain.es/blog/banning-noise.html",
+      "published": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48517377\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM 5.2 Is Out",
+      "link": "https://twitter.com/jietang/status/2065784751345287314",
+      "published": "Sat, 13 Jun 2026 16:18:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Every Frame Perfect",
+      "link": "https://tonsky.me/blog/every-frame-perfect/",
+      "published": "Sat, 13 Jun 2026 11:40:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
