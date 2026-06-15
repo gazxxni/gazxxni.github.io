@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-15",
+  "articles": [
+    {
+      "title": "무료 SQL→ER 다이어그램 도구, 브라우저에서 실행되고 아무것도 업로드하지 않음",
+      "link": "https://news.hada.io/topic?id=30499",
+      "published": "2026-06-15T11:35:28+09:00",
+      "summary": "<ul>\n<li><strong>SQL 스키마</strong>를 붙여넣으면 브라우저 안에서 테이블, 컬럼, 키, 관계를 즉시 ERD로 시각화함</li>\n<li>PostgreSQL, MySQL, SQLite, SQL Server 문법의 <code>CREATE TABLE</code>과 <code>ALTER TABLE</code> DDL을 파싱하며 <strong>기본 키·외래 키</strong>와 unique, not-null 제약을 처리함...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에코시스템 없는 프론티어는 안정적이지 않다",
+      "link": "https://news.hada.io/topic?id=30498",
+      "published": "2026-06-15T10:35:01+09:00",
+      "summary": "<ul>\n<li>Microsoft CEO 사티아 나델라의 글</li>\n<li>AI 주도 경제에서 기업의 미래는 사람과 디지털 시스템 사이에 <strong>실질적 인지 루프(cognitive loop)</strong> 가 처음으로 형성되는 전환점에 놓여 있으며, 이는 기업 내부의 업무 개념 자체를 바꾸는 변화라고 지적</li>\n<li>모든 기업은 사람의 지식·판단·...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kage - 웹사이트에서 자바스크립트를 제거하고 오프라인 보관하는 도구",
+      "link": "https://news.hada.io/topic?id=30497",
+      "published": "2026-06-15T09:52:00+09:00",
+      "summary": "<ul>\n<li><strong>헤드리스 크롬</strong>으로 페이지를 렌더링해 사람이 봤을 최종 DOM을 스냅샷한 뒤, 모든 JavaScript를 삭제하고 CSS·이미지·폰트를 로컬 경로로 내려받아 코드 없이 동작하는 정적 사본 생성</li>\n<li>&quot;Save As&quot;로 저장한 페이지가 시간이 지나면 빈 화면·멈춘 스피너·사라진 analytics 서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "re_gent - AI 코딩 에이전트를 위한 버전 관리",
+      "link": "https://news.hada.io/topic?id=30496",
+      "published": "2026-06-15T09:51:02+09:00",
+      "summary": "<ul>\n<li><strong>AI 코딩 에이전트의 작업을 git처럼 추적·감사</strong>하는 도구로, 에이전트가 무엇을 했고 어떤 프롬프트가 각 줄을 작성했는지 단계별 확인 가능</li>\n<li>핵심은 세 가지 기본 명령\n<ul>\n<li><code>rgt log</code>: 세션이 수행한 작업 내역(시간·도구·파일·변경 줄 수) 표시</li>\n<li><code>rgt...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Honda Civics와 악의적 발레파킹",
+      "link": "https://news.hada.io/topic?id=30495",
+      "published": "2026-06-15T09:49:00+09:00",
+      "summary": "<ul>\n<li>2021년형 Honda Civic <strong>헤드유닛</strong>은 USB 업데이트 경로에서 공개 AOSP 테스트 키로 서명된 업데이트를 받아들일 수 있어, 물리 접근자가 임의 코드를 실행할 수 있음</li>\n<li>Honda의 업데이트는 Android recovery를 통해 적용되며, <code>recovery</code> 바이너리가 수정됐어도 <strong></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "published": "Mon, 15 Jun 2026 04:01:00 +0000",
+      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "published": "Sun, 14 Jun 2026 21:55:34 +0000",
+      "summary": "JPMorgan can't be pleased by any of this.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "UK may ban social media for children under 16",
+      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "published": "Sun, 14 Jun 2026 20:17:00 +0000",
+      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published": "Sun, 14 Jun 2026 16:38:09 +0000",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "published": "Sun, 14 Jun 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Your ePub Is fine",
+      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "published": "Sun, 14 Jun 2026 22:54:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Even more batteries included with Emacs",
+      "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "published": "Mon, 15 Jun 2026 02:30:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48535886\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "link": "https://github.com/tamnd/kage",
+      "published": "Sun, 14 Jun 2026 17:25:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48529990\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "published": "Mon, 15 Jun 2026 00:07:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48534628\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bitsy",
+      "link": "https://bitsy.org/",
+      "published": "Thu, 11 Jun 2026 20:56:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48496290\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
