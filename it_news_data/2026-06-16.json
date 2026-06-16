@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-16",
+  "articles": [
+    {
+      "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+      "link": "https://news.hada.io/topic?id=30531",
+      "published": "2026-06-16T11:23:02+09:00",
+      "summary": "<h4>PyTorchKR🔥🇰🇷 🤔💭</h4>\n<p>이번 주에 선정된 10편의 논문을 살펴보면, 인공지능 연구가 단순한 모델 성능 향상을 넘어 자율성, 신뢰성, 그리고 효율성의 한계를 돌파하려는 세 가지 뚜렷한 트렌드를 확인할 수 있습니다.</p>\n<p>1️⃣ <strong>자율적 자가 개선 및 멀티에이전트 시스템의 진화</strong>: 이번",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple Foundation Models에 Claude 탑재하기",
+      "link": "https://news.hada.io/topic?id=30529",
+      "published": "2026-06-16T10:12:57+09:00",
+      "summary": "<ul>\n<li>Apple의 <strong>Foundation Models 프레임워크</strong>에 Claude를 서버 사이드 모델로 연결하는 Swift 패키지로, 개발자가 <strong>Apple 온디바이스 모델과 똑같은 코드 경로</strong>로 Claude를 호출할 수 있게 됨</li>\n<li>WWDC 2026에서 Apple이 도입한 <strong><code>LanguageModel</code> 프로토콜...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CrankGPT",
+      "link": "https://news.hada.io/topic?id=30528",
+      "published": "2026-06-16T10:09:57+09:00",
+      "summary": "<ul>\n<li>손·발 동력으로 토큰을 생산하는 <strong>완전 로컬·프라이빗 AI</strong> 솔루션으로, 일상용부터 기업 워크플로까지 사용 규모별 모델을 구분함</li>\n<li>기본 <strong>수동 크랭크 모델</strong>은 일상적인 가정용에 충분하고, 파워 유저와 소규모 기업은 페달 구동 모델을 고려할 수 있음</li>\n<li>데이터...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TinyWind: 실제 바람 물리학을 갖춘 픽셀 해적 항해 게임(38만 km 이상 항해됨)",
+      "link": "https://news.hada.io/topic?id=30527",
+      "published": "2026-06-16T10:06:57+09:00",
+      "summary": "<ul>\n<li><strong>TinyWind</strong>는 픽셀 해적 항해 게임으로, 화면에 속도·돛 각도·바람 방향·조타·발사 조작을 함께 표시함</li>\n<li>항해 UI는 <strong>SPEED 1 kt</strong>, <strong>WIND NE</strong>, SAIL 0° 같은 상태값을 보여줌</li>\n<li>조작은 <strong>DRAG TO STEER</strong>, <strong>TAP TO FIRE</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LinkedIn 채용 제안에 숨겨진 백도어",
+      "link": "https://news.hada.io/topic?id=30526",
+      "published": "2026-06-16T10:03:57+09:00",
+      "summary": "<ul>\n<li>리크루터가 <strong>링크드인 메시지</strong>로 접근해 리드 엔지니어 채용을 명분으로 공개 GitHub 저장소 리뷰를 요청한 <strong>소셜 엔지니어링 공격</strong> 사례</li>\n<li>리뷰 요청 코드에는 <strong>테스트 스위트로 위장한 백도어</strong>가 숨겨져 있었으며, &quot;deprecated Node modules 이슈를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "published": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "published": "Mon, 15 Jun 2026 18:30:58 +0000",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "Mon, 15 Jun 2026 18:30:34 +0000",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "published": "Mon, 15 Jun 2026 17:41:02 +0000",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "published": "Tue, 16 Jun 2026 02:47:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48549918\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "link": "https://roman.pt/posts/linkedin-backdoor/",
+      "published": "Mon, 15 Jun 2026 20:00:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48546294\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "link": "https://www.richardosgood.com/posts/banned-book-library/",
+      "published": "Mon, 15 Jun 2026 22:37:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48547985\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Iroh 1.0",
+      "link": "https://www.iroh.computer/blog/v1",
+      "published": "Mon, 15 Jun 2026 15:13:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48542480\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+      "link": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "published": "Tue, 16 Jun 2026 00:28:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48548975\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
