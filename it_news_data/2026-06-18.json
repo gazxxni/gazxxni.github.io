@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-18",
+  "articles": [
+    {
+      "title": "EC2 안 Firecracker VM으로 브라우저를 1초 미만에 시작하기",
+      "link": "https://news.hada.io/topic?id=30602",
+      "published": "2026-06-18T12:49:46+09:00",
+      "summary": "<ul>\n<li>Browser Use Cloud는 브라우저 세션마다 <strong>개별 Firecracker VM</strong>을 쓰면서 새 세션 시작 시간을 1초 미만으로 낮추고 비용을 브라우저 시간당 $0.06에서 <strong>$0.02</strong>로 줄임</li>\n<li>이전 Unikraft 구조는 유휴 비용에는 유리했지만, 트래픽 급증 때 사람이 용량을 조정해야 해 부하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Midjourney Medical: 60초안에 전신을 촬영하는 초음파 CT와 Spa 공간 오픈 예정",
+      "link": "https://news.hada.io/topic?id=30601",
+      "published": "2026-06-18T12:44:56+09:00",
+      "summary": "<ul>\n<li>Midjourney는 이미지 생성 제품과 별개로, 전신을 빠르게 촬영하는 <strong>초음파 CT 스캐너</strong>와 이를 일상적 방문 경험으로 만드는 <strong>Midjourney Spa</strong>를 발표함</li>\n<li>스캐너는 물속 센서 링을 통과하는 동안 초음파 파형 변화를 계산해, 신체 내부를 덮는 <strong>3D 신체 지도</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 서울 사무소 공식 개소…네이버·넥슨·삼성SDS·LG CNS 등과 전방위 파트너십",
+      "link": "https://news.hada.io/topic?id=30600",
+      "published": "2026-06-18T11:24:32+09:00",
+      "summary": "<blockquote>\n<p>Anthropic이 6월 17일 서울 여의도 콘래드에서 기자간담회를 열고 서울 사무소를 공식 개소했다. 도쿄·벵갈루루에 이은 아시아·태평양 세 번째 거점으로, 한국의 1인당 Claude 사용량이 116개국 중 세계 평균의 3.5배에 달한다는 점이 핵심 배경으로 제시됐다.</p>\n</blockquote>\n<ul>\n<li>도쿄·벵갈루",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cursor에서 Git 서비스 Origin 올 가을 출시 예정",
+      "link": "https://news.hada.io/topic?id=30599",
+      "published": "2026-06-18T10:48:03+09:00",
+      "summary": "<p>Cursor에서 올 가을 Git 서비스 Origin을 출시 예정이라고 합니다.</p>\n<p>현재는 출시 Waitlist를 신청 받고 있으며</p>\n<p>이때 회사 도메인을 가진 이메일로만 등록 가능한 것으로 보입니다<br />\n(예: gmail 등록 불가)</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "창업자 플레이북: AI-native 스타트업 만들기",
+      "link": "https://news.hada.io/topic?id=30598",
+      "published": "2026-06-18T10:09:10+09:00",
+      "summary": "<ul>\n<li>Claude는 창업자가 아이디어 검증부터 확장까지 AI를 활용하는 방식을 정리한 <strong>실전 플레이북</strong>을 공개하고, 연습·프레임워크·프롬프트를 함께 제공</li>\n<li>코딩 경험이 없는 창업자도 <strong>프로덕션 애플리케이션</strong>을 출시하고, 인력 확충 전에 <strong>매출에 도달</strong>하며, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "published": "Thu, 18 Jun 2026 01:23:51 +0000",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+      "published": "Wed, 17 Jun 2026 23:28:21 +0000",
+      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "published": "Wed, 17 Jun 2026 21:30:50 +0000",
+      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "published": "Wed, 17 Jun 2026 20:32:52 +0000",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "published": "Wed, 17 Jun 2026 20:24:28 +0000",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Midjourney Medical",
+      "link": "https://www.midjourney.com/medical/blogpost",
+      "published": "Thu, 18 Jun 2026 01:59:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48579650\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lore – Open source version control system designed for scalability",
+      "link": "https://lore.org/",
+      "published": "Wed, 17 Jun 2026 14:30:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48571081\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "link": "https://www.horg.com/horg/?page_id=921",
+      "published": "Wed, 17 Jun 2026 23:20:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48578388\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "published": "Wed, 17 Jun 2026 03:55:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48565498\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Storied Colors – a catalogue of named colors",
+      "link": "https://storiedcolors.com/",
+      "published": "Wed, 17 Jun 2026 21:49:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48577374\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
