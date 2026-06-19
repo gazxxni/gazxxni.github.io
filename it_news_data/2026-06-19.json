@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-19",
+  "articles": [
+    {
+      "title": "AMD, 소비자용 Ryzen CPU에서 메모리 암호화 조용히 제거",
+      "link": "https://news.hada.io/topic?id=30631",
+      "published": "2026-06-19T10:01:15+09:00",
+      "summary": "<ul>\n<li>소비자용 Ryzen CPU에서 <strong>Transparent Secure Memory Encryption(TSME)</strong> 지원이 새 AGESA 펌웨어 이후 사라져, 사용자가 메모리 암호화 보호 상태 변화를 알아차리기 어려운 상황임</li>\n<li>TSME는 OS 개입 없이 전체 RAM을 암호화해 <strong>cold-boot exploit</strong>, DRAM 인터페이스 스누...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "로컬 Qwen은 더 나쁜 Opus가 아니라 다른 도구다",
+      "link": "https://news.hada.io/topic?id=30630",
+      "published": "2026-06-19T10:01:14+09:00",
+      "summary": "<ul>\n<li>로컬 Qwen 3.6 27B는 <strong>고객 데이터와 내부 텔레메트리처럼 클라우드에 올리기 어려운 작업</strong>에서 실질적 가치를 내지만, 클라우드 SOTA 모델을 대체하지는 못함</li>\n<li>로컬 모델의 강점은 최고 성능 모델과의 점수 경쟁보다 <strong>고정 비용</strong>, 개인정보 보호, 벤더 리스크 완화에 있...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "스위스 의회, 신규 원전 금지 해제",
+      "link": "https://news.hada.io/topic?id=30629",
+      "published": "2026-06-19T09:48:13+09:00",
+      "summary": "<ul>\n<li>스위스에서 <strong>신규 원자력발전소 건설</strong>이 다시 가능해지는 방향으로 의회 절차가 진행 중이며, National Council이 Blackout Initiative에 대한 간접 반대안을 승인함</li>\n<li>Federal Council과 Council of States도 같은 방향을 지지해, 신규 원전에 필요한 <strong>기본 허가</strong>를 다시...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft 새 Outlook, Classic 버전에선 즉시 하는 작업에 10초나 걸림",
+      "link": "https://news.hada.io/topic?id=30628",
+      "published": "2026-06-19T09:42:34+09:00",
+      "summary": "<ul>\n<li>Windows 11의 <strong>새 Outlook</strong>은 메일 알림을 클릭해도 해당 메일로 바로 이동하지 못해, Outlook Classic이 즉시 처리하는 흐름에서 약 <strong>10초 지연</strong>이 발생함</li>\n<li>지연의 핵심은 <strong>WebView2 기반 구조</strong>로, 알림 클릭 뒤 앱 실행, 받은편지함 로드, 인증, 메일 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Git에서 파일을 무시하는 방법은 .gitignore만이 아님",
+      "link": "https://news.hada.io/topic?id=30627",
+      "published": "2026-06-19T09:39:44+09:00",
+      "summary": "<ul>\n<li>Git의 파일 무시 규칙은 공유 범위에 따라 <code>.gitignore</code>, <code>.git/info/exclude</code>, <code>~/.config/git/ignore</code>의 <strong>세 수준</strong>으로 나뉨</li>\n<li><code>.gitignore</code>는 저장소 코드와 함께 커밋되므로, 팀이나 프로젝트가 함께 적용해야 하는 <strong>공유 규칙...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "published": "Fri, 19 Jun 2026 01:01:00 +0000",
+      "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "published": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "published": "Thu, 18 Jun 2026 20:30:00 +0000",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "published": "Thu, 18 Jun 2026 19:59:22 +0000",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "published": "Mon, 15 Jun 2026 16:06:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48543311\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "link": "https://arun.is/blog/jr-logo/",
+      "published": "Wed, 17 Jun 2026 14:03:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48570730\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "published": "Thu, 18 Jun 2026 21:54:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48592163\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "published": "Thu, 18 Jun 2026 11:45:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48583928\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "published": "Fri, 19 Jun 2026 01:06:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48593731\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
