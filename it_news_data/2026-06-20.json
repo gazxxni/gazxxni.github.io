@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-20",
+  "articles": [
+    {
+      "title": "노르웨이, 초등학교 AI 사용 사실상 금지",
+      "link": "https://news.hada.io/topic?id=30655",
+      "published": "2026-06-20T10:41:17+09:00",
+      "summary": "<ul>\n<li>노르웨이는 학습 과정 훼손을 막기 위해 <strong>초등학생의 생성형 AI 사용</strong>을 사실상 금지하고, 상급 학년의 교육용 AI도 단계적으로 제한함</li>\n<li>시험 점수 하락 속에서 2024년 <strong>학교 스마트폰 금지</strong>와 교실 규율 강화에 이어, 디지털 기기 의존을 낮추는 정책 흐름이 이어짐</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "더 작은 NixOS ISO를 만들 수 있을까?",
+      "link": "https://news.hada.io/topic?id=30654",
+      "published": "2026-06-20T10:11:17+09:00",
+      "summary": "<ul>\n<li>NixOS는 설정만으로 VM이나 ISO를 만들기 쉽지만, 최소에 가까운 라이브 이미지도 처음부터 <strong>458MiB</strong>로 생성되어 Alpine VM ISO 약 <strong>66MiB</strong>와 큰 차이를 보임</li>\n<li>크기의 대부분은 <strong>nix-store.squashfs</strong>가 차지했고, 그 안에는 Python 3.13.13, Linux modul...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Project Valhalla: 10년간의 작업이 JDK 28에 어떻게 반영되었는가",
+      "link": "https://news.hada.io/topic?id=30653",
+      "published": "2026-06-20T09:51:17+09:00",
+      "summary": "<ul>\n<li><strong>JEP 401: Value Classes and Objects</strong>이 실제 JDK preview로 들어가는 단계에 도달</li>\n<li>핵심 목표는 Java 객체를 “<strong>클래스처럼 코딩하고 int처럼 동작</strong>”하게 만들어 <strong>객체 헤더·힙 할당·GC·포인터 간접 참조</strong> 비용을 줄이는 것</li>\n<li>JDK 28의 value ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "현대, 4,900억원에 Boston Dynamics 잔여 지분 인수해 완전 자회사화",
+      "link": "https://news.hada.io/topic?id=30652",
+      "published": "2026-06-20T09:41:17+09:00",
+      "summary": "<ul>\n<li>현대자동차 그룹은 SoftBank의 <strong>잔여 지분 9.65%</strong> 를 약 3억 2,500만 달러($325m)에 사들여 Boston Dynamics를 완전 자회사로 만들 예정임</li>\n<li>이번 거래는 2021년 현대가 <strong>지배 지분 80%</strong> 를 약 8억 8,000만 달러에 인수할 때 SoftBank가 유지한 풋옵션의 후속 단계임</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "glojure - Go 위에 호스팅된 Clojure 인터프리터",
+      "link": "https://news.hada.io/topic?id=30651",
+      "published": "2026-06-20T09:31:02+09:00",
+      "summary": "<ul>\n<li>다른 Go 기반 Clojure 구현과 달리 <strong>&quot;호스티드(hosted)&quot; 언어</strong>로 설계된 Clojure 인터프리터</li>\n<li>확장 가능한 상호운용(interop)을 지원해 모든 <strong>Go 값을 Glojure 값으로, 반대로도 사용 가능</strong></li>\n<li>Clojure가 Java 프레임워크에 접근하듯 <strong>Go 라이브...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "published": "Sat, 20 Jun 2026 00:47:44 +0000",
+      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "published": "Fri, 19 Jun 2026 21:45:00 +0000",
+      "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, whic",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "published": "Fri, 19 Jun 2026 21:00:34 +0000",
+      "summary": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digita",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "published": "Fri, 19 Jun 2026 16:50:58 +0000",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to feed a dictator",
+      "link": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "published": "Sat, 20 Jun 2026 01:16:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48605301\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "link": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "published": "Fri, 19 Jun 2026 20:19:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48602817\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "There are no instances in ATProto",
+      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "published": "Fri, 19 Jun 2026 15:10:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48599515\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "published": "Fri, 19 Jun 2026 16:03:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48600093\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I used sound waves to make espresso",
+      "link": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "published": "Sat, 13 Jun 2026 08:21:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48514843\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
