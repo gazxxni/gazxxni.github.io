@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-21",
+  "articles": [
+    {
+      "title": "아직도 Emacs를 쓰는 사람이 있나요?",
+      "link": "https://news.hada.io/topic?id=30682",
+      "published": "2026-06-21T10:02:47+09:00",
+      "summary": "<ul>\n<li>1997년 Linux 입문 뒤 Vim과 Emacs를 오가던 경험은 2015년 <strong>VSCode</strong>와 IntelliJ로 옮겨갔다가, 2022년 Snowflake의 원격 Linux VM 환경에서 <strong>Doom Emacs</strong>로 다시 돌아오는 흐름으로 이어짐</li>\n<li>VSCode는 현대적인 UI, 작은 규모, JSON 기반 설정, Go·Rust의 <strong>LSP 통...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "파비콘에 웹사이트를 저장한 실험",
+      "link": "https://news.hada.io/topic?id=30681",
+      "published": "2026-06-21T09:50:11+09:00",
+      "summary": "<ul>\n<li>개발자는 브라우저 탭 아이콘인 <strong>favicon</strong>을 픽셀 바이트 저장소로 보고, 작은 HTML을 이미지의 RGB 채널에 넣는 실험을 진행함</li>\n<li>인코딩은 HTML의 <strong>UTF-8 바이트</strong> 앞에 4바이트 길이 헤더를 붙이고, 각 바이트를 픽셀의 R·G·B 값에 순서대로 기록하는 방식임</li>\n<li>데...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Obscure Sorrows의 대규모 표절",
+      "link": "https://news.hada.io/topic?id=30680",
+      "published": "2026-06-21T09:47:11+09:00",
+      "summary": "<ul>\n<li>John Koenig의 <em>The Dictionary of Obscure Sorrows</em>가 별도 도메인에 통째로 재게시되면서, <strong>비공식 사이트</strong>가 원본보다 검색에서 더 잘 보이는 상황이 됨</li>\n<li>이 사이트는 책의 <strong>311개 신조어</strong>와 정의·어원·에세이, 800단어 서문까지 싣고 원본 삽화 대신 AI 이미...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "화면이 보여줄 수 없는 색은 어디에 있을까",
+      "link": "https://news.hada.io/topic?id=30679",
+      "published": "2026-06-21T09:44:11+09:00",
+      "summary": "<ul>\n<li>실제 세계에는 <strong>sRGB와 Display-P3 색역 밖의 색</strong>이 있으며, 특히 강한 cyan 계열은 디지털 사진과 일반 화면으로 전달하기 어려움</li>\n<li>화면은 실제 스펙트럼을 재현하지 않고 인간의 <strong>세 원뿔세포 반응</strong>을 흉내 내므로, CIE 색도도 일부 영역은 어떤 RGB 조합으로도 만들 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CSSQuake",
+      "link": "https://news.hada.io/topic?id=30678",
+      "published": "2026-06-21T09:41:11+09:00",
+      "summary": "<ul>\n<li>브라우저에서 Quake를 실행하는 <strong>CSSQuake</strong> 데모로, 페이지에는 <code>cssQuake v0.230</code> 초기화와 <code>coming soon!</code> 상태가 함께 표시됨</li>\n<li>렌더링은 <strong>PolyCSS renderer v0.2.6</strong>이 맡으며, manifest·progs·definitions·weapon model·<code>id1/pak0.pak</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "published": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "summary": "So ... what's your In the Weights score?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This startup built a fish-killing robot and chefs love the results",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "published": "Sat, 20 Jun 2026 16:39:57 +0000",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "published": "Sat, 20 Jun 2026 15:00:00 +0000",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Renting a sewing machine from the library",
+      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "published": "Sat, 20 Jun 2026 22:54:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48613755\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "published": "Sat, 20 Jun 2026 23:07:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48613872\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "link": "https://townsquare.cauenapier.com/",
+      "published": "Sat, 20 Jun 2026 11:55:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48608570\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Developers don't understand CORS (2019)",
+      "link": "https://fosterelli.co/developers-dont-understand-cors",
+      "published": "Sun, 21 Jun 2026 01:35:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48614844\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "link": "https://github.com/mysk-research/loupe",
+      "published": "Sat, 20 Jun 2026 12:08:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48608645\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
