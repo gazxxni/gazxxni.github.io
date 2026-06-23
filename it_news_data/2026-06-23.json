@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-23",
+  "articles": [
+    {
+      "title": "노이즈 병목: 더 많은 정보라는 미묘한 함정",
+      "link": "https://news.hada.io/topic?id=30754",
+      "published": "2026-06-23T11:15:02+09:00",
+      "summary": "<ul>\n<li>정보를 더 많이 모을수록 의미 있는 <strong>신호</strong> 보다 무의미한 <strong>노이즈</strong> 의 비중이 커져 오히려 상황 파악 능력이 떨어지는 <strong>노이즈 병목</strong> 현상</li>\n<li>나심 탈레브의 저서 Antifragile을 근거로, 데이터는 <strong>대량으로 쌓일수록 독성</strong>을 띠며 관측 빈...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 디지털 액자 관리를 위한 홈어시스턴트 애드온",
+      "link": "https://news.hada.io/topic?id=30753",
+      "published": "2026-06-23T11:08:33+09:00",
+      "summary": "<p>집에서 홈어시스턴트를 통해 스마트홈을 관리한지 3년 정도 되어갑니다. 바이브 코딩에 질리신 분들은 스마트홈 해보시는 거 추천드립니다. 모두가 앱과 웹 서비스를 만들 필요는 없고, 실제 집에서 작동하니 매우 재밌습니다..:)</p>\n<p>지금까지 매우 만족하며 잘 사용 중이고, 이렇게 좋은 플랫폼을 무료로 사용하",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "덴마크 개인정보보호 활동가 Lars Andersen, 경찰 압수수색 당해",
+      "link": "https://news.hada.io/topic?id=30751",
+      "published": "2026-06-23T09:51:15+09:00",
+      "summary": "<ul>\n<li>전직 경찰관이자 약 15년간 활동해 온 <strong>덴마크 개인정보보호 활동가</strong> Lars Andersen이 무장·복면 경찰의 급습과 체포를 공개하며 논란이 커짐</li>\n<li>발단은 Andersen이 “내가 좋아하는 두 숫자”라며 10자리와 8자리 숫자를 글자로 풀어 올린 게시물로, 그는 해당 숫자가 총리 <strong>Mett...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "절대 그들에게 당신의 얼굴을 주지 마라",
+      "link": "https://news.hada.io/topic?id=30750",
+      "published": "2026-06-23T09:48:15+09:00",
+      "summary": "<ul>\n<li>온라인 <strong>연령 확인</strong> 법제는 아동 보호를 내세우지만, 실제로는 말하기·게시·읽기 전에 정부 ID나 얼굴로 자신을 증명하게 만드는 <strong>인터넷 신원 검문</strong>으로 이어질 수 있음</li>\n<li>아동이 없음을 확인하려면 서비스가 <strong>모든 이용자</strong>를 검사해야 하므로, 16세 이용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미첼 하시모토, Zig 재단에 40만 달러 추가 기부 약정",
+      "link": "https://news.hada.io/topic?id=30749",
+      "published": "2026-06-23T09:45:15+09:00",
+      "summary": "<ul>\n<li>Mitchell Hashimoto 가족은 <strong>Zig Software Foundation(ZSF)</strong> 에 40만 달러를 추가 약정해, 2024년 첫 기부 이후 총 지원 약정액이 <strong>70만 달러</strong>가 됨</li>\n<li>Hashimoto는 Zig의 2026 devlog가 좋은 언어와 컴파일러를 만들기 위한 어려운 문제에서 <strong>꾸준한 진전</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "Tue, 23 Jun 2026 01:27:55 +0000",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "published": "Mon, 22 Jun 2026 22:59:57 +0000",
+      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "published": "Mon, 22 Jun 2026 22:43:12 +0000",
+      "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI world is getting ‘loopy’",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "published": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "1,700 Free Online Courses from Top Universities",
+      "link": "https://www.openculture.com/freeonlinecourses",
+      "published": "Tue, 23 Jun 2026 01:54:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48639184\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Steam Machine launches today",
+      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "published": "Mon, 22 Jun 2026 17:09:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48632884\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In Praise of Memcached",
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "published": "Tue, 23 Jun 2026 01:15:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48638886\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Runing GLM-5.2 on local hardware",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "published": "Mon, 22 Jun 2026 21:21:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48636377\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "published": "Tue, 23 Jun 2026 00:47:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48638660\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
