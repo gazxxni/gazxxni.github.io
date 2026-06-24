@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-24",
+  "articles": [
+    {
+      "title": "FUTO Swipe: 공개형 스와이프 입력 모델",
+      "link": "https://news.hada.io/topic?id=30787",
+      "published": "2026-06-24T12:21:51+09:00",
+      "summary": "<ul>\n<li>모바일 키보드의 <strong>스와이프 입력 방식</strong>을 공개 모델 + 알고리듬으로 구현하려는 시도</li>\n<li>기존 고품질 스와이프 입력은 <strong>프라이버시 침해적 키보드 앱</strong>이나 라이선스 없는 <strong>비공개 라이브러리</strong>에 묶여 있어 대체재가 필요했음</li>\n<li>완전 오프라인 안드로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LLM Wiki와 본유적 부하",
+      "link": "https://news.hada.io/topic?id=30786",
+      "published": "2026-06-24T11:03:11+09:00",
+      "summary": "<p>LLM Wiki 가 유행하고 있는데, 사용에서 가장 크게 우려되는 부분은 PKM 사용시 본유적 부하를 줄이는데에 있다.</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "취약점 보고서는 더 이상 특별하지 않다",
+      "link": "https://news.hada.io/topic?id=30785",
+      "published": "2026-06-24T11:02:34+09:00",
+      "summary": "<ul>\n<li>오픈소스 유지보수에서 일반 이슈와 PR은 선택적으로 다룰 수 있지만, 과거의 <strong>취약점 보고서</strong>는 사용자 보호 때문에 별도 대응이 필요한 예외였음</li>\n<li>그 예외성은 연구자가 공격자보다 먼저 수정할 기회를 주는 <strong>희소한 통찰</strong>과 <strong>비밀 유지</strong>를 제공했고, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: SSH 터널 매니저 - GUI, 맥/윈도용",
+      "link": "https://news.hada.io/topic?id=30784",
+      "published": "2026-06-24T10:19:03+09:00",
+      "summary": "<p>터널링 관리 앱들이 유료가 많고 무료는 불편한 점이 많아 직접 만들어 보았습니다.<br />\nCLI 는 리소스가 덜 먹기는 한데, GUI가 있는게 편하더군요.</p>\n<blockquote>\n<p>써보시고 피드백 많이 해주세요.</p>\n</blockquote>\n<h4>주요 기능</h4>\n<ul>\n<li>터널 관리 — 로컬(-L), 원격(-R), 다이나믹(-D) 포트 포워",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이스라엘의 가자지구 어린이 표적 공격이 집단학살로 이어졌다는 유엔 조사 결과",
+      "link": "https://news.hada.io/topic?id=30782",
+      "published": "2026-06-24T09:55:24+09:00",
+      "summary": "이스라엘의 가자지구 어린이 표적 공격이 집단학살로 이어졌다는 유엔 조사 결과",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "published": "Wed, 24 Jun 2026 00:30:00 +0000",
+      "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "published": "Tue, 23 Jun 2026 23:30:00 +0000",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "published": "Tue, 23 Jun 2026 21:48:23 +0000",
+      "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "published": "Tue, 23 Jun 2026 19:49:55 +0000",
+      "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "published": "Tue, 23 Jun 2026 19:43:56 +0000",
+      "summary": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vulnerability reports are not special anymore",
+      "link": "https://words.filippo.io/vuln-reports/",
+      "published": "Tue, 23 Jun 2026 23:42:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48653216\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jerry's Map",
+      "link": "http://www.jerrysmap.com/the-map",
+      "published": "Tue, 23 Jun 2026 18:40:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48649435\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "published": "Mon, 22 Jun 2026 18:03:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48633643\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "link": "https://swipe.futo.tech/",
+      "published": "Tue, 23 Jun 2026 17:50:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48648619\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "published": "Tue, 23 Jun 2026 18:10:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48648959\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
