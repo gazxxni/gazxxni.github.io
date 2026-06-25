@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-25",
+  "articles": [
+    {
+      "title": "Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이",
+      "link": "https://news.hada.io/topic?id=30815",
+      "published": "2026-06-25T11:49:09+09:00",
+      "summary": "<p><strong>UIUC × Meta × Stanford</strong> 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다.</p>\n<h3>핵심 주장</h3>\n<p><strong>&quot;코드는 더 이상 LLM이 생성하는 결과물이 아니다. 에이전트가 추론하고, 행동하고, 상태를 저장하고, 피드백을 검증하는 operational substrate(실행 기반)다.&quot;",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI시대, 나의 전문성을 재설계하는 법 [구글 슬라이드, 165P]",
+      "link": "https://news.hada.io/topic?id=30814",
+      "published": "2026-06-25T11:26:01+09:00",
+      "summary": "<ul>\n<li>데이터오븐 하용호님의 발표자료</li>\n<li>회사의 <strong>AX(AI 전환)</strong> 여정은 대부분 비슷한 5단계를 거침 — <strong>환호 → 정체 → 신남 → 의구심 → 마지막 고비</strong></li>\n<li><strong>AI J curve Trap</strong> - AI 붙인다고 바로 잘하는 게 아니라 <strong>Verification Tax(검증 세금...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cafe24, LLM Router 공개",
+      "link": "https://news.hada.io/topic?id=30813",
+      "published": "2026-06-25T10:46:02+09:00",
+      "summary": "<ul>\n<li>Claude, Gemini, Qwen, Llama, DeepSeek 등 <strong>100개 이상 모델</strong>을 <strong>단일 엔드포인트</strong>로 호출하는 통합 LLM 인프라</li>\n<li><strong>OpenAI 호환 단일 API</strong>를 제공해, Provider마다 다른 API 명세·재시도 로직·스트리밍 포맷을 따로 학습/유지할 필요 없음</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "RubyLLM: 주요 AI 제공자를 하나로 묶는 Ruby 프레임워크",
+      "link": "https://news.hada.io/topic?id=30811",
+      "published": "2026-06-25T10:17:51+09:00",
+      "summary": "<ul>\n<li><strong>RubyLLM</strong>은 Ruby 앱에서 챗봇, AI 에이전트, RAG, 콘텐츠 생성 같은 AI 워크플로를 한 프레임워크로 만들게 해줌</li>\n<li>GPT, Claude, 로컬 <strong>Ollama</strong> 등을 같은 인터페이스로 다루며, 의존성은 Faraday, Zeitwerk, Marcel 3개로 제한됨</li>\n<li>채팅뿐 아니라 이미지·비디오 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Quake 개발자 존 카맥의 초기 시절 실수들",
+      "link": "https://news.hada.io/topic?id=30810",
+      "published": "2026-06-25T10:00:26+09:00",
+      "summary": "<ul>\n<li>Quake 개발 초기는 <strong>기술적 과욕</strong>과 조직 운영 문제가 함께 드러난 시기였고, 안정적인 기반을 택했다면 팀의 부담을 줄일 수 있었음</li>\n<li>멀티플레이어와 모딩은 더 보수적인 <strong>Doom++ 엔진</strong>에서도 구현 가능했으며, Quake의 급격한 기술 전환은 디자이너들에게 반복적인 재...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Europe is pushing back on Washington’s chip war",
+      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "published": "Thu, 25 Jun 2026 00:08:36 +0000",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "published": "Wed, 24 Jun 2026 23:26:52 +0000",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon suffers another day short of trillionaire status",
+      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "published": "Wed, 24 Jun 2026 23:09:39 +0000",
+      "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "published": "Wed, 24 Jun 2026 22:41:41 +0000",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "published": "Wed, 24 Jun 2026 21:56:41 +0000",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "published": "Thu, 25 Jun 2026 00:41:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48667336\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "published": "Wed, 24 Jun 2026 17:47:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48663324\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "published": "Wed, 24 Jun 2026 19:48:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48664814\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Blogging can just be stating the obvious",
+      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "published": "Wed, 24 Jun 2026 23:46:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48666927\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ending All Respiratory Infections",
+      "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+      "published": "Thu, 25 Jun 2026 01:14:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48667588\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
