@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-26",
+  "articles": [
+    {
+      "title": "인터넷의 ‘신분증 제시’ 시대가 프라이버시를 무너뜨린다",
+      "link": "https://news.hada.io/topic?id=30850",
+      "published": "2026-06-26T12:38:07+09:00",
+      "summary": "<ul>\n<li>온라인 <strong>연령 확인</strong>은 단순한 나이 확인을 넘어 얼굴 이미지, 정부 ID, 은행 연결, 기존 계정 데이터로 사용자의 신원을 확인하는 구조가 될 수 있음</li>\n<li>호주의 16세 미만 소셜미디어 금지는 2025년 12월 시행됐지만, 정부 조사에서 약 <strong>10명 중 7명</strong>의 아동이 여전히 소셜...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 삼선 - 세 선으로 그린 그림",
+      "link": "https://news.hada.io/topic?id=30848",
+      "published": "2026-06-26T11:32:14+09:00",
+      "summary": "<p>요즘 재미있는 일들 많으신가요?<br />\n저는 재미있는 일이 많지 않아서 재미있을 거리를 만들어 봤습니다.<br />\n이름은 '삼선' 이고 세 개의 선, 세 획으로 그림을 그려서 공유하는 웹 사이트입니다.</p>\n<p>그림을 그리고 주제를 적으면 됩니다.<br />\n세 획이라는 제한 안에서 얼마나 기발하고 재밌는 그림이 나올",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Om Malik 별세",
+      "link": "https://news.hada.io/topic?id=30847",
+      "published": "2026-06-26T10:34:01+09:00",
+      "summary": "<ul>\n<li><strong>Om Malik</strong>가 2026년 6월 24일 Stanford Hospital에서 세상을 떠났으며, 원문은 그의 생몰연도를 <strong>1966-2026</strong>으로 표시함</li>\n<li>구체적 사인은 적지 않고, 오랜 기간 <strong>심장 관련 건강 여정</strong>을 겪어 왔다고만 전함</li>\n<li>마지막 순간에는 <strong>가족과 친...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "새로운 HTTP QUERY 메소드",
+      "link": "https://news.hada.io/topic?id=30846",
+      "published": "2026-06-26T10:28:50+09:00",
+      "summary": "<p>RFC 10008로 새롭게 정의된 HTTP QUERY 메소드에 대한 설명</p>\n<p>기존 RESTful API에서 복잡한 검색을 처리할 때 GET과 POST 모두 한계가 있었는데, 이를 해결하기 위해 오랜 논의 끝에 QUERY 메소드가 표준화됨</p>\n<p>GET의 한계</p>\n<ul>\n<li>복잡한 필터나 관계형 쿼리를 URL 파라미터로 보내면 URL이 지나치게",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모든 고객을 위한 Cloudflare OAuth",
+      "link": "https://news.hada.io/topic?id=30845",
+      "published": "2026-06-26T10:11:49+09:00",
+      "summary": "<ul>\n<li>Cloudflare는 고객이 직접 <strong>self-managed OAuth</strong> 앱을 만들 수 있게 해, Cloudflare API 접근을 표준 위임 승인 흐름으로 제공할 수 있게 함</li>\n<li>예전에는 일부 수동 온보딩된 파트너만 타사 OAuth를 쓸 수 있었고, 자체 통합 개발자는 위임형 앱 흐름에 맞지 않는 <strong>API 토큰</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "published": "Thu, 25 Jun 2026 22:02:12 +0000",
+      "summary": "YouTube Shorts is getting a makeover.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Polymarket says hackers stole users’ funds",
+      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "published": "Thu, 25 Jun 2026 19:58:46 +0000",
+      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Xbox follows Apple with price increases",
+      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "published": "Thu, 25 Jun 2026 19:39:55 +0000",
+      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Om Malik has died",
+      "link": "https://om.co/2026/06/24/1966-2026/",
+      "published": "Thu, 25 Jun 2026 20:33:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48678852\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "link": "https://scrollprize.org/firstscroll",
+      "published": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48675179\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "published": "Thu, 25 Jun 2026 17:38:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48676795\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "published": "Fri, 26 Jun 2026 01:10:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48681220\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "published": "Thu, 25 Jun 2026 21:44:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48679608\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
