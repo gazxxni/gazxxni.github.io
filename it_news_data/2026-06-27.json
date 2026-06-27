@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-27",
+  "articles": [
+    {
+      "title": "이번 주말에 무엇을 할 예정인가요?",
+      "link": "https://news.hada.io/topic?id=30874",
+      "published": "2026-06-27T12:01:58+09:00",
+      "summary": "<ul>\n<li>주말 계획을 자유롭게 나누는 <strong>커뮤니티 프롬프트</strong>임</li>\n<li>계획 공유뿐 아니라 필요한 <strong>도움이나 피드백</strong> 요청도 허용함</li>\n<li>특별한 일정이 없어도 참여할 수 있는 열린 질문임</li>\n<li>아무것도 하지 않는 선택도 <strong>괜찮다</strong>고 명시함</li>\n<li>생산성보...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "실패한 국가 배후 추정 공격 해부",
+      "link": "https://news.hada.io/topic?id=30873",
+      "published": "2026-06-27T11:03:59+09:00",
+      "summary": "<ul>\n<li>캐나다의 한 개발자가 가짜 VC 인터뷰를 가장한 <strong>백도어 유도 공격</strong>을 받았고, 공격 흐름은 crates.io 패키지 관리자를 노린 것으로 의심될 만큼 개발자 업무에 맞춰져 있었음</li>\n<li>미끼 저장소는 “Ticket Harbor”라는 TypeScript 앱처럼 보였지만, <code>patch-package</code>와 <code>t...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "37signals의 의사결정 가이드",
+      "link": "https://news.hada.io/topic?id=30872",
+      "published": "2026-06-27T10:10:02+09:00",
+      "summary": "<ul>\n<li>회사를 <strong>사람들의 집단</strong>과 <strong>결정의 집합</strong>이라는 두 가지로 정의, 그 사람들이 어떻게 결정하느냐가 곧 비즈니스를 운영하는 기술</li>\n<li>매일, 온종일 반복하는 단 하나의 일이 <strong>결정</strong>이며, 이를 위한 일반 원칙 모음을 공유</li>\n<li>제시된 원칙은 <strong>요...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "가짜 트랙션 문제",
+      "link": "https://news.hada.io/topic?id=30871",
+      "published": "2026-06-27T10:04:01+09:00",
+      "summary": "<ul>\n<li>헬스케어 스타트업에서 <strong>초기 긍정 신호</strong>를 시장 검증이 끝나기도 전에 창업자가 트랙션으로 믿어버리는 순간이 펀드레이징에서 가장 위험한 시점 중 하나</li>\n<li>창업자는 미팅·피드백·파일럿·소개 같은 <strong>관심 신호</strong>를 회사가 작동한다는 증거로 받아들이지만, 투자자는 그 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "&#039;기획 하네스(planning harness)&#039;로 완성하는 상세기획 워크플로우 자동화",
+      "link": "https://news.hada.io/topic?id=30870",
+      "published": "2026-06-27T10:03:14+09:00",
+      "summary": "<p>기획자들이 AI를 활용할 때 상위기획은 잘 자동화하면서도 상세기획에서는 여전히 수작업으로 고생하는 문제를 다루고 있음.<br />\n주변 개발자의 조언으로 '기획 하네스(Planning Harness)' 개념을 도입해 이를 해결한 사례 중심의 내용.</p>\n<p>기획 하네스(planning harness)란?<br />\n. AI가 일관된 규칙과 컨텍스",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "published": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "published": "Sat, 27 Jun 2026 00:38:34 +0000",
+      "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "published": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+      "published": "Fri, 26 Jun 2026 19:13:40 +0000",
+      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "published": "Fri, 26 Jun 2026 18:32:14 +0000",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "published": "Fri, 26 Jun 2026 22:48:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692995\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "published": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "published": "Fri, 26 Jun 2026 22:43:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "link": "https://popflame.quickish.space/hn-flipboard/",
+      "published": "Sat, 27 Jun 2026 00:43:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "link": "https://spectrum.ieee.org/ai-in-mathematics",
+      "published": "Fri, 26 Jun 2026 22:36:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
