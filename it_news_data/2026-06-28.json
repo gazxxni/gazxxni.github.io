@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-28",
+  "articles": [
+    {
+      "title": "Show GN: ArachneControl – 서버가 브라우저를 원격 제어해 수집하는 오픈소스 데이터 수집 시스템",
+      "link": "https://news.hada.io/topic?id=30905",
+      "published": "2026-06-28T11:15:35+09:00",
+      "summary": "<p>사용자의 <strong>실제 브라우저 세션</strong>으로 데이터를 수집하되, <strong>무엇을 어떻게 수집할지는 서버가 런타임에 동적 발행</strong>하는 self-hosted 수집 시스템입니다. 서버가 클라이언트(브라우저)를 원격 통제하는 <strong>명령-수행-보고(Command-Execute-Report)</strong> 패턴.</p>\n<p>크롤러를 새",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]",
+      "link": "https://news.hada.io/topic?id=30902",
+      "published": "2026-06-28T09:35:01+09:00",
+      "summary": "DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
+      "link": "https://news.hada.io/topic?id=30901",
+      "published": "2026-06-28T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>AI 네이티브 셀프 호스팅</strong> 프로젝트 관리 플랫폼으로, Jira/Trello/ClickUp/Monday의 무료 오픈소스 대체제</li>\n<li>AI 에이전트가 챗봇 애드온이 아니라 <strong>Scrum 팀의 동등한 팀원</strong>으로 참여\n<ul>\n<li><strong>스프린트에 배정</strong>되어 통합 Scrumban 보드에 인간과 함께...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Go에서 과도한 nil 포인터 검사",
+      "link": "https://news.hada.io/topic?id=30900",
+      "published": "2026-06-28T09:18:07+09:00",
+      "summary": "<ul>\n<li>Go의 <strong>nil 검사</strong>는 패닉을 막을 수 있지만, 반복되는 위치가 잘못되면 코드가 “무엇이 nil일 수 있는가”를 스스로 설명하지 못함</li>\n<li>Redis 클라이언트 같은 <strong>필수 의존성</strong>을 내부 메서드에서 검사하면, 생성 실패를 정상 실행 경로처럼 취급하게 됨</li>\n<li>생성자에서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Reddit 안티스팸 내부를 엿보다",
+      "link": "https://news.hada.io/topic?id=30899",
+      "published": "2026-06-28T09:15:07+09:00",
+      "summary": "<ul>\n<li>2021년 Reddit의 일시적 오류로 보이는 현상 때문에, Relay for reddit에서 평소 <code>Removed: Auto</code>로 숨겨지던 <strong>사이트 전체 스팸 제거 사유</strong>와 내부 판단 데이터가 노출됨</li>\n<li>공개 아카이브 코드상 제거 정보는 <code>ban_info.banner</code>를 거쳐 전달되며, Relay는 API의 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "published": "Sat, 27 Jun 2026 21:27:37 +0000",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "published": "Sat, 27 Jun 2026 20:42:36 +0000",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "published": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "published": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "published": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "published": "Sun, 28 Jun 2026 02:23:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "link": "https://decomp-academy.dev",
+      "published": "Sun, 28 Jun 2026 01:21:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "published": "Sun, 28 Jun 2026 00:46:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
+      "link": "https://evilbit.de/dns-resolver-guide.html",
+      "published": "Sat, 27 Jun 2026 22:11:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "published": "Sat, 27 Jun 2026 14:31:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
