@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-30",
+  "articles": [
+    {
+      "title": "ArmSoM Sige7로 구축한 저전력 고성능 홈 NVR 시스템",
+      "link": "https://news.hada.io/topic?id=30967",
+      "published": "2026-06-30T12:07:47+09:00",
+      "summary": "<p>호주 시드니의 대형 가정에 배포된 이 시스템은 24시간 연중무휴로 작동하는 저전력 고성능 NVR입니다. ArmSoM Sige7(RK3588) 보드를 기반으로 하며, 8대의 실외 카메라를 동시에 처리합니다.<br />\n주요 기능:<br />\nAI 객체 인식: 사람, 자동차, 오토바이, 고양이 실시간 감지<br />\n번호판 인식(LPR): 낮/밤/폭우 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "클로드 코드 창시자가 말하는 AI 시대의 다섯 가지 일하는 사람의 원형(archetype)",
+      "link": "https://news.hada.io/topic?id=30965",
+      "published": "2026-06-30T11:24:34+09:00",
+      "summary": "<p>보리스 체르니(클로드 코드 창시자)는 AI 시대의 다섯 가지 일하는 사람의 원형(패턴)에 대한 글을 올렸습니다.</p>\n<ul>\n<li>프로토타이퍼: 새 아이디어를 쏟아내는 사람</li>\n<li>빌더: 그걸 진짜 제품으로 만들어내는 사람</li>\n<li>스위퍼: 어질러진 것을 치우는 사람</li>\n<li>그로워: 만들어진 제품을 시장에 맞",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Instagram, Meta Glasses 광고에 사용자 사진 활용",
+      "link": "https://news.hada.io/topic?id=30963",
+      "published": "2026-06-30T10:14:04+09:00",
+      "summary": "<ul>\n<li><strong>Instagram Reels</strong>에 노출된 <strong>Meta Glasses</strong> 광고가 사용자 본인의 프로필 사진을 끌어와 그 사람의 남자친구를 겨냥하면서, 초개인화 광고 논란이 본격화</li>\n<li>광고는 &quot;<strong>Hey Meta, call Alisa</strong>&quot;라는 음성 명령과 함께 실제 사용자(lissil_)의 프로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 대법원, 지오펜스 영장에 헌법상 개인정보 보호 필요 판결",
+      "link": "https://news.hada.io/topic?id=30962",
+      "published": "2026-06-30T09:50:06+09:00",
+      "summary": "<ul>\n<li>미국 대법원은 수사기관이 스마트폰 위치 데이터를 광범위하게 확보하는 <strong>지오펜스 영장</strong>이 수정헌법 4조상 수색에 해당한다고 6대3으로 판결함</li>\n<li>다수의견은 휴대전화 위치 기록에 <strong>합리적 프라이버시 기대</strong>가 있으며, 공공장소에 있었거나 데이터가 제3자 기술기업에 있...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mullvad CEO가 스웨덴 극우 Örebro party의 주요 자금 제공자라는 주장",
+      "link": "https://news.hada.io/topic?id=30961",
+      "published": "2026-06-30T09:47:06+09:00",
+      "summary": "<ul>\n<li>Mastodon의 Jörg Seidel은 <strong>Mullvad CEO</strong>가 스웨덴 극우 <strong>Örebro party</strong>에 자금을 대고 있다며 공개적으로 비판함</li>\n<li>그는 해당 CEO가 단순 후원자가 아니라 당 자금의 <strong>70% 이상</strong>을 기부한 주요 재원이라고 주장함</li>\n<li>이 기부가 Örebro party의 올해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "published": "Tue, 30 Jun 2026 02:28:41 +0000",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "published": "Mon, 29 Jun 2026 20:55:50 +0000",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "published": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "published": "Mon, 29 Jun 2026 19:06:21 +0000",
+      "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "published": "Mon, 29 Jun 2026 18:45:12 +0000",
+      "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "published": "Mon, 29 Jun 2026 17:05:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "published": "Mon, 29 Jun 2026 19:49:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48724230\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Free the Icons",
+      "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "published": "Sat, 27 Jun 2026 15:05:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48698908\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "link": "https://fil-c.org/context_switches",
+      "published": "Tue, 30 Jun 2026 00:38:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48727177\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "link": "https://longcat.chat/blog/longcat-2.0/",
+      "published": "Tue, 30 Jun 2026 00:30:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
