@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-01",
+  "articles": [
+    {
+      "title": "37개 데이터센터 둔 Henrico County, 학교에 전기 절약 요청",
+      "link": "https://news.hada.io/topic?id=30997",
+      "published": "2026-07-01T12:35:24+09:00",
+      "summary": "<ul>\n<li>버지니아의 <strong>Henrico County</strong>는 7월 1일부터 정부·학교 시설 전기요금이 25% 오른다며 직원들에게 절전을 요청함</li>\n<li>카운티 매니저 <strong>John Vithoulkas</strong>는 이번 인상으로 다음 회계연도 비용이 약 500만 달러 늘고, 추가 인상도 이어질 수 있다고 봄</li>\n<li>절전 지침은 블...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 소득 중 노동 몫이 전후 최저 수준",
+      "link": "https://news.hada.io/topic?id=30996",
+      "published": "2026-07-01T10:00:11+09:00",
+      "summary": "<ul>\n<li>미국의 <strong>노동소득분배율</strong>은 총소득에서 노동자에게 돌아가는 몫을 보여주는 핵심 지표이며, COVID 이후 다시 낮아져 전후 최저 수준에 도달함</li>\n<li>전후 상당 기간 약 <strong>63%</strong> 에서 안정적이던 이 비율은 2000년대 초부터 장기 하락세로 돌아섰고, 글로벌 금융위기 때 특히 크...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 대사가 벨기에 경찰을 동원해 취재를 막았다고 The European Correspondent가 밝힘",
+      "link": "https://news.hada.io/topic?id=30995",
+      "published": "2026-07-01T09:57:11+09:00",
+      "summary": "<ul>\n<li>The European Correspondent의 두 기자는 브뤼셀 <strong>Freedom 250</strong> 행사에서 Bill White 주벨기에 미국 대사에게 질문한 뒤, 벨기에 사복 경찰에게 제지·신문·퇴장 조치를 당했다고 밝힘</li>\n<li>이 행사는 미국 독립선언 250주년 기념행사였지만, 의회 승인 공식 행사가 아니라 <strong>민간 회사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "개정된 엔지니어링 리더십 규칙",
+      "link": "https://news.hada.io/topic?id=30994",
+      "published": "2026-07-01T09:57:02+09:00",
+      "summary": "<ul>\n<li><strong>AI 도구 전환</strong>과 빠른 성장(hypergrowth) 환경에서 지난 1년간 검증해 재정립한 엔지니어링 리더십 5대 규칙과 이를 뒷받침하는 <strong>실제 프로젝트 사례</strong> 정리</li>\n<li><strong>마이그레이션</strong>은 이제 팀이 아닌 개인이 95% 주도해 기존의 10% 시간에 완료 가능, 초기 비용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유럽 디지털 ID 지갑, Google·Apple 안전 서비스에 의존",
+      "link": "https://news.hada.io/topic?id=30993",
+      "published": "2026-07-01T09:54:11+09:00",
+      "summary": "<ul>\n<li>유럽의 <strong>디지털 ID 지갑</strong>은 공공 서비스 접근과 온라인 연령 확인에 쓰일 예정이지만, 보안 확인을 Google Play Integrity API와 Apple Managed Device Attestation 같은 민간 플랫폼에 맡기는 구조임</li>\n<li><strong>Play Integrity</strong>는 앱이 정품 인증 Android 기기에서 실행되는지 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The “Father of the Internet” is finally retiring",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "published": "Wed, 01 Jul 2026 03:15:37 +0000",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "published": "Wed, 01 Jul 2026 02:16:06 +0000",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "published": "Wed, 01 Jul 2026 02:04:40 +0000",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+      "published": "Tue, 30 Jun 2026 23:00:00 +0000",
+      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "published": "Tue, 30 Jun 2026 21:53:28 +0000",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "Tue, 30 Jun 2026 17:59:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48736605\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code is steganographically marking requests",
+      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "published": "Tue, 30 Jun 2026 15:44:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48734373\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google copybara: moving code between repositories",
+      "link": "https://github.com/google/copybara",
+      "published": "Tue, 30 Jun 2026 23:45:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740698\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "From Julia to Rust: a differentiable tensor stack for scientific computing",
+      "link": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+      "published": "Tue, 30 Jun 2026 13:49:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48732741\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "published": "Tue, 30 Jun 2026 23:55:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
