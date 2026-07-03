@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-03",
+  "articles": [
+    {
+      "title": "버지니아주, 위치정보 데이터 판매 금지",
+      "link": "https://news.hada.io/topic?id=31077",
+      "published": "2026-07-03T10:34:39+09:00",
+      "summary": "<ul>\n<li>버지니아주는 <strong>VCDPA 개정</strong>으로 위치정보 데이터 판매를 금지해, 주 단위 개인정보보호법에서 위치 데이터 거래 제한을 강화함</li>\n<li>이번 개정은 <strong>S.B. 388</strong> 서명으로 확정됐으며, 금지는 2026년 7월 1일부터 적용됨</li>\n<li>VCDPA의 <strong>판매(sale)</strong> 정의는 개...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2026 상반기 말아먹었을 때 쓰는 글",
+      "link": "https://news.hada.io/topic?id=31076",
+      "published": "2026-07-03T10:06:54+09:00",
+      "summary": "<ul>\n<li>미국 진출 스타트업 창업자가 상반기 성장 정체를 자기반성 형식으로 회고한 글</li>\n<li>숏폼(YouTube/Instagram/Facebook)을 지웠다가 다음 날 모바일 브라우저로 인스타를 다시 보게 된 일화로 시작, &quot;<a href=\"https://www.instagram.com/reel/DaPDwKAza68/\">2026년 상반기 말아먹었을 때 추는 춤</a>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Senior SWE-Bench: 시니어 엔지니어급 에이전트 평가용 오픈소스 벤치마크",
+      "link": "https://news.hada.io/topic?id=31075",
+      "published": "2026-07-03T09:41:21+09:00",
+      "summary": "<ul>\n<li><strong>Senior SWE-Bench</strong>는 코딩 에이전트를 과도하게 정리된 주니어 과제가 아니라, 실제 시니어 엔지니어가 맡는 기능 개발·버그 수정·성능 문제에 가깝게 평가하려는 벤치마크임</li>\n<li>기능 과제는 자연어 메시지처럼 읽히는 <strong>현실적인 지시사항</strong>을 쓰고, 제출된 해법에 맞춰 행...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CursorBench 3.1 모델 평가 결과",
+      "link": "https://news.hada.io/topic?id=31074",
+      "published": "2026-07-03T09:37:34+09:00",
+      "summary": "<ul>\n<li>Cursor의 코딩 모델 평가표에서 <strong>Fable 5 Max</strong>가 72.9%로 1위를 기록해, 상위권 경쟁의 기준점이 됨</li>\n<li><strong>Fable 5 계열</strong>은 Max, Extra High, High, Medium이 1~4위를 모두 차지하며 다른 모델군과 뚜렷한 격차를 보임</li>\n<li>5위권 이후에는 Opus 4.7 Max 64.8%, GPT-5.5...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vite+ 베타 공개",
+      "link": "https://news.hada.io/topic?id=31073",
+      "published": "2026-07-03T09:37:24+09:00",
+      "summary": "<ul>\n<li>웹 개발 도구를 프로젝트마다 따로 조립하던 부담을 줄이기 위해 <strong>Vite+</strong> 가 런타임, 패키지 매니저, 빌드·테스트·검사 도구를 하나의 진입점으로 묶음</li>\n<li><code>vp dev</code>, <code>vp check</code>, <code>vp test</code>, <code>vp build</code>, <code>vp pack</code>, <code>vp ru...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "published": "Fri, 03 Jul 2026 00:00:00 +0000",
+      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "published": "Thu, 02 Jul 2026 23:38:10 +0000",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+      "published": "Thu, 02 Jul 2026 23:01:06 +0000",
+      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "published": "Thu, 02 Jul 2026 21:57:10 +0000",
+      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+      "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+      "published": "Thu, 02 Jul 2026 20:42:48 +0000",
+      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "published": "Thu, 02 Jul 2026 21:03:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48767347\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "link": "https://scottaaronson.blog/?p=9902",
+      "published": "Fri, 03 Jul 2026 00:01:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48768992\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "link": "https://github.com/FractalFir/crustc",
+      "published": "Thu, 02 Jul 2026 22:57:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48768464\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "published": "Fri, 03 Jul 2026 00:01:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48768997\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Right to Local Intelligence",
+      "link": "https://righttointelligence.org/",
+      "published": "Thu, 02 Jul 2026 23:54:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48768951\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
