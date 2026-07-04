@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-04",
+  "articles": [
+    {
+      "title": "에이전트 자율성 수준",
+      "link": "https://news.hada.io/topic?id=31115",
+      "published": "2026-07-04T11:39:13+09:00",
+      "summary": "<ul>\n<li>에이전트형 엔지니어링은 프롬프트 작성보다 <strong>운영 설계</strong>에 가까워지고 있으며, 작업별로 허용할 자율성과 이를 뒷받침할 <strong>검증 방식</strong>을 함께 정해야 함</li>\n<li>단일 사다리형 모델은 한 에이전트에 대한 신뢰를 숫자로 표현하는 데는 유용하지만, 여러 에이전트를 동시에 다루...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Costco는 안티-Amazon이다",
+      "link": "https://news.hada.io/topic?id=31114",
+      "published": "2026-07-04T10:58:44+09:00",
+      "summary": "<ul>\n<li>Amazon식 소매 미래가 <strong>무한한 상품 구색</strong>과 초고속 배송을 향하는 동안, Costco는 제한된 품목·오프라인 구매·단순 물류로 최근 5년간 매출을 매년 평균 10% 이상 늘림</li>\n<li>Costco 매장은 약 <strong>4,000개 SKU</strong>만 취급해 Walmart Supercenter의 약 130,000개 SKU나 Amazon식 무...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Fable을 이기는 ‘짧은 목줄’ AI 코딩 방법",
+      "link": "https://news.hada.io/topic?id=31113",
+      "published": "2026-07-04T10:55:43+09:00",
+      "summary": "<ul>\n<li>보안 중요 소프트웨어에서 AI 코딩 에이전트를 쓰려면 자율 실행을 맡기기보다, 개발자가 변경을 계속 통제하는 <strong>Short Leash 방식</strong>이 필요함</li>\n<li>여러 에이전트가 병렬로 코드를 만들고 검토하는 “vibe”식 접근은 코드베이스 이해를 약화시키고, AI가 <strong>off the rails</strong> 상...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "세션 기록을 기억하는건 에이전트에 유용하지 않음",
+      "link": "https://news.hada.io/topic?id=31112",
+      "published": "2026-07-04T10:55:12+09:00",
+      "summary": "<ul>\n<li>SWE 작업에서 에이전트가 문서·PR·커밋 같은 컨텍스트를 이미 볼 수 있다면, 과거 <strong>세션 기록 검색</strong>은 성능 이점을 만들지 못했음</li>\n<li>흔한 구현은 모든 transcript를 DB에 저장한 뒤 <strong>벡터 검색</strong>, Elasticsearch, SQL 검색, 그래프를 붙여 MCP나 CLI skill로 노출하지만, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Retry-now, 지금 바로 윤회 - 완전 자율 루프 에이전트",
+      "link": "https://news.hada.io/topic?id=31111",
+      "published": "2026-07-04T10:50:23+09:00",
+      "summary": "<p>AI 코딩 에이전트를 반복 실행해서 코드베이스를 점진적으로 개선하는 에이전트 <code>retry-now</code>를 만들었습니다.</p>\n<p>핵심 아이디어는 &quot;매 이터레이션마다 완전히 새로운 컨텍스트 0 세션에서 코드를 다시 보게 하자&quot;입니다.<br />\n기존 장기 실행 에이전트는 이전 판단을 방어하거나, 이미 시도",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published": "Fri, 03 Jul 2026 18:43:00 +0000",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "published": "Fri, 03 Jul 2026 18:28:30 +0000",
+      "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+      "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+      "published": "Fri, 03 Jul 2026 16:30:00 +0000",
+      "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "published": "Fri, 03 Jul 2026 05:05:00 +0000",
+      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "published": "Fri, 03 Jul 2026 22:40:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48780870\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "link": "https://mistral.ai/news/leanstral-1-5/",
+      "published": "Fri, 03 Jul 2026 22:33:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48780801\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "link": "https://www.wafer.ai/blog/glm52-amd",
+      "published": "Fri, 03 Jul 2026 21:49:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48780417\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "link": "https://mrbruh.com/msicenter/",
+      "published": "Sat, 04 Jul 2026 00:57:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48781688\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "published": "Fri, 03 Jul 2026 22:39:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48780865\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
