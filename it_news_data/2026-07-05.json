@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-05",
+  "articles": [
+    {
+      "title": "Google Books 또는 유사한 전체 도서 스캔에 20만 달러 보상금 제시(2025)",
+      "link": "https://news.hada.io/topic?id=31139",
+      "published": "2026-07-05T11:34:49+09:00",
+      "summary": "<ul>\n<li>Anna’s Archive가 <strong>Google Books 전체 도서 스캔</strong> 또는 비슷한 규모의 컬렉션 확보에 <strong>20만 달러 보상금</strong>을 걸었음</li>\n<li>현재 Google Books 접근은 검색 결과 주변의 <strong>작은 스니펫</strong> 중심이라, 전체 스캔 확보가 아카이브 관점에서 핵심 과제로 다뤄짐</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Command &amp; Conquer Generals, Fable로 macOS·iPhone·iPad 네이티브 포팅",
+      "link": "https://news.hada.io/topic?id=31138",
+      "published": "2026-07-05T10:36:10+09:00",
+      "summary": "<ul>\n<li><strong>Command &amp; Conquer Generals: Zero Hour</strong>가 Apple Silicon Mac, iPhone, iPad에서 에뮬레이션 없이 실행되며, 고전 RTS를 최신 Apple 기기에서 직접 플레이할 수 있게 됨</li>\n<li>핵심은 <strong>2003년 실제 엔진의 ARM64 컴파일</strong>이며, 그래픽은 DirectX 8 → DXVK → Vulkan →...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Linux htop/top 화면에 보이는 값들 해설 (2019)",
+      "link": "https://news.hada.io/topic?id=31136",
+      "published": "2026-07-05T09:49:42+09:00",
+      "summary": "<ul>\n<li>Ubuntu Server 16.04 x64의 <strong>htop 화면</strong>을 출발점으로 uptime, load average, Tasks, PID, 프로세스 트리, 상태, CPU 시간, 우선순위, 메모리 지표가 실제로 무엇을 뜻하는지 <code>/proc</code>와 명령어 출력으로 추적함</li>\n<li>화면의 많은 값은 <strong>procfs</strong>와 <code>/etc/pas...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "YouTube 크리에이터의 비공개 영상 유출",
+      "link": "https://news.hada.io/topic?id=31135",
+      "published": "2026-07-05T09:46:42+09:00",
+      "summary": "<ul>\n<li>YouTube Studio의 <strong>Ask Studio</strong>가 댓글을 요약할 때, 공격자가 댓글에 넣은 지시문을 모델 지시처럼 따르는 <strong>저장형 프롬프트 인젝션</strong>이 가능했음</li>\n<li>공격자는 정상 댓글을 먼저 남긴 뒤 나중에 페이로드로 수정할 수 있고, YouTube는 댓글 수정 사실을 크리에이터에게 다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
+      "link": "https://news.hada.io/topic?id=31134",
+      "published": "2026-07-05T09:31:02+09:00",
+      "summary": "<ul>\n<li>Linux 메모리 덤프를 <strong>일반 파일과 폴더 구조</strong>로 마운트해, <strong>기존 도구</strong>로 그대로 조사하는 포렌식 프레임워크</li>\n<li>AVML / LiME / raw / kdump 이미지를 지원하며, <strong>리눅스/윈도우에서 마운트</strong> 가능</li>\n<li>캡처 시점 커널 상태(프로세스, 열린 파일, 소켓...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "link": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "published": "Sat, 04 Jul 2026 23:41:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48790066\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "published": "Sat, 04 Jul 2026 19:41:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48788283\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "link": "https://github.com/openai/codex/issues/30364",
+      "published": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48789428\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "link": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "published": "Sat, 04 Jul 2026 22:36:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48789712\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "published": "Sat, 04 Jul 2026 16:51:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48786838\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
