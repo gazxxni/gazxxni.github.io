@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "title": "덜한 것이 더 낫다, 대체로",
+      "link": "https://news.hada.io/topic?id=31170",
+      "published": "2026-07-06T11:20:02+09:00",
+      "summary": "<ul>\n<li>AI로 무엇이든 빠르게 만들 수 있는 시대에, 양을 늘리는 것이 더 나은 결과로 이어지지 않으며 <strong>의도</strong>와 <strong>극도의 세심함</strong>으로 만든 제품만이 오래 살아남음</li>\n<li>뛰어난 제품의 핵심은 <strong>단순함</strong>과 <strong>명료함</strong>이며, 이는 뇌의 인지 부하를 줄이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 시대, Figma를 다시 생각하다",
+      "link": "https://news.hada.io/topic?id=31169",
+      "published": "2026-07-06T11:05:02+09:00",
+      "summary": "<ul>\n<li><strong>Config 2026</strong>에서 Figma는 AI 압박에 대응해 캔버스를 코드, 모션, 셰이더, 에이전트 워크플로로 확장하며 생존을 건 승부수를 던지는 중</li>\n<li>10여 년간 제품 디자인의 기본 작업 공간이었으나, AI가 기획·프로토타이핑·출시 방식을 재편하며 <strong>캔버스가 여전히 중심축인지</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "메모리 아끼면서 Cross Entropy Loss 계산하기",
+      "link": "https://news.hada.io/topic?id=31168",
+      "published": "2026-07-06T10:42:39+09:00",
+      "summary": "<p>긴 context, 큰 vocab의 LLM 학습에서 LM head + cross entropy가 왜 가장 큰 메모리 소비처 중 하나가 되는지 짚어본 글. 128K context에서는 logits 텐서 하나가 40GB에 육박해서, 모델 weight보다도 커진다.</p>\n<p>16B 모델을 128K context로 학습하다 실제로 겪은 OOM에서 출발해, cross entropy의 forward/back",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "라이브 데이터를 공유 가능한 영상으로 자동 변환하는 방법",
+      "link": "https://news.hada.io/topic?id=31167",
+      "published": "2026-07-06T10:36:13+09:00",
+      "summary": "<ul>\n<li>며칠마다 갱신되는 <strong>라이브 데이터</strong>를 사람이 매번 편집하지 않고 소셜 영상으로 만들기 위해 웹 기반 워크플로를 구축</li>\n<li>영상의 원본은 편집 파일이 아니라 <strong>숨겨진 웹 페이지</strong>이며, Playwright가 브라우저를 프레임별로 움직이고 ffmpeg가 이를 MP4와 GIF로 묶음</li>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Figma는 다음에 무엇을 할 것인가?",
+      "link": "https://news.hada.io/topic?id=31166",
+      "published": "2026-07-06T10:25:01+09:00",
+      "summary": "<ul>\n<li>디자인을 <strong>멀티플레이어 협업</strong>으로 만든 문제를 해결하며 지난 10년간 가장 중요한 제품 도구로 자리 잡았으나, 무게 중심이 <strong>캔버스에서 코드로</strong> 이동하는 시점에 캔버스에 묶인 전략적 상상력이라는 문제를 안고 있음</li>\n<li>Figma는 디자인 파일을 <strong>브라우저 기반 공...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "published": "Sun, 05 Jul 2026 21:35:17 +0000",
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "published": "Sun, 05 Jul 2026 20:29:05 +0000",
+      "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "published": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "5 desk gadgets that can make your workday better",
+      "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "published": "Sun, 05 Jul 2026 15:00:00 +0000",
+      "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "published": "Sun, 05 Jul 2026 13:33:32 +0000",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "published": "Mon, 06 Jul 2026 01:04:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48799614\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenPrinter",
+      "link": "https://www.opentools.studio/",
+      "published": "Sun, 05 Jul 2026 21:03:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48797916\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "published": "Mon, 06 Jul 2026 00:04:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48799256\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Has_not_been_viewed_much",
+      "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "published": "Sun, 05 Jul 2026 23:49:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48799155\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Organic Maps",
+      "link": "https://organicmaps.app/",
+      "published": "Sun, 05 Jul 2026 14:14:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48794446\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
