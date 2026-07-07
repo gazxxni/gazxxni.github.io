@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-07",
+  "articles": [
+    {
+      "title": "Amazon, Mechanical Turk 신규 고객 접수 중단 예정",
+      "link": "https://news.hada.io/topic?id=31204",
+      "published": "2026-07-07T11:01:50+09:00",
+      "summary": "<ul>\n<li>Amazon의 크라우드소싱 서비스 <strong>Mechanical Turk</strong>는 2026년 7월 30일부터 신규 고객을 받지 않고, 기존 고객만 계속 사용할 수 있음</li>\n<li>AWS는 “신중한 검토” 뒤 내린 결정이라며 <strong>보안과 가용성 개선</strong>은 이어가지만 새 기능은 추가하지 않겠다고 밝힘</li>\n<li>2005년 시...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "저커버그, &quot;AI 에이전트 기술이 기대보다 느리게 발전하고 있다&quot;",
+      "link": "https://news.hada.io/topic?id=31203",
+      "published": "2026-07-07T11:00:36+09:00",
+      "summary": "<ul>\n<li><strong>AI 에이전트</strong> 개발 속도가 기대에 미치지 못했으며, 최근 최소 4개월간의 개발 궤적이 예상만큼 <strong>가속화되지 못함</strong></li>\n<li>올해 초 도입된 대규모 조직 개편이 충분히 &quot;깔끔하지&quot; 못했고, 경영진이 변화 <strong>시점 판단에서 오판</strong>함</li>\n<li>5월에 전체...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AMD Ryzen AI Halo, $4000(약 600만원) AI 개발 키트",
+      "link": "https://news.hada.io/topic?id=31202",
+      "published": "2026-07-07T10:58:43+09:00",
+      "summary": "<ul>\n<li>로컬 AI 개발 환경을 직접 맞추는 부담을 줄이기 위해, Ryzen AI Halo는 <strong>Ryzen AI Max+ 395</strong> 미니 PC에 ROCm·드라이버·모델·개발 도구를 묶어 제공함</li>\n<li>단일 구성은 16코어/32스레드 Zen 5 CPU, Radeon 8060S 내장 GPU, XDNA 2 NPU, <strong>128GB LPDDR5x-8000 통합 메모리</strong>,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic이 개발자 호감을 잃는 몇 가지 방법",
+      "link": "https://news.hada.io/topic?id=31201",
+      "published": "2026-07-07T10:54:12+09:00",
+      "summary": "<ul>\n<li>Anthropic은 Claude 구독을 <strong>자사 도구 중심 체계</strong>에 묶고 제3자 에이전트 사용에 별도 과금을 붙이면서, 개발자가 기대한 구독 가치와 실제 사용 조건 사이의 간극을 키움</li>\n<li>Claude 구독 사용처는 Claude Code CLI/Desktop, Claude CoWork, Slack의 @Claude 등으로 제한되고, Vertex AI...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CoMaps - 오픈소스 오프라인 지도",
+      "link": "https://news.hada.io/topic?id=31200",
+      "published": "2026-07-07T10:33:12+09:00",
+      "summary": "<ul>\n<li><strong>CoMaps</strong>는 하이킹, 자전거, 자동차 이동에서 모바일 데이터 없이 경로를 찾고 안내받을 수 있는 커뮤니티 기반 지도 앱임</li>\n<li>해외 여행이나 외딴 트레일에서도 <strong>GPS만으로</strong> 경로 계획, 내비게이션, 경유지 검색을 사용할 수 있음</li>\n<li>앱은 <strong>프라이버시</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "published": "Tue, 07 Jul 2026 00:47:33 +0000",
+      "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "published": "Mon, 06 Jul 2026 23:56:14 +0000",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "published": "Mon, 06 Jul 2026 23:21:03 +0000",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "published": "Mon, 06 Jul 2026 19:49:10 +0000",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "published": "Mon, 06 Jul 2026 19:01:59 +0000",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "published": "Mon, 06 Jul 2026 23:00:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "link": "https://openwrt.org/toh/openwrt/one",
+      "published": "Mon, 06 Jul 2026 18:23:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808482\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "published": "Tue, 07 Jul 2026 00:14:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "link": "https://www.comaps.app/",
+      "published": "Mon, 06 Jul 2026 18:55:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808928\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "published": "Mon, 06 Jul 2026 20:14:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48809877\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
