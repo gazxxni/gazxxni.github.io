@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-10",
+  "articles": [
+    {
+      "title": "Mitchell Hashimoto 인터뷰: Ghostty, Zig, 오픈소스 유지보수",
+      "link": "https://news.hada.io/topic?id=31294",
+      "published": "2026-07-10T12:04:01+09:00",
+      "summary": "<ul>\n<li>Mitchell Hashimoto는 Vagrant, Terraform, Vault 이후 <strong>Ghostty</strong>와 Vouch를 만들며, 터미널·Zig·오픈소스 유지보수·제품 품질에 대한 자신의 기준을 정리함</li>\n<li>Ghostty는 GPU 프로그래밍, 데스크톱/단일 노드 시스템 프로그래밍, <strong>Zig</strong>를 익히려는 개인 프로젝트에서 출발...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 혹시 토익 고사장 하나씩 찾다가 지치셨나요?",
+      "link": "https://news.hada.io/topic?id=31293",
+      "published": "2026-07-10T11:02:00+09:00",
+      "summary": "<p><strong>2천 명 이상의 토익 수험생들이 사용하고 있어요!</strong></p>\n<p>토익 시험을 신청할 때 고사장을 고르는 게 은근히 불편했습니다.</p>\n<p>토익 홈페이지에서는 지역별 고사장 목록은 볼 수 있지만,<br />\n여러 고사장을 지도 위에서 한 번에 비교하거나 “내 위치에서 가까운 순서”로 보기 어렵더라구요",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모델 3/Y를 위한 테슬라 FSD v14 Lite, 한국에 배포 시작",
+      "link": "https://news.hada.io/topic?id=31292",
+      "published": "2026-07-10T10:36:56+09:00",
+      "summary": "<ul>\n<li><strong>풀 셀프 드라이빙(감독형) v14 Lite</strong>는 현재 <strong>미국 생산</strong> Model 3/Y(풀 셀프 드라이빙 컴퓨터 3) 차량 중 FSD(감독형)이 활성화된 차량에 한해 제공</li>\n<li><strong>오늘부터 순차 배포 시작</strong>되며, 차량별로 적용시점은 다를 수 있음</li>\n<li>풀 셀프 드라이빙(감독...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "코딩 평가에서 신호와 잡음 분리하기",
+      "link": "https://news.hada.io/topic?id=31291",
+      "published": "2026-07-10T09:59:21+09:00",
+      "summary": "<ul>\n<li>AI 모델의 코딩 능력 평가는 배포와 안전성 판단에 직접 연결되지만, OpenAI의 감사에서 SWE-Bench Pro 작업 중 약 <strong>30%가 깨진 상태</strong>로 추정됨</li>\n<li>SWE-Bench Pro는 더 긴 작업 범위와 현실적인 과제를 목표로 했으나, <strong>731개 공개 작업</strong>에서 통과율이 8개월 만에 23.3%에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tencent, 오픈소스 모델 Hy3 공개",
+      "link": "https://news.hada.io/topic?id=31290",
+      "published": "2026-07-10T09:56:21+09:00",
+      "summary": "<ul>\n<li>비슷한 크기 모델보다 높은 성능을 목표로 하며, <strong>2~5배 많은 파라미터</strong>를 가진 플래그십 오픈소스 모델과도 경쟁 가능한 수준</li>\n<li>270명 전문가의 실제 업무 기반 <strong>블라인드 평가</strong>에서 Hy3는 2.67/4로 GLM-5.1의 2.51/4를 앞섰고, 프론트엔드 개발·데이터 및 스토리지·CI/...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "published": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "published": "Fri, 10 Jul 2026 00:13:00 +0000",
+      "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "published": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "published": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "published": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "link": "https://github.com/JustVugg/colibri",
+      "published": "Thu, 09 Jul 2026 08:05:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48842459\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Focus",
+      "link": "https://boz.com/articles/focus",
+      "published": "Fri, 10 Jul 2026 00:40:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48854363\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "published": "Thu, 09 Jul 2026 11:03:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48843923\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.6",
+      "link": "https://openai.com/index/gpt-5-6/",
+      "published": "Thu, 09 Jul 2026 17:04:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48849066\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "link": "https://18words.com/",
+      "published": "Thu, 09 Jul 2026 12:48:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48845049\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
