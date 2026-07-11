@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-11",
+  "articles": [
+    {
+      "title": "Apple, OpenAI를 상대로 소송 제기하며 전 직원들이 영업비밀을 훔쳤다고 주장",
+      "link": "https://news.hada.io/topic?id=31318",
+      "published": "2026-07-11T09:45:31+09:00",
+      "summary": "<ul>\n<li>애플은 전 직원 2명과 OpenAI 및 Jony Ive의 io Products를 상대로 <strong>영업비밀 부정취득</strong>과 계약 위반 소송을 제기하며, OpenAI의 하드웨어 진출이 Apple 기밀에 기대고 있다고 주장</li>\n<li>소장에 따르면 OpenAI는 io Products 인수와 전 Apple 임원·엔지니어 채용을 통해 소비자 하드웨어 시...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "뉴욕시, 기만적 구독 관행 금지 예정",
+      "link": "https://news.hada.io/topic?id=31317",
+      "published": "2026-07-11T09:42:31+09:00",
+      "summary": "<ul>\n<li>뉴욕시는 헬스장 멤버십·스트리밍 같은 반복 과금에서 소비자가 빠져나오기 어렵게 만드는 <strong>기만적 구독 관행</strong>을 금지하며, 미국 도시 중 첫 사례가 됨</li>\n<li><strong>10월 1일</strong>부터 간단한 해지 방법을 제공하지 않는 기업은 사용자 구독 1건당 <strong>525달러</strong>와 환급 수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "QuadRF는 드론을 포착하고 벽 너머 WiFi를 볼 수 있음",
+      "link": "https://news.hada.io/topic?id=31316",
+      "published": "2026-07-11T09:39:31+09:00",
+      "summary": "<ul>\n<li><strong>QuadRF</strong>는 Raspberry Pi 5와 피코초 수준 타이밍의 FPGA 보드를 결합한 휴대형 위상 배열 라디오로, 4.9~6GHz RF 환경을 빔포밍과 신호 처리로 시각화함</li>\n<li>공중으로 이동하는 <strong>WiFi 패킷</strong>은 물리적 접속 없이도 관찰 대상이 될 수 있어, RF 스트리밍·디코딩 데이터가 더...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "fenic - 사람과 에이전트를 위한 시맨틱 데이터프레임(Semantic DataFrames)",
+      "link": "https://news.hada.io/topic?id=31315",
+      "published": "2026-07-11T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>PySpark/SQL 스타일 연산</strong>(<code>select</code>, <code>filter</code>, <code>join</code>, <code>group_by</code>, <code>agg</code>)과 언어 모델을 호출하는 <strong>시맨틱 연산자</strong>를 하나의 쿼리 모델 안에서 함께 다루는 DataFrame 쿼리 엔진\n<ul>\n<li>문서/트랜스크립트/로그/e...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cpp2Rust: C++를 안전한 Rust로 자동 번역",
+      "link": "https://news.hada.io/topic?id=31314",
+      "published": "2026-07-11T09:01:09+09:00",
+      "summary": "<ul>\n<li><strong>Cpp2Rust</strong>는 clang AST 기반의 구문 주도 번역기로, C++ 입력을 자동으로 완전히 안전한 Rust 코드로 변환함</li>\n<li>번역 과정은 clang으로 C++ 파일을 파싱해 AST를 만들고, AST를 순회하며 Rust 코드를 문자열로 생성한 뒤 <code>rustfmt</code>로 단일 <code>.rs</code> 파일을 출력함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published": "Sat, 11 Jul 2026 01:01:28 +0000",
+      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "published": "Sat, 11 Jul 2026 00:29:25 +0000",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "published": "Fri, 10 Jul 2026 21:51:55 +0000",
+      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "published": "Fri, 10 Jul 2026 22:30:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48866134\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "published": "Fri, 10 Jul 2026 15:59:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48861717\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48865019\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "link": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "published": "Tue, 07 Jul 2026 13:30:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48817539\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The footgun of right-to-left decorative characters",
+      "link": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+      "published": "Tue, 07 Jul 2026 03:04:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48813246\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
