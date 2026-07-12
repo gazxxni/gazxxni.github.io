@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-12",
+  "articles": [
+    {
+      "title": "Ghost Font - 사람은 읽지만 AI는 읽기 어려운 글꼴",
+      "link": "https://news.hada.io/topic?id=31343",
+      "published": "2026-07-12T09:44:08+09:00",
+      "summary": "<ul>\n<li><strong>Ghost Font</strong>는 배경과 같은 점들의 움직임으로 글자를 만들어, 사람은 영상에서 메시지를 인식하지만 개별 프레임을 분석하는 AI는 쉽게 해독하지 못하게 하는 시각 커뮤니케이션 실험임</li>\n<li>전통적인 TTF 글꼴 대신 <strong>움직임·영상·노이즈·미끼 메시지</strong>를 결합하며, 영상을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPT-5.6, Grok 4.5, Claude, Muse Spark로 동일한 앱 4개를 만든 결과",
+      "link": "https://news.hada.io/topic?id=31342",
+      "published": "2026-07-12T09:42:10+09:00",
+      "summary": "<ul>\n<li>12개 모델에 레이캐스터 미로, 3D 루빅스 큐브, 계산기, Conway’s Game of Life를 만들게 한 결과, <strong>GPT-5.6 Sol</strong>과 <strong>Claude Fable 5</strong>가 복잡한 과제의 선두를 나눠 가짐</li>\n<li>모델마다 과제별로 <strong>5회씩 시도</strong>해 성공 횟수·비용·시간과 모든 결과물을 공개했...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 여성 조정 선수, 캘리포니아에서 하와이까지 역사적 단독 항해 완주",
+      "link": "https://news.hada.io/topic?id=31341",
+      "published": "2026-07-12T09:33:33+09:00",
+      "summary": "<ul>\n<li>그랜드캐니언 래프팅 가이드 <strong>Kelsey Pfendler</strong>가 21피트 조정 보트 Lily를 타고 캘리포니아 몬터레이에서 하와이 호놀룰루까지 2,400마일(3,900km)이 넘는 태평양 횡단을 단독 완주함</li>\n<li>5월에 출발해 <strong>44일 미만</strong> 만에 도착했으며, Ocean Rowing Society International ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "“신이 우리를 도왔고, AI도 그럴 것이다”: 테러 조직 Boko Haram의 프런티어 AI 활용 방식",
+      "link": "https://news.hada.io/topic?id=31340",
+      "published": "2026-07-12T09:31:54+09:00",
+      "summary": "<ul>\n<li>2025~2026년 나이지리아 북동부에서 전 Boko Haram 구성원 27명을 대상으로 <strong>대면 인터뷰 57회</strong>를 진행한 결과, ISWAP과 JAS 두 분파가 2023년부터 프런티어 AI를 전투·작전·일상 운영에 체계적으로 활용해 온 정황이 확인됨</li>\n<li>ChatGPT·Claude·Gemini·Grok·Meta AI·DeepSeek는 공격 준비...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "sem - Git 위에 함수/클래스 단위 변경 추적을 추가하는 시맨틱 버전 관리 도구",
+      "link": "https://news.hada.io/topic?id=31339",
+      "published": "2026-07-12T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>줄이 아니라 코드 엔티티를 비교</strong>해 어떤 함수/메서드/클래스가 추가/수정/삭제/이동/이름 변경됐는지 보여줌\n<ul>\n<li>&quot;line x~y가 변경됨&quot; → &quot;<strong>함수 <code>blah</code>가 변경됨</strong>&quot;</li>\n</ul>\n</li>\n<li>아무 Git 레포에서 <strong>설정없이 동작</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "published": "Sun, 12 Jul 2026 00:16:06 +0000",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same wind",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "published": "Sat, 11 Jul 2026 22:00:00 +0000",
+      "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "published": "Sat, 11 Jul 2026 17:30:00 +0000",
+      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published": "Sat, 11 Jul 2026 01:01:28 +0000",
+      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "link": "https://www.iroh.computer/blog/mesh-llm",
+      "published": "Sat, 11 Jul 2026 22:38:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48876505\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A dock that wakes up reliably",
+      "link": "https://fabiensanglard.net/tb4/index.html",
+      "published": "Sun, 12 Jul 2026 00:48:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48877269\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "link": "https://antjs.org",
+      "published": "Sat, 11 Jul 2026 20:07:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48875377\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "link": "https://goeteia.dev",
+      "published": "Sun, 12 Jul 2026 00:57:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48877314\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "link": "https://github.com/Wren6991/RISCBoy",
+      "published": "Sat, 11 Jul 2026 21:58:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48876245\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
