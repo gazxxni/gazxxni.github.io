@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-15",
+  "articles": [
+    {
+      "title": "코드를 거의 보지 않고 만든 70배 빠른 SQL 파서",
+      "link": "https://news.hada.io/topic?id=31457",
+      "published": "2026-07-15T11:19:05+09:00",
+      "summary": "<ul>\n<li>PostHog는 ANTLR 기반 C++ SQL 파서를 여러 Claude Code 세션으로 재작성해 <strong>16K줄의 Rust 파서</strong>와 5K줄의 도구, 수천 줄의 테스트를 만들었으며 노트북 기준 약 70배의 속도 향상을 얻음</li>\n<li>새 구현은 <strong>예측형 재귀 하강 파서</strong>와 Pratt 표현식 코어를 중심으로, 필요한 곳...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Physical AI의 머니볼",
+      "link": "https://news.hada.io/topic?id=31456",
+      "published": "2026-07-15T11:17:01+09:00",
+      "summary": "<ul>\n<li>로봇 데이터는 텍스트처럼 기존 코퍼스에서 채굴할 수 없고 유용한 시간마다 비용이 발생하므로, 자본 효율은 총수집량보다 <strong>달러당 한계 효용</strong>과 <strong>데이터 새로움</strong>을 얼마나 정확히 계산하느냐에 달려 있음</li>\n<li>데이터가 늘면 손실은 멱법칙에 따라 감소하지만, <strong>다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "예측 불가능한 천재를 감싸는 법",
+      "link": "https://news.hada.io/topic?id=31455",
+      "published": "2026-07-15T11:12:49+09:00",
+      "summary": "<ul>\n<li>같은 요청에도 결과가 달라지는 AI 제품에서 반복 오류를 줄이려면 지침을 늘리기보다 모델이 거스를 수 없는 <strong>결정론적 코드</strong>로 통제해야 함</li>\n<li>통제 구조는 모델, 하네스, 문서, 훅의 네 계층으로 나뉘며, 특정 조건에서 독립적으로 작동하는 <strong>훅(hook)</strong> 만 규칙을 강제...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어가 세상을 먹어 치웠고, 이제 하드웨어가 소프트웨어를 먹고 있다",
+      "link": "https://news.hada.io/topic?id=31454",
+      "published": "2026-07-15T11:10:43+09:00",
+      "summary": "<ul>\n<li>SaaS 시대에는 인터페이스와 애플리케이션이 75~90%의 총마진을 확보했지만, AI에서는 가치 중심이 <strong>반도체·컴퓨팅·데이터·추론 플랫폼</strong>으로 내려가며 애플리케이션 계층이 얇아지고 있음</li>\n<li>막대한 자본과 <strong>CoWoS·HBM·전력의 물리적 병목</strong>, 데이터 전환 비용, 애플리케이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 USB-C 맥시멀리스트다",
+      "link": "https://news.hada.io/topic?id=31453",
+      "published": "2026-07-15T11:07:15+09:00",
+      "summary": "<ul>\n<li>7주간의 유럽 여행에서 휴대전화부터 노트북·칫솔까지 충전 규격을 <strong>USB-C로 통일</strong>해, 여러 전용 어댑터 대신 범용 전원 어댑터 하나만 휴대함</li>\n<li>범용 어댑터는 노트북과 휴대전화를 빠르게 충전하는 <strong>USB-C PD</strong>, USB-C 포트 2개, USB-A 포트 2개와 콘센트 패스스루를 갖...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "published": "Wed, 15 Jul 2026 00:27:04 +0000",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published": "Tue, 14 Jul 2026 23:10:02 +0000",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "published": "Tue, 14 Jul 2026 22:22:24 +0000",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "published": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "published": "Tue, 14 Jul 2026 21:50:11 +0000",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "link": "https://vpd.ca/",
+      "published": "Wed, 15 Jul 2026 00:15:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48914644\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "link": "https://tailscale.com/security-bulletins",
+      "published": "Wed, 15 Jul 2026 01:08:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48915004\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "published": "Tue, 14 Jul 2026 17:50:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "published": "Tue, 14 Jul 2026 21:15:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48913050\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "published": "Tue, 14 Jul 2026 16:57:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48909785\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
