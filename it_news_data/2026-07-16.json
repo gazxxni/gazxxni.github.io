@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-16",
+  "articles": [
+    {
+      "title": "Show GN: Claude 공식 업타임 99.55%인데 6월 인시던트 45건 — 6월 AI 서비스 신뢰도 리포트",
+      "link": "https://news.hada.io/topic?id=31485",
+      "published": "2026-07-16T10:47:47+09:00",
+      "summary": "<p><strong>AIWatch</strong>는 Claude·OpenAI·Gemini 등 <strong>41개 AI 서비스</strong>(LLM API·코딩 에이전트·음성·인프라·AI 앱)의 업타임·인시던트·지연을 실시간으로 모니터링합니다. 6월 리포트(6/1–30)를 공개했습니다.</p>\n<ul>\n<li>리포트: https://ai-watch.dev/reports/2026-06/</li>\n<li>실시간 대시보",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, EU 법원 상표권 분쟁에서 패소",
+      "link": "https://news.hada.io/topic?id=31484",
+      "published": "2026-07-16T10:31:33+09:00",
+      "summary": "<ul>\n<li>EU 일반법원은 일부 소프트웨어·IT 상품 및 서비스에서 <strong>OPENAI가 제품 특성을 나타내는 서술적 용어</strong>이므로 상표 보호에 필요한 식별력이 없다고 판단함</li>\n<li>이에 따라 소프트웨어와 클라우드 컴퓨팅 서비스 등의 상표 등록을 부분 거절한 <strong>EU 지식재산청(EUIPO)의 결정</strong>이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Stripe·Advent의 PayPal 인수 공동 제안…소식통",
+      "link": "https://news.hada.io/topic?id=31483",
+      "published": "2026-07-16T10:30:13+09:00",
+      "summary": "Stripe·Advent의 PayPal 인수 공동 제안…소식통",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Codex Micro",
+      "link": "https://news.hada.io/topic?id=31482",
+      "published": "2026-07-16T10:28:44+09:00",
+      "summary": "<ul>\n<li>OpenAI와 Work Louder가 <strong>Codex 에이전트 작업을 물리적으로 제어</strong>할 수 있는 키보드를 공동 설계했으며, 가격은 <strong>230달러</strong>임</li>\n<li>각 Agent Key의 <strong>실시간 RGB</strong>로 에이전트가 생각·실행·대기·완료 중인지 채팅을 전환하기 전에 확인할 수 있음</li>\n<li>조...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SpaceX 채권, 발행가보다 10% 하락하여 정크본드 수준이 되어감",
+      "link": "https://news.hada.io/topic?id=31481",
+      "published": "2026-07-16T09:49:28+09:00",
+      "summary": "<ul>\n<li>SpaceX가 발행한 <strong>2056년 만기 채권</strong>의 신용 스프레드가 발행 당시 미국 국채 대비 175bp에서 231bp로 확대되며, 시장 평가가 투자등급보다 정크본드 위험에 가까워짐</li>\n<li>장기 미국 국채 가격 하락도 영향을 줬지만, 채권 가치 하락의 <strong>3분의 2 이상</strong>은 SpaceX 자체의 위험...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "published": "Thu, 16 Jul 2026 00:20:42 +0000",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "published": "Wed, 15 Jul 2026 20:22:52 +0000",
+      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "published": "Wed, 15 Jul 2026 19:46:54 +0000",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "published": "Wed, 15 Jul 2026 18:12:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48924912\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "published": "Wed, 15 Jul 2026 22:42:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48928135\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Grok Build is open source",
+      "link": "https://github.com/xai-org/grok-build",
+      "published": "Wed, 15 Jul 2026 20:24:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48926590\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "link": "https://davidobando.github.io/gsharp/",
+      "published": "Sat, 11 Jul 2026 13:04:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48871721\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "published": "Wed, 15 Jul 2026 21:16:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48927095\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
