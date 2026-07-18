@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-18",
+  "articles": [
+    {
+      "title": "먼 별의 생명체 거주 가능 영역에 있는 지구형 행성에서 최초로 대기 발견",
+      "link": "https://news.hada.io/topic?id=31539",
+      "published": "2026-07-18T09:58:21+09:00",
+      "summary": "<ul>\n<li>지구에서 48광년 떨어진 암석 행성 <strong>LHS 1140 b</strong>에서 대기가 확인돼, 태양계 밖 생명체 거주 가능 영역의 지구형 행성으로는 첫 사례가 됨</li>\n<li>지금까지 검출된 기체는 상층 대기에 있을 것으로 추정되는 <strong>헬륨</strong>뿐이지만, 더 낮은 대기층에 다른 기체가 존재할 가능성은 남...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2026년 7월 오픈소스 AI 현황",
+      "link": "https://news.hada.io/topic?id=31538",
+      "published": "2026-07-18T09:55:21+09:00",
+      "summary": "<ul>\n<li>오픈 웨이트 모델은 코딩·지시 이행·일반 지식에서 폐쇄형과 비슷한 수준에 도달했고, 추론 비용도 36개월간 <strong>50배 하락</strong>하면서 경쟁의 중심이 모델 자체에서 <strong>에이전트 하네스</strong>로 이동함</li>\n<li>2026년 중반 OpenRouter에서 오픈 웨이트가 토큰 처리량의 과반을 차지하고 상위...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple, OpenAI 직원 수십 명에게 법적 서한 발송",
+      "link": "https://news.hada.io/topic?id=31537",
+      "published": "2026-07-18T09:52:21+09:00",
+      "summary": "<ul>\n<li>Apple이 자사 출신 OpenAI 직원 약 <strong>40명</strong>에게 문서와 통신 기록을 보존하고 Apple 변호사와 면담하라는 개별 법적 서한을 발송함</li>\n<li>OpenAI가 Apple의 <strong>기밀 하드웨어 설계</strong>를 도용했다는 소송을 뒷받침할 증거를 확보하기 위한 조치로, OpenAI에 이직한 전 Apple 직원 약...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AGI 평가 과정과 수상자 선정에서 드러난 불일치",
+      "link": "https://news.hada.io/topic?id=31536",
+      "published": "2026-07-18T09:49:21+09:00",
+      "summary": "<ul>\n<li>Kaggle·Google DeepMind의 AGI 벤치마크 해커톤 결과 발표 뒤, 참가자들은 1위 <strong>MEDLEY-BENCH의 점수 산출·재현성 문제</strong>를 근거로 심사 과정 공개와 재검토를 요구함</li>\n<li>MEDLEY-BENCH는 모델 규모가 커질수록 ‘평가’만 향상되고 ‘통제’는 정체된다고 결론 내렸지만, 비판 측은 두 지표...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AWS 예상 청구액이 17억 달러로 표시됨, 평소 사용료는 5달러 미만",
+      "link": "https://news.hada.io/topic?id=31535",
+      "published": "2026-07-18T09:46:21+09:00",
+      "summary": "<ul>\n<li>평소 사용료가 <strong>5달러 미만</strong>인 AWS 계정에 이번 달 예상 청구액이 <strong>17억 달러</strong>로 표시됨</li>\n<li>실제 사용량과 청구액의 차이가 지나치게 커 <strong>예상 청구 데이터가 부정확한 상황</strong>으로 보고 있음</li>\n<li>게시자는 문제를 확인하고 대응하기 위해 <strong>긴급...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+      "published": "Fri, 17 Jul 2026 23:08:00 +0000",
+      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "published": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "published": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "published": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "published": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "published": "Fri, 17 Jul 2026 22:26:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48952880\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "link": "https://news.ycombinator.com/item?id=48945241",
+      "published": "Fri, 17 Jul 2026 09:42:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48945241\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "link": "https://news.ycombinator.com/item?id=48949551",
+      "published": "Fri, 17 Jul 2026 16:57:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48949551\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "link": "https://goliath32.com/blog/z80.html",
+      "published": "Fri, 17 Jul 2026 19:41:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48951461\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "published": "Fri, 17 Jul 2026 23:26:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48953406\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
