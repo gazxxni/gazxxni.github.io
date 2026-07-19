@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-19",
+  "articles": [
+    {
+      "title": "Show GN: 고전 아케이드 게임의 웹 플레이 &amp;  Live kit을 이용한 네트워크 플레이",
+      "link": "https://news.hada.io/topic?id=31575",
+      "published": "2026-07-19T11:02:34+09:00",
+      "summary": "<p>고전 mame게임을 웹으로 즐길 수 있는 사이트를 만들어 보았습니다.<br />\n단순하게 웹으로 즐길 수 있는 사이트는 많이 있는것 같은데, 네트워크 플레이를 웹상에서 원활하게 지원하는 사이트는 없는것 같아서<br />\n네트워크 플레이에 중점을 두고 만들어 봤습니다.</p>\n<p>일단, 사용자가 mame rom을 업로드하면,",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kimi K3의 순간",
+      "link": "https://news.hada.io/topic?id=31574",
+      "published": "2026-07-19T10:33:58+09:00",
+      "summary": "<ul>\n<li>일상적인 코딩 작업에서 <strong>Kimi K3와 Claude</strong>를 병행한 결과, 출력 품질과 답변에 필요한 토큰 수에서 실질적인 차이를 구별하기 어려웠음</li>\n<li>Kimi K3 API는 100만 토큰당 입력 <strong>$3</strong>, 출력 $15로, 각각 $10와 $50인 Claude 최상위 모델보다 크게 저렴함</li>\n<li>Kimi는 월...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "안녕히, 그동안의 모든 Bikeshed에 감사드립니다",
+      "link": "https://news.hada.io/topic?id=31573",
+      "published": "2026-07-19T10:09:07+09:00",
+      "summary": "<ul>\n<li>FOSS의 미래를 바꿀 두 요인으로 <strong>LLM 기반 코드 리뷰</strong>와 <strong>연령 확인</strong>을 꼽으며, 특히 연령 확인이 현재 형태의 FOSS를 끝내는 계기가 될 것으로 내다봄</li>\n<li>LLM 코드 리뷰는 사람이 살피기 어려운 탐색 공간을 더 넓고 깊게 조사하지만, 초기의 큰 성과 이후 효용이 감소할...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lone Lisp를 만든 Matheus Moreira 인터뷰",
+      "link": "https://news.hada.io/topic?id=31572",
+      "published": "2026-07-19T10:06:07+09:00",
+      "summary": "<ul>\n<li><strong>Lone Lisp</strong>는 <code>libc</code> 없이 Linux 시스템 호출 위에서 직접 실행되는 Lisp로, Matheus Moreira가 freestanding C만으로 온전한 언어와 사용자 공간 프로그램을 만들 수 있는지 확인하려 시작함</li>\n<li>안정적인 <strong>Linux 사용자 공간 ABI</strong>를 직접 이용해 <code>errno...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "100만 개 키워드가 보여준, AI가 검색에 미치는 영향",
+      "link": "https://news.hada.io/topic?id=31571",
+      "published": "2026-07-19T09:40:02+09:00",
+      "summary": "<ul>\n<li>월간 검색량 1만 회 이상인 <strong>1,010,848개 키워드</strong>를 분석한 결과, 전체 검색 수요의 29%가 감소했지만 증가한 수요가 이를 거의 상쇄해 총검색량은 사실상 유지됨</li>\n<li>검색 감소 폭은 정보 탐색 비중에 따라 달라져 <strong>FinTech -37.7%</strong> 처럼 AI가 완결된 답을 제공하기 쉬운 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "published": "Sat, 18 Jul 2026 19:30:23 +0000",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "published": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "published": "Sat, 18 Jul 2026 16:30:00 +0000",
+      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Federal employees can download TikTok on their work phones again",
+      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "published": "Sat, 18 Jul 2026 15:54:24 +0000",
+      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "published": "Sat, 18 Jul 2026 14:32:00 +0000",
+      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "published": "Sun, 19 Jul 2026 00:38:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48963879\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "published": "Tue, 14 Jul 2026 19:25:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48911793\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "link": "https://amigafreeware.downer.tech/",
+      "published": "Sat, 18 Jul 2026 21:55:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48962838\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "link": "https://github.com/stupside/castor",
+      "published": "Sun, 19 Jul 2026 00:59:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48964015\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "published": "Sat, 18 Jul 2026 13:00:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48957779\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
