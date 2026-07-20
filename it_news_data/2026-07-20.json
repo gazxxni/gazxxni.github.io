@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "articles": [
+    {
+      "title": "합성 소비자, 실전 활용 가능성을 입증하다",
+      "link": "https://news.hada.io/topic?id=31609",
+      "published": "2026-07-20T10:51:01+09:00",
+      "summary": "<ul>\n<li>실제 고객을 AI로 재현한 <strong>합성 소비자/고객(Synthetic Consumer)</strong> 이 정성적 탐색을 넘어 반복 가능한 정량 분석에 활용되며 제품 개발, 마케팅 시험, 현장 인력 훈련을 가속하고 있음</li>\n<li>거래·행동·인구통계·고객 의견 등 기업의 <strong>자체 데이터</strong>로 디지털 트윈이나 세그...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "태스크 이코노미 - 데이터가 만드는 다음 1조 달러 시장",
+      "link": "https://news.hada.io/topic?id=31608",
+      "published": "2026-07-20T10:38:01+09:00",
+      "summary": "<ul>\n<li>AI 사용량을 나타내는 <strong>토큰</strong>처럼, 모델 능력을 개선하는 데이터 작업 단위인 <strong>태스크(task)</strong> 가 AI 투자를 측정하는 대규모 시장을 형성할 전망임</li>\n<li>인터넷 학습 데이터와 단순·범용 능력이 포화되면서, 실제 환경에서 전문가의 암묵지를 가르치는 <strong>고품질 데이터...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "데이터가 유일한 해자다",
+      "link": "https://news.hada.io/topic?id=31606",
+      "published": "2026-07-20T10:14:02+09:00",
+      "summary": "<ul>\n<li>AI 애플리케이션 시장은 <strong>문제 복잡성</strong>과 도입 난이도에 따라 나뉘지만, 지속적인 경쟁 우위는 결국 사용 과정에서 축적되는 데이터에 달려 있음</li>\n<li>도입이 쉬운 제품은 대규모 사용과 빠른 피드백으로 <strong>데이터 플라이휠</strong>을 만들 수 있지만, 교체도 쉬워 모델 제공업체와의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "IPTV보다 더 좋고 저렴한 Castor",
+      "link": "https://news.hada.io/topic?id=31605",
+      "published": "2026-07-20T10:04:57+09:00",
+      "summary": "<ul>\n<li><strong>Castor</strong>는 웹 페이지나 직접 스트림 URL에서 실제 영상 스트림을 찾아 TV에 맞게 변환하고, 화면 미러링 없이 원본 품질로 실시간 전송하는 터미널 도구임</li>\n<li>헤드리스 Chrome과 <strong>Chrome DevTools Protocol</strong>로 네트워크 트래픽을 관찰하며, 페이지 클릭·최대 iframe 진입...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Supabase가 조사한 2026년 스타트업 현황",
+      "link": "https://news.hada.io/topic?id=31604",
+      "published": "2026-07-20T10:02:02+09:00",
+      "summary": "<ul>\n<li>스타트업 빌더 2,000명을 조사한 결과, 2025~2026년 사이 창업자는 더 고령·비기술·1인 중심으로 바뀌었고 <strong>AI 작성 코드</strong>가 일반화됐으며 창업 지역도 넓어짐</li>\n<li><strong>Anthropic</strong>이 개발 도구·유료 구독·모델 공급자·에이전트 SDK에서 선두로 올라섰고, Claude Code 사용률은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "published": "Sun, 19 Jul 2026 21:45:00 +0000",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "published": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "published": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "published": "Sun, 19 Jul 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "link": "https://news.ycombinator.com/item?id=48968606",
+      "published": "Sun, 19 Jul 2026 14:41:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48968606\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "published": "Sun, 19 Jul 2026 10:03:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48966569\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "published": "Tue, 14 Jul 2026 14:23:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48907390\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published": "Sun, 19 Jul 2026 10:34:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48966713\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "published": "Sun, 19 Jul 2026 11:48:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48967256\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
