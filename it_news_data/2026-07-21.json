@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "title": "Jelly UI - 네이티브 HTML 폼 컨트롤에 소프트 바디 물리 효과 적용",
+      "link": "https://news.hada.io/topic?id=31648",
+      "published": "2026-07-21T11:34:20+09:00",
+      "summary": "<ul>\n<li><strong>Jelly UI v1.1</strong>은 실제 폼 컨트롤과 말랑한 소프트 바디 물리 효과를 결합한 의존성 없는 웹 컴포넌트 라이브러리로, 40개 커스텀 엘리먼트를 제공함</li>\n<li>하나의 모듈 스크립트로 설치하며 <strong>다크 모드</strong>, 운영체제 테마 자동 추적, 강조색 변경, 오른쪽에서 왼쪽으로 쓰는 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kimi K3·Qwen 3.8과 Anthropic의 잠재적 균열",
+      "link": "https://news.hada.io/topic?id=31646",
+      "published": "2026-07-21T10:42:46+09:00",
+      "summary": "<ul>\n<li>Moonshot Labs의 <strong>Kimi K3</strong>와 Alibaba의 <strong>Qwen 3.8</strong>이 Anthropic Fable 5에 근접한 성능을 내는 것으로 알려졌고, 수주 안에 가중치까지 공개될 예정이어서 최첨단 모델 경쟁이 개방형 모델로 확장됨</li>\n<li>모델 개발에는 연구 인력·컴퓨팅·전력이 필요하지만, 배포 후 추론의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "arXiv 논문 12,750편에서 AI 문체를 측정한 방법과 한계",
+      "link": "https://news.hada.io/topic?id=31645",
+      "published": "2026-07-21T10:40:00+09:00",
+      "summary": "<ul>\n<li>arXiv 논문 <strong>12,750편의 본문 전체</strong>를 분석한 결과, 최신 논문의 약 3분의 1이 기계 작성처럼 읽혔으며 최근 완결 분기 판정률은 약 32%였음</li>\n<li>2021~2022년 논문을 인간 작성 대조군으로 삼아 <strong>오탐률 0.4%</strong> 에 맞춰 임계값을 설정하고, 버전 1 PDF와 부트스트랩 95% 신뢰...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kimi Work: 지식 노동자를 위한 차세대 데스크톱 AI 에이전트",
+      "link": "https://news.hada.io/topic?id=31644",
+      "published": "2026-07-21T10:25:01+09:00",
+      "summary": "<ul>\n<li><strong>Kimi Work</strong>는 로컬 파일 연결, 브라우저 자동화, 백그라운드 코드 실행, 예약 작업을 결합해 깊이 있는 업무를 수행하는 데스크톱 AI 에이전트임</li>\n<li>내장 <strong>Cron 엔진</strong>으로 LLM 에이전트 호출과 Python·Shell 실행을 매일, 매시간 또는 조건에 따라 자동화하며, <code>Kee...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 어디서든 창을 잡아 옮기는 초경량 맥 유틸 Snatch",
+      "link": "https://news.hada.io/topic?id=31643",
+      "published": "2026-07-21T10:24:40+09:00",
+      "summary": "<p>맥에서 창을 옮기거나 크기 조절할 때 꼭 타이틀바나 가장자리를 정확히 잡아야 하는 게 불편해서 만들었습니다.</p>\n<p>Snatch는 수정자 키를 누른 채 창 위 아무 데서나 마우스를 움직이면 창이 따라오는 메뉴바 유틸입니다. 리눅스의 &quot;Alt+드래그로 창 이동&quot;을 맥으로 옮긴 것이고, Rectangle Pro의 여러",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "published": "Mon, 20 Jul 2026 23:39:35 +0000",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "published": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "published": "Mon, 20 Jul 2026 11:05:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48977128\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jellyfin founder Andrew leaves team",
+      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "published": "Mon, 20 Jul 2026 23:15:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48986091\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi Work",
+      "link": "https://www.kimi.com/products/kimi-work",
+      "published": "Mon, 20 Jul 2026 17:13:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48981703\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "published": "Mon, 20 Jul 2026 19:03:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48983382\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "link": "https://jelly-ui.com/",
+      "published": "Mon, 20 Jul 2026 17:07:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48981620\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
