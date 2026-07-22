@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-22",
+  "articles": [
+    {
+      "title": "AI 코딩 세션의 휘발성 맥락을 프로젝트 기억으로 남기기 — rhwp 적용 사례",
+      "link": "https://news.hada.io/topic?id=31684",
+      "published": "2026-07-22T10:35:30+09:00",
+      "summary": "<p>제가 rhwp collaborator로 3개월간 기여하며 직접 경험한 AI 협업 방법론을 정리한 글입니다.</p>\n<p>바이브 코딩에서는 잘 동작하던 AI가 기존 프로젝트나 회사 코드베이스에 적용되면 어려움을 겪는 이유를, 단순한 모델 성능보다 ‘축적된 프로젝트 맥락의 부재’라는 관점에서 살펴봅니다.</p>\n<p>rhwp는 Hyper-W",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 시대에 번영할 사람들",
+      "link": "https://news.hada.io/topic?id=31683",
+      "published": "2026-07-22T10:01:02+09:00",
+      "summary": "<ul>\n<li>AI 시대에 사람을 가르는 기준은 지능보다 <strong>정신적 노력과 맺는 관계</strong>이며, 지능이 흔해질수록 스스로 사고하고 성장하려는 <strong>의지(volition)</strong> 가 더 귀해짐</li>\n<li>인지욕구가 낮은 사람은 AI로 생산성을 높이는 대신 사고 능력을 잃기 쉽고, 중간 집단은 효율화의 유혹에 굴복...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 시대의 데이터 관리",
+      "link": "https://news.hada.io/topic?id=31681",
+      "published": "2026-07-22T09:37:01+09:00",
+      "summary": "<ul>\n<li>생성형 AI가 신뢰할 수 있는 데이터로 작동하지 않으면 분석 결과도 신뢰하기 어려워지면서, 데이터 관리는 기술 지원 업무에서 <strong>전략적 핵심 기능</strong>으로 격상됨</li>\n<li>초기 애플리케이션 개발자가 데이터 구조까지 맡던 단계에서 데이터베이스 설계자/관리자, CIO, CDO로 역할이 분화됐으며,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flock Safety, 시의회·경찰·대중에게 반복적으로 거짓말해 신뢰를 잃다",
+      "link": "https://news.hada.io/topic?id=31680",
+      "published": "2026-07-22T09:34:06+09:00",
+      "summary": "<ul>\n<li>ACLU는 자동 번호판 인식(ALPR) 업체 <strong>Flock Safety</strong>가 제품 기능과 데이터 접근, 개인정보 보호 조치를 정부 고객에게 반복적으로 부정확하게 알렸다며 거래 중단을 촉구함</li>\n<li>위스콘신주 Oshkosh 시의회는 차량 이동 <strong>히트맵을 만들지 않는다</strong>는 임원의 답변을 믿고 계약...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Malloy - 데이터 관계/변환/모델링을 위한 모던 오픈소스 언어",
+      "link": "https://news.hada.io/topic?id=31679",
+      "published": "2026-07-22T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>시맨틱 모델링 언어이자 쿼리 언어</strong>로, 기존 SQL 엔진을 사용해 쿼리를 실행하는 이중 성격의 언어</li>\n<li>작성한 Malloy 쿼리는 <strong>사용 중인 DB에 최적화된 SQL로 컴파일</strong>되어 실행됨</li>\n<li><a href=\"https://news.hada.io/topic?id=5840\">2022년에 소개</a> 할 때는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "published": "Wed, 22 Jul 2026 01:27:58 +0000",
+      "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "published": "Tue, 21 Jul 2026 23:55:10 +0000",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "published": "Tue, 21 Jul 2026 20:57:35 +0000",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "published": "Tue, 21 Jul 2026 20:56:55 +0000",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "published": "Tue, 21 Jul 2026 19:43:41 +0000",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published": "Tue, 21 Jul 2026 20:09:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48997548\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "link": "https://fireworks.ai/blog/kimik3-fable",
+      "published": "Tue, 21 Jul 2026 22:35:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "link": "https://freeink.org/",
+      "published": "Tue, 21 Jul 2026 18:39:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48996318\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "published": "Tue, 21 Jul 2026 21:09:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48998362\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "published": "Tue, 21 Jul 2026 15:17:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48993414\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
