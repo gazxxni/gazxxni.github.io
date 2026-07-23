@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-23",
+  "articles": [
+    {
+      "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
+      "link": "https://news.hada.io/topic?id=31718",
+      "published": "2026-07-23T10:43:23+09:00",
+      "summary": "<h3>목차</h3>\n<ul>\n<li><a href=\"https://news.hada.io/rss/news#book-overflow-2%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-45%EA%B6%8C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%84%9C%EC%A0%81%EC%97%90%EC%84%9C-%EC%96%BB%EC%9D%80-%ED%95%B5%EC%8B%AC-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8\">Book Overflow 2주년 기념: 45권의 기술 서적에서",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SIMD로 충돌 감지 가속하기",
+      "link": "https://news.hada.io/topic?id=31717",
+      "published": "2026-07-23T10:01:33+09:00",
+      "summary": "<ul>\n<li>Box3D는 복잡한 3D 볼록 껍질 충돌 검사에 <strong>와이드 SIMD</strong>를 적용해, 32개 점과 89개 모서리를 가진 물체 5,120개의 전체 시뮬레이션 시간을 절반 이하로 줄임</li>\n<li>3D <strong>분리축 정리(SAT)</strong> 는 두 껍질의 면-정점과 모서리-모서리 조합을 검사하며, Boulder-Boulder에서는 모서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Passkey는 소비자 심리를 전혀 이해하지 못한 엔지니어들이 만들었다",
+      "link": "https://news.hada.io/topic?id=31716",
+      "published": "2026-07-23T09:49:34+09:00",
+      "summary": "<ul>\n<li>X 프로덕트 헤드인 Nikita Bier는 <strong>Passkey의 개념과 저장 위치가 사용자에게 명확히 전달되지 않아</strong>, 앱 로그인 때 정체를 알 수 없는 “마법의 가루”를 요구받는 경험이 됐다고 비판함</li>\n<li>휴대폰/브라우저/운영체제/생체 정보 중 무엇이 Passkey인지 알기 어려우며, 사용자가 보안상 장...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "디자이너들은 잘못된 싸움을 위해 칼을 갈고 있다",
+      "link": "https://news.hada.io/topic?id=31715",
+      "published": "2026-07-23T09:48:01+09:00",
+      "summary": "<ul>\n<li>AI가 제품 구현 비용과 시간을 크게 낮췄지만, 무엇을 누구를 위해 만들어야 하는지 결정하는 <strong>전략의 병목</strong>은 그대로 남아 있음</li>\n<li>디자인 업계의 논의는 역할/제작 역량/안목/표준처럼 <strong>어떻게 잘 만들 것인가</strong>에 집중하지만, 제품을 실제로 죽이는 상대는 무관심과 대안...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "John C. Dvorak 별세",
+      "link": "https://news.hada.io/topic?id=31714",
+      "published": "2026-07-23T09:46:34+09:00",
+      "summary": "<ul>\n<li><strong>John C. Dvorak</strong>가 74세로 별세함</li>\n<li>유족에게 사랑받는 <strong>남편이자 아버지</strong>였음</li>\n<li><strong>No Agenda Show</strong> 진행자로 활동함</li>\n<li>사망 소식 외에 구체적인 내용은 공개되지 않음</li>\n<li>추가 정보는 추후 발표될 예정임</li>\n</ul>\n<hr />\n<h2>알려...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "published": "Wed, 22 Jul 2026 23:47:54 +0000",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "published": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "published": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+      "published": "Wed, 22 Jul 2026 20:43:38 +0000",
+      "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "published": "Wed, 22 Jul 2026 20:36:41 +0000",
+      "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "link": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "published": "Thu, 23 Jul 2026 01:06:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49015588\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "published": "Wed, 22 Jul 2026 17:30:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "published": "Wed, 22 Jul 2026 14:18:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49007247\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Run large language models at home, BitTorrent‑style",
+      "link": "https://petals.dev/",
+      "published": "Thu, 23 Jul 2026 01:33:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49015735\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "link": "https://github.com/marcelroed/gigatoken/",
+      "published": "Wed, 22 Jul 2026 17:20:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010167\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
