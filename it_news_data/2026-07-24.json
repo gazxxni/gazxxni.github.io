@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-24",
+  "articles": [
+    {
+      "title": "John C. Dvorak 별세",
+      "link": "https://news.hada.io/topic?id=31757",
+      "published": "2026-07-24T11:01:25+09:00",
+      "summary": "<ul>\n<li>기술 저널리스트 <strong>John C. Dvorak</strong>이 심장 우회 수술 합병증으로 2026년 7월 20일 사망했으며, 향년 80세였음</li>\n<li>와인 분야에서 출발해 기술 업계로 옮긴 뒤 <strong>InfoWorld</strong> 초기 칼럼니스트와 PC Magazine 칼럼니스트로 활동함</li>\n<li>PC Magazine에서는 적어도 1986년부터...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이제 모든 것이 Pre-Series A다",
+      "link": "https://news.hada.io/topic?id=31756",
+      "published": "2026-07-24T10:52:02+09:00",
+      "summary": "<ul>\n<li>2014년에는 <strong>Pre-seed</strong>를 $1M 이하의 초기 자금으로 명확히 구분할 수 있었지만, 현재는 $10M이 넘는 투자도 Pre-seed라 불리면서 Series A 이전 단계의 명칭이 실질적인 의미를 잃고 있음</li>\n<li>투자 단계 명칭은 기업이 자금으로 달성하려는 목표보다 <strong>다음 라운드의 규모를 키우기...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아무도 당신의 주식을 사주지 않는다",
+      "link": "https://news.hada.io/topic?id=31755",
+      "published": "2026-07-24T10:49:01+09:00",
+      "summary": "<ul>\n<li>SpaceX IPO와 OpenAI/Anthropic 상장이 대규모 유동성을 만들더라도, 다수의 VC는 장부상 평가이익을 실제 LP 분배금인 <strong>DPI</strong>로 전환하지 못할 가능성이 있음</li>\n<li>IPO/M&amp;A/사모펀드 인수처럼 외부 구매자가 주식을 사주는 기존 출구가 약해지면서, 기업 가치는 다음 투자자가 지불할 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Due2 – E2E 암호화 기반 마감일 관리 앱",
+      "link": "https://news.hada.io/topic?id=31754",
+      "published": "2026-07-24T10:44:01+09:00",
+      "summary": "<p>얼마 전 지인에게 재밌는(?) 얘기를 들었습니다. KT 해킹 피해 보상으로 TVING 무료 이용권을 받아 가입했는데, 이번엔 TVING에서 또 유출이 났다더군요. 개인정보를 대체 어떻게 관리해야 하나 고민이 되더라고요.</p>\n<p>더 신경 쓰이는 건, 마침 제가 만들고 있는 마감일 관리 앱에 흔히 담기는 정보들이었습니다.",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ChatGPT, 개인 건강 데이터를 일반 대화에 통합하는 Health 출시",
+      "link": "https://news.hada.io/topic?id=31752",
+      "published": "2026-07-24T10:16:39+09:00",
+      "summary": "<ul>\n<li>미국의 만 18세 이상 로그인 사용자는 <strong>Health in ChatGPT</strong>에 Apple Health와 지원 의료 기록을 연결해 검사 결과, 진료 내역, 수면·활동 데이터를 대화 맥락에 활용할 수 있음</li>\n<li>초기 테스트에서 건강 관련 대화의 <strong>70% 이상이 전용 공간 밖에서 발생</strong>한 점을 반영해, 별...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "published": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "published": "Fri, 24 Jul 2026 00:05:00 +0000",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "published": "Thu, 23 Jul 2026 22:40:08 +0000",
+      "summary": "Shashua has been invited to take the chairman of the board seat.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Patreon lays off 20% of its workforce",
+      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "published": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "published": "Thu, 23 Jul 2026 22:30:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49028927\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "published": "Thu, 23 Jul 2026 14:24:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49022152\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "published": "Thu, 23 Jul 2026 23:36:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49029538\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "link": "https://news.ycombinator.com/item?id=49026810",
+      "published": "Thu, 23 Jul 2026 19:26:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49026810\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Beam Engine",
+      "link": "https://glinscott.github.io/beam-engine/",
+      "published": "Wed, 22 Jul 2026 14:16:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49007221\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
