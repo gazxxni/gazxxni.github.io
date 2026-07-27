@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-27",
+  "articles": [
+    {
+      "title": "Cloudflare, 고객별 AI 트래픽 제어 옵션 공개",
+      "link": "https://news.hada.io/topic?id=31857",
+      "published": "2026-07-27T10:12:32+09:00",
+      "summary": "<ul>\n<li>모든 요금제 고객이 자동화 트래픽을 <strong>Search·Agent·Training</strong>으로 나눠 허용하거나 차단할 수 있어, 기존의 일괄적인 AI 봇 차단보다 세밀한 정책 설정이 가능해짐</li>\n<li>AI 사용 여부가 아니라 사이트에서 수행하는 <strong>행동과 콘텐츠 용도</strong>를 분류 기준으로 삼으며, 다목적 크...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Netflix의 사내 LLM 서빙 플랫폼",
+      "link": "https://news.hada.io/topic?id=31856",
+      "published": "2026-07-27T10:07:02+09:00",
+      "summary": "<ul>\n<li>넷플릭스는 LLM을 별도 사일로로 분리하지 않고 기존 ML 인프라에서 함께 운영하며, <strong>vLLM과 Triton</strong>을 통합 서빙 체계에 연결함</li>\n<li>기본 엔진으로 선택한 <strong>vLLM</strong>은 사용자 정의 모델 지원, 디버깅 용이성, 확장 훅, 연구 환경과의 친숙성을 갖췄으며, Triton의 vLLM back...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Code로 대규모 코드 마이그레이션을 수행한 방법",
+      "link": "https://news.hada.io/topic?id=31855",
+      "published": "2026-07-27T10:03:01+09:00",
+      "summary": "<ul>\n<li>Anthropic 개발자들은 Claude Fable 5, Claude Opus 4.8과 동적 워크플로를 이용해 최근 한 달간 수만~수십만 줄 규모의 패키지 10개를 이전했으며, 개별 코드를 고치는 대신 <strong>코드를 생성하는 반복 과정</strong>을 개선함</li>\n<li>Bun의 Zig→Rust 이전은 2주 미만에 <strong>100만 줄</strong>을 생...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "런던 개트윅 공항, 로봇 주차 서비스 출시",
+      "link": "https://news.hada.io/topic?id=31854",
+      "published": "2026-07-27T09:57:33+09:00",
+      "summary": "<ul>\n<li>런던 개트윅 공항이 Stanley Robotics와 협력해 영국 공항 최초의 <strong>로봇 주차 서비스</strong>를 도입하며, 첫 고객 이용은 8월 시작됨</li>\n<li>승객이 South Terminal 인근 전용 부스에 차를 세우면 자율주행 로봇이 차체 아래로 들어가 <strong>타이어를 들어 올린 뒤</strong> 보안 구역으로 운반함...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google, 141조원 규모의 SpaceX 주식 보유 공개…지분 6%",
+      "link": "https://news.hada.io/topic?id=31853",
+      "published": "2026-07-27T09:54:32+09:00",
+      "summary": "<ul>\n<li>Google이 상장된 SpaceX 주식 <strong>941억 달러어치</strong>를 보유하고 있으며, 이는 2026년 7월 23일 시가총액 기준 약 <strong>6% 지분</strong>에 해당</li>\n<li>보유 주식 가운데 <strong>800억 달러</strong>는 단기 매각 제한이 적용되고, <strong>141억 달러</strong>는 2027년 3분기까지 장기 매각...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "published": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "published": "Sun, 26 Jul 2026 21:06:44 +0000",
+      "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "published": "Sun, 26 Jul 2026 19:40:57 +0000",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "published": "Sun, 26 Jul 2026 17:03:19 +0000",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "published": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "link": "https://nikolays.github.io/PGSimCity/",
+      "published": "Mon, 27 Jul 2026 00:19:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49063754\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "link": "https://blackhole.plav.in",
+      "published": "Thu, 23 Jul 2026 13:29:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49021270\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "link": "https://beyondloom.com/decker/",
+      "published": "Sun, 26 Jul 2026 18:23:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49060856\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We have proof automation now",
+      "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "published": "Sun, 26 Jul 2026 20:53:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49062291\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "published": "Sun, 26 Jul 2026 17:49:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49060495\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
