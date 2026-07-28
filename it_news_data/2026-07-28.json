@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-28",
+  "articles": [
+    {
+      "title": "Show GN: react-native-pure-chart 2.0.0 - SVG/Skia 없이 View만으로 차트 그리는 라이브러리, 9년 만에 AI 에이...",
+      "link": "https://news.hada.io/topic?id=31902",
+      "published": "2026-07-28T10:41:08+09:00",
+      "summary": "<p>9년 전에 만들었던 React Native 차트 라이브러리를 9년 만에 2.0.0으로 업데이트해서 npm에 올렸습니다. 이번 업데이트 작업의 대부분은 AI 에이전트가 수행했고, 그 과정을 공유합니다.</p>\n<p>먼저 라이브러리 소개입니다. react-native-pure-chart는 이름 그대로 &quot;pure&quot;가 정체성입니다. react-native-",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Decathlon 독일, decathlon.de에 Wero 결제 도입",
+      "link": "https://news.hada.io/topic?id=31901",
+      "published": "2026-07-28T10:13:03+09:00",
+      "summary": "<ul>\n<li>Decathlon은 7월 20일 독일 온라인몰에 <strong>Wero</strong>를 도입했으며, 독일은 그룹의 해외 시장 중 이 유럽 결제 체계를 처음 적용한 국가가 됨</li>\n<li>European Payments Initiative(EPI)가 운영하는 Wero는 은행 앱의 지문·얼굴 인식으로 승인한 뒤 계좌 간 결제를 실시간 처리해, 판매자가 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "오픈 웨이트 모델에 대한 Anthropic의 입장",
+      "link": "https://news.hada.io/topic?id=31900",
+      "published": "2026-07-28T10:10:03+09:00",
+      "summary": "<ul>\n<li>위험한 능력이 없는 <strong>오픈 웨이트 모델</strong>은 기업·개발자·연구자에게 가치를 제공하는 공공재이며, Anthropic은 이를 범주 전체로 금지하는 데 반대함</li>\n<li>핵심 국가안보 우려는 공개 방식 자체가 아니라 <strong>권위주의 정부의 AI 우위</strong>, 강력한 모델을 이용한 사이버·생물학 공격...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "개발자를 위한 데이터 도구 지형 가이드",
+      "link": "https://news.hada.io/topic?id=31899",
+      "published": "2026-07-28T10:08:01+09:00",
+      "summary": "<ul>\n<li>데이터 분야에 처음 참여한 소프트웨어 개발자가 도구의 이름만 외우지 않고, 데이터의 <strong>수집/저장/처리/활용</strong> 단계에서 각 도구가 맡는 역할과 연결 관계를 파악하도록 전체 지형을 정리함</li>\n<li>데이터 직군은 대략 <strong>분석/과학/엔지니어링/머신러닝</strong> 유형으로 나뉘며, SQL과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kimi-K3 기술 보고서 [PDF]",
+      "link": "https://news.hada.io/topic?id=31898",
+      "published": "2026-07-28T10:07:03+09:00",
+      "summary": "Kimi-K3 기술 보고서 [PDF]",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "published": "Tue, 28 Jul 2026 00:13:33 +0000",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "published": "Mon, 27 Jul 2026 21:17:11 +0000",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "published": "Mon, 27 Jul 2026 20:40:12 +0000",
+      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+      "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+      "published": "Mon, 27 Jul 2026 20:40:00 +0000",
+      "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published": "Mon, 27 Jul 2026 20:19:42 +0000",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "published": "Mon, 27 Jul 2026 22:03:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49076057\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "published": "Mon, 27 Jul 2026 22:37:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49076391\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "published": "Mon, 27 Jul 2026 23:19:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49076900\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "published": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49076840\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "published": "Fri, 24 Jul 2026 20:35:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49041256\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
