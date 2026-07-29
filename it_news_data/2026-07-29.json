@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-29",
+  "articles": [
+    {
+      "title": "업그레이드된 Go-To-Market 플레이북",
+      "link": "https://news.hada.io/topic?id=31934",
+      "published": "2026-07-29T10:03:02+09:00",
+      "summary": "<ul>\n<li>혼잡하고 비싸진 <strong>SEO·PR 중심 성장 채널</strong> 대신, 빠르게 성장하는 기업들은 제품 전략과 시장 진출(GTM) 전략을 결합하고 있음</li>\n<li>GTM은 온라인 정보로 사용자를 끌어오던 Pull에서 제품 내 바이럴·네트워크 효과를 활용한 Push, 외부 커뮤니티에서 사용자를 확보하는 <strong>Off-Platfo...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "오픈 소스 c++라이브러리 목록",
+      "link": "https://news.hada.io/topic?id=31933",
+      "published": "2026-07-29T09:42:52+09:00",
+      "summary": "<h3>1. 문서 목적</h3>\n<p>이 글은 C++ 개발자가 필요한 기능을 빠르게 찾을 수 있도록 오픈 소스 라이브러리를 분야별로 모은 목록이다.<br />\n라이브러리는 소스 형태로 내려받을 수 있어야 하며, 정보가 오래되거나 링크가 잘못됐을 수 있으므로 사용자가 직접 확인해야 한다.</p>\n<h3>2. 범용·통신·GUI</h3>\n<p>Boos",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "기업은 왜 자신도 모르게 제품-시장 적합성을 잃게 될까",
+      "link": "https://news.hada.io/topic?id=31932",
+      "published": "2026-07-29T09:41:01+09:00",
+      "summary": "<ul>\n<li>기존 고객의 높은 유지율과 만족도가 이어져도 신규 고객을 반복 확보하는 구조가 약해지면 <strong>제품-시장 적합성(PMF)</strong> 은 조용히 침식될 수 있음</li>\n<li>고객 범위를 넓히며 <strong>이상적 고객 프로필(ICP)</strong> 이 표류하면 제품 요청과 영업 메시지가 갈라지고, 누구를 위해 무엇을 만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프론티어 AI가 반도체 산업을 닮아가는 이유",
+      "link": "https://news.hada.io/topic?id=31931",
+      "published": "2026-07-29T09:34:02+09:00",
+      "summary": "<ul>\n<li>막대한 선행 자본과 짧은 기술 주기가 결합하면서, 프론티어 AI 연구소는 신제품을 내놓는 즉시 다음 세대를 준비해야 하는 <strong>반도체식 트레드밀</strong>에 진입함</li>\n<li>프론티어 모델 훈련비는 8년 동안 매년 약 <strong>2.4배</strong> 증가했으며, 최대 훈련 작업은 2027년 10억 달러를 넘어 202...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Openship - 내장 CI/CD를 갖춘 셀프 호스팅 배포 플랫폼",
+      "link": "https://news.hada.io/topic?id=31930",
+      "published": "2026-07-29T09:31:02+09:00",
+      "summary": "<ul>\n<li>저장소를 지정하면 <strong>빌드 → 실행 → 라우팅 → TLS 종료</strong>까지 한 번에 처리하는 오픈소스 배포 플랫폼</li>\n<li>설정 파일 없이 <code>package.json</code>, lockfile, 프레임워크 설정을 읽어 <strong>스택과 빌드/시작 명령 자동 감지</strong></li>\n<li><strong>Push-to-deploy</strong> 지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "published": "Wed, 29 Jul 2026 00:09:05 +0000",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "published": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "published": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+      "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+      "published": "Tue, 28 Jul 2026 19:09:18 +0000",
+      "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Codex Security",
+      "link": "https://github.com/openai/codex-security",
+      "published": "Tue, 28 Jul 2026 20:52:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49089755\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "link": "https://github.com/twalichiewicz/HNewhere",
+      "published": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49090607\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "published": "Tue, 28 Jul 2026 20:58:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49089814\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "published": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "link": "https://www.norvig.com/21-days.html",
+      "published": "Sun, 26 Jul 2026 08:06:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49055816\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
