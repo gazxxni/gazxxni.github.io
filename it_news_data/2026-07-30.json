@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-30",
+  "articles": [
+    {
+      "title": "Show GN: 1DAY 1OTT 소개 - 하루 한번 감상한 컨텐츠 기록 서비스",
+      "link": "https://news.hada.io/topic?id=31972",
+      "published": "2026-07-30T10:25:20+09:00",
+      "summary": "<p>하루 한번 감상한 컨텐츠를 기록하는 서비스를 만들었습니다.</p>\n<h4>소개</h4>\n<p>1DAY1OTT는 영화·드라마·예능·애니·YouTube 등 매일 본 콘텐츠를 한 줄로 기록하고, GitHub 잔디처럼 시각화해 주는 무료 서비스입니다.</p>\n<ul>\n<li>간편한 시청 기록</li>\n<li>연속 기록·월별·유형별 통계</li>\n<li>공개 프로필",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "디자이너를 위한 현실적인 커리어 조언",
+      "link": "https://news.hada.io/topic?id=31971",
+      "published": "2026-07-30T10:22:02+09:00",
+      "summary": "<ul>\n<li>디자인 커리어 조언은 흔히 <strong>이상적인 회사와 개인의 경력 경로</strong>를 전제로 하지만, 실제 채용에서는 포트폴리오의 완성도, 가시적 성과, 협업 능력, 사회적 증거를 함께 평가함</li>\n<li>실력을 키우려면 초보자처럼 배우고 좋은 디자인을 분석하며, 여러 대안을 탐색하고 결과물을 꾸준히 만들...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "명확한 시야, 풀스택이면 정말 이길 수 있을까?",
+      "link": "https://news.hada.io/topic?id=31970",
+      "published": "2026-07-30T10:11:02+09:00",
+      "summary": "<ul>\n<li>AI가 스타트업의 실행 범위를 넓혔지만, 전체 가치사슬보다 <strong>데이터·워크플로·고가치 결과</strong>가 축적되는 통제 지점을 장악하는 것이 중요함</li>\n<li>산업 초기에는 통합형 제품이 성능과 신뢰성을 높이지만, 시장이 성숙하고 인터페이스가 표준화되면 이익은 <strong>성능을 결정하는 하위 시스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "매니저가 된다는 것의 진실",
+      "link": "https://news.hada.io/topic?id=31969",
+      "published": "2026-07-30T10:02:02+09:00",
+      "summary": "<ul>\n<li>엔지니어링 매니저는 기술 업무를 넘어 어려운 결정과 갈등, 기밀, 조직의 불안을 감당하는 <strong>외롭고 책임이 큰 역할</strong>을 맡게 됨</li>\n<li>직책이 바뀌면 팀과의 관계도 달라지고 개인 의견조차 지시로 받아들여질 수 있어, <strong>말과 감정 관리</strong>가 중요해짐</li>\n<li>성과가 나타나기...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vision Pro로 완공 전 집을 실물 크기로 둘러보기",
+      "link": "https://news.hada.io/topic?id=31968",
+      "published": "2026-07-30T09:32:44+09:00",
+      "summary": "<ul>\n<li>집을 짓기 전 <strong>평면도를 실물 크기의 몰입형 3D 공간</strong>으로 바꾸면 방과 복도의 크기, 동선, 현관에서 보이는 풍경을 직접 체감하며 설계를 검토할 수 있음</li>\n<li>Fusion 360에서 바닥·벽·천장을 만들고 재질과 가구를 배치한 뒤 <strong>USDZ</strong>로 내보내 Vision Pro에서 탐색하는 작업...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "published": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "published": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "published": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "published": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "published": "Wed, 29 Jul 2026 21:16:39 +0000",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "published": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49103285\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "link": "https://christianselig.com/2026/07/vision-pro-house/",
+      "published": "Wed, 29 Jul 2026 20:39:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49102774\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "link": "https://github.com/drumih/turbo-fieldfare",
+      "published": "Wed, 29 Jul 2026 15:05:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49098510\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Superlogical",
+      "link": "https://www.superlogical.com/",
+      "published": "Wed, 29 Jul 2026 15:41:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49098965\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LLM Honeypot",
+      "link": "https://llm2human.pages.dev/",
+      "published": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49104117\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
