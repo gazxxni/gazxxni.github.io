@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-31",
+  "articles": [
+    {
+      "title": "90일 동안 2만명 이상의 구독자 증가를 만든 방법",
+      "link": "https://news.hada.io/topic?id=32009",
+      "published": "2026-07-31T11:13:02+09:00",
+      "summary": "<ul>\n<li>90일 동안 20,585명, 월 5,000명 이상의 구독자 증가를 만든 방법은 알고리즘 공략이 아니라 글쓰기 실력, 전면 무료 배포, 운을 받을 준비의 조합이라고 정리함.</li>\n<li>문장 예절(writing etiquette)이 독자 유지율을 결정하므로 한 사람에게 말하기, 부사 제거, 능동태 사용, 구체적 이미지, 2차 원고에서...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Kimi K3 로컬 실행 가이드",
+      "link": "https://news.hada.io/topic?id=32008",
+      "published": "2026-07-31T10:44:49+09:00",
+      "summary": "<ul>\n<li>Moonshot AI의 <strong>Kimi K3</strong>는 전체 2.8T·활성 104B 매개변수와 네이티브 비전, 100만 토큰 문맥을 갖춘 오픈 웨이트 모델이며, Unsloth가 로컬 실행용 GGUF 양자화를 제공함</li>\n<li>전체 정밀도 추론에는 1.56TB가 필요하지만, <strong>Dynamic 1-bit</strong> <code>UD-IQ1_S</code>는 594GB에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: FlowCraft – 메타프롬프트를 그래프로 시각화하고 그래프 기반 실행 프롬프트로 변환하는 도구",
+      "link": "https://news.hada.io/topic?id=32007",
+      "published": "2026-07-31T09:36:58+09:00",
+      "summary": "<p>안녕하세요,</p>\n<p>Claude Code나 코덱스의 Plan 모드에서 만든 긴 계획을 보다 쉽게 검토하고,<br />\nAI에게 전달하기 위해 만든 FlowCraft Task Studio를 공유합니다.</p>\n<p>긴 메타프롬프트를 그대로 넘기면 어떤 작업이 먼저인지, 무엇을 병렬로 처리할 수 있는지,<br />\n특정 서브에이전트에게 일이 너무 몰리",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google, 2026년 말까지 Android 연령 확인을 전 세계로 확대",
+      "link": "https://news.hada.io/topic?id=32006",
+      "published": "2026-07-31T09:32:02+09:00",
+      "summary": "<ul>\n<li>브라질에서 제공 중인 <strong>Google Play Age Signals API</strong>가 8월 중순 호주·캐나다를 거쳐 2026년 말 전 세계 모든 사용자에게 확대됨</li>\n<li>부모는 자녀의 연령대만 선택적으로 공유할 수 있으며, 성인도 앱 개발자의 요청에 따라 자신의 연령을 전달할 수 있음</li>\n<li>개발자는 전달받은 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
+      "link": "https://news.hada.io/topic?id=32005",
+      "published": "2026-07-31T09:31:02+09:00",
+      "summary": "<ul>\n<li>별도 설정 필요없이 명령 하나로 셋업 가능한 <strong>React</strong>용 터미널 UI 컴포넌트 오픈소스</li>\n<li><strong><a href=\"https://github.com/vadimdemedes/ink\">Ink</a></strong> 와 <strong><a href=\"https://github.com/anomalyco/opentui\">OpenTUI</a></strong> 위에 구축하였고, <strong>shadcn/u...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "published": "Thu, 30 Jul 2026 23:28:05 +0000",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "published": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "published": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "published": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "published": "Thu, 30 Jul 2026 23:22:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49117099\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 17:04:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49112744\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49116721\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "link": "https://github.com/AminBlg/SimpleEnglish",
+      "published": "Thu, 30 Jul 2026 19:34:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49114639\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "published": "Thu, 30 Jul 2026 16:26:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49112232\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
