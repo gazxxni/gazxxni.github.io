@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-02",
+  "articles": [
+    {
+      "title": "Ripgrep musl 바이너리가 초대형 검색 중 간헐적으로 세그멘테이션 오류를 일으킴",
+      "link": "https://news.hada.io/topic?id=32051",
+      "published": "2026-08-02T10:36:14+09:00",
+      "summary": "<ul>\n<li>Ripgrep 15.2.0의 <strong>x86_64-unknown-linux-musl</strong> 바이너리가 대규모 파일 트리를 높은 동시성으로 검색할 때 간헐적으로 <code>SIGSEGV</code>와 함께 종료됨</li>\n<li>충돌은 <code>opendir</code>가 호출한 <code>calloc</code> 내부에서 발생하며, <strong>musl mallocng</strong>의 힙 메타데...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google은 Google News를 방치했나?",
+      "link": "https://news.hada.io/topic?id=32049",
+      "published": "2026-08-02T10:33:14+09:00",
+      "summary": "<ul>\n<li>관심 주제의 미국 뉴스를 찾는 데 쓰던 <strong>Google News 검색</strong>이 지정 조건과 무관한 결과를 내놓으면서 신뢰하기 어려워짐</li>\n<li>Tools 메뉴에서 발행 기간·언어·지역을 지정할 수 있지만, 이들 <strong>검색 필터가 차례로 작동하지 않게 됨</strong></li>\n<li>검색 결과의 상당 부분을 뉴스 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flint - AI 시대를 위한 시각화 언어",
+      "link": "https://news.hada.io/topic?id=32048",
+      "published": "2026-08-02T09:31:34+09:00",
+      "summary": "<ul>\n<li><strong>Flint</strong>는 데이터 필드의 의미를 바탕으로 파싱·축·서식·색상을 자동 결정해, 저수준 설정 없이 차트를 만들고 수정할 수 있는 시각화 언어임</li>\n<li><code>Rank</code>, <code>YearMonth</code>, <code>Delta</code>, <code>Temperature</code> 같은 <strong>의미 타입(semantic type)</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lexxy - Rails를 위한 현대적인 리치 텍스트 에디터",
+      "link": "https://news.hada.io/topic?id=32047",
+      "published": "2026-08-02T09:31:01+09:00",
+      "summary": "<ul>\n<li>37signals가 개발한해 <strong>Basecamp</strong>를 비롯한 수백 개 제품에서 실제 운영에 사용 중</li>\n<li>Meta의 확장 가능한 텍스트 에디터 프레임워크 <strong>Lexical</strong> 기반으로 구축</li>\n<li>문단을 실제 <code>&lt;p&gt;</code> 태그로 생성하는 <strong>깔끔한 HTML 시맨틱</strong> 제공</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "감시 조약으로 위장한 유엔 사이버범죄협약에 캐나다가 서명",
+      "link": "https://news.hada.io/topic?id=32046",
+      "published": "2026-08-02T08:33:51+09:00",
+      "summary": "<ul>\n<li>과거 국가 감시 권한 확대를 우려해 반대했던 캐나다가 별도 공개 협의나 우려 해소 없이 <strong>유엔 사이버범죄협약</strong>에 서명했으며, 아직 비준 전이라 법적 구속력은 없음</li>\n<li>절차적 수사 권한은 모든 범죄의 전자 증거에 적용되고, 국제 공조는 자국법상 징역 4년 이상인 <strong>중대 범죄...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "published": "Sat, 01 Aug 2026 21:14:48 +0000",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "published": "Sat, 01 Aug 2026 18:47:27 +0000",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "published": "Sun, 02 Aug 2026 01:35:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140218\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Seedance 2.5",
+      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "published": "Sat, 01 Aug 2026 20:45:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49138302\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Diátaxis",
+      "link": "https://diataxis.fr/",
+      "published": "Sat, 01 Aug 2026 20:33:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49138188\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "published": "Sun, 02 Aug 2026 01:35:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140213\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "published": "Sun, 02 Aug 2026 02:07:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140396\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
