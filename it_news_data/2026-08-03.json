@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "title": "웹앱과 AI",
+      "link": "https://news.hada.io/topic?id=32084",
+      "published": "2026-08-03T11:09:18+09:00",
+      "summary": "<p>웹앱은 설치 없이 브라우저만 있으면 PC·스마트폰·태블릿·자동차 등 어떤 기기에서든 주소만으로 쓸 수 있고, 중앙에서 한 번 업데이트하면 모든 기기에 반영되는 애플리케이션이다.</p>\n<p>AI가 개발 업무를 거의 다 맡아주는 시대에는 AI 사용자가 곧 개발자이므로, 웹앱이 무엇인지 아는 것만으로 AI로 할 수 있는",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Reccoo – 윈도우 소리를 녹음해 주는 귀여운 픽셀 친구",
+      "link": "https://news.hada.io/topic?id=32083",
+      "published": "2026-08-03T10:50:37+09:00",
+      "summary": "<p>안녕하세요!<br />\n윈도우에서 나오는 소리를 쉽고 아주아주 심플하게 녹음할 수 있는 픽셀아트 녹음기 <strong>Reccoo</strong>를 만들었습니다. 🐤</p>\n<p>이 앱을 만들게 된 계기는 정말 단순해요.<br />\n복잡한 설정 없이 필요할 때 바로 켜서 편하게 쓸 수 있고, 화면까지 귀여워서 자꾸 열어보고 싶은 녹음기를",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "64비트 어셈블리의 기술",
+      "link": "https://news.hada.io/topic?id=32081",
+      "published": "2026-08-03T10:31:42+09:00",
+      "summary": "<ul>\n<li>C++, Python, Rust의 고수준 기능을 런타임 없이 분해하고 <strong>Windows용 MASM</strong>으로 재구현해 명령어 수준의 동작과 책임을 익히는 책임</li>\n<li>객체와 상속을 위한 <strong>vtable·메서드 디스패치</strong>, Windows 구조적 예외 처리(SEH), 고급 프로시저와 매개변수 구현을 설명함</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google이 RSS 피드 확산을 무너뜨리는 데 기여한 과정(2023)",
+      "link": "https://news.hada.io/topic?id=32079",
+      "published": "2026-08-03T09:33:35+09:00",
+      "summary": "<ul>\n<li>RSS는 여전히 널리 쓰이지만, Google이 RSS 기반 제품으로 사용자를 확보한 뒤 지원을 잇달아 제거하면서 <strong>RSS 채택과 사용자 신뢰</strong>가 약화됨</li>\n<li>Chromium의 RSS 버튼부터 FeedBurner API, Google Reader, Google News 지원까지 개방형 RSS를 제품에 통합했다가 폐기하는 <strong>수용·확...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+      "link": "https://news.hada.io/topic?id=32078",
+      "published": "2026-08-03T09:31:01+09:00",
+      "summary": "<ul>\n<li><strong>코딩 에이전트</strong>가 실행 중인 앱을 직접 검사/조작/검증하고 결과를 근거로 저장하도록 지원</li>\n<li>iOS, Android, tvOS, Android TV, Amazon Vega OS TV, web, macOS, Linux 등 지원</li>\n<li><strong>토큰 효율적인 접근성 스냅샷</strong>을 읽고 ref 또는 selector로 요소를 찾아 기기 동...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "published": "Sun, 02 Aug 2026 21:33:59 +0000",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "published": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "published": "Sun, 02 Aug 2026 17:05:07 +0000",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "published": "Sun, 02 Aug 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "published": "Sun, 02 Aug 2026 15:23:19 +0000",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "link": "https://github.com/johnsonjh/cpm386",
+      "published": "Mon, 03 Aug 2026 00:38:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149898\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "published": "Mon, 03 Aug 2026 00:12:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149746\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Karpathy’s Pelican",
+      "link": "https://twitter.com/karpathy/status/2083749667410727319",
+      "published": "Sun, 02 Aug 2026 04:05:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140998\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen 3.8 Max Live Now",
+      "link": "https://www.qwencloud.com/models/qwen3.8-max",
+      "published": "Mon, 03 Aug 2026 02:18:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49150490\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "link": "https://sf.isopolis.city/",
+      "published": "Mon, 03 Aug 2026 00:46:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149966\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
