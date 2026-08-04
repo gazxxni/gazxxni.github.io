@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-04",
+  "articles": [
+    {
+      "title": "MiniMax H3, ComfyUI 출시 당일 지원 — 오픈 가중치·네이티브 오디오·2K 영상",
+      "link": "https://news.hada.io/topic?id=32129",
+      "published": "2026-08-04T10:32:21+09:00",
+      "summary": "<ul>\n<li>MiniMax의 3세대이자 첫 <strong>오픈 가중치 비디오 모델</strong> H3가 ComfyUI에서 출시 당일부터 지원되며, 최대 15초 길이의 2K 영상을 생성함</li>\n<li>텍스트·이미지 기반 생성부터 시작·종료 프레임 제어와 참조 기반 생성까지 하나의 모델에서 처리하고, 영상과 <strong>스테레오 오디오를 동시에 생성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
+      "link": "https://news.hada.io/topic?id=32128",
+      "published": "2026-08-04T10:11:01+09:00",
+      "summary": "<ul>\n<li>Google 검색과 디스커버에서 <strong>소셜 및 동영상 게시물의 실적</strong>을 추적하는 새로운 Search Console 속성 유형인 <strong>플랫폼 속성</strong> 도입</li>\n<li><strong>Instagram, TikTok, X, YouTube</strong> 콘텐츠로 사용자를 유도하는 검색어 추적 및 게시물 상호작용 방식 파악 가능</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "안목, 판단 그리고 AI",
+      "link": "https://news.hada.io/topic?id=32127",
+      "published": "2026-08-04T10:04:01+09:00",
+      "summary": "<ul>\n<li><strong>안목(taste)</strong> 은 충분한 증거가 없어도 무엇이 뛰어난지 알아보는 능력이며, <strong>판단(judgment)</strong> 은 위험과 결과를 감수하고 그 선택을 실제 작업으로 내보내는 능력임</li>\n<li>안목은 반복적인 제작 경험과 뛰어난 결과물에 대한 폭넓은 노출을 통해 형성되며, 정답이 모호한 여...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: maxt – 거래소와 언어가 달라도 일관된 방식으로 사용하는 멀티 언어 거래소 SDK",
+      "link": "https://news.hada.io/topic?id=32126",
+      "published": "2026-08-04T10:03:41+09:00",
+      "summary": "<p>안녕하세요. 여러 거래소를 하나의 서비스에서 사용하면서 겪은 불편에서 시작한 오픈소스 프로젝트 <code>maxt</code>를 소개합니다.</p>\n<h3>만든 이유</h3>\n<p>통합 API를 사용해도 실제로 여러 거래소를 연동하면 같은 기능에 서로 다른 파라미터가 필요하거나, 응답과 오류를 별도로 처리해야 하는 경우가 있었습",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 &#039;A.X K2 Raon-Speech&#039; 공개",
+      "link": "https://news.hada.io/topic?id=32125",
+      "published": "2026-08-04T10:01:01+09:00",
+      "summary": "<ul>\n<li>SKT의 A.X K2 Light 20B-A3B 텍스트 백본에 KRAFTON이 자체 학습한 <strong>음성 인코더와 음성 코덱을 결합</strong>한 모델로, 전체 21.2B 중 <strong>약 3.5B 파라미터를 활성화</strong></li>\n<li><a href=\"https://huggingface.co/KRAFTON/Raon-Speech-9B\">Raon-Speech-9B</a>의 학습 방식을 사용하며 세 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "published": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "published": "Mon, 03 Aug 2026 22:10:58 +0000",
+      "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "published": "Mon, 03 Aug 2026 19:45:35 +0000",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published": "Mon, 03 Aug 2026 19:28:57 +0000",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LLMs reward expertise",
+      "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "published": "Mon, 03 Aug 2026 21:13:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49161518\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "link": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "published": "Wed, 29 Jul 2026 16:07:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49099336\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics/",
+      "published": "Mon, 03 Aug 2026 16:27:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49157930\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "link": "https://news.ycombinator.com/item?id=49156683",
+      "published": "Mon, 03 Aug 2026 15:00:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49156683\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Devtools must be open source",
+      "link": "https://blog.exe.dev/devtools-must-be-open-source",
+      "published": "Mon, 03 Aug 2026 14:15:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49156111\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
