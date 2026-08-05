@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-05",
+  "articles": [
+    {
+      "title": "Retrieval as Reasoning - LLM Wiki가 RAG보다 나은 이유에 대한 실증 벤치마크",
+      "link": "https://news.hada.io/topic?id=32164",
+      "published": "2026-08-05T11:06:55+09:00",
+      "summary": "<p>문서를 청크 단위로 잘라 벡터로 검색하는 RAG 방식이 아닌,<br />\n서로 링크된 마크다운 위키로 만들고 에이전트가 네비게이션하는 LLM Wiki 방식이 나은 이유에 대해 실증한 논문입니다.</p>\n<h3>논문이 풀어본 문제</h3>\n<ul>\n<li>청크 검색은 문서를 잘게 잘라 비슷한 조각 몇 개만 꺼내 붙임. 여러 문서를 이어야",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 캠씨 – 캠핑장 위치를 기준으로 날씨와 준비 정보를 보여주는 앱",
+      "link": "https://news.hada.io/topic?id=32163",
+      "published": "2026-08-05T10:36:25+09:00",
+      "summary": "<p>안녕하세요.</p>\n<p>캠핑을 시작하면서 필요했던 정보를 모아 캠씨라는 캠핑 날씨 서비스를 만들었습니다.<br />\n일반 날씨 서비스는 기온과 강수 여부를 확인하기에는 충분하지만,<br />\n실제 캠핑을 준비할 때 궁금했던 내용은 조금 달랐습니다.</p>\n<p>타프를 설치해도 될 정도의 바람인지<br />\n밤사이 결로 가능",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "디자인 시스템의 미래 [유튜브]",
+      "link": "https://news.hada.io/topic?id=32162",
+      "published": "2026-08-05T10:08:02+09:00",
+      "summary": "<ul>\n<li>AI 시대의 디자인 시스템은 디자인을 코드로 넘기는 기존 흐름을 넘어, AI가 만든 제품을 역설계해 일관된 코드와 캔버스로 되돌리는 <strong>코드 중심 워크플로</strong>로 확장되고 있음</li>\n<li>안정적인 AI 결과물에는 검증된 컴포넌트·토큰·문서·접근성 속성을 아우르는 충분한 <strong>맥락(context)...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
+      "link": "https://news.hada.io/topic?id=32161",
+      "published": "2026-08-05T10:04:19+09:00",
+      "summary": "<ul>\n<li>7월에 상장한 Bending Spoons(기업가치 180억 달러)가 Airtable을 인수하기로 합의</li>\n<li>IPO 이후 첫 인수합병으로, 인수가는 현금 12억 8000만 달러</li>\n<li>Bending Spoons가 추산한 에어테이블의 기업가치는 약 22억 5000만 달러</li>\n<li>Airtable은 지금까지 14억 달러 이상을 투자유치\n<ul>\n<li>호황...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
+      "link": "https://news.hada.io/topic?id=32160",
+      "published": "2026-08-05T09:55:02+09:00",
+      "summary": "<ul>\n<li>거의 모든 화면은 <strong>버튼, 폼, 메뉴, 링크, 대화상자, 알림, 아이콘, 체크박스·라디오 버튼, 탭, 검색</strong>이라는 상호작용 알파벳으로 구성되며, 수십 년간 축적된 관례가 사용자의 학습 비용을 줄임</li>\n<li>각 요소는 행동 실행, 입력 수집, 이동, 시스템 피드백, 의미 전달이라는 역할이 다르므...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+      "published": "Tue, 04 Aug 2026 22:30:58 +0000",
+      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "published": "Tue, 04 Aug 2026 22:24:00 +0000",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "published": "Tue, 04 Aug 2026 22:18:30 +0000",
+      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "published": "Tue, 04 Aug 2026 21:07:26 +0000",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "published": "Tue, 04 Aug 2026 20:36:30 +0000",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "published": "Tue, 04 Aug 2026 23:18:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49176606\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "link": "https://queue.acm.org/detail.cfm?id=3807963",
+      "published": "Tue, 04 Aug 2026 23:50:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49176830\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "published": "Tue, 04 Aug 2026 22:22:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49176038\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "link": "https://twitter.com/gwern/status/2084739205071343837",
+      "published": "Tue, 04 Aug 2026 20:48:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49174900\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "link": "https://mistral.ai/news/shieldstral/",
+      "published": "Tue, 04 Aug 2026 16:36:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49171268\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
