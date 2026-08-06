@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-06",
+  "articles": [
+    {
+      "title": "Show GN: 주가예측 AI 에이전트를 위한 무료 도구 공개 (LDBD)",
+      "link": "https://news.hada.io/topic?id=32193",
+      "published": "2026-08-06T09:57:24+09:00",
+      "summary": "<p>AI 봇들에게 주가 방향을 예측시키고 실제 가격으로 채점하는 리더보드(LDBD)를 만들고 있는 1인 개발자입니다.</p>\n<p>예측 에이전트가 판단에 쓸 재료를 API 5종과 MCP 도구 10종으로 묶어 무료로 공개했고, 그 과정을 글로 정리했습니다.<br />\n차트 지표, 종목별 과거 상승 빈도, 거시 지표 대시보드 같은 조회 도",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "late.sh - 개발자를 위한 아늑한 터미널 클럽하우스",
+      "link": "https://news.hada.io/topic?id=32192",
+      "published": "2026-08-06T09:31:02+09:00",
+      "summary": "<ul>\n<li><strong>SSH 클라이언트</strong>만으로 접속하는 터미널 우선 소셜 앱으로, <code>ssh late.sh</code> 한 줄이면 실시간 채팅/음악/게임/뉴스 등을 보는 공간에 들어가기 가능</li>\n<li>단축키 0은 TUI형태의 클럽하우스(키로 이동가능), 1은 irc 같은 채팅방, 2는 퍼즐 게임, 3은 MUD게임, 4는 공유 아트보드...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "공세적 인터넷 태세",
+      "link": "https://news.hada.io/topic?id=32191",
+      "published": "2026-08-06T09:08:06+09:00",
+      "summary": "<ul>\n<li>블로그 VPS를 자동 스캐너·스크레이퍼·스패머 같은 <strong>인터넷 약탈자</strong>에게 덜 매력적으로 만들기 위해 허니팟, 타르핏, 가짜 콘텐츠를 운영함</li>\n<li>가짜 WordPress 로그인은 인증 거부를 5초 늦추고, <strong>endlessh</strong>가 22번 포트를 점유하는 동안 실제 <code>sshd</code>는 다른 포...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "rust-lang/rust가 LLM 사용 정책을 도입함",
+      "link": "https://news.hada.io/topic?id=32190",
+      "published": "2026-08-06T09:05:06+09:00",
+      "summary": "<ul>\n<li>Rust 프로젝트의 5개 팀이 <code>rust-lang/rust</code> 모노레포 기여 시 <strong>LLM 사용 방식</strong>을 규정하는 정책을 채택했으며, Rust 전체의 공식 입장이나 프로젝트 전역 정책은 아님</li>\n<li>질문·분석·정제·검사·제안·리뷰에는 LLM을 사용할 수 있지만 <strong>새 콘텐츠 생성</strong>은 엄격...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Ephemeral System Prompt - 실행마다 달라지는 지시사항을 넣고도 프롬프트 캐시 유지하기",
+      "link": "https://news.hada.io/topic?id=32189",
+      "published": "2026-08-06T08:32:15+09:00",
+      "summary": "<p>LLM 에이전트를 만들다 보면 시스템 프롬프트는 유지하면서도 현재 시각, 세션 상태, 호스트 정책처럼 <strong>실행마다 달라지는 지시사항</strong>을 추가해야 할 때가 있습니다.</p>\n<p>하지만 이런 내용을 시스템 프롬프트에 직접 합치면 매번 프롬프트 prefix가 달라져 provider의 prompt caching을 제대로 활용",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "published": "Wed, 05 Aug 2026 22:55:43 +0000",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nikita Bier steps down as X’s head of product",
+      "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "published": "Wed, 05 Aug 2026 21:30:50 +0000",
+      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "published": "Wed, 05 Aug 2026 21:26:40 +0000",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "published": "Wed, 05 Aug 2026 21:05:37 +0000",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LLMs won't break symmetric crypto",
+      "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "published": "Thu, 06 Aug 2026 01:39:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49191365\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Discovery Loop",
+      "link": "https://www.discoveryloop.com/",
+      "published": "Wed, 05 Aug 2026 16:19:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49184960\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "link": "https://zed.dev/deltadb",
+      "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49189287\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "published": "Wed, 05 Aug 2026 16:05:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49184755\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
