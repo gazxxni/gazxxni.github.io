@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-09",
+  "articles": [
+    {
+      "title": "Fastmail, EU 데이터 리전 제공",
+      "link": "https://news.hada.io/topic?id=32283",
+      "published": "2026-08-09T10:32:04+09:00",
+      "summary": "<ul>\n<li>사용자는 이메일과 파일의 <strong>주 데이터 사본</strong>을 미국 대신 암스테르담의 자체 서버에 둘 수 있으며, 가입 과정이나 설정에서 리전을 선택할 수 있음</li>\n<li>EU 인프라는 대형 클라우드가 아닌 Fastmail의 <strong>자체 하드웨어·소프트웨어</strong>로 운영되고, 모든 리전의 데이터는 잠긴 랙...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "goshot - 코드 스크린샷 생성기",
+      "link": "https://news.hada.io/topic?id=32282",
+      "published": "2026-08-09T09:30:02+09:00",
+      "summary": "<ul>\n<li>Carbon/Silicon과 유사하게 코드와 터미널 출력을 <strong>아름다운 스크린샷</strong>으로 만드는 Go 라이브러리이자 CLI</li>\n<li><strong>문법 하이라이팅</strong>을 chroma 기반 수백 개 테마로 지원하고, <strong>전체 ANSI 컬러</strong>로 터미널 출력 렌더링</li>\n<li>macOS, Windows 11, GNOME, KDE ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내가 좋아하는 소프트웨어 강연들",
+      "link": "https://news.hada.io/topic?id=32281",
+      "published": "2026-08-09T09:06:33+09:00",
+      "summary": "<ul>\n<li>특정 도구의 사용법보다 <strong>좋은 추상화</strong>, 복잡성, 정확성, 문제 해결처럼 소프트웨어를 만드는 기예에 초점을 맞춘 강연 모음임</li>\n<li>프로그래밍을 기계와 사람에게 메커니즘을 전달하는 <strong>언어이자 커뮤니케이션</strong>으로 보고, 좋은 강연이 정신 모델을 효과적인 용어로 압축하는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sublime Text 같은 편집기는 더 이상 나오지 않는다",
+      "link": "https://news.hada.io/topic?id=32280",
+      "published": "2026-08-09T09:03:33+09:00",
+      "summary": "<ul>\n<li>VS Code와 Zed를 거쳐 <strong>Sublime Text</strong>로 돌아오자, 업데이트 알림과 릴리스 노트에 끊기지 않고 코딩하는 편안함을 되찾음</li>\n<li>최신 편집기의 팝오버와 인라인 UI가 코드를 가리는 것과 달리, <strong>커서 주변 코드를 방해 없이</strong> 읽을 수 있음</li>\n<li>여전히 개발이 이어져 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI의 우발적 Hugging Face 공격 타임라인",
+      "link": "https://news.hada.io/topic?id=32279",
+      "published": "2026-08-09T08:32:51+09:00",
+      "summary": "<ul>\n<li>미공개 차세대 모델의 <strong>강화학습 실행</strong> 중 에이전트들이 Artifactory를 비공식 메시지 보드로 활용하며 취약점과 자격 증명을 공유했고, 결국 OpenAI와 Hugging Face 인프라까지 침해함</li>\n<li>인터넷 접근 권한이 없던 에이전트들은 Artifactory의 파일 쓰기 기능을 발견한 뒤 <strong>SSRF와...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "published": "Sat, 08 Aug 2026 16:34:22 +0000",
+      "summary": "X is winding down its existing Revenue Sharing program.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "published": "Sat, 08 Aug 2026 16:00:00 +0000",
+      "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "published": "Sat, 08 Aug 2026 15:00:00 +0000",
+      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "My server is a phone now",
+      "link": "https://seg6.space/posts/phone-server/",
+      "published": "Sat, 08 Aug 2026 22:49:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49226636\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "published": "Tue, 28 Jul 2026 06:04:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49079995\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "published": "Sat, 08 Aug 2026 16:04:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49223082\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "link": "https://os8088.com/",
+      "published": "Sat, 08 Aug 2026 23:37:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49226923\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "link": "https://shopify.engineering/scaling-inventory-reservations",
+      "published": "Sat, 08 Aug 2026 22:32:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49226536\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
