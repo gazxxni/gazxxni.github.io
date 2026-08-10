@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-10",
+  "articles": [
+    {
+      "title": "DoorDash가 AI 에이전트-도구 접근을 위한 중앙 게이트웨이를 구축한 방법",
+      "link": "https://news.hada.io/topic?id=32329",
+      "published": "2026-08-10T10:30:02+09:00",
+      "summary": "<ul>\n<li>MCP는 에이전트가 도구를 <strong>설명/탐색/호출하는 방식은 표준화</strong>했지만, 실제 운영에 필요한 인증/권한/자격증명/접근 취소/감사까지 해결하지는 않아 DoorDash는 이를 Agent Gateway로 중앙화함</li>\n<li>모든 도구 호출은 게이트웨이를 거치며 <strong>호출자 인증 → 권한 확인 → 승인된 도구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PostgreSQL의 MVCC는 나쁘다. 다른 DB도 마찬가지다",
+      "link": "https://news.hada.io/topic?id=32326",
+      "published": "2026-08-10T10:15:02+09:00",
+      "summary": "<ul>\n<li>PostgreSQL의 <strong>쓰기 증폭, 테이블 팽창, VACUUM 부담, 32-bit XID wraparound</strong>는 실제 문제지만, 이는 MVCC 자체의 결함이라기보다 과거 버전을 테이블에 남기고 나중에 정리하는 설계 선택에서 비롯됨</li>\n<li>reader가 writer를 막지 않으려면 어느 DB든 과거 버전을 어딘가에 보관해야 하며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SQLite에서 배운 신뢰성의 교훈 - Richard Hipp [유튜브]",
+      "link": "https://news.hada.io/topic?id=32324",
+      "published": "2026-08-10T10:00:04+09:00",
+      "summary": "<ul>\n<li>장애가 잦던 Informix 서버를 우회해 디스크 데이터에 직접 접근하려는 필요에서 출발한 SQLite는 현재 <strong>1조 개 이상</strong>의 데이터베이스가 사용되는 것으로 추산되는 내장형 SQL 엔진으로 성장함</li>\n<li>높은 신뢰성의 중심에는 기계어 수준의 모든 분기를 양방향으로 검증하는 <strong>100% MC...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "StreamHub 확장: 하루 1,450억 이벤트 처리를 위해 Kinesis에서 Kafka로 전환",
+      "link": "https://news.hada.io/topic?id=32323",
+      "published": "2026-08-10T09:45:01+09:00",
+      "summary": "<ul>\n<li>Atlassian의 StreamHub는 하루 <strong>220억 건에서 1,500억 건의 이벤트를 수집</strong>하는 규모로 성장하면서, 200~300억 건 수준까지 잘 작동했던 Amazon Kinesis를 넘어 장기 보관 비용/소비자 확장성/멀티클라우드를 위해 AWS MSK 기반 Kafka로 전환함</li>\n<li>Kafka의 <strong>Tiered Storage</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모든 코드를, 항상 다시 작성하라",
+      "link": "https://news.hada.io/topic?id=32322",
+      "published": "2026-08-10T09:44:01+09:00",
+      "summary": "<ul>\n<li>AI로 코드 생성 비용이 계속 낮아지면 <strong>프로덕션 코드를 희소한 자산으로 유지할 이유가 사라지고</strong>, 대규모 코드베이스를 지속적으로 재작성하는 것이 경제적으로 가능해질 것이라는 전망</li>\n<li>이때 장기적으로 보존해야 할 것은 구현 코드가 아니라 <strong>가장 높은 수준의 요구사항/명세...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "published": "Sun, 09 Aug 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "published": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "published": "Sun, 09 Aug 2026 19:16:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49234675\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How We Pushed CDC into Postgres",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "published": "Mon, 10 Aug 2026 01:01:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49238050\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mea Culpa – Dark Hours",
+      "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49231154\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "link": "https://publicdomainreview.org/collection/marnameh/",
+      "published": "Fri, 07 Aug 2026 04:04:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49205793\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "link": "https://news.ycombinator.com/item?id=49233423",
+      "published": "Sun, 09 Aug 2026 17:23:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49233423\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
