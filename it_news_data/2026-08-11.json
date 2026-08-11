@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-11",
+  "articles": [
+    {
+      "title": "Squeak 6.1",
+      "link": "https://news.hada.io/topic?id=32379",
+      "published": "2026-08-11T10:35:54+09:00",
+      "summary": "<ul>\n<li>코드명 <strong>Vanessa</strong>인 Squeak 6.1은 4년간 1,700개 이상의 패치와 9,000개 이상의 메서드 변경을 통합한 <strong>30주년 기념 릴리스</strong>임</li>\n<li>새 <strong>Tree Browser</strong>를 중심으로 드래그 앤 드롭과 Inspector·Debugger·Profiler·버전 관리 도구를 대폭 확장함</li>\n<li>Obj...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프로그래밍 언어가 코딩 에이전트의 토큰 효율과 정확성에 미치는 영향",
+      "link": "https://news.hada.io/topic?id=32378",
+      "published": "2026-08-11T10:04:08+09:00",
+      "summary": "<ul>\n<li>Zstd와 Pandoc 구현 평가에서는 <strong>동적 언어가 정적 언어보다 토큰 효율적</strong>이라는 기존의 강한 관계가 재현되지 않았으며, 과제와 추론 노력 수준에 따라 정확도·비용·시간 순위가 달라짐</li>\n<li>70~109토큰으로 풀리는 Rosetta Code 같은 소형 문제는 실제 작업으로 일반화하기 어렵고, 경로 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ARR의 의미가 예전과 달라졌다",
+      "link": "https://news.hada.io/topic?id=32377",
+      "published": "2026-08-11T10:04:02+09:00",
+      "summary": "<ul>\n<li>AI 스타트업 투자에서 <strong>ARR</strong>가 실제 반복 매출이 아니라 월/일 매출의 단순 연환산, GMV, 계약 예정 매출까지 가리키는 경우가 늘면서 15명의 VC가 더 이상 숫자 자체를 그대로 믿기 어렵다고 평가함</li>\n<li>ARR뿐 아니라 <strong>CARR</strong>/NRR/총마진도 계약의 실제 매출 전환 여부, 사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "엔지니어링 리더는 매일 무슨 일을 하는가",
+      "link": "https://news.hada.io/topic?id=32376",
+      "published": "2026-08-11T09:48:01+09:00",
+      "summary": "<ul>\n<li>엔지니어링 리더의 업무는 코드나 기능처럼 눈에 보이는 산출물보다 <strong>대화/결정/조율/개입</strong>을 통해 나타나며, 하루 대부분은 정보 수집 → 정보 공유 → 의사결정 → 의사결정에 영향 → 실행 주도 → 계획의 순환으로 구성됨</li>\n<li>팀과 조직의 현실을 정확히 이해하려면 엔지니어/관리자/고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 제품의 가격을 책정하는 방법",
+      "link": "https://news.hada.io/topic?id=32375",
+      "published": "2026-08-11T09:42:02+09:00",
+      "summary": "<ul>\n<li>AI 제품은 사용자가 행동할 때마다 토큰 비용이 발생해 비용이 사용량에 따라 늘어나므로, 기존 SaaS의 <strong>좌석 기반 가격제</strong>보다 사용량/성과 기반 모델이 중요해지고 있으며 AI 우선 기업의 총마진은 50~60% 수준으로 전통 SaaS의 80~90%보다 낮음</li>\n<li>Candor는 비용과 고객 가치가 함께 증...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "published": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "published": "Mon, 10 Aug 2026 23:16:44 +0000",
+      "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "published": "Mon, 10 Aug 2026 22:26:54 +0000",
+      "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "published": "Mon, 10 Aug 2026 21:20:04 +0000",
+      "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The UK's War on Anonymity Has Come to America",
+      "link": "https://www.effort.news/uk-lobby",
+      "published": "Mon, 10 Aug 2026 23:45:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49251411\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chicken Scheme 6.0",
+      "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "published": "Tue, 11 Aug 2026 00:24:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49251702\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "published": "Mon, 10 Aug 2026 10:10:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49241679\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "link": "https://cactuscompute.com/needle",
+      "published": "Mon, 10 Aug 2026 17:22:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49246804\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "link": "https://everycube.alen.is/",
+      "published": "Mon, 10 Aug 2026 23:16:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49251179\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
