@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+      "link": "https://news.hada.io/topic?id=32455",
+      "published": "2026-08-13T10:30:02+09:00",
+      "summary": "<ul>\n<li>빠른 파인튜닝 도구 <strong>Unsloth</strong>가 Desktop 버전을 출시</li>\n<li>LLM뿐 아니라 <strong>diffusion 이미지/비디오, embedding, vision, TTS/STT</strong> 모델을 실행/학습하며, <strong>GGUF/MLX/safetensors</strong> 포맷 지원</li>\n<li>맥/윈/리눅스/WSL 지원. NVIDIA/AMD/Mac GPU에서 학습 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "인간 중심에서 에이전틱 코드 리뷰로 - 더 빠른 결정이 더 나은 리뷰를 뜻하지는 않는다",
+      "link": "https://news.hada.io/topic?id=32454",
+      "published": "2026-08-13T09:45:02+09:00",
+      "summary": "<ul>\n<li>207개 GitHub 프로젝트의 <strong>102만 개 PR</strong>을 분석해, 코드 리뷰가 인간 중심/LLM 보조/AI 에이전트 참여 단계로 바뀌는 과정에서 리뷰 속도와 품질이 어떻게 달라졌는지 조사함</li>\n<li>AI 리뷰어를 점진적으로 도입하거나 에이전트 단계에서 빠르게 도입한 프로젝트는 리뷰 결정이 빨라졌지만, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Delta - 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경",
+      "link": "https://news.hada.io/topic?id=32453",
+      "published": "2026-08-13T09:32:34+09:00",
+      "summary": "<ul>\n<li>개발자와 에이전트가 <strong>코드와 대화의 맥락</strong>을 공유하며 구현 결과를 검토하는 환경으로, 첫 사용자를 대상으로 비공개 베타를 시작함</li>\n<li><strong>DeltaDB</strong>가 대화와 작업 트리를 실시간 복제하고 커밋 사이의 변경과 논의를 기록하면서도 기존 Git 저장소와 커밋·푸시 흐름을 유지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
+      "link": "https://news.hada.io/topic?id=32452",
+      "published": "2026-08-13T09:30:02+09:00",
+      "summary": "<ul>\n<li>PDF/이미지/스프레드시트/오디오/URL/아카이브/소스트리 등 무엇을 넣어도 <strong>깔끔한 텍스트/표/메타데이터/구조화 데이터</strong>를 반환</li>\n<li>포맷 감지 부터 OCR,추출을 하나의 코어가 처리해서 여러개의 라이브러리를 이용한 파이프라인 구성할 필요 없음</li>\n<li><strong>101개 포맷 / 371개 코...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Linux용 Codex앱, 프리뷰 제공 시작",
+      "link": "https://news.hada.io/topic?id=32450",
+      "published": "2026-08-13T09:15:15+09:00",
+      "summary": "<ul>\n<li>Linux용 <strong>ChatGPT 데스크톱 앱</strong>이 프리뷰로 공개, 이제 리눅스에서도 ChatGPT·Work·Codex를 하나의 <strong>네이티브 데스크톱 환경</strong>에서 통합</li>\n<li>프로젝트 관리, 파일 작업, <strong>브라우저 워크플로우</strong>, ChatGPT 옆에서 <strong>Codex 실행</strong>이 가능한 워크스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "published": "Wed, 12 Aug 2026 22:24:00 +0000",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "published": "Wed, 12 Aug 2026 20:53:41 +0000",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "published": "Wed, 12 Aug 2026 18:34:21 +0000",
+      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "published": "Wed, 12 Aug 2026 16:04:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49274600\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Delta",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49276574\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published": "Wed, 12 Aug 2026 14:22:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49272832\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49280103\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "published": "Wed, 12 Aug 2026 15:01:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49273478\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
