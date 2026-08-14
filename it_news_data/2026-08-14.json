@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-14",
+  "articles": [
+    {
+      "title": "Show GN: commentube - 유튜브 댓글을 게임으로 즐겨보세요",
+      "link": "https://news.hada.io/topic?id=32489",
+      "published": "2026-08-14T10:28:08+09:00",
+      "summary": "<p>유튜브 댓글을 게임으로 간단히 즐겨보면 어떨까 싶어서 만들어 봤습니다<br />\n'더 많이 더 적게' 컨텐츠에서 영감을 받아 시작된 프로젝트입니다</p>\n<p>좋아하는 유튜브 영상 링크를 넣으면 댓글을 활용한 게임을 시작할 수 있습니다<br />\n시작 즉시 댓글을 추출하여 게임 진행에 사용됩니다<br />\n현재 게임은 총",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "State of CSS 2026",
+      "link": "https://news.hada.io/topic?id=32486",
+      "published": "2026-08-14T10:00:04+09:00",
+      "summary": "<ul>\n<li>4,902명이 참여한 2026년 조사에서 CSS는 새 기능이 빠르게 늘어나는 가운데 <strong>Anchor Positioning이 올해 가장 주목받은 기능</strong>으로 올라섰으며, 사용률도 전년 대비 15% 증가해 조사 대상 기능 중 가장 큰 상승폭을 기록함</li>\n<li>이미 자리 잡은 기능에서는 <strong><code>:has()</code> 사용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Wails v3 Beta - Go 데스크톱 앱을 위한 새로운 기반",
+      "link": "https://news.hada.io/topic?id=32485",
+      "published": "2026-08-14T09:45:02+09:00",
+      "summary": "<ul>\n<li>초기엔 <strong>Go 백엔드 + HTML/CSS/JS·React·Vue 프론트엔드</strong>로 맥/윈/리눅스용 단일 바이너리 앱을 만드는 가벼운 Electron 대체제였음</li>\n<li>이후 v2를 거쳐 이번 <strong>v3 Beta</strong>에서는 단순 GUI 래퍼보다 복잡한 데스크톱 앱을 만들기 위한 애플리케이션 구조 자체를 크게 재설계...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
+      "link": "https://news.hada.io/topic?id=32484",
+      "published": "2026-08-14T09:30:03+09:00",
+      "summary": "<ul>\n<li>타임라인 안에서 사용자와 에이전트가 함께 영상을 생성·편집할 수 있는 <strong>오픈소스 macOS 영상 편집기</strong></li>\n<li>Swift로 처음부터 새로 개발했으며, Premiere Pro를 지향점으로 삼아 <strong>AI를 워크플로에 통합</strong>하는 방향으로 설계</li>\n<li>타임라인 편집기 안에서 Seedance, Klin...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PgBouncer 없이 Postgres를 운영하는 사람이 있나요?",
+      "link": "https://news.hada.io/topic?id=32483",
+      "published": "2026-08-14T09:14:52+09:00",
+      "summary": "<ul>\n<li>Postgres는 많은 연결을 효율적으로 관리하기 어려워 <strong>로컬 연결 풀</strong>, 짧은 연결 점유, PgBouncer 같은 외부 풀러를 함께 사용하는 방식이 여전히 필요함</li>\n<li>조사한 관리형 Postgres 제공업체 18곳 중 <strong>16곳이 연결 풀러를 지원</strong>하며, 대부분 PgBouncer를 기본 구성으로 제...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "published": "Thu, 13 Aug 2026 22:12:40 +0000",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "published": "Thu, 13 Aug 2026 22:02:04 +0000",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "published": "Thu, 13 Aug 2026 21:50:11 +0000",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "published": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49289112\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49293324\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "link": "https://sparrowmap.com/",
+      "published": "Fri, 14 Aug 2026 00:10:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49293294\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "published": "Thu, 13 Aug 2026 18:10:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49289844\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NP-Overrated",
+      "link": "https://gruhn.me/blog/2026-08-13/",
+      "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49291268\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
