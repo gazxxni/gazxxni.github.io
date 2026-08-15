@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-15",
+  "articles": [
+    {
+      "title": "실전 루프 엔지니어링",
+      "link": "https://news.hada.io/topic?id=32519",
+      "published": "2026-08-15T10:01:02+09:00",
+      "summary": "<ul>\n<li>AI 에이전트에 작업을 반복 실행시키는 핵심은 자율성을 높이는 것보다 <strong>완료 조건과 제약을 명확히 정의</strong>하고, 어떤 판단은 사람이 계속 맡을지 결정하는 데 있음</li>\n<li>Claude Code의 <strong><code>/goal</code></strong> 은 측정 가능한 목표가 충족될 때까지 한 작업을 반복하고, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 텍스트 워터마킹의 작동 원리",
+      "link": "https://news.hada.io/topic?id=32518",
+      "published": "2026-08-15T09:43:26+09:00",
+      "summary": "<ul>\n<li>AI 텍스트 워터마크는 문자나 메타데이터가 아니라 다음 단어를 고르는 <strong>확률적 선택</strong>에 비밀 패턴을 심으며, Google은 2024년부터 Gemini 앱·웹에 적용했고 Claude 신형 모델도 2026년 8월부터 모델 수준에서 적용함</li>\n<li>비밀 키로 문맥마다 후보 단어를 임의로 구분한 뒤 특정 후보의 선...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "아직 이해하지 못한 것에 대해 블로그 쓰기",
+      "link": "https://news.hada.io/topic?id=32517",
+      "published": "2026-08-15T09:40:47+09:00",
+      "summary": "<ul>\n<li>블로그는 이미 아는 사실을 전달하는 데 그치지 않고, <strong>조사하며 생각을 교정하는 학습 도구</strong>가 될 수 있음</li>\n<li>반론 가능한 <strong>명확한 입장</strong>을 세우면 흥미로운 논점을 찾고 예상 비판에 답할 만큼 조사하게 되어 꾸준히 쓰기 쉬워짐</li>\n<li>머릿속에서는 이해했다고 여기...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "hubble.md - 사람과 에이전트를 위한 노트패드",
+      "link": "https://news.hada.io/topic?id=32516",
+      "published": "2026-08-15T09:36:02+09:00",
+      "summary": "<ul>\n<li>Markdown과 HTML을 기반으로 하는 무료 오픈소스 <strong>노트 앱</strong>으로, 사람과 에이전트가 함께 사용하도록 설계</li>\n<li><strong>Notion/Apple Notes</strong>와 비슷한 작성 경험 제공, <code>/</code> 명령어/Markdown 단축키/프로퍼티/frontmatter 지원</li>\n<li><strong>에이전트 연동</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "uBlock Origin을 지원하는 마지막 메이저 브라우저, Firefox",
+      "link": "https://news.hada.io/topic?id=32515",
+      "published": "2026-08-15T09:31:24+09:00",
+      "summary": "<ul>\n<li>Chromium 계열 브라우저가 <strong>Manifest V2 확장 기능을 단계적으로 퇴출</strong>하는 가운데 Firefox는 uBlock Origin 지원을 유지함</li>\n<li>Edge가 <strong>Manifest V3</strong>로 전환하면 광고 차단 확장 기능이 광고 식별·차단에 필요한 기능에 접근하지 못하게 됨</li>\n<li>Google이 Chrome/Chro...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "published": "Fri, 14 Aug 2026 22:43:24 +0000",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "published": "Fri, 14 Aug 2026 20:37:49 +0000",
+      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "published": "Fri, 14 Aug 2026 19:33:00 +0000",
+      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "published": "Fri, 14 Aug 2026 19:04:32 +0000",
+      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "published": "Fri, 14 Aug 2026 18:58:15 +0000",
+      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49299605\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "published": "Fri, 14 Aug 2026 20:52:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49304447\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RISC-V: They should have known better",
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "published": "Fri, 14 Aug 2026 22:38:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49305492\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The case for overhauling American science",
+      "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "published": "Fri, 14 Aug 2026 23:11:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49305708\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49296740\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
