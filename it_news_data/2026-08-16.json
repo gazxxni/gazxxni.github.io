@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+      "link": "https://news.hada.io/topic?id=32545",
+      "published": "2026-08-16T09:30:02+09:00",
+      "summary": "<ul>\n<li>Deno가 공개한 오픈소스 런타임으로, <strong>Cloudflare Workers와 Durable Objects 모델을 자신의 서버에서 실행</strong>할 수 있게 함</li>\n<li><strong>Cloudflare용 코드를 비교적 적은 변경으로 셀프호스팅</strong>하는 것이 목표: 기존 Wrangler 프로젝트의 Module Worker, <code>fetch</code>, Servi...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가",
+      "link": "https://news.hada.io/topic?id=32544",
+      "published": "2026-08-16T09:15:02+09:00",
+      "summary": "<ul>\n<li><strong>Graph Engineering은 완전히 새로운 개념이라기보다 여러 Agent Loop를 하나의 작업 흐름으로 연결하는 오케스트레이션</strong>에 가까움<br />\n병렬 실행/검증/작업 인계/공유 상태/중단 조건을 명시적으로 구성하는 방식</li>\n<li>Loop와 Graph는 경쟁 개념이 아님<br />\n<strong>Loop는 하나의 목표...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내가 여전히 회의적인 이유",
+      "link": "https://news.hada.io/topic?id=32543",
+      "published": "2026-08-16T09:01:57+09:00",
+      "summary": "<ul>\n<li>환경·사회·정치적 우려에 앞서, LLM이 <strong>비자명한 소프트웨어 개발</strong>에 실제로 효과적인지조차 아직 입증되지 않았다고 봄</li>\n<li>4년간의 ‘혁명’에도 소프트웨어의 품질·속도·비용·기능·보안은 뚜렷하게 개선되지 않았으며, 신뢰받는 오픈소스는 단순한 <strong>기능 복제</strong>만으로 대...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask HN: 요즘 Hacker News를 어떻게 따라가시나요?",
+      "link": "https://news.hada.io/topic?id=32542",
+      "published": "2026-08-16T08:08:57+09:00",
+      "summary": "<ul>\n<li>최근 <strong>2~3년간</strong>, 주로 AI 때문에 Hacker News의 흥미로운 글을 계속 따라가기가 점점 어려워짐</li>\n<li>흥미로운 글을 점점 더 많이 무시하는 단순한 방법 외에, 이를 어떻게 해결하는지 궁금함</li>\n</ul>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple, App Store 외부 구매에 15% 수수료 부과 제안",
+      "link": "https://news.hada.io/topic?id=32541",
+      "published": "2026-08-16T08:07:04+09:00",
+      "summary": "<ul>\n<li>Apple이 iOS 앱의 <strong>외부 링크를 통한 구매</strong>에 기본 15% 수수료를 부과하는 방안을 미국 캘리포니아 북부 연방법원에 제출함</li>\n<li>소규모 사업자 프로그램 개발자에게는 <strong>5%</strong>, Video·News·Mini Apps Partner Program 참여자에게는 10%를 적용하는 차등 구조임</li>\n<li>구독 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "published": "Sat, 15 Aug 2026 13:15:20 +0000",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "published": "Sat, 15 Aug 2026 15:58:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49311651\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "link": "https://aicharts.grok.me/c/market-share",
+      "published": "Sun, 16 Aug 2026 00:22:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49315630\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "published": "Sat, 15 Aug 2026 20:54:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49314235\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49313367\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "published": "Sat, 15 Aug 2026 14:04:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49310682\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
