@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "title": "Rust와 PostgreSQL로 확장 가능한 백엔드 서비스 구축하기",
+      "link": "https://news.hada.io/topic?id=32571",
+      "published": "2026-08-17T09:54:01+09:00",
+      "summary": "<ul>\n<li>Rust는 Go보다 백엔드 개발 생산성이 낮을 수 있지만, <strong>강한 타입 시스템/컴파일러가 보장하는 정확성</strong>과 zero-cost abstraction 덕분에 10K+ LOC/약 100개 엔드포인트 규모에서 비즈니스 로직 버그를 줄이거나 높은 성능이 필요한 서비스에 적합함</li>\n<li>HTTP 스택은 <code>tokio</code> →...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2026년 Stripe에서 Staff Engineer로 일한다는 것",
+      "link": "https://news.hada.io/topic?id=32570",
+      "published": "2026-08-17T09:45:02+09:00",
+      "summary": "<ul>\n<li>Stripe에서 Staff Engineer 역할은 AI로 편해진 것보다 <strong>AI를 활용해 더 큰 영향력을 내야 한다는 기대가 높아진 것</strong>에 가까움. 최신 Anthropic/OpenAI 모델과 사내 코딩 도구를 빠르게 제공하며, Staff에게는 이를 활용하지 못할 변명이 점점 줄어든다고 느낌</li>\n<li>이제 Staff가 여러 대형...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "플랫폼 엔지니어링은 여전히 중요함",
+      "link": "https://news.hada.io/topic?id=32569",
+      "published": "2026-08-17T09:31:02+09:00",
+      "summary": "<ul>\n<li>Agentic Coding으로 코드 작성 비용이 크게 낮아졌어도 <strong>재사용의 경제성까지 사라진 것은 아님</strong>. 매번 전체 스택을 새로 생성하는 것보다 이미 잘 만들어진 하위 플랫폼을 활용해 필요한 부분만 만드는 편이 여전히 저렴함</li>\n<li>&quot;코드 작성 비용이 0으로 간다&quot;는 표현은 과장되어...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "git-knife - Git 커밋 메타데이터를 표처럼 편집하는 데스크톱 GUI",
+      "link": "https://news.hada.io/topic?id=32568",
+      "published": "2026-08-17T09:30:03+09:00",
+      "summary": "<ul>\n<li>Git 커밋의 <strong>메시지, 작성자/커미터 이름·이메일, 작성일/커밋일</strong>을 표 형태 GUI에서 직접 수정하는 도구</li>\n<li>GitKraken/Sublime Merge/Fork 같은 GUI는 reword/reorder는 잘 지원하지만 <strong>임의 커밋의 날짜나 committer 정보 변경</strong>은 제한적이며,<br />\n이를 지원하는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flexible Authentication - 수백만 사용자를 위한 Airbnb의 인증 재설계",
+      "link": "https://news.hada.io/topic?id=32567",
+      "published": "2026-08-17T09:15:01+09:00",
+      "summary": "<ul>\n<li>Airbnb는 여행 예약처럼 <strong>로그인 간격이 길고 사용 환경이 다양한 서비스</strong>에서 인증 실패가 예약과 매출 손실로 이어진다고 보고, 10년간 누적된 로그인 방식을 <strong>Flexible Authentication</strong>으로 재설계함</li>\n<li>핵심은 <strong>Identify first, then Challenge</strong>로, 사...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "published": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "published": "Sun, 16 Aug 2026 16:04:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "published": "Mon, 17 Aug 2026 00:17:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325185\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "link": "https://rvembedded.com/blog_post/12/",
+      "published": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49321717\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "published": "Sun, 16 Aug 2026 12:48:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49319556\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "published": "Thu, 13 Aug 2026 12:44:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49285096\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "published": "Tue, 11 Aug 2026 15:36:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49259980\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
