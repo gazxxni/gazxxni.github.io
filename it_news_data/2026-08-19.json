@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-19",
+  "articles": [
+    {
+      "title": "VisiGrid - 코드 에디터처럼 설계된 로컬 네이티브 스프레드시트",
+      "link": "https://news.hada.io/topic?id=32633",
+      "published": "2026-08-19T09:30:03+09:00",
+      "summary": "<ul>\n<li>Excel 같은 기존 스프레드시트보다 <strong>코드 에디터의 사용 방식</strong>을 가져온 오픈소스 스프레드시트로, 메뉴보다 키보드/Command Palette 중심으로 설계</li>\n<li>GPU 가속 UI 프레임워크 <strong>GPUI</strong>로 만들었으며, 맥/윈/리눅스를 지원하고 콜드 스타트는 약 300ms, 다운로드 크기는 약...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, 주간 Claude Code 한도 50% 상향을 8월 31일까지 연장",
+      "link": "https://news.hada.io/topic?id=32631",
+      "published": "2026-08-19T09:15:02+09:00",
+      "summary": "<ul>\n<li>클로드 코드의 <strong>Weekly Limit 50% 상향</strong> 조치를 기존 8월 19일 종료 예정에서 <strong>8월 31일까지 추가 연장</strong>, 7월 이후 이어진 한시적 상향 조치의 재연장</li>\n<li><strong>영구적인 요금제 반영</strong>을 희망하지만, <strong>모델 수요 급증</strong>으로 향후 몇 주간 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "2026년에 매일 어떤 소프트웨어를 사용하시나요?",
+      "link": "https://news.hada.io/topic?id=32630",
+      "published": "2026-08-19T09:11:54+09:00",
+      "summary": "<ul>\n<li>Lobsters에서 개발자들이 실제로 매일 사용하는 소프트웨어를 공유한 스레드로, 6년 전 비슷한 글 이후 사람들의 일상 소프트웨어 구성이 어떻게 달라졌는지 알아보려 함</li>\n<li>전반적으로 최신 도구만 좇기보다 <strong>오랫동안 손에 익은 Unix 도구와 최근 등장한 개발 도구를 함께 사용하는 모습</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "uBlock 하드 모드로 웹을 탐색하는 방법",
+      "link": "https://news.hada.io/topic?id=32629",
+      "published": "2026-08-19T09:08:54+09:00",
+      "summary": "<ul>\n<li>광고·추적기뿐 아니라 스크립트, 프레임, 글꼴, 미디어까지 차단하는 <strong>uBlock Origin 하드 모드</strong>로 원하는 콘텐츠만 표시하는 탐색 환경을 구성함</li>\n<li><strong>동적 필터링</strong>과 고급 사용자 기능을 활성화해 모든 서드파티 요청을 기본 차단하고, 사이트 작동에 필요한 항목만 선택...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Acadia - 데이터베이스 프로그래밍을 다시 생각하기",
+      "link": "https://news.hada.io/topic?id=32628",
+      "published": "2026-08-19T09:05:53+09:00",
+      "summary": "<ul>\n<li>Elm 창시자 Evan Czaplicki가 수년간 개발한 <strong>Acadia의 Public Alpha</strong>를 공개함. 목표는 Elm 같은 언어의 정밀한 타입, 친절한 오류 메시지, 컴파일러 검증을 SQL과 데이터베이스 작업에 가져오는 것</li>\n<li>테이블과 Endpoint를 함수형 코드로 정의하면 Acadia가 이를 <strong>컴파일 타임에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "published": "Tue, 18 Aug 2026 20:36:20 +0000",
+      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "published": "Tue, 18 Aug 2026 20:03:56 +0000",
+      "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "published": "Tue, 18 Aug 2026 17:31:01 +0000",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "link": "https://github.com/DenisSergeevitch/desktop-fly",
+      "published": "Tue, 18 Aug 2026 21:50:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49353221\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Amazon tax",
+      "link": "https://seths.blog/2026/08/the-amazon-tax/",
+      "published": "Tue, 18 Aug 2026 13:22:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49345263\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Solo – a .so loader for static Linux binaries",
+      "link": "https://github.com/pg83/solo",
+      "published": "Tue, 18 Aug 2026 23:51:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49354613\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "link": "https://modelmap.cc",
+      "published": "Tue, 18 Aug 2026 23:57:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49354664\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "published": "Tue, 18 Aug 2026 18:11:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49349984\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
