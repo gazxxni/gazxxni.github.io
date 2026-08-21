@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-21",
+  "articles": [
+    {
+      "title": "Kaneo - 필요한 것만 담은 오픈소스 프로젝트 관리 도구",
+      "link": "https://news.hada.io/topic?id=32714",
+      "published": "2026-08-21T09:30:04+09:00",
+      "summary": "<ul>\n<li>기능만 많은 복잡한 프로젝트 관리 플랫폼에 대한 대안으로 <strong>Jira/Linear 의 대체제</strong>를 목표로 함</li>\n<li>도구가 아닌 <strong>작업에 집중하는 깔끔한 인터페이스</strong>, 모든 기능은 실제 문제 해결을 위해서만 존재</li>\n<li><strong>셀프 호스팅</strong>으로 데이터를 사용자가 소유하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rust 개발자가 Zig로 JSONPath를 다시 구현하며 느낀 차이",
+      "link": "https://news.hada.io/topic?id=32713",
+      "published": "2026-08-21T09:19:23+09:00",
+      "summary": "<ul>\n<li>7년간 Rust를 사용한 개발자가 RFC 9535 기반 JSONPath를 Zig로 다시 구현해 보니, Zig는 <strong>단순하고 빠른 C 후계자 후보</strong>라는 인상을 줬지만 언어와 생태계는 아직 미성숙했음</li>\n<li>제한적인 IDE 지원은 개발 방식을 CLI 중심으로 바꾸는 계기가 됐고, <strong><code>build.zig</code></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "대화를 지식으로 바꾸기: Slack이 인간-에이전트 팀을 만드는 방법",
+      "link": "https://news.hada.io/topic?id=32712",
+      "published": "2026-08-21T09:15:02+09:00",
+      "summary": "<ul>\n<li>슬랙 CPO <strong>Jaime DeLanghe</strong>는 2017년부터 업무 대화를 조직 지식으로 바꾸는 문제를 다뤄왔으며, AI 에이전트가 공개 채널의 대화·결정·진행 상황을 해석하면서 그동안 활용하기 어려웠던 업무 맥락을 실제 작업에 사용할 수 있게 됐다고 봄</li>\n<li>Claude 기반 에이전트가 초안 작성·요약·...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "arrayref 공급망 공격",
+      "link": "https://news.hada.io/topic?id=32711",
+      "published": "2026-08-21T09:13:23+09:00",
+      "summary": "<ul>\n<li>2026년 8월 20일 <code>arrayref</code> 등 여러 crate가 악성 <code>proc-macro1</code>에 의존하도록 변조되는 <strong>공급망 공격</strong>이 확인됨</li>\n<li><code>proc-macro1</code>의 빌드 스크립트는 <strong>악성 페이로드를 다운로드</strong>했으며, <code>proc-macro-en</code>, <code>aovine</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Aaron Swartz는 스크래핑으로 기소됐지만 Meta는 별다른 제재 없이 계속하고 있음",
+      "link": "https://news.hada.io/topic?id=32710",
+      "published": "2026-08-21T07:31:40+09:00",
+      "summary": "<ul>\n<li>RSS 공동 창시자 <strong>Aaron Swartz</strong>가 JSTOR에서 학술 논문 약 70GB를 내려받은 사건과, Meta가 AI 학습용 해적판 도서 약 80TB를 토렌트한 사건은 <strong>법적 대응의 격차</strong>를 드러냄</li>\n<li>Swartz는 최대 <strong>징역 35년과 벌금 100만 달러</strong>, 자산 몰수 가능성에 직면했고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "published": "Fri, 21 Aug 2026 00:23:36 +0000",
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "published": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "published": "Thu, 20 Aug 2026 23:32:27 +0000",
+      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen si",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "published": "Thu, 20 Aug 2026 19:22:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49378957\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "published": "Fri, 21 Aug 2026 00:15:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49382041\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "link": "https://consumerrights.wiki/w/Main_Page",
+      "published": "Thu, 20 Aug 2026 18:19:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49378243\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "link": "https://www.experimental-history.com/p/i-like-em-thick",
+      "published": "Tue, 18 Aug 2026 15:50:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49347543\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "published": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49379550\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
