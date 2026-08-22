@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
+      "link": "https://news.hada.io/topic?id=32755",
+      "published": "2026-08-22T10:00:04+09:00",
+      "summary": "<ul>\n<li>Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 <strong>직접 경험</strong>과 자신만의 지식을 따라야 한다는 교훈으로 이어짐</li>\n<li>바이브 코딩과 코딩 에이전트는 개인의 역량을 과거 수백 명 규모로 증폭하므로, 기존 SaaS 성공 공식을 복제하기보다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
+      "link": "https://news.hada.io/topic?id=32754",
+      "published": "2026-08-22T09:45:02+09:00",
+      "summary": "<ul>\n<li>Claude Platform의 <strong>Computer Use·Skills API·Files API</strong>를 결합하면 소프트웨어 조작부터 조직 지식 적용, 완성된 파일 반환까지 하나의 에이전트 흐름으로 구성할 수 있음</li>\n<li>새로운 <strong>Browser Use Tool</strong>은 페이지 구조를 읽어 특정 필드와 버튼을 조작하며, Computer Us...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트를 만드는 파이프라인",
+      "link": "https://news.hada.io/topic?id=32753",
+      "published": "2026-08-22T09:30:02+09:00",
+      "summary": "<ul>\n<li>사용자가 말하면 이를 감지하고(VAD) → 음성을 텍스트로 바꾸고(STT) → LLM이 질문을 이해하고 답변 생성 → 생성된 답변을 다시 음성으로 읽어주는(TTS) <strong>완전한 음성 대화 파이프라인</strong>을 로컬에서 구성할 수 있음</li>\n<li>각 단계는 각각 별도 스레드에서 동작하고 큐로 연결돼, 한 단계가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rust nightly, 차세대 트레이트 솔버 기본 활성화",
+      "link": "https://news.hada.io/topic?id=32752",
+      "published": "2026-08-22T09:16:54+09:00",
+      "summary": "<ul>\n<li>약 4년간 개발한 <strong>차세대 트레이트 솔버</strong>가 안정화를 앞두고 nightly에서 기본 활성화되며, where 절 증명과 연관 타입 정규화 등 Rust 컴파일러의 핵심 처리 방식을 전면 교체함</li>\n<li>기존 구현을 제거하면 <strong>Type Alias Impl Trait·Return Type Notation</strong> 안정화, <code>Mo...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "KDE에 Btrfs 스냅샷을 통합하는 KIO Snapshot",
+      "link": "https://news.hada.io/topic?id=32751",
+      "published": "2026-08-22T09:13:54+09:00",
+      "summary": "<ul>\n<li>새로 출시된 <strong>KIO Snapshot</strong>은 Dolphin을 비롯한 KDE 소프트웨어에서 Btrfs 스냅샷을 일반 파일처럼 직접 탐색할 수 있게 함</li>\n<li>파일의 과거 버전과 서브볼륨별 디렉터리 트리를 <strong>가상 폴더</strong>로 제공해 버전 비교, 복사, 메타데이터 확인 등에 활용할 수 있음</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "published": "Sat, 22 Aug 2026 01:03:06 +0000",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "published": "Fri, 21 Aug 2026 22:10:01 +0000",
+      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "published": "Fri, 21 Aug 2026 20:58:07 +0000",
+      "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "link": "https://bandarlabs.github.io/Cobalt/",
+      "published": "Fri, 21 Aug 2026 16:25:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49390427\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Felony Bench",
+      "link": "https://www.felonybench.com/",
+      "published": "Fri, 21 Aug 2026 15:17:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "published": "Fri, 21 Aug 2026 22:29:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49394496\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "published": "Fri, 21 Aug 2026 18:36:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49392200\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "link": "https://kagi.com/changelog#11296",
+      "published": "Fri, 21 Aug 2026 13:56:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
