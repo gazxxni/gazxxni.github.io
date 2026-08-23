@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-23",
+  "articles": [
+    {
+      "title": "고철",
+      "link": "https://news.hada.io/topic?id=32786",
+      "published": "2026-08-23T09:32:17+09:00",
+      "summary": "<ul>\n<li>2006년 무렵, 수도와 난방도 작동하지 않는 <strong>Pittsburgh의 낡은 집</strong>을 한겨울에 수리하며 겪은 고철 수집상들과의 소동</li>\n<li>뒤뜰에 둔 무거운 주철 욕조가 24시간도 안 돼 사라지면서, 생활용품보다 <strong>원재료 금속을 노리는 수집 문화</strong>를 알게 됨</li>\n<li>이후 Ron과 Wade에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "gomacro - Generics와 Macro를 지원하는 인터랙티브 Go 인터프리터/디버거",
+      "link": "https://news.hada.io/topic?id=32785",
+      "published": "2026-08-23T09:30:03+09:00",
+      "summary": "<ul>\n<li>Go로 구현된 <strong>거의 완전한 Go 인터프리터</strong>로, 대화형 REPL과 스크립트 실행을 모두 지원</li>\n<li>일반적인 REPL 사용에서는 Go 툴체인 없이 실행 가능하며, 런타임에 서드파티 패키지를 Import할 때만 일부 환경에서 Go 툴체인이 필요함</li>\n<li>라인 편집과 <strong>Tab 자동 완성</strong>을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OTel은 잘되고 있지 않다 — 스프레드시트로 분석한 병목",
+      "link": "https://news.hada.io/topic?id=32784",
+      "published": "2026-08-23T09:12:25+09:00",
+      "summary": "<ul>\n<li>OpenTelemetry는 <strong>벤더 중립성</strong>을 달성했지만, 엄격한 안정성 약속과 광범위한 언어·프레임워크 지원, 부족한 유지관리자가 맞물려 기능 전달이 느려짐</li>\n<li>작업은 <strong>Core와 Contrib</strong>로 나뉘며, 새 기능은 OTEP·명세·시맨틱 규약·언어별 SDK·계측 패키지·Collector·OTLP를 거...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gleam의 멋진 점들",
+      "link": "https://news.hada.io/topic?id=32783",
+      "published": "2026-08-23T09:09:24+09:00",
+      "summary": "<ul>\n<li>Gleam은 폐기 예정 표시, 할 일, 제네릭, 패턴 매칭, 오류 처리를 언어 차원에서 일관되게 제공해 <strong>단순성과 가독성</strong>을 높임</li>\n<li><code>@deprecated</code>와 <code>todo</code>를 통해 <strong>새 API로의 이동 경로</strong>와 미완성 작업의 세부 사항을 코드에 직접 남길 수 있음</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "직장에서 화내지 말아야 하는 이유",
+      "link": "https://news.hada.io/topic?id=32782",
+      "published": "2026-08-23T09:06:24+09:00",
+      "summary": "<ul>\n<li>직장에서 드러낸 <strong>분노</strong>는 동료를 위축시키고 의사결정을 비공식 채널로 밀어내며, 결국 당사자의 협업 기회와 영향력을 줄임</li>\n<li>분노는 일에 대한 강한 관심에서 나오기도 하지만, 유능함만으로 감정적 불안정성이 초래하는 <strong>문화적 손실</strong>까지 상쇄할 수는 없음</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "published": "Sat, 22 Aug 2026 20:24:20 +0000",
+      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "published": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49404380\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scrap",
+      "link": "https://twitter.com/moxie/status/2091218652133732491",
+      "published": "Sat, 22 Aug 2026 18:08:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49402189\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "published": "Sat, 22 Aug 2026 18:14:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "link": "https://quantumi.sh/public/labs.html",
+      "published": "Sat, 22 Aug 2026 14:54:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49400408\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "link": "https://hister.org/",
+      "published": "Tue, 18 Aug 2026 20:00:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49351802\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
