@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-24",
+  "articles": [
+    {
+      "title": "스태프 엔지니어로서 해결할 문제를 찾는 방법",
+      "link": "https://news.hada.io/topic?id=32821",
+      "published": "2026-08-24T09:33:10+09:00",
+      "summary": "<ul>\n<li>스태프 엔지니어는 주어진 어려운 과제를 푸는 데 그치지 않고, 일상 업무에서 흘러나오는 마찰을 흡수해 조직이 아직 인식하지 못한 <strong>중요한 문제</strong>를 찾아야 함</li>\n<li>사용자의 요청을 그대로 구현하기보다 실제 목표와 기존 제품이 맞지 않는 이유를 파고들고, 여러 팀에서 문제가 반복될 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
+      "link": "https://news.hada.io/topic?id=32820",
+      "published": "2026-08-24T09:30:02+09:00",
+      "summary": "<ul>\n<li>여러 터미널/대시보드/로그/클러스터 컨텍스트를 오가야 했던 쿠버네티스 트러블슈팅을 하나의 <strong>로컬 우선 데스크톱 워크스페이스</strong>로 통합</li>\n<li>리소스 탐색, 이벤트/YAML 확인, 로그 추적, 터미널, 포트 포워드 관리, 클러스터 조치까지 <strong>조사부터 실행</strong>을 도구 전환 없이 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Hister - 직접 통제하는 비공개 전체 콘텐츠 검색 인덱스",
+      "link": "https://news.hada.io/topic?id=32819",
+      "published": "2026-08-24T09:01:49+09:00",
+      "summary": "<ul>\n<li><strong>Hister</strong>는 선택한 웹페이지와 파일의 전체 내용을 자체 서버에 저장하고, 검색 결과에서 읽기 쉬운 미리보기까지 제공함</li>\n<li>브라우저 확장, 로컬 폴더 감시, 방문 기록 가져오기, 웹사이트 크롤링으로 자료를 모아 <strong>웹·터미널·CLI·HTTP API·MCP</strong>에서 하나의 인덱스를 검색...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프로덕트 엔지니어의 사고방식 - 태스크 수행자에서 문제 해결의 주체로",
+      "link": "https://news.hada.io/topic?id=32818",
+      "published": "2026-08-24T09:00:03+09:00",
+      "summary": "<ul>\n<li>AI가 명확한 명세를 코드로 옮기는 일을 빠르게 수행하면서, 엔지니어의 차별점은 <strong>주어진 태스크를 잘 구현하는 능력보다 무엇을 해결해야 하는지 찾아내는 능력</strong>으로 이동하고 있음</li>\n<li>Product Engineer는 특정 기술 스택보다 제품과 사업에 관심을 갖고, <strong>돈을 새게 하거나 사용...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "복잡한 시스템은 어떻게 실패하는가 (1998)",
+      "link": "https://news.hada.io/topic?id=32817",
+      "published": "2026-08-24T08:32:49+09:00",
+      "summary": "<ul>\n<li>운송·의료·발전 같은 복잡한 시스템은 본질적으로 위험하지만 여러 방어층과 사람의 대응으로 작동하며, <strong>재앙은 다수의 작은 결함이 결합</strong>해 방어망을 통과할 때 발생함</li>\n<li>시스템에는 잠재 결함과 성능 저하가 항상 존재하므로 사고를 하나의 <strong>근본 원인</strong>으로 환원할 수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "published": "Sun, 23 Aug 2026 19:30:00 +0000",
+      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "published": "Sun, 23 Aug 2026 19:14:08 +0000",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "published": "Sun, 23 Aug 2026 16:03:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Everything I own, owned",
+      "link": "https://schlarp.com/posts/everything-i-own-owned/",
+      "published": "Sun, 23 Aug 2026 22:41:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "published": "Sun, 23 Aug 2026 19:23:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "published": "Sun, 23 Aug 2026 18:16:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "published": "Sun, 23 Aug 2026 19:29:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411717\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "link": "https://fabiensanglard.net/agent.md/index.html",
+      "published": "Sun, 23 Aug 2026 17:59:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
