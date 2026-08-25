@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-25",
+  "articles": [
+    {
+      "title": "뉴스 읽기는 담배 피우는 것과 같다",
+      "link": "https://news.hada.io/topic?id=32862",
+      "published": "2026-08-25T10:00:04+09:00",
+      "summary": "<ul>\n<li>뉴스를 거의 끊은 뒤 <strong>불안과 분노가 줄고, 머릿속이 조용해졌으며 주변 사람과 일에 더 집중</strong>할 수 있게 됨</li>\n<li>뉴스는 드물고 극적인 범죄·갈등·사고를 반복해서 보여주기 때문에 <strong>세상이 실제보다 더 위험하고 나쁘게 느껴지도록 인식을 왜곡</strong>할 수 있음</li>\n<li>오늘 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
+      "link": "https://news.hada.io/topic?id=32861",
+      "published": "2026-08-25T09:30:02+09:00",
+      "summary": "<ul>\n<li>코딩/리서치용 에이전트로, <strong>RLM(Recursive Language Model)</strong> 과 <strong>Continual Harness</strong> 두 가지 핵심 추상화를 중심으로 설계됨</li>\n<li><strong>RLM</strong>은 컨텍스트를 변수처럼(prompt-as-a-variable), 재귀 서브에이전트 같은 도구를 함수 호출처럼 다루며 지속적인 REPL...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "블로그 글을 손글씨로 쓸 수 있을까?",
+      "link": "https://news.hada.io/topic?id=32860",
+      "published": "2026-08-25T09:09:54+09:00",
+      "summary": "<ul>\n<li>Supernote에 쓴 손글씨를 이미지와 텍스트로 함께 게시하는 <strong>블로그 실험</strong>을 구상함</li>\n<li>손글씨를 <strong>WebP로 내보낸 뒤</strong>, XMP 메타데이터에 OCR 처리하고 편집한 텍스트를 담으려 함</li>\n<li>JavaScript로 WebP의 <strong>XMP 메타데이터</strong>를 읽을 수 있을 것으로 예...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "오프그리드 태양광으로 전기차 충전하기(2025)",
+      "link": "https://news.hada.io/topic?id=32859",
+      "published": "2026-08-25T09:06:54+09:00",
+      "summary": "<ul>\n<li>인근 EV 충전기 없이 전기차를 운용하기 위해 기존 <strong>1kW 태양광 설비</strong>를 확장하고, 계절에 따른 충전 가능성을 시험함</li>\n<li>초기에는 맑은 날에도 하루 약 5마일만 충전하고 가정용 배터리까지 소모했지만, 설비를 <strong>5kW 규모</strong>로 늘린 뒤 흐린 날에도 태양광으로 직접 충전할...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "번아웃으로 더는 버틸 수 없다",
+      "link": "https://news.hada.io/topic?id=32858",
+      "published": "2026-08-25T09:03:53+09:00",
+      "summary": "<ul>\n<li>2년 전 <strong>번아웃과 이혼</strong>을 겪고 새 도시로 이주한 뒤, 혼자 일곱 마리의 고양이를 돌보며 생활비와 부채를 감당하고 있음</li>\n<li>경력 덕분에 고객 확보는 어렵지 않지만, 유료 업무에 집중할 수 있는 시간이 <strong>주당 5~6시간</strong>에 그쳐 몇 달마다 고객을 잃는 상황이 반복됨</li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "published": "Mon, 24 Aug 2026 23:05:44 +0000",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "published": "Mon, 24 Aug 2026 20:45:33 +0000",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "published": "Mon, 24 Aug 2026 20:16:34 +0000",
+      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "published": "Mon, 24 Aug 2026 22:13:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49426564\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "link": "https://twitter.com/lemire/status/2091894299289874926",
+      "published": "Mon, 24 Aug 2026 15:08:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49420873\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Moon (2024)",
+      "link": "https://ciechanow.ski/moon/",
+      "published": "Mon, 24 Aug 2026 22:06:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49426466\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "published": "Mon, 24 Aug 2026 15:28:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49421158\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "link": "https://sf.thijs.gg/",
+      "published": "Mon, 24 Aug 2026 17:05:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49422784\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
