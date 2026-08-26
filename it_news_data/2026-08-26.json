@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-26",
+  "articles": [
+    {
+      "title": "Qwen 3.8-Flash-Next(125B a6B), 2026년 8월 26일 공개 예정",
+      "link": "https://news.hada.io/topic?id=32895",
+      "published": "2026-08-26T09:48:50+09:00",
+      "summary": "<ul>\n<li><strong>Qwen3.8-Flash-Next</strong>는 차세대 Qwen4 아키텍처를 기반으로 한 멀티모달 MoE 모델로, 정식 공개를 앞두고 있음</li>\n<li>향후 <strong>Qwen4 모델군</strong>에 커뮤니티가 대비할 수 있도록 아키텍처 개선 사항을 먼저 선보임</li>\n<li>기본 모델 <code>Qwen/Qwen3.8-Flash-Next</code>와 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Emacs 31.1의 새로운 기능",
+      "link": "https://news.hada.io/topic?id=32894",
+      "published": "2026-08-26T09:45:50+09:00",
+      "summary": "<ul>\n<li>Emacs 31.1은 단일 대형 기능보다 <strong>완성·창 관리·Tree-sitter·VC·터미널 사용성</strong>을 폭넓게 개선했으며, 새 가비지 컬렉터 도입은 Emacs 32로 연기됨</li>\n<li>호환 터미널에서 마우스가 기본 활성화되고 TTY 자식 프레임·툴팁·24비트 색상을 지원하며, <strong>완성 UI</strong>는 즉시 표시·갱...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "key-amnesia - AI 에이전트에 시크릿을 노출하지 않고 명령을 실행하는 도구",
+      "link": "https://news.hada.io/topic?id=32893",
+      "published": "2026-08-26T09:30:02+09:00",
+      "summary": "<ul>\n<li><code>.env</code>를 <code>.gitignore</code>에 넣는 방식은 비밀값이 Git에 커밋되는 것은 막지만, 로컬 프로젝트에 평문으로 남아 에이전트가 읽는 것까지 막지는 못함\n<ul>\n<li>이제 위협은 Git뿐 아니라 프로젝트 파일과 명령 실행 환경에 접근하는 AI 에이전트</li>\n<li><code>.env</code>/셸 기록/MCP 설...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI Jalapeño: Nvidia Blackwell을 앞선 LLM 추론 칩",
+      "link": "https://news.hada.io/topic?id=32892",
+      "published": "2026-08-26T09:18:45+09:00",
+      "summary": "<ul>\n<li>OpenAI가 Broadcom과 공동 설계한 범용 LLM 추론 ASIC <strong>Jalapeño</strong>는 초기 A0 실리콘만으로 여러 오픈 모델에서 Nvidia Blackwell보다 높은 전력당 처리량을 기록했으며, Rubin의 공개 결과도 앞섬</li>\n<li><strong>HBM4와 단순화한 메모리·네트워크 구조</strong>, 작은 행렬에서도 효율적인 코...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI로 만든 웹사이트마다 전용 DB를 하나씩 제공하는 이유",
+      "link": "https://news.hada.io/topic?id=32891",
+      "published": "2026-08-26T09:15:01+09:00",
+      "summary": "<ul>\n<li>iMessage 기반 개인 비서 Poke는 사용자가 문자로 요청한 웹사이트를 만들어 Vercel에 배포하고, 생성된 사이트마다 <strong>별도의 Turso 데이터베이스(DB)</strong> 를 자동으로 제공함</li>\n<li>Turso는 <strong>SQLite 호환 DB</strong>를 클라우드에서 생성하고 원격으로 사용할 수 있게 만든 플랫폼으로,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "published": "Tue, 25 Aug 2026 20:44:12 +0000",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "published": "Tue, 25 Aug 2026 19:22:52 +0000",
+      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "published": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "published": "Tue, 25 Aug 2026 19:07:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49439017\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published": "Tue, 25 Aug 2026 13:01:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49433292\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "published": "Tue, 25 Aug 2026 14:06:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49434378\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published": "Tue, 25 Aug 2026 13:03:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49433316\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python's pre-declared constants are kinda weird",
+      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "published": "Tue, 25 Aug 2026 21:39:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49441033\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
