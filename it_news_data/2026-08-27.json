@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-27",
+  "articles": [
+    {
+      "title": "CEO가 AI를 위한 자리를 만들려고 개발자를 해고하자, 개발자들이 오픈소스 AI CEO를 만들다",
+      "link": "https://news.hada.io/topic?id=32939",
+      "published": "2026-08-27T16:32:03+09:00",
+      "summary": "<ul>\n<li><strong>Open Executive</strong>는 기업별 정보를 반영해 전략·재무·인사·법무·운영·마케팅·제품·이사회 업무를 지원하는 오픈소스 가상 경영진 시스템임</li>\n<li><code>claude-sonnet-4-6</code> 기반 오케스트레이터가 8개 전문 에이전트를 병렬 호출하고, 결과를 내부 구조가 드러나지 않는 <strong>하나...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: AIMediaWorker – Qwen3-ASR 기반 AI 자동자막/번역 동영상 플레이어",
+      "link": "https://news.hada.io/topic?id=32937",
+      "published": "2026-08-27T15:46:08+09:00",
+      "summary": "<p>동영상을 보면서 바로 자막을 생성하고, 편집·번역까지 할 수 있는 Windows용 미디어 플레이어를 만들었습니다.</p>\n<p>WinUI 3 + .NET 10 기반이며, 영상 재생은 <strong>libmpv</strong>, 음성 인식은 <strong>Qwen3-ASR 1.7B + CrispASR</strong>, 자막 정렬은 <strong>Qwen3 Forced Aligner</strong>를 사용합니다",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미 국무부, 이민 비자 신청 처리 중단",
+      "link": "https://news.hada.io/topic?id=32936",
+      "published": "2026-08-27T14:31:38+09:00",
+      "summary": "<ul>\n<li>트럼프 행정부가 신청자 심사를 강화하기 위한 <strong>심층 교육</strong>을 진행하면서 이민 비자 신청 처리를 일시 중단하고, 미국 대사관/영사관의 예정된 인터뷰도 연기함</li>\n<li>새 지침과 교육은 신청자가 미국 법상 <strong>public charge</strong>가 되거나 미국의 취약 계층을 위한 정부 복지에 의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia, Hugging Face 19.5조원 규모 인수 협상",
+      "link": "https://news.hada.io/topic?id=32933",
+      "published": "2026-08-27T12:31:49+09:00",
+      "summary": "<ul>\n<li>Nvidia와 Hugging Face가 기업가치 <strong>약 130억 달러($13b) 이상</strong>을 전제로 인수를 논의 중이지만, 아직 합의하지 않았고 협상이 결렬될 가능성도 있음</li>\n<li>Nvidia는 이번 회계연도 남은 기간 <strong>지분 투자 180억 달러</strong>를 약정했으며, 이미 비상장 기업 지분 479억 달러를 보유...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Engineerification - 전문직이 엔지니어처럼 변해간다",
+      "link": "https://news.hada.io/topic?id=32932",
+      "published": "2026-08-27T11:10:02+09:00",
+      "summary": "<ul>\n<li>수학자, 디자이너, 분석가, 법률가 등 서로 다른 전문직에서 <strong>저장소, 에이전트, 테스트, 자동화, 형식 명세, 피드백 루프</strong>를 활용하는 작업 방식이 확산되고 있으며, 이를 <code>engineerification</code>이라 부를 수 있음</li>\n<li>핵심 변화는 모두가 코딩을 배우는 것이 아니라, 도메인 전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "published": "Thu, 27 Aug 2026 00:24:57 +0000",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "published": "Wed, 26 Aug 2026 22:47:58 +0000",
+      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published": "Wed, 26 Aug 2026 21:37:39 +0000",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "published": "Thu, 27 Aug 2026 01:12:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49458161\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "link": "https://www.mturk.com/",
+      "published": "Wed, 26 Aug 2026 23:55:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49457545\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "link": "https://z.ai/blog/glm-5.3-flash",
+      "published": "Wed, 26 Aug 2026 14:08:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49449507\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "link": "https://github.com/tailscale/tailcat",
+      "published": "Wed, 26 Aug 2026 17:42:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49452990\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "published": "Wed, 26 Aug 2026 22:35:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49456851\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
