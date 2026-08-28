@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-28",
+  "articles": [
+    {
+      "title": "Show GN: cc-gemini-rewrite - Claude Code의 장황한 설명을 TUI 안에서 Gemini로 재작성해서 보기",
+      "link": "https://news.hada.io/topic?id=32972",
+      "published": "2026-08-28T15:21:17+09:00",
+      "summary": "<p>요즘 Claude Code의 말하기 능력에 화가 날 때가 많습니다.</p>\n<p>코드는 잘 짜는데, 설명은 장황하고 웅장한 말투를 써가면서 해서 Claude Code의 설명을 읽을 때마다 번아웃이 올 것만 같습니다.</p>\n<p>주변 개발자들이나 커뮤니티에서도 같은 문제로 고통을 많이 받는 것 같습니다. 최근에 <a href=\"https://new",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub PR에 급증한 ‘Claude 같은’ 문체 - 46만 건의 어휘 변화 분석",
+      "link": "https://news.hada.io/topic?id=32970",
+      "published": "2026-08-28T11:45:02+09:00",
+      "summary": "<ul>\n<li>GitHub 풀리퀘스트 46만 건을 어휘만으로 분류했더니, 2025년 초 0.7%에 불과했던 <strong>새로운 문체 집단이 2026년 중반 약 39%까지 증가</strong>함</li>\n<li>이 집단에는 <code>load-bearing</code>, <code>plainly</code>, <code>quietly</code>, <code>seam</code>, <code>byte-identical</code>, </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google Antigravity Teamwork - 여러 AI 에이전트가 장기 연구·개발을 함께 수행하는 기능",
+      "link": "https://news.hada.io/topic?id=32969",
+      "published": "2026-08-28T10:26:00+09:00",
+      "summary": "<ul>\n<li>여러 AI 에이전트가 수시간에서 수일 동안 해법을 제안하고 서로 비판·검증·개선하며 <strong>장기 연구와 엔지니어링 문제를 해결</strong>하는 Antigravity의 다중 에이전트 기능</li>\n<li>과제에 맞춰 코딩·증명·자체 검증·문서 검토 패턴을 선택하고, 실행 중에도 에이전트 수와 팀 구조를 조정하며 사람은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Route 53 Files 출시",
+      "link": "https://news.hada.io/topic?id=32968",
+      "published": "2026-08-28T10:23:38+09:00",
+      "summary": "<ul>\n<li><strong>Route 53 Files</strong>는 Route 53 공개·비공개 호스팅 영역을 NFS 파일 시스템으로 마운트해, AWS 컴퓨팅 자원에서 표준 UNIX 도구로 DNS 레코드를 편집할 수 있게 하는 비공식 무료 서비스임</li>\n<li>레코드 이름은 디렉터리, 레코드 세트는 파일, Alias는 심볼릭 링크로 표현되며 <strong>파일과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Gemini 3.5 Transcribe: 실시간·녹음 음성을 정밀하게 텍스트로 변환",
+      "link": "https://news.hada.io/topic?id=32967",
+      "published": "2026-08-28T10:20:47+09:00",
+      "summary": "<ul>\n<li>Google이 배경 소음과 전문 용어, 말더듬, 자기 수정까지 처리해 정돈된 텍스트로 바꾸는 <strong>고정밀 음성-텍스트 모델</strong>을 공개함</li>\n<li><code>gemini-3.5-transcribe-live</code>는 Live API에서 <strong>1초 미만 지연 시간</strong>의 양방향 스트리밍을, <code>gemini-3.5-transcribe</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "published": "Fri, 28 Aug 2026 02:02:44 +0000",
+      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Rivian’s CFO is leaving the company",
+      "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "published": "Thu, 27 Aug 2026 20:23:10 +0000",
+      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+      "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+      "published": "Thu, 27 Aug 2026 20:15:26 +0000",
+      "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.com/news/articles/czxq0wgkkdjo",
+      "published": "Fri, 28 Aug 2026 08:37:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49475993\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "published": "Thu, 27 Aug 2026 17:17:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49468083\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "That's a Lot of YAML",
+      "link": "https://noyaml.com/",
+      "published": "Fri, 28 Aug 2026 07:03:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49475301\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "link": "https://calv.info/small-models-have-arrived",
+      "published": "Thu, 27 Aug 2026 15:56:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49466917\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "published": "Fri, 28 Aug 2026 05:42:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49474786\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
