@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-29",
+  "articles": [
+    {
+      "title": "바이브코딩으로 만든 퍼저가 FFmpeg의 0 나누기 버그를 발견",
+      "link": "https://news.hada.io/topic?id=33001",
+      "published": "2026-08-29T12:32:25+09:00",
+      "summary": "<ul>\n<li>FFmpeg의 Sony PS2 VPK 디먹서에서 <strong>21바이트 입력으로 재현되는 0 나누기 버그</strong>가 발견돼, 악성 <code>.vpk</code> 파일이나 스트림을 여는 애플리케이션이 충돌할 수 있음</li>\n<li><code>vpk_read_packet</code>이 마지막 오디오 블록의 <code>size</code>와 <code>skip</code>을 계산할 때 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "syncular - 로컬 SQLite를 서버와 동기화하는 오프라인 우선 엔진",
+      "link": "https://news.hada.io/topic?id=33000",
+      "published": "2026-08-29T09:30:02+09:00",
+      "summary": "<ul>\n<li>각 클라이언트에 <strong>실제 SQLite DB</strong>를 두고, 서버가 관리하는 순서 보장 커밋 로그와 동기화하는 서버 권위형 데이터 계층</li>\n<li>읽기/조인/집계/인덱스 조회를 네트워크 요청 없이 로컬 SQL로 처리하므로, <strong>오프라인에서도 앱의 주요 기능을 계속 사용</strong>할 수 있음</li>\n<li>쓰...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Yap - LLM이 코드에 남기는 ‘주석 슬롭’",
+      "link": "https://news.hada.io/topic?id=32999",
+      "published": "2026-08-29T09:19:04+09:00",
+      "summary": "<ul>\n<li>LLM이 산더미 같은 코드를 만들면서, 누군가는 결국 그 코드를 읽고 검토해야 하는 시대가 됨</li>\n<li>AI가 만든 코드에는 <strong>말은 많지만 이해에 도움이 되는 정보는 없는 주석</strong>이라는 특정 형태의 Slop이 있으며, 이를 <code>Yap</code>이라고 이름 붙임</li>\n<li><code>Yapping</code>은 누군...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "EasyEffects를 모든 Linux 배포판에 포함해 노트북 스피커 음질을 개선해야 함",
+      "link": "https://news.hada.io/topic?id=32998",
+      "published": "2026-08-29T09:16:04+09:00",
+      "summary": "<ul>\n<li>작은 노트북 스피커의 물리적 한계는 피할 수 없지만, Linux의 오디오 처리 기능과 <strong>EasyEffects</strong>를 활용하면 얇고 거친 소리를 크게 개선할 수 있음</li>\n<li>EasyEffects는 <strong>PipeWire</strong> 입출력 스트림에 이퀄라이저, 압축기, 리미터, 베이스 강화 등 다양한 효과를 적용하며, 전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenOffice가 화요일에는 인쇄하지 못한 버그(2009)",
+      "link": "https://news.hada.io/topic?id=32997",
+      "published": "2026-08-29T09:13:03+09:00",
+      "summary": "<ul>\n<li>Ubuntu의 OpenOffice에서 발생한 <strong>인쇄 실패</strong>는 특정 요일에만 재현되는 이례적인 버그였음</li>\n<li>PostScript에 기록된 <code>%%CreationDate: (Tue...)</code>를 *NIX 유틸리티 <strong><code>file</code>이 Erlang JAM 파일로 오인</strong>함</li>\n<li>Erlang JAM 탐지 패턴이 공백을 이스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "published": "Fri, 28 Aug 2026 23:24:27 +0000",
+      "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "published": "Fri, 28 Aug 2026 22:42:48 +0000",
+      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "published": "Fri, 28 Aug 2026 18:50:00 +0000",
+      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "published": "Fri, 28 Aug 2026 23:02:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49485267\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "link": "https://github.com/kingroryg/turbokv",
+      "published": "Sat, 29 Aug 2026 02:23:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49486334\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "published": "Fri, 28 Aug 2026 15:17:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49479837\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Htmx 4.0",
+      "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "published": "Fri, 28 Aug 2026 13:28:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49478178\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "published": "Sat, 29 Aug 2026 01:47:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49486172\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
