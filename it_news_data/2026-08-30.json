@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-30",
+  "articles": [
+    {
+      "title": "Show GN: memnest, 세션이 바뀌어도 AI 코딩 에이전트가 기억을 잃지 않게 하는 로컬 메모리 서비스",
+      "link": "https://news.hada.io/topic?id=33025",
+      "published": "2026-08-30T12:16:08+09:00",
+      "summary": "<p>세션이 끝나면 에이전트가 전부 잊어버리는 게 계속 불편했습니다. 서비스가 어느 포트에서 도는지, 왜 이 라이브러리를 골랐는지, 두 번이나 고친 버그의 해결책이 뭐였는지를 매번 다시 설명하고 있었습니다. 하네스마다 반쪽짜리 메모리 기능이 따로 있긴 했는데 다른 도구로 넘어가면 그대로 사라졌습니다.</p>\n...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GrapheneOS 프로젝트, Pixel 11의 하드웨어 메모리 태깅(MTE) 미지원으로 포팅 중단",
+      "link": "https://news.hada.io/topic?id=33024",
+      "published": "2026-08-30T10:31:20+09:00",
+      "summary": "<ul>\n<li>GrapheneOS는 <strong>일주일간의 작업</strong> 끝에 Pixel 11 시리즈용 부분 포트를 구현했지만, ARM 하드웨어 메모리 태깅 지원 부족으로 완성하지 못함</li>\n<li><strong>소프트웨어와 펌웨어</strong>에서 지원이 빠져 있으며, 하드웨어도 지원하지 않을 가능성이 거의 확실하다고 판단함</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tencent Hy4 프리뷰 공개",
+      "link": "https://news.hada.io/topic?id=33023",
+      "published": "2026-08-30T10:13:58+09:00",
+      "summary": "<ul>\n<li>Tencent가 전체 <strong>770B·활성 49B 매개변수</strong>와 <strong>100만 토큰이 넘는 컨텍스트 창</strong>을 갖춘 차세대 LLM Hy4 프리뷰를 공개하고 <strong>오픈소스로 배포</strong>함</li>\n<li><strong>코딩·문서 작업·게임 개발·과학 연구</strong> 같은 실제 생산성 작업에 초점을 맞췄으며, Tencent...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DHS, 잘 알려지지 않은 세관법으로 언론인·비영리단체·노조 감시",
+      "link": "https://news.hada.io/topic?id=33022",
+      "published": "2026-08-30T09:32:31+09:00",
+      "summary": "<ul>\n<li>미국 국토안보부(DHS)는 세관 수입 조사를 위한 <strong>19 USC 1509 행정소환</strong>을 이용해 언론인·비영리단체·노조의 통신·계정·금융 정보를 법원 승인 없이 요구해 왔음</li>\n<li>판사가 Georgia Fort와 Don Lemon의 YouTube 계정 수색영장을 두 차례 기각하자, DHS는 담당 관리의 승인만 필요한 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
+      "link": "https://news.hada.io/topic?id=33021",
+      "published": "2026-08-30T09:30:03+09:00",
+      "summary": "<ul>\n<li><strong>Tauri/React/TypeScript/MapLibre GL JS/DuckDB-WASM Spatial</strong> 기반의 경량 클라우드 네이티브 데스크톱 GIS 프로토타입</li>\n<li>OpenFreeMap Liberty 베이스맵의 MapLibre 지도 제공</li>\n<li><strong>로컬 벡터 레이어 로딩</strong>: GeoJSON, GeoParquet, GeoPackage, Shapefile 지원</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "published": "Sat, 29 Aug 2026 16:10:00 +0000",
+      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
+      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assume",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bug Blindness",
+      "link": "https://danluu.com/bug-blind/",
+      "published": "Sun, 30 Aug 2026 00:21:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49494520\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "link": "https://freecore.org/",
+      "published": "Sun, 30 Aug 2026 01:31:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49494856\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hy4 preview",
+      "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "published": "Sat, 29 Aug 2026 19:33:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49492632\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RISC-V is now officially supported by CPython",
+      "link": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "published": "Mon, 24 Aug 2026 20:12:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49425252\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "published": "Sun, 30 Aug 2026 02:25:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49495127\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
