@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-31",
+  "articles": [
+    {
+      "title": "대한민국 AI 윤리원칙 확정, 3대 가치와 7대 원칙 제시",
+      "link": "https://news.hada.io/topic?id=33071",
+      "published": "2026-08-31T12:50:02+09:00",
+      "summary": "<ul>\n<li>정부가 AI 기본법 제27조에 따라 사회 전 영역에 적용할 <strong>대한민국 AI 윤리원칙</strong>을 확정함</li>\n<li>인간의 존엄성, 사회의 공공선, 인류의 지속가능성을 <strong>3대 가치</strong>로 제시함</li>\n<li>인간중심성, 프라이버시 보호, 공정성/포용성, 책임성, 안전성, 신뢰성, 투명성을 <strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Burning Man 공동창립자 “축제는 영혼을 잃었다”",
+      "link": "https://news.hada.io/topic?id=33070",
+      "published": "2026-08-31T12:37:31+09:00",
+      "summary": "<ul>\n<li>초기 Burning Man은 소유자와 지휘자, 공식 이념 없이 참가자들이 직접 만들어낸 <strong>무정부주의적 협업 공동체</strong>였지만, 지금은 부유층이 완성된 경험을 구매하는 상업적 축제로 변했다는 공동창립자 John Law의 비판</li>\n<li>Cacophony Society의 즉흥적인 사막 탐험과 Desert Site Works의 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Haiku R1/beta6 출시, Firefox와 QEMU 하드웨어 가상화 추가",
+      "link": "https://news.hada.io/topic?id=33069",
+      "published": "2026-08-31T12:31:23+09:00",
+      "summary": "<ul>\n<li>이전 베타 이후 약 2년간의 개발을 반영해 <strong>530건 이상의 버그와 개선 요청</strong>을 처리하고, 성능과 안정성, 최신 x86 하드웨어 호환성을 높임</li>\n<li>Mozilla의 허가를 받은 <strong>정식 Firefox 브랜드 빌드</strong>가 HaikuDepot에 추가됐으며, LibreWolf, Waterfox, Floorp, Icedove 등도 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이더넷 패치 케이블로 파일 전송하기",
+      "link": "https://news.hada.io/topic?id=33065",
+      "published": "2026-08-31T12:01:15+09:00",
+      "summary": "<ul>\n<li>두 컴퓨터를 <strong>이더넷 패치 케이블로 직접 연결</strong>하고 IP 주소만 설정하면 별도 네트워크 장비 없이 대용량 파일을 전송할 수 있음</li>\n<li>Linux에서는 양쪽 인터페이스에 IPv6 주소를 지정한 뒤 <code>socat</code>과 <code>dd</code>를 이용해 <strong>TCP로 파일을 복사</strong>할 수 있음...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "“단어를 신중하게 골랐을 뿐”: 문장으로 만든 양쪽 정렬",
+      "link": "https://news.hada.io/topic?id=33063",
+      "published": "2026-08-31T11:31:41+09:00",
+      "summary": "<ul>\n<li>1990년대 후반에 작성된 <strong>Super Metroid 공략 글은 17000단어가 넘는 본문에서 모든 줄의 오른쪽 끝을 글자로 정확하게 맞춤</strong></li>\n<li>고정폭 글꼴은 모든 글자/공백의 너비가 같아 양쪽 정렬을 적용하면 단어 사이가 벌어지고, 남은 공간을 고르게 나누기도 어려움</li>\n<li>조판에서 사용하는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "published": "Mon, 31 Aug 2026 02:34:00 +0000",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "published": "Mon, 31 Aug 2026 02:18:57 +0000",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been pr",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "published": "Sun, 30 Aug 2026 18:33:44 +0000",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "published": "Sun, 30 Aug 2026 16:03:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "“I just chose words carefully”",
+      "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "published": "Sun, 30 Aug 2026 22:49:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49503601\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Creepy Crawlies",
+      "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "published": "Sat, 29 Aug 2026 17:49:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49491791\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "published": "Mon, 31 Aug 2026 01:28:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49504625\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "link": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "published": "Fri, 28 Aug 2026 15:34:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49480091\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "link": "https://www.abortretry.fail/p/matrox",
+      "published": "Sun, 30 Aug 2026 23:39:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49503934\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
