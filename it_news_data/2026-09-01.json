@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-01",
+  "articles": [
+    {
+      "title": "테렌스 타오가 설명하는 수학의 6가지 필수 개념 [영상]",
+      "link": "https://news.hada.io/topic?id=33100",
+      "published": "2026-09-01T12:39:04+09:00",
+      "summary": "<ul>\n<li>수학은 현실을 정밀하게 다루는 언어이며, Terence Tao는 수천 년에 걸쳐 발전한 <strong>수, 대수, 기하학, 확률, 해석학, 동역학</strong>을 그 여섯 기둥으로 분류함</li>\n<li>양·구조·공간·불확실성·오차·시간에 따른 변화를 추상화하며, <strong>복소수와 Riemann 기하학</strong>처럼 호기심에서 출발한...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 허니 펄스 - 꿀 채집 로그라이크 게임 (Flutter Flame)",
+      "link": "https://news.hada.io/topic?id=33098",
+      "published": "2026-09-01T11:53:43+09:00",
+      "summary": "<p>혼자 앱 만드는 개발자입니다. 모바일 게임을 하나 소개합니다. AI 코딩 에이전트를 개발 파트너로 두고 기획부터 출시까지 굴려봤습니다.</p>\n<p>■ 무엇인가</p>\n<p>안드로이드 캐주얼 게임이고 한 판이 20초입니다. 캐릭터가 벌집 앞에 멈추면 도구가 자동으로 벌집을 때립니다. 때린 만큼 꿀이 바닥에 실제로 쏟아",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "포스트 AI 데이터 스택의 형태와 사용감",
+      "link": "https://news.hada.io/topic?id=33097",
+      "published": "2026-09-01T10:51:50+09:00",
+      "summary": "<ul>\n<li>데이터 스택의 진화는 데이터 과학자의 범위를 단일 서버 분석에서 전사 데이터 운영으로 넓혔고, <strong>포스트 AI 시대</strong>에는 기업이 무엇을 사실로 받아들이고 중요하게 판단할지 설계하는 역할까지 요구함</li>\n<li>코딩 에이전트와 AI 분석 도구가 분석 생산 비용을 거의 0으로 낮추면서, 희소한 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 칩 아키텍처",
+      "link": "https://news.hada.io/topic?id=33096",
+      "published": "2026-09-01T10:45:19+09:00",
+      "summary": "<ul>\n<li>단일 스레드 CPU 성능 증가율이 1980년대 연 52%에서 2018년 3%로 낮아지면서, AI 연산은 <strong>도메인 특화 아키텍처</strong> 경쟁의 중심이 됨. NVIDIA GPU부터 TPU, AMD Instinct, Cerebras WSE, Trainium, Groq LPU까지 서로 다른 데이터 이동 방식을 택함</li>\n<li>Transformer의 학습·prefill은 연산 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미군 매점 냉동고가 해킹당한 것 같다",
+      "link": "https://news.hada.io/topic?id=33095",
+      "published": "2026-09-01T10:36:31+09:00",
+      "summary": "<ul>\n<li>미국 여러 군사시설에서 비슷한 시기에 냉장·냉동 설비 장애가 발생해 최소 <strong>6개 시설</strong>이 공식 확인했지만, 공통 원인이나 사건 간 연관성은 아직 밝혀지지 않음</li>\n<li>Fort Huachuca에서는 정전 없이 모든 냉동고가 음식을 가열하는 <strong>제상 모드</strong>로 전환됐으며, DeCA 기술 명...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "published": "Tue, 01 Sep 2026 00:30:00 +0000",
+      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "published": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "published": "Mon, 31 Aug 2026 23:41:10 +0000",
+      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "published": "Mon, 31 Aug 2026 23:14:14 +0000",
+      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "published": "Mon, 31 Aug 2026 22:14:05 +0000",
+      "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "published": "Mon, 31 Aug 2026 16:47:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49511856\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "link": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "published": "Tue, 01 Sep 2026 01:01:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49516699\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Playa Phone",
+      "link": "https://playaphone.com/",
+      "published": "Mon, 31 Aug 2026 14:52:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49510514\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49512975\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "published": "Sun, 30 Aug 2026 22:37:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49503521\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
