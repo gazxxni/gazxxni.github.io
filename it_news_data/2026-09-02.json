@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-02",
+  "articles": [
+    {
+      "title": "평균만으로는 충분하지 않다, 딥테크 스타트업을 움직이는 운영체제 [유튜브]",
+      "link": "https://news.hada.io/topic?id=33144",
+      "published": "2026-09-02T11:06:01+09:00",
+      "summary": "<ul>\n<li>Science CEO이자 Neuralink 공동창업자였던 Max Hodak은 딥테크 스타트업의 성패가 기술만이 아니라 구매, 예산, 채용, 평가를 연결하는 <strong>회사의 운영체제</strong>에 달려 있다고 봄</li>\n<li>Science는 사내 플랫폼 <strong>Helix</strong>로 구매, 제조, 품질 데이터를 연결해 실험 원가와 런웨이를 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CLI Agent Orchestrator – 여러 AI 코딩 CLI를 조율하는 AWS Labs의 멀티 에이전트 도구",
+      "link": "https://news.hada.io/topic?id=33142",
+      "published": "2026-09-02T10:36:54+09:00",
+      "summary": "<p>안녕하세요.<br />\n처음으로 글을 쓰게 되네요.</p>\n<p>이전에 Claude Max 를 일 년간 구독하다 Codex Pro 로 넘어가게 되었습니다.<br />\n사정 상 Codex 를 계속 사용해야해서 몇 개월 써봤는데 너무 말을 못알아 들어서 결국 다시 Claude 를 결제할 예정인데요.<br />\n(토큰은 많은데 방향이 너무 일관적이지 않고",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Uber 규모의 소프트웨어 팩토리를 효율적으로 운영하는 법",
+      "link": "https://news.hada.io/topic?id=33141",
+      "published": "2026-09-02T10:15:02+09:00",
+      "summary": "<ul>\n<li>AI를 개발 전 과정에 적용한 결과, PR의 <strong>70% 이상</strong>을 로컬·클라우드 에이전트가 담당하고 3,600개가 넘는 에이전트 스킬이 하루 3만 회 이상 실행됨</li>\n<li>2026년 2월~8월 중순 주간 사용자는 <strong>7배</strong>, 에이전트 요청은 <strong>9.4배</strong> 늘었지만, 전방위 최적화로 4월...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에이전틱 스킬 감쇠 : 숙련은 여전히 반복에서 나온다",
+      "link": "https://news.hada.io/topic?id=33140",
+      "published": "2026-09-02T10:05:02+09:00",
+      "summary": "<ul>\n<li>AI 에이전트가 코딩 과정의 시행착오/디버깅/탐색을 건너뛰고 결과를 바로 만들면서, 예전에는 자연스럽게 쌓이던 <strong>반복 경험(reps)</strong> 을 이제는 의도적으로 만들어야 함</li>\n<li>좋은 에이전트 활용에는 문제 영역을 이해해 좋은 결과를 정의하는 <strong>깊은 전문성</strong>과, 맥락/제약/테...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Firefox를 놓지 마라",
+      "link": "https://news.hada.io/topic?id=33139",
+      "published": "2026-09-02T09:33:13+09:00",
+      "summary": "<ul>\n<li>Firefox가 X에 계정을 운영한다는 이유로 브라우저를 버리면, 작은 불만을 피하려다 <strong>독립 브라우저 엔진과 시장 경쟁</strong>이라는 더 큰 가치를 잃게 됨</li>\n<li>대안으로 거론된 Vivaldi도 X뿐 아니라 Threads, Facebook, Instagram, YouTube에서 활동하며, 엔진 역시 Google의 <strong>Chromium을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hang on to Your Firefox",
+      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "published": "Tue, 01 Sep 2026 20:30:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49527748\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "published": "Tue, 01 Sep 2026 17:53:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49525378\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "link": "https://danluu.com/zitron/",
+      "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49526069\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49529898\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49528895\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
