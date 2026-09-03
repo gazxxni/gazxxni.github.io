@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-03",
+  "articles": [
+    {
+      "title": "원격근무가 아니라 서투른 비동기 소통이 문제다",
+      "link": "https://news.hada.io/topic?id=33178",
+      "published": "2026-09-03T11:05:02+09:00",
+      "summary": "<ul>\n<li>원격근무의 장점을 유지하려면 사무실 복귀보다 <strong>비동기 소통 방식을 개선해야 하며</strong>, 이를 통해 유연성과 생산성을 함께 지킬 수 있음</li>\n<li>7,700명 대상 연구에서는 원격근무자의 웰빙이 높고 이직률은 낮았지만, 팬데믹 당시의 갑작스러운 전환은 소통과 협업을 약화한 것으로 나타남</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "마케팅 인텔리전스 레이어 - 흩어진 경험을 AI의 재사용 가능한 컨텍스트로 만들기",
+      "link": "https://news.hada.io/topic?id=33177",
+      "published": "2026-09-03T10:10:09+09:00",
+      "summary": "<ul>\n<li>문서·회의록·Slack 등에 흩어진 15년 이상의 경험을 구조화해, 다양한 AI 도구가 활용할 수 있는 <strong>마케팅 인텔리전스 레이어</strong>로 구축하는 법</li>\n<li><code>/raw</code>에 원본 자료를 넣고 <code>/build</code>를 실행하면 <strong>Extractor</strong>가 문서 요약이 아니라 <strong>다른 상황...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude로 커머스 에이전트 구축하기",
+      "link": "https://news.hada.io/topic?id=33176",
+      "published": "2026-09-03T10:03:14+09:00",
+      "summary": "<ul>\n<li>Anthropic이 소매, 여행, 통신, 티켓 플랫폼에서 <strong>쇼핑 에이전트와 판매자 에이전트</strong>를 며칠 안에 구축할 수 있는 블루프린트와 Claude Code 플러그인을 공개함</li>\n<li>쇼핑 에이전트는 여러 상품이 포함된 자연어 요청을 이해해 카탈로그 검색과 비교, 개인화 추천, 장바구니 구성, 결제와 주...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Claude Fable 5.1 프롬프팅 가이드",
+      "link": "https://news.hada.io/topic?id=33175",
+      "published": "2026-09-03T10:01:50+09:00",
+      "summary": "<ul>\n<li>기존 Claude Fable 5 프롬프트는 대부분 작동하지만, 5.1은 effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식이 달라 <strong>기존 설정을 그대로 교체하기보다 다시 평가</strong>해야 함</li>\n<li>기본값 <code>high</code>에서 시작해 <code>low</code>, <code>medium</code>, <code>xhigh</code>, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
+      "link": "https://news.hada.io/topic?id=33174",
+      "published": "2026-09-03T09:30:02+09:00",
+      "summary": "<ul>\n<li>앱별 음량 조절, 시스템 모니터, 앱 전환기, 창 관리, 클립보드, 화면 캡처, 파일 정리처럼 <strong>따로 구매하던 Mac 도구들을 하나의 메뉴 막대 아이콘에 통합</strong></li>\n<li>무료 오픈소스로 제공되며 계정, 구독, 사용 분석이나 추적 기능 없이 Mac에서 <strong>로컬로 실행</strong></li>\n<li>필요한...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "published": "Wed, 02 Sep 2026 21:38:34 +0000",
+      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "published": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49541256\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "published": "Wed, 02 Sep 2026 15:12:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49537553\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "published": "Wed, 02 Sep 2026 14:46:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49537131\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "link": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "published": "Mon, 31 Aug 2026 11:29:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49508405\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "link": "https://news.ycombinator.com/item?id=49543530",
+      "published": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49543530\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
