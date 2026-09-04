@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-04",
+  "articles": [
+    {
+      "title": "모든 CEO가 알아야 할 AI 거버넌스",
+      "link": "https://news.hada.io/topic?id=33213",
+      "published": "2026-09-04T10:59:11+09:00",
+      "summary": "<ul>\n<li>AI가 의료·금융·운영 의사결정에 영향을 미치면서 결과의 무결성을 책임지는 <strong>AI 거버넌스</strong>는 법무·IT·CISO에게만 맡길 수 없는 <strong>CEO와 이사회의 책임</strong>이 되고 있음</li>\n<li>기존 보안이 데이터의 무단 접근을 막았다면, AI 거버넌스는 오염되거나 불법적으로 취득한 데이터가 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "당신의 지능을 소유하라: 소버린 AI 실전 가이드",
+      "link": "https://news.hada.io/topic?id=33211",
+      "published": "2026-09-04T10:47:40+09:00",
+      "summary": "<ul>\n<li>AI 애플리케이션 경쟁이 UI·워크플로·시장 진입을 넘어, 제품의 학습 방식과 성능을 좌우하는 <strong>지능 계층의 소유권</strong> 경쟁으로 확대되고 있음</li>\n<li><strong>Kimi K3·GLM 5.2</strong> 같은 오픈 웨이트 모델과 독립적인 사후 학습 기술이 발전하면서, 평가·하네스·온라인 학습을 결합해 특정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "VC는 더 이상 VC가 아니다",
+      "link": "https://news.hada.io/topic?id=33210",
+      "published": "2026-09-04T10:21:02+09:00",
+      "summary": "<ul>\n<li>소수의 초대형 투자사가 전통적인 스타트업 투자를 넘어 막대한 자산과 정치적 영향력을 축적한 현상을 <strong>Cancer Capital</strong>로 규정하고, 이들을 금융회사가 아닌 <strong>정치·사회 권력</strong>으로 봐야 한다고 주장</li>\n<li>규제 완화로 VC와 사모펀드를 결합한 종합 투자사가 등장했으며, 5...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google Antigravity의 서드파티 사용 금지와 계정 정지 약관 논란",
+      "link": "https://news.hada.io/topic?id=33209",
+      "published": "2026-09-04T10:14:31+09:00",
+      "summary": "<ul>\n<li>Antigravity 약관은 OpenClaw 같은 <strong>서드파티 도구에서 Antigravity OAuth를 사용하는 행위</strong>를 위반으로 규정하고, Antigravity와 Gemini CLI 이용을 정지할 수 있다고 명시함</li>\n<li>최초 약관에는 제재 대상이 단순히 <code>your account</code>로 적혀 있어 <strong>Google 계정 전체가 정...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "K2 Horizon, 학습 전 과정을 공개하는 6개 AI 모델 제품군",
+      "link": "https://news.hada.io/topic?id=33208",
+      "published": "2026-09-04T09:35:28+09:00",
+      "summary": "<ul>\n<li>IFM이 <strong>0.9B부터 375B-A23B까지 6개 모델</strong>을 공개해 웨어러블과 스마트폰, 로컬 워크스테이션, 기업 서버까지 하나의 제품군으로 연결함</li>\n<li><strong>최종 가중치</strong>만 제공하는 데 그치지 않고 <strong>학습 데이터 또는 구축법, 코드, 설정, 중간 체크포인트, 로그와 평가 결과를 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Oura files to go public",
+      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "published": "Thu, 03 Sep 2026 22:35:41 +0000",
+      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "published": "Thu, 03 Sep 2026 22:18:30 +0000",
+      "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
+      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
+      "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "link": "https://openai.com/index/gpt-6-astra/",
+      "published": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49554643\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": ".name Termination",
+      "link": "https://neil.fraser.name/news/2026/09/03/",
+      "published": "Thu, 03 Sep 2026 14:54:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49550772\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "published": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49554520\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Project Xanadu: Even More Hindsight",
+      "link": "https://gwern.net/xanadu",
+      "published": "Fri, 04 Sep 2026 01:45:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49559522\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New type of dice guarantees no tie when deciding who goes first",
+      "link": "https://www.cbc.ca/lite/story/9.7328614",
+      "published": "Wed, 02 Sep 2026 01:50:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49530807\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
