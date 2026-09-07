@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-07",
+  "articles": [
+    {
+      "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
+      "link": "https://news.hada.io/topic?id=33311",
+      "published": "2026-09-07T11:26:56+09:00",
+      "summary": "<p>요즘 AI 로 개발을 진행하다 보니 작업 시켜두고 기다리기에 지루한 시간들이 자주 생기더라구요.<br />\n앱을 다운로드 해서 하자니 뭔가 번거롭기도 하고 광고에 시달리기도 귀찮고 구형 폰이라서 최신 게임도 잘 안 돌아가고 해서 심심풀이로 Codex Sol Max 로 그냥 개발해보라고 했는데 퀄리티가 나름 괜찮아서 틈...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Alien Mind: 인간과는 다른, 낯선 지성",
+      "link": "https://news.hada.io/topic?id=33309",
+      "published": "2026-09-07T10:37:17+09:00",
+      "summary": "<ul>\n<li>OpenAI는 추론 모델의 발전이 <strong>재귀적 자기개선(RSI)</strong> 으로 이어질 수 있다고 예상하며, 정렬과 감시 역량이 지능 향상을 따라가지 못하는 만큼 <strong>개발 속도를 안전성에 맞춰 제한</strong>해야 한다고 강조함</li>\n<li>AI는 사람이 설계한 규칙보다 대규모 최적화로 성장하는 시스템에 가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "티빙 3,954만 계정 정보 유출…보상은 직접 신청해야 함",
+      "link": "https://news.hada.io/topic?id=33308",
+      "published": "2026-09-07T10:15:02+09:00",
+      "summary": "<ul>\n<li>정부 조사에서 <strong>Tving 약 3,954만 계정의 정보와 소스코드 유출</strong>이 확인됐으며, 현재 이용 중인 계정뿐 아니라 휴면/탈퇴 등 비활성 계정도 포함됨</li>\n<li>이름, 휴대전화번호, 이메일, 생년월일, 결제이력 등 <strong>20개 항목, 70종의 정보</strong>가 유출됐고, 일부 개인정보는 암호화키...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPT-6 Astra, 수능 벤치마크 첫 전 영역 만점",
+      "link": "https://news.hada.io/topic?id=33307",
+      "published": "2026-09-07T10:05:02+09:00",
+      "summary": "<ul>\n<li>개인 개발자가 운영하는 <strong>2026학년도 수능 LLM 평가에서 GPT-6 Astra가 처음으로 종합 450점 만점</strong>을 기록함</li>\n<li>국어와 수학의 모든 선택과목, 영어, 한국사와 <strong>평가 대상 탐구 4과목을 모두 맞혔으며</strong>, 기존 모델들이 어려워했던 사회문화 8번도 해결함</li>\n<li>일반 모...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "기존 강자들이 몰려온다: 특화 AI 스타트업은 어디서 이길 수 있을까",
+      "link": "https://news.hada.io/topic?id=33306",
+      "published": "2026-09-07T09:55:02+09:00",
+      "summary": "<ul>\n<li>Salesforce와 Docusign 같은 기존 소프트웨어 기업이 <strong>데이터를 보관하는 데서 업무를 직접 수행하는 AI로 확장</strong>하면서, 일부 업무는 기존 시스템과 범용 에이전트의 결합만으로 충분해질 수 있음</li>\n<li>그러나 계약서를 관리하는 것과 법률 사안을 해결하는 것은 다르며, 특화 AI 스타트업에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "published": "Sun, 06 Sep 2026 16:08:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49591876\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The NX bit is not just about security",
+      "link": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "published": "Fri, 04 Sep 2026 13:47:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49564609\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "published": "Sun, 06 Sep 2026 20:32:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49590611\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "published": "Sun, 06 Sep 2026 11:56:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49585644\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "link": "https://github.com/marsbos/mador",
+      "published": "Sun, 06 Sep 2026 20:45:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49590738\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
