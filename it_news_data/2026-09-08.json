@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-08",
+  "articles": [
+    {
+      "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
+      "link": "https://news.hada.io/topic?id=33349",
+      "published": "2026-09-08T11:45:02+09:00",
+      "summary": "<ul>\n<li><strong>계정이나 API 키, 구독 없이 내 컴퓨터에서 음성 작업</strong>을 처리하는 데스크톱 앱으로, 필요한 모델을 내려받으면 오프라인에서도 사용 가능</li>\n<li>깨끗한 음성 샘플 <strong>5~15초로 별도 학습 없이 목소리를 복제</strong>하고, 입력한 문장을 그 목소리로 읽게 할 수 있음</li>\n<li>기존 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lovable의 하트는 어떻게 만들어졌나",
+      "link": "https://news.hada.io/topic?id=33347",
+      "published": "2026-09-08T10:39:30+09:00",
+      "summary": "<ul>\n<li>Lovable의 <strong>첫 디자이너이자 네 번째 직원</strong>은 화면 디자인뿐 아니라 고객 정의, 제품 경험, 커뮤니티와 브랜드까지 맡으며 초기 제품을 함께 만들어감</li>\n<li>2024년 11월 출시 때 사용한 시각 정체성은 <strong>30분 만에 만든 시제품</strong>이었으며, 60일 만에 ARR 1,000만 달러에 도달하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Build vs Buy - AI로 개발은 싸졌지만, 3년 뒤 유지보수는 누가 맡을까?",
+      "link": "https://news.hada.io/topic?id=33346",
+      "published": "2026-09-08T10:35:35+09:00",
+      "summary": "<ul>\n<li>AI는 소프트웨어의 <strong>초기 개발 비용</strong>을 크게 낮췄지만, 수년간 유지보수와 보안, 장애 대응을 책임지는 <strong>운영 비용</strong>까지 없애지는 못함</li>\n<li>직접 만들지는 가격뿐 아니라 <strong>장애나 침해의 피해 범위, 장기 운영 책임자, 사업 차별화, 교체할 경로</strong>를 기준으로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "‘You Can See Everything’ 리뷰: Nathan Fielder가 들여다본 Elizabeth Holmes",
+      "link": "https://news.hada.io/topic?id=33345",
+      "published": "2026-09-08T10:34:19+09:00",
+      "summary": "<ul>\n<li><strong>Nathan Fielder와 Lance Oppenheim</strong>이 공동 연출한 174분 다큐멘터리는 투자자 사기로 11년형을 선고받은 Elizabeth Holmes의 수감 전 일상을 따라가며, 유무죄보다 그가 자신의 이야기를 믿는 방식을 파고듦</li>\n<li>Holmes는 Theranos 기기가 작동했고 검사에 필요한 화학적 문제만 해결하지...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Claude Code에서 GPT-6 Astra를 메인 모델로 쓰기",
+      "link": "https://news.hada.io/topic?id=33344",
+      "published": "2026-09-08T10:28:28+09:00",
+      "summary": "<p>Claude Code 하나에서 OpenAI 모델과 Claude 모델을 섞어 쓰려고 만들었습니다.<br />\n메인 모델은 GPT-6 Astra로, 서브 에이전트는 Claude로 돌리는게 가능합니다!</p>\n<p>Anthropic API 앞단에서 자체 CA로 TLS를 종료하며 <code>api.anthropic.com</code> 인 척 응답합니다.<br />\n<code>ANTHROPIC_BASE_URL</code",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "published": "Tue, 08 Sep 2026 02:16:39 +0000",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "published": "Mon, 07 Sep 2026 18:02:29 +0000",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "published": "Mon, 07 Sep 2026 15:58:00 +0000",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "published": "Tue, 08 Sep 2026 01:16:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49604637\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TALA Is Open-Source",
+      "link": "https://d2lang.com/blog/tala-is-open-source/",
+      "published": "Mon, 07 Sep 2026 23:37:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49604150\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jellyfin 12.0",
+      "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "published": "Tue, 08 Sep 2026 01:56:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49604861\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "published": "Mon, 07 Sep 2026 18:52:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "published": "Mon, 07 Sep 2026 20:32:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49602699\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
