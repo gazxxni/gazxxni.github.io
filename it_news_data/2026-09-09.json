@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "title": "Show GN: Quiz Gate - PR을 만들면 git diff 기반으로 코드 변경점에 대한 문제를 풀어볼 수 있는 앱",
+      "link": "https://news.hada.io/topic?id=33405",
+      "published": "2026-09-09T12:06:17+09:00",
+      "summary": "<p>얼마 전에 AWS에서 발표한 AI를 어떻게 활용하냐에 따라 팀의 생산성이 달라지는지에 대한 동영상을 보았습니다.</p>\n<p>저는 AI가 작성한 코드의 컨텍스트를 확실히 알고 있는 팀이 더 생산성이 높았다는 걸로 이해를 했기 때문에 이를 위한 간단한 깃허브 앱을 만들었습니다.</p>\n<p>머지 하기 전에 간단하게 코드",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GPT-6 Astra를 위한 스킬과 프롬프트 다시 생각하기",
+      "link": "https://news.hada.io/topic?id=33404",
+      "published": "2026-09-09T12:00:03+09:00",
+      "summary": "<ul>\n<li>코딩 에이전트의 성능 향상으로 과거에 필요했던 세세한 유도와 보조 절차의 필요성이 줄어들었으며, <strong>GPT-6 Astra</strong>에서는 누적된 Skills/AGENTS.md/작업 프롬프트를 재검토하는 일이 더욱 중요해짐</li>\n<li><strong>스킬 설명은 짧고 사용 조건이 명확해야 하며</strong>, 여러 작업 흐름을 다...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Trey Parker와 Matt Stone, South Park의 이름을 South America로 변경",
+      "link": "https://news.hada.io/topic?id=33403",
+      "published": "2026-09-09T11:55:06+09:00",
+      "summary": "<ul>\n<li><strong>South Park</strong>가 Emmy의 <strong>Outstanding Animated Program</strong> 부문 수상 이후 작품명 변경을 발표함</li>\n<li>제작자 <strong>Trey Parker와 Matt Stone</strong>이 직접 이름을 바꾼다고 밝힘</li>\n<li>발표문에 표기된 새 이름은 <strong>SOUTH AMERICA</strong>임</li>\n<li>이름을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내 피드, 내 방식",
+      "link": "https://news.hada.io/topic?id=33402",
+      "published": "2026-09-09T11:52:06+09:00",
+      "summary": "<ul>\n<li>호주 Albanese 정부가 소셜미디어 연령 제한에 이어 <strong>디지털 주의 의무(Digital Duty of Care) 법안 초안</strong>을 공개하고, 온라인 안전 기준과 이용자 선택권에 관한 이해관계자 의견 수렴에 나섬</li>\n<li><strong>My Feed, My Way</strong> 구상은 소셜미디어의 신규·기존 이용자 모두에게 기본 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "프로그래밍은 예술이다",
+      "link": "https://news.hada.io/topic?id=33401",
+      "published": "2026-09-09T11:49:06+09:00",
+      "summary": "<ul>\n<li>프로그래밍의 동기는 <strong>제품과 수익을 얻기 위한 수단</strong>인지, <strong>코드를 쓰는 과정 자체의 즐거움</strong>인지에 따라 달라지며, 이 차이는 AI를 받아들이는 태도에도 영향을 줌</li>\n<li>제품 개발이 목적이라면 직접 코드를 쓰든 다른 사람에게 위임하든 중요하지 않지만, 프로그래밍 자체...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "published": "Tue, 08 Sep 2026 23:23:23 +0000",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published": "Tue, 08 Sep 2026 21:04:06 +0000",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "published": "Tue, 08 Sep 2026 20:47:34 +0000",
+      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Harvard study predicts most suicide attempts a week in advance",
+      "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+      "published": "Wed, 09 Sep 2026 02:07:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49619906\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "link": "https://ai.meta.com/muse/",
+      "published": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49615537\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "published": "Tue, 08 Sep 2026 21:22:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49617255\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "published": "Tue, 08 Sep 2026 21:47:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49617581\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "published": "Tue, 08 Sep 2026 14:55:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49611251\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
