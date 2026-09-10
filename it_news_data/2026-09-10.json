@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "title": "강남언니 개인정보 유출 후속 안내 - 피해자에 5만 포인트와 피해 보험 제공",
+      "link": "https://news.hada.io/topic?id=33468",
+      "published": "2026-09-10T11:15:01+09:00",
+      "summary": "<ul>\n<li>약 22만 명의 개인정보가 유출된 강남언니가 <strong>2차 입장문과 보상안</strong>을 공개하고, 국내 피해 고객에게 1인당 <strong>5만 원 상당의 포인트</strong>를 지급하기로 함</li>\n<li>개인정보 유출에 따른 해킹/피싱 등 금융사기 피해를 <strong>1인당 최대 1,000만 원까지 보장하는 보험</strong>을 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
+      "link": "https://news.hada.io/topic?id=33466",
+      "published": "2026-09-10T10:45:02+09:00",
+      "summary": "<ul>\n<li>KAIST와 마이크로소프트연구소 아시아 공동연구진이 사람의 뇌파를 피드백으로 활용해 <strong>AI의 목표와 행동을 조정하는 신경 가치 정렬(NVA)</strong> 을 제안함</li>\n<li>같은 행동에도 여러 목적이 있을 수 있다는 한계에 주목해, 겉으로 드러난 행동뿐 아니라 <strong>예상과 다른 결과나 상황을 마주했...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "자율주행차가 생명을 구한다는 증거가 늘고 있다",
+      "link": "https://news.hada.io/topic?id=33465",
+      "published": "2026-09-10T10:34:53+09:00",
+      "summary": "<ul>\n<li>자율주행차와 운전자 보조 기술이 <strong>사고와 부상을 줄인다는 연구 결과</strong>가 쌓이고 있으며, 논의의 초점도 기술의 가능성에서 실제 도로에서의 안전 효과로 옮겨가고 있음</li>\n<li>미국 고속도로안전보험협회(IIHS)가 4개 도시의 주행 기록을 비교한 결과, Waymo 무인 차량은 인간 운전자보다 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "창업자는 월급을 얼마나 받아야 할까?",
+      "link": "https://news.hada.io/topic?id=33464",
+      "published": "2026-09-10T10:32:17+09:00",
+      "summary": "<ul>\n<li>창업자 급여의 기준은 남들이 받는 금액이 아니라 <strong>자신과 가족의 생활을 지키면서 회사의 장기적 성공에 집중할 수 있는 수준</strong>이어야 함</li>\n<li>생활비를 지나치게 줄여 개인 부채와 가족 갈등을 떠안으면, 사업을 일찍 포기하거나 <strong>만족스럽지 않은 인수 제안을 받아들일 유인</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE",
+      "link": "https://news.hada.io/topic?id=33463",
+      "published": "2026-09-10T09:30:03+09:00",
+      "summary": "<ul>\n<li>Claude Code/Codex/OpenCode/Cursor/Grok에 서로 다른 작업을 맡기고, <strong>진행 상황과 코드 변경을 한곳에서 확인</strong>하는 데스크톱 IDE</li>\n<li>작업마다 별도의 Git 브랜치와 작업 디렉터리(worktree)를 만들어, <strong>에이전트들이 서로의 파일을 덮어쓰지 않고 동시에 작업</strong>할 수 있음...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "published": "Wed, 09 Sep 2026 23:14:29 +0000",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "published": "Wed, 09 Sep 2026 20:58:09 +0000",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "iPhone Duo",
+      "link": "https://www.apple.com/iphone-duo/",
+      "published": "Wed, 09 Sep 2026 18:15:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49630931\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "link": "https://rivendell.dmitrybrant.com/relativity/",
+      "published": "Thu, 10 Sep 2026 01:58:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49637385\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "published": "Wed, 09 Sep 2026 13:27:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49626190\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "link": "https://tautology.town/2026/06/01/card-networks.html",
+      "published": "Tue, 08 Sep 2026 18:11:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49614280\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "published": "Wed, 09 Sep 2026 17:14:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49629886\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
