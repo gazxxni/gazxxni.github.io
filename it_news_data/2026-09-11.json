@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-11",
+  "articles": [
+    {
+      "title": "Google, Windows용 Gemini 앱 출시",
+      "link": "https://news.hada.io/topic?id=33515",
+      "published": "2026-09-11T11:55:02+09:00",
+      "summary": "<ul>\n<li>구글이 9월 10일 <strong>Windows용 Gemini 데스크톱 앱을 출시</strong>했으며, Windows 10/11의 x64와 ARM64 환경에서 사용 가능</li>\n<li><strong>Alt + Space</strong>로 작업 중인 화면 위에 Gemini를 불러와 질문, 사실 확인, 문서 초안 작성 등을 요청하고 원래 작업으로 돌아갈 수 있음</li>\n<li>Gmail...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Xteink X4 Pro 리뷰",
+      "link": "https://news.hada.io/topic?id=33514",
+      "published": "2026-09-11T11:01:39+09:00",
+      "summary": "<ul>\n<li><strong>MagSafe로 휴대전화 뒷면에 붙이는 전자책 리더</strong>로, 전용 독서 기기를 늘 휴대할 수 있어 실제 독서량을 늘리는 데 도움이 됐음</li>\n<li>반응성 좋은 터치스크린과 밝기·색온도를 세밀하게 조절하는 <strong>프런트라이트</strong>, 한 손 조작이 쉬운 페이지 버튼과 가벼운 무게가 장점임</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "21세기 교실을 위한 음악 이론 - 팝송과 악보로 배우는 무료 온라인 교재",
+      "link": "https://news.hada.io/topic?id=33513",
+      "published": "2026-09-11T10:31:54+09:00",
+      "summary": "<ul>\n<li>음표와 리듬 읽기부터 화성, 작곡과 현대음악까지 <strong>대학 4학기 분량의 음악 이론을 무료로 공개</strong>한 Robert Hutchinson의 영어 온라인 교재</li>\n<li>클래식뿐 아니라 <strong>팝송, 영화음악과 뮤지컬</strong>을 예제로 사용하며, 악보에 해당하는 연주 구간을 YouTube 영상으로 연결해 실제 소...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, 동시 청취·발화가 가능한 GPT‑Live‑1 API 출시",
+      "link": "https://news.hada.io/topic?id=33512",
+      "published": "2026-09-11T10:23:08+09:00",
+      "summary": "<ul>\n<li><strong>GPT‑Live‑1 API</strong>는 듣기와 말하기를 동시에 처리하고, 복잡한 추론과 작업은 연결된 모델·도구에 위임해 백엔드 작업 중에도 대화를 이어갈 수 있음</li>\n<li><strong>단일 음성 모델</strong>이 입력·출력 오디오를 함께 처리하므로 음성 인식–추론–음성 합성을 연결하는 구조의 지연과 불...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "풀 리퀘스트를 부팅해서 리뷰하기",
+      "link": "https://news.hada.io/topic?id=33511",
+      "published": "2026-09-11T10:16:50+09:00",
+      "summary": "<ul>\n<li><strong>trynix-preview</strong>는 PR 댓글에 브라우저 부팅 링크를 남기는 GitHub Action으로, 리뷰어가 저장소를 복제하거나 직접 빌드하지 않고 <strong>PR 빌드를 테스트</strong>할 수 있게 함</li>\n<li><strong>trynix.dev</strong>가 브라우저 탭에서 Linux를 부팅하고 Nix 캐시에서 PR 빌드를 가져오며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "published": "Thu, 10 Sep 2026 22:30:00 +0000",
+      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "published": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "link": "https://shopify.engineering/back-to-native",
+      "published": "Thu, 10 Sep 2026 14:09:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49643982\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "published": "Thu, 10 Sep 2026 06:49:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49639408\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "published": "Thu, 10 Sep 2026 19:43:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49649213\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "published": "Thu, 10 Sep 2026 23:10:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49651372\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "published": "Thu, 10 Sep 2026 15:27:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49645393\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
