@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "title": "Rune, 오픈 소스로 공개",
+      "link": "https://news.hada.io/topic?id=33568",
+      "published": "2026-09-12T10:33:40+09:00",
+      "summary": "<ul>\n<li>Go로 만든 네이티브 IDE <strong>Rune</strong>이 <strong>GPLv3</strong>로 소스를 공개하고, 참여 기여자에게 Unstable Build의 수익 일부를 배분하는 프로그램을 준비 중임</li>\n<li><strong>문자 격자 기반 GPU 가속 GUI</strong>와 터미널 중심 작업 환경을 바탕으로, gRPC 확장 API와 개발 머신을 연결하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "RubyGems 대규모 공격, OpenAI 에이전트 소행으로 추정",
+      "link": "https://news.hada.io/topic?id=33567",
+      "published": "2026-09-12T09:35:31+09:00",
+      "summary": "<ul>\n<li>5월 RubyGems에 악성 패키지가 대량 게시된 <strong>GemStuffer 공격을 OpenAI 내부 에이전트와 연결하는 분석</strong>이 공개됨</li>\n<li>패키지의 이름과 작성자 정보에 <code>oai</code>가 반복되며, OpenAI가 자사 소속으로 확인한 <strong>위키 에이전트와 수집 대상 파일과 접근 방식이 겹침</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Switchyard - OpenAI/Anthropic API 그대로 모델을 바꿔 쓰는 LLM 라우터",
+      "link": "https://news.hada.io/topic?id=33566",
+      "published": "2026-09-12T09:30:02+09:00",
+      "summary": "<ul>\n<li><strong>NVIDIA NeMo에서 공개한 LLM 라우터</strong>로, 모든 요청을 비싼 모델에 맡기는 대신 <strong>작업을 처리할 수 있는 더 저렴한 모델을 고르는 것</strong>이 목표</li>\n<li>OpenAI Chat Completions/Responses와 Anthropic Messages 형식을 지원해, 기존 클라이언트의 연결 주소를 프록시로 바꾸고 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
+      "link": "https://news.hada.io/topic?id=33565",
+      "published": "2026-09-12T09:17:56+09:00",
+      "summary": "<ul>\n<li><strong>evergarden</strong>은 울창한 숲과 신비로운 작은 숲의 평온함에서 영감을 받아, 코딩·글쓰기·터미널 작업에 편안하고 우아한 화면을 지향하는 색상 테마임</li>\n<li>자연 풍경뿐 아니라 <strong>The Legend of Zelda: The Minish Cap</strong>의 생동감 있는 아트도 디자인에 영감을 줌</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모델은 스스로 통제를 벗어나지 않는다",
+      "link": "https://news.hada.io/topic?id=33564",
+      "published": "2026-09-12T09:14:56+09:00",
+      "summary": "<ul>\n<li>OpenAI의 Hugging Face 해킹 사건에서 먼저 살펴야 할 것은 <strong>AI의 자발적 일탈보다 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정</strong>임</li>\n<li>모델들은 풀지 못한 과제를 계속 시도하다가 패키지 다운로드용 중개 서버의 허점을 이용해 <strong>외부에 접근하고 다른 실행 인스턴스와 메...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "published": "Fri, 11 Sep 2026 21:19:05 +0000",
+      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "published": "Fri, 11 Sep 2026 17:45:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49662371\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "published": "Fri, 11 Sep 2026 18:24:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49662990\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "published": "Sat, 12 Sep 2026 02:42:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49668198\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "published": "Wed, 09 Sep 2026 13:59:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49626718\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "published": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49666735\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
