@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-13",
+  "articles": [
+    {
+      "title": "Real-SWE: 비공개 실무 기업 코드베이스에서 AI 모델을 평가하는 벤치마크",
+      "link": "https://news.hada.io/topic?id=33609",
+      "published": "2026-09-13T11:39:52+09:00",
+      "summary": "<ul>\n<li><strong>Real-SWE</strong>는 실제 기업에서 사용 허가를 받은 비공개 프로덕션 코드베이스와 업무를 바탕으로, 코딩 에이전트가 소프트웨어 엔지니어의 실무를 수행할 수 있는지 평가함</li>\n<li>모델 단독이 아니라 <strong>모델과 기본 하네스의 조합</strong>을 평가하며, 과제마다 8회 독립 실행한 평균 해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나만 빼고 모두 AI 개발 속도를 늦춰야 한다",
+      "link": "https://news.hada.io/topic?id=33608",
+      "published": "2026-09-13T11:36:52+09:00",
+      "summary": "<ul>\n<li>AI가 인간의 노동을 대체해 <strong>사회 붕괴</strong>를 일으킬 수 있다는 명분으로 전 세계 최첨단 모델 연구개발 중단을 요구하지만, 정작 목적은 자기 회사의 추격과 세계 지배라는 <strong>풍자</strong>임</li>\n<li>개발 중단 기간에 Techaro의 <strong>Lygma AGI lab</strong>이 경쟁사를 따라잡고, In...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: irasutoya - (Claude Skill) いらすとや 이라스토야 일러스트를 검색·다운로드해 활용",
+      "link": "https://news.hada.io/topic?id=33607",
+      "published": "2026-09-13T10:35:28+09:00",
+      "summary": "<p>Claude가 슬라이드·문서·블로그 글을 만들 때 いらすとや에서 어울리는 일러스트를 찾아 투명 PNG로 받아 바로 넣어주는 스킬입니다. Claude Design 캔버스에서도 씁니다.</p>\n<p><a href=\"https://raw.githubusercontent.com/hsol/irasutoya/main/assets/how-it-works.png\" rel=\"noopener noreferrer\">[IMG] how it",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dreeve - 운동 데이터를 직접 보관하고 분석하는 셀프 호스팅 대시보드",
+      "link": "https://news.hada.io/topic?id=33606",
+      "published": "2026-09-13T10:10:02+09:00",
+      "summary": "<ul>\n<li>달리기와 사이클링 등 운동 기록을 내 서버에 모아 <strong>얼마나 꾸준히 운동했고, 어디를 다녔으며, 기록이 어떻게 달라졌는지</strong> 살펴보는 오픈소스 대시보드</li>\n<li>이전 이름은 <strong>Statistics for Strava</strong>이며, Strava 연동뿐 아니라 운동 기기에서 내보낸 FIT/TCX/GPX 파일도 가져...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LG, Gamers Nexus를 가짜 뉴스라고 부인 [영상]",
+      "link": "https://news.hada.io/topic?id=33605",
+      "published": "2026-09-13T09:36:42+09:00",
+      "summary": "<ul>\n<li><strong>LG가 Gamers Nexus의 스마트 TV 조사 내용을 사실이 아니라고 부인</strong>하자, Gamers Nexus는 HDMI 입력 사용 중 광고 서버로 전송된 데이터 로그와 보안 취약점 시연을 근거로 반박함</li>\n<li>LG는 <strong>ACR(자동 콘텐츠 인식)</strong> 을 선택 동의 기능으로 설명하지만, 동의하지 않으면 데...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "published": "Sat, 12 Sep 2026 23:25:38 +0000",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "published": "Sat, 12 Sep 2026 19:21:19 +0000",
+      "summary": "Tesla’s halo sports car was first announced in November 2017.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "published": "Sat, 12 Sep 2026 14:40:00 +0000",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "link": "https://icm.museum/",
+      "published": "Sun, 13 Sep 2026 02:43:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49679459\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49674050\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "published": "Sat, 12 Sep 2026 20:25:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49676820\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49673098\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "published": "Wed, 09 Sep 2026 01:57:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49619848\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
