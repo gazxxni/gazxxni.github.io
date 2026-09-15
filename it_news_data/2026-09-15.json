@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-15",
+  "articles": [
+    {
+      "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
+      "link": "https://news.hada.io/topic?id=33721",
+      "published": "2026-09-15T10:40:40+09:00",
+      "summary": "<p>안녕하세요. 경기도 갭이어라는 프로그램에서 만난 3명이 모여서 만든 프로젝트를 소개드립니다.</p>\n<h2>뭘 만들었나요</h2>\n<p>&quot;바다거북스프&quot;라는 유명한 추리 게임을 아시나요? 진행자가 짧고 이상한 이야기를 하나 던지면, 참가자들은 &quot;예/아니오&quot;로만 답할 수 있는 질문을 계속 던지면서 숨",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta가 AI 인프라의 매출 기여도를 측정한 방법",
+      "link": "https://news.hada.io/topic?id=33720",
+      "published": "2026-09-15T09:42:48+09:00",
+      "summary": "<ul>\n<li>광고 모델을 개선해 매출이 늘어도 <strong>그 모델을 만든 인프라가 얼마나 기여했는지</strong>는 알기 어려움. Meta는 개별 모델 출시 데이터를 분석해 7개 인프라 플랫폼의 기여도를 추정함</li>\n<li>모델 개선 효과는 A/B 테스트로 측정할 수 있지만, 여러 팀이 공유하는 인프라는 사용 여부를 무작위로 나...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Pinterest 임베딩 검색 플랫폼의 진화",
+      "link": "https://news.hada.io/topic?id=33719",
+      "published": "2026-09-15T09:40:07+09:00",
+      "summary": "<ul>\n<li>Pinterest는 검색과 추천을 담당하는 자체 플랫폼 <strong>Manas</strong>를 개선해, 수백억 개로 늘어나는 임베딩의 처리 비용을 낮추고 더 세밀한 의미를 검색에 반영하려 함</li>\n<li>벡터를 압축하는 <strong>양자화</strong>를 주요 제품에 적용해 인덱스 메모리를 50% 이상, 서빙 비용을 20~30% 줄였으며...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev - Base UI 지원과 새 색상 테마 추가",
+      "link": "https://news.hada.io/topic?id=33718",
+      "published": "2026-09-15T09:39:19+09:00",
+      "summary": "<ul>\n<li><strong>Neobrutalism.dev</strong>는 React와 Tailwind v4용 네오브루탈리즘 스타일 UI 구성 요소 모음임</li>\n<li><strong>컴포넌트, 차트, 별 모양</strong>을 합쳐 64개 제공함</li>\n<li><strong>shadcn/ui와 Base UI</strong>를 기반으로 구축됨</li>\n<li>이번 업데이트로 <strong>Base UI 지원과 새 색상...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "내 전자책 리더의 줄무늬를 없앤 과정",
+      "link": "https://news.hada.io/topic?id=33717",
+      "published": "2026-09-15T09:36:19+09:00",
+      "summary": "<ul>\n<li>초소형 전자책 리더 <strong>Xteink X3</strong>의 회색조 이미지에서 발견한 세로 줄무늬를 추적해, 화면 구동 파형을 바꾸고 눈에 보이던 결함을 없앰</li>\n<li><strong>CrossPoint와 freeink-sdk</strong>를 조사하면서 이미지 뷰어의 회색조 처리 누락과 어두운 회색이 검정으로 표시되는 오류도 수정함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "published": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "published": "Mon, 14 Sep 2026 18:14:29 +0000",
+      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49701004\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "published": "Mon, 14 Sep 2026 17:16:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49700477\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49704246\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "published": "Sat, 12 Sep 2026 18:51:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49675817\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
