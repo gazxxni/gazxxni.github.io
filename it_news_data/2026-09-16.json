@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-16",
+  "articles": [
+    {
+      "title": "Show GN: 보시오와 보아요 프로젝트 - 정이십면체 프레임버퍼를 이용한 RTL/WM 프로젝트",
+      "link": "https://news.hada.io/topic?id=33765",
+      "published": "2026-09-16T12:15:05+09:00",
+      "summary": "<p>안녕하세요, 저는 방구석 개발자 VARZero (비으비) 입니다.<br />\n저는 디지털 회로 설계에 관심이 많고, 이걸 OS와 연동하는데도 관심이 많습니다.</p>\n<p>3DoF(3축) VR/AR HMD을 위한 구 공간의 디스플레잉 시스템을 만들어보고 싶었고,<br />\n요새 바이브 코딩, 에이전틱 AI가 발전해서 개발이 빨라졌다? 개발이 쉬",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "한 달 만에 M4 Mac Mini용 Linux GPU 드라이버 만들기",
+      "link": "https://news.hada.io/topic?id=33764",
+      "published": "2026-09-16T11:36:06+09:00",
+      "summary": "<ul>\n<li>Cody Ho와 Niklas가 약 한 달 만에 M4 Mac Mini와 MacBook Neo용 <strong>OpenGL ES 3.0 완전 준수 GPU 드라이버</strong>를 개발함</li>\n<li>기존 하이퍼바이저로 macOS의 GPU 동작을 관찰하고 재생하면서 <strong>AGX 펌웨어 ABI</strong>를 역공학했으며, Apple 바이너리를 보지 않는 클린룸 방식으로 실험을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "래블업(lablup) 개발자 컨퍼런스 2026",
+      "link": "https://news.hada.io/topic?id=33763",
+      "published": "2026-09-16T10:17:58+09:00",
+      "summary": "<p>래블업의 기술을 바탕으로 AI를 만들어가는 사람들과 함께하는 개발자 컨퍼런스에 여러분을 초대합니다. 2021년 온라인으로 첫 발을 내딛은 lab | up &gt;/conf는, 래블업이 만들어 온 Backend.AI와 AI 기술을 바탕으로 시작된 정기 컨퍼런스입니다. 해마다 A를 만들어가는 많은 분들이 함께해 주시면서 이제는 수백 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
+      "link": "https://news.hada.io/topic?id=33760",
+      "published": "2026-09-16T09:30:02+09:00",
+      "summary": "<ul>\n<li>웹 개발에 익숙한 HTML, CSS와 DOM API로 <strong>터미널 UI와 대화형 CLI를 만드는</strong> JavaScript/TypeScript 라이브러리</li>\n<li>별도의 터미널 위젯 API를 배우는 대신, HTML 요소를 만들고 DOM을 수정하는 방식으로 화면을 구성</li>\n<li>노드가 바뀌면 스타일과 배치를 다시 계산하고, <strong>이전...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show HN: 20달러짜리 4G 무선 핫스팟을 메시지 기기로 개조하기",
+      "link": "https://news.hada.io/topic?id=33758",
+      "published": "2026-09-16T08:34:32+09:00",
+      "summary": "<ul>\n<li>배송비 포함 <strong>20달러 미만의 MF800 4G 모뎀</strong>에 Linux를 설치하고, Clicks 물리 키보드와 SHARP 디스플레이를 결합해 메시지 전용 휴대 기기를 제작함</li>\n<li><strong>OpenStick</strong>으로 기본 Android를 Linux로 교체하고, 원래 기기의 디바이스 트리에서 디스플레이 핀과 전원 정보를 추...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "published": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "published": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49717558\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "link": "https://github.com/arnegiacomo/fugleramme",
+      "published": "Tue, 15 Sep 2026 12:31:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49711544\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "published": "Wed, 16 Sep 2026 02:46:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49721548\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "published": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49716176\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "published": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49715947\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
