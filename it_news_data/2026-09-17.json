@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-17",
+  "articles": [
+    {
+      "title": "1.1.1.1은 이제 포스트퀀텀 DNSSEC 을 지원합니다.",
+      "link": "https://news.hada.io/topic?id=33821",
+      "published": "2026-09-17T11:53:13+09:00",
+      "summary": "<p>• 알고리즘 지원: 클라우드플레어의 공인 DNS 리졸버 1.1.1.1이 NIST 표준화 포스트 양자 서명 알고리즘인 ML-DSA-44를 사용한 DNSSEC 서명 검증을 지원하기 시작함.<br />\n• 목표 시한: 클라우드플레어는 양자 컴퓨터 위협에 대응하여 2029년까지 완전한 포스트 양자 보안 달성을 계획하고 있음.<br />\n• 크기 문...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "호주, 캐나다처럼 EU와 관계를 강화할 수 있다고 밝혀",
+      "link": "https://news.hada.io/topic?id=33820",
+      "published": "2026-09-17T11:33:07+09:00",
+      "summary": "<ul>\n<li>호주 통상장관 <strong>Don Farrell</strong>은 EU와 더 긴밀한 관계를 모색하는 캐나다와 같은 입장이라며, 캐나다의 행보를 관심 있게 지켜보겠다고 밝힘</li>\n<li>캐나다 총리 <strong>Mark Carney</strong>는 EU 정회원 가입이 아니라 “<strong>독자적인 동맹</strong>”을 추구한다고 명확히 함</li>\n</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": ".NET 11의 성능 개선",
+      "link": "https://news.hada.io/topic?id=33819",
+      "published": "2026-09-17T10:48:13+09:00",
+      "summary": "<ul>\n<li><strong>.NET 11</strong>은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음</li>\n<li><strong>런타임 비동기(runtime async)</strong> 는 <code>async</code>/<code>await</code> 변환을 컴파일러...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
+      "link": "https://news.hada.io/topic?id=33818",
+      "published": "2026-09-17T10:20:28+09:00",
+      "summary": "<p>서로 다른 머신에서 돌아가는 Claude Code 세션끼리 질문을 푸쉬하고 답을 받는 시스템입니다.<br />\nClaude Code의 Channels(리서치 프리뷰)를 사용했습니다.<br />\n사내에서 협업하다 발생한 게으름을 단순 아이디어로 사용하여, 클로드를 이용하여 100% 구현하였습니다.</p>\n<h3>문제</h3>\n<p>내 레포는 내가 잘 알",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "NVIDIA, Rust 네이티브 GPU 프로그래밍 지원 발표",
+      "link": "https://news.hada.io/topic?id=33815",
+      "published": "2026-09-17T09:34:57+09:00",
+      "summary": "<ul>\n<li><strong>CUDA Rust</strong>는 다른 언어로 작성한 커널을 호출하는 래퍼를 넘어, GPU 커널 자체를 Rust로 작성하고 네이티브 PTX로 컴파일하는 두 가지 개발 경로를 제공함</li>\n<li><strong>cuda-oxide</strong>는 스레드와 메모리를 직접 제어하는 SIMT 방식이며, <strong>cutile-rs</strong>는 데이터 타일...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "published": "Wed, 16 Sep 2026 23:50:07 +0000",
+      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "published": "Wed, 16 Sep 2026 22:37:08 +0000",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "published": "Wed, 16 Sep 2026 11:15:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49724881\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "link": "https://rohanbansal.com/qorl",
+      "published": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49731285\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "link": "https://mimo.xiaomi.com/rl/",
+      "published": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49732270\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "published": "Thu, 17 Sep 2026 01:39:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49735410\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "link": "https://arxiv.org/abs/2609.16338",
+      "published": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49732931\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
