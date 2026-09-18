@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-18",
+  "articles": [
+    {
+      "title": "섹스, AI, 그리고 종말",
+      "link": "https://news.hada.io/topic?id=33876",
+      "published": "2026-09-18T11:02:16+09:00",
+      "summary": "<ul>\n<li>미국 AI 안전 논의를 이끄는 인물과 기관에는 <strong>합리주의 커뮤니티의 인적 관계와 자금망</strong>이 깊이 얽혀 있음. AI 멸종 경고의 타당성과 별개로, 이들의 판단과 감독 체계를 독립적으로 검증할 필요가 있음</li>\n<li>LessWrong, Harry Potter 팬픽, 교육 워크숍과 공동 의례는 <strong>인류를 구할...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS 27 Golden Gate 리뷰",
+      "link": "https://news.hada.io/topic?id=33875",
+      "published": "2026-09-18T10:52:16+09:00",
+      "summary": "<ul>\n<li>Tahoe의 <strong>Liquid Glass 디자인을 다듬고 일상 기능을 보강</strong>한 업데이트로, Apple Intelligence도 실용성이 높아졌지만 전체 비활성화와 모델 삭제 옵션은 사라짐</li>\n<li>유리 효과의 강도를 조절하고 창 모서리, 제목 표시줄과 사이드바를 정리해 <strong>화면의 시각적 혼잡과 불편</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "스타트업을 피벗해야 할까? [동영상]",
+      "link": "https://news.hada.io/topic?id=33874",
+      "published": "2026-09-18T10:15:01+09:00",
+      "summary": "<ul>\n<li><strong>피벗 여부는 창업팀의 맥락과 검증 수준</strong>에 따라 판단해야 함. 고객을 만나지도 않은 채 어려움을 피해 아이디어를 바꾸는 것과, 핵심 가설을 충분히 시험한 뒤 방향을 바꾸는 것은 다름</li>\n<li><strong>AI가 기존 사업의 핵심 전제를 무너뜨렸다면</strong> 계속 버티는 기회비용이 커질 수...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SpaceXAI가 한 달 만에 Grok Bot을 만든 방법 [동영상]",
+      "link": "https://news.hada.io/topic?id=33872",
+      "published": "2026-09-18T09:55:02+09:00",
+      "summary": "<ul>\n<li><strong>Grok Bot</strong>은 개발자뿐 아니라 일반 지식 노동자가 업무를 맡길 수 있도록, 소규모 전담팀이 기존 제품과 분리해 처음부터 만든 AI 에이전트 제품임</li>\n<li>핵심 설계는 <strong>클라우드에서 지속적으로 작동하는 봇</strong>과 <strong>봇이 직접 사용하는 컴퓨터</strong>임. 사용자 기기의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개",
+      "link": "https://news.hada.io/topic?id=33871",
+      "published": "2026-09-18T09:52:15+09:00",
+      "summary": "<ul>\n<li>모델의 성능뿐 아니라 <strong>AI가 연구개발을 얼마나 맡고, 그 행동을 어떻게 감독하며, 컴퓨팅 자원을 어디에 쓰는지</strong> 측정해 개발 과정을 외부에 공개함</li>\n<li>2026년 8월 내부 평가에서 Claude는 <strong>AI 연구개발 업무의 26%를 주도</strong>하고 90% 이상에서 협업 이상의 역할을 맡았지만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "published": "Thu, 17 Sep 2026 23:08:24 +0000",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "published": "Thu, 17 Sep 2026 20:36:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "link": "https://github.com/asciimoo/hister",
+      "published": "Thu, 17 Sep 2026 16:25:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49743097\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
