@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "title": "Jev의 아키텍처를 파헤치다",
+      "link": "https://news.hada.io/topic?id=33930",
+      "published": "2026-09-19T11:22:19+09:00",
+      "summary": "<ul>\n<li><strong>Jev</strong>는 사전 학습 LLM의 지식을 활용하되, 확신도를 문장으로 생성하는 대신 허용된 답의 <strong>확률 분포를 병렬 출력</strong>하는 의사결정 모델임</li>\n<li>공개 문서와 API 실험은 <strong>공유 상태 처리, 질문 간 격리, 직접 확률 출력</strong>을 뒷받침함. 다만 가중치와 연구 방법...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SQPOLL은 불안형 여친이다",
+      "link": "https://news.hada.io/topic?id=33929",
+      "published": "2026-09-19T11:01:09+09:00",
+      "summary": "<ul>\n<li>SQPOLL은 CPU 자원을 많이 소모하는 대신 작업의 지연을 줄임</li>\n<li>I/O Uring의 기본 동작 모드에 비해 시스템 콜의 낭비를 줄여 지연 시간을 감축할 수 있음</li>\n<li>그러나 CPU 소모와 성능 지향 사이에서 균형을 찾기 위해서는 실제적으로는 더 고민이 필요함\n<ul>\n<li>IORING_SETUP_SQ_AFF까지 키거나...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이란 전쟁 중 미군 사망자, 국방부 집계보다 최소 4명 많아",
+      "link": "https://news.hada.io/topic?id=33928",
+      "published": "2026-09-19T10:52:20+09:00",
+      "summary": "<ul>\n<li><strong>Washington Post</strong> 보도에 따르면 미국과 이스라엘의 대이란 전쟁 기간 미군 사망자는 미 국방부가 공개한 수보다 많음</li>\n<li>익명의 관계자 5명에 따르면 사망자는 <strong>최소 22명</strong>으로, 국방부 공개 데이터베이스에 기록된 수보다 4명 많음</li>\n<li>다만 다른 익명 관계자에 따...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
+      "link": "https://news.hada.io/topic?id=33927",
+      "published": "2026-09-19T10:52:19+09:00",
+      "summary": "<ul>\n<li><strong>Raptor 3</strong>는 Raptor 1보다 추력이 약 35% 커지면서 질량과 외부 부품이 크게 줄었지만, <strong>전유량 다단연소</strong>라는 기본 구조는 유지함</li>\n<li>외관을 간결하게 만든 변화에는 개발용 센서 축소, 밸브 통합, 주연소실 점화기 제거, 볼트 체결부의 <strong>용접 전환</strong> 등이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "100년 만에 발견된 새로운 야생 고양이",
+      "link": "https://news.hada.io/topic?id=33926",
+      "published": "2026-09-19T10:42:19+09:00",
+      "summary": "<ul>\n<li>볼리비아에서 <strong>집고양이인 줄 알고 데려다 약 1년간 키운 동물</strong>이 보호시설을 거쳐 연구 대상이 됐고, <strong>새로운 야생 고양이 종 Leopardus tilcayo</strong>로 확인됨</li>\n<li><strong>Leopardus속 38개체의 전체 유전체</strong>를 비교한 결과, 다른 타이거캣 종들과 약 <strong>140만...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "published": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "published": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "published": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "published": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "published": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "published": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49758736\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Science Is Open Software",
+      "link": "https://jepedersen.dk/blog/202505_research/",
+      "published": "Sat, 19 Sep 2026 02:21:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762687\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "link": "https://try.cloudflare.com/",
+      "published": "Fri, 18 Sep 2026 14:18:41 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49754785\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "link": "https://sdcc.sourceforge.net/",
+      "published": "Sat, 19 Sep 2026 02:32:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762744\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "published": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49758580\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
