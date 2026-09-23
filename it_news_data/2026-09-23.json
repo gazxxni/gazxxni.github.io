@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
+      "link": "https://news.hada.io/topic?id=34160",
+      "published": "2026-09-23T11:42:55+09:00",
+      "summary": "<ul>\n<li>WordPress의 <strong><code>get_page_template()</code></strong> 에서 인증 없는 공격자가 활성 테마 디렉터리 밖의 읽기 가능한 로컬 <code>.php</code> 파일을 포함시킬 수 있는 취약점이 발견됨</li>\n<li><strong>원격 코드 실행(RCE)</strong> 으로 이어지려면 활성 테마의 디렉터리 구조와 서버의 파일 및...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SAML: 잘못된 설계의 프랙털",
+      "link": "https://news.hada.io/topic?id=34159",
+      "published": "2026-09-23T11:39:55+09:00",
+      "summary": "<ul>\n<li><strong>SAML</strong>은 SSO 산업의 기반을 만들었지만, XML과 서명 검증의 복잡성이 누적돼 <strong>OpenID Connect(OIDC)로의 전환</strong>이 필요함</li>\n<li><strong>XML 서명 래핑(XSW)</strong> 은 오래전부터 알려진 공격인데도 여전히 발생하며, SAML 라이브러리는 인증 기능을 구현하기 전부터 XML ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: xsoft comply - 대화 원문 없이 AI 운영 기록을 AI기본법 근거자료로 남기는 SDK",
+      "link": "https://news.hada.io/topic?id=34158",
+      "published": "2026-09-23T10:38:17+09:00",
+      "summary": "<p>안녕하세요. 20년간 글로벌 ERP 등 대규모 시스템의 오라클 DB 성능과 운영 경력을 지니고 있습니다.</p>\n<p>AI기본법이 올해 1월 시행됐고, 계도기간은 2027년 1월 종료 예정입니다.<br />\n주변 AI 서비스 팀들을 보니 대응을 대부분 체크리스트와 문서 작성으로 하고 있었습니다.<br />\n만약 &quot;그때 실제로 사람",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft가 개발을 중단한 FoxPro, FoxDev Studio로 되살아나다",
+      "link": "https://news.hada.io/topic?id=34157",
+      "published": "2026-09-23T10:34:25+09:00",
+      "summary": "<ul>\n<li>데이터베이스와 업무용 프로그램을 만들던 <strong>Visual FoxPro의 기존 코드와 화면, 데이터를 재작성 없이 실행</strong>할 수 있도록 새로 만든 독립 개발 환경</li>\n<li>프로젝트 관리자, 폼 디자이너, 테이블 탐색기와 디버거를 갖추고, <strong>기존 파일 형식과 추가 기능 라이브러리</strong>를 유지해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Colab이 이제 Google AI 요금제에 포함됨",
+      "link": "https://news.hada.io/topic?id=34155",
+      "published": "2026-09-23T10:06:41+09:00",
+      "summary": "<ul>\n<li>브라우저에서 Python 코드를 실행하고 GPU로 모델을 학습하는 <strong>Colab의 유료 컴퓨팅 혜택</strong>이 Google AI 구독에 추가됨</li>\n<li><strong>Google AI Pro는 월 200컴퓨팅 단위</strong>, Ultra는 세부 요금제에 따라 <strong>1,000 또는 2,000단위</strong>를 제공하며, 더 강력한 연산 자원을 이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "published": "Tue, 22 Sep 2026 19:27:57 +0000",
+      "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "published": "Tue, 22 Sep 2026 18:00:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49805509\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "published": "Tue, 22 Sep 2026 16:29:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49803892\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "published": "Wed, 23 Sep 2026 02:13:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49810829\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "published": "Tue, 22 Sep 2026 13:52:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49801324\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "published": "Tue, 22 Sep 2026 17:46:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49805278\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
