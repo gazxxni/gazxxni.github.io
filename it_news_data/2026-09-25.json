@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-25",
+  "articles": [
+    {
+      "title": "캘리포니아는 발 달린 부를 쫓고 있다",
+      "link": "https://news.hada.io/topic?id=34252",
+      "published": "2026-09-25T12:34:09+09:00",
+      "summary": "<ul>\n<li>캘리포니아가 연간 200억 달러 확보를 목표로 <strong>억만장자 부유세안</strong>을 11월 주민투표에 부치지만, 이미 떠난 부유층 때문에 예상 세수를 확보하기 어렵다는 비판을 받음</li>\n<li>Center for Land Economics가 추산한 캘리포니아의 <strong>토지 가치 8조 1,400억 달러</strong>는 현실적으로 과...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
+      "link": "https://news.hada.io/topic?id=34251",
+      "published": "2026-09-25T12:03:12+09:00",
+      "summary": "<ul>\n<li>Claude에 잊어버린 명령어 문법을 물었다가 <strong>존재하지 않는 옵션</strong>을 답하는 일을 겪으며, 이미 배운 지식을 직접 보관하는 <strong>개인 지식 관리(PKM)</strong> 시스템을 만들기로 함</li>\n<li>직접 노트를 쓰면 나중에 자신에게 맞는 답과 설명을 찾을 수 있고, 정보를 정리하는 과정에서 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
+      "link": "https://news.hada.io/topic?id=34250",
+      "published": "2026-09-25T11:02:03+09:00",
+      "summary": "<ul>\n<li>Android용 연합형 메신저 <strong>Conversations</strong>가 Google Play 매출에 대한 경제적 의존에서 벗어나 무료 배포 중심으로 전환함</li>\n<li>반복적인 업데이트 거절과 앱 삭제, 사람과 직접 소통하기 어려운 지원 체계가 결별의 배경이며, <strong>보안 업데이트도 심사 지연</strong>을 피할 수 없다는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "‘멜의 이야기(Story of Mel)’ 해부하기",
+      "link": "https://news.hada.io/topic?id=34249",
+      "published": "2026-09-25T10:40:21+09:00",
+      "summary": "<ul>\n<li>초기 프로그래밍 일화 ‘<strong>Story of Mel</strong>’의 핵심 트릭을 RPC-4000 명령어 체계와 대조하면, 주소 오버플로로 명령을 바꾸는 방식은 가능하지만 일부 기술적 설명은 맞지 않음</li>\n<li><strong>Index 비트</strong>는 일화의 설명과 달리 주소와 연산 코드 사이가 아니라 명령어의 최하위 비트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+      "link": "https://news.hada.io/topic?id=34248",
+      "published": "2026-09-25T09:30:02+09:00",
+      "summary": "<ul>\n<li>코드베이스를 분석하거나 시스템을 말로 설명하면, <strong>구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램</strong>을 생성</li>\n<li>Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능</li>\n<li><strong>아키텍처/워크플로/시퀀스/데이터 흐름/생명...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "published": "Thu, 24 Sep 2026 23:24:33 +0000",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "published": "Thu, 24 Sep 2026 20:45:00 +0000",
+      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "published": "Thu, 24 Sep 2026 19:15:00 +0000",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "published": "Thu, 24 Sep 2026 19:00:42 +0000",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "published": "Thu, 24 Sep 2026 18:52:38 +0000",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "published": "Thu, 24 Sep 2026 15:26:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49831968\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "published": "Wed, 23 Sep 2026 22:53:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49823738\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "published": "Thu, 24 Sep 2026 17:21:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49833867\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "published": "Thu, 24 Sep 2026 16:23:00 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49832938\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "published": "Tue, 22 Sep 2026 14:00:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49801436\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
