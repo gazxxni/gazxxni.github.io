@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-30",
+  "articles": [
+    {
+      "title": "Rust에서 Arc 다운캐스팅을 갈망하며",
+      "link": "https://news.hada.io/topic?id=34532",
+      "published": "2026-09-30T13:04:06+09:00",
+      "summary": "<ul>\n<li>동시성 캐시의 큰 값을 매번 복제하는 대신 <strong><code>Arc</code></strong> 를 사용하면, 전체 데이터를 복제하지 않고 읽기 접근이 가능한 소유 값을 저렴하게 복제할 수 있음</li>\n<li>하지만 <strong><code>Arc&lt;JSON&gt;</code> 내부의 <code>String</code></strong> 을 패턴 매칭으로 꺼내 <code>Ar...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 내일쓰기 - 글 없이 감정과 깊이만 골라도 기록할 수 있는 감정 일기 앱",
+      "link": "https://news.hada.io/topic?id=34531",
+      "published": "2026-09-30T12:48:24+09:00",
+      "summary": "<p>안녕하세요. 감정 일기 앱 ‘내일쓰기’를 만들고 있습니다.</p>\n<p>상담을 받으며 매일 감정을 적어보라는 권유를 받았는데, 정작 힘든 날에는 한 줄도 쓰기 어려웠습니다. 쓸 말이 없어서가 아니라 문장으로 정리할 기운이 없었습니다. 그런 날에도 기록을 남길 수 있으면 좋겠다는 생각으로 시작했습니다.</p>\n<p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Conn - AI와 함께 쓰고, 언제든 내가 끼어드는 터미널",
+      "link": "https://news.hada.io/topic?id=34530",
+      "published": "2026-09-30T12:39:47+09:00",
+      "summary": "<p>회사 사내망에서는 GitHub Copilot만 쓸 수 있어 터미널을 연결해 작업을 맡겨봤습니다. 원치 않는 스크립트를 실행하는데, 위험한 명령을 막거나 중간에 끼어들기가 어렵더군요.</p>\n<p>iTerm MCP도 고려했지만, 제가 필요했던 건 명령에 규칙을 정하고 언제든 직접 개입할 수 있는 터미널이었습니다. 그래서 Conn을",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
+      "link": "https://news.hada.io/topic?id=34528",
+      "published": "2026-09-30T12:27:13+09:00",
+      "summary": "<ul>\n<li>OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개</li>\n<li>개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식</li>\n<li>주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음 행동 선택</li>\n<li>OpenAI 발표 기준 응답 시간은 <strong>1...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Barracks - macOS에서 여러 Claude/ChatGPT 앱 돌리기",
+      "link": "https://news.hada.io/topic?id=34527",
+      "published": "2026-09-30T12:03:15+09:00",
+      "summary": "<p>Claude(Code) &amp; ChatGPT(Codex)를 CLI 대신 앱으로 쓰기 시작한 지 좀 됐는데 두 앱 모두 앱 내 계정 스위치를 지원하지 않아 <code>--user-data-dir</code>를 설정해서 띄우는 방식으로 여러 인스턴스를 띄워 사용했으나 관리가 귀찮고 앱 업데이트 때마다 다른 앱을 끄기 전까지 업데이트가 되지 않거나 앱이 튕...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "published": "Wed, 30 Sep 2026 04:08:00 +0000",
+      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "published": "Tue, 29 Sep 2026 22:18:35 +0000",
+      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "published": "Tue, 29 Sep 2026 21:51:36 +0000",
+      "summary": "EliseAI raises $350M, doubles valuation in a year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "link": "https://github.com/ninjahawk/livenerf",
+      "published": "Tue, 29 Sep 2026 22:36:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49901736\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "link": "https://github.com/Sparticle62ops/pssa",
+      "published": "Wed, 30 Sep 2026 03:19:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49903993\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
+      "published": "Tue, 29 Sep 2026 17:07:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49896604\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "published": "Tue, 29 Sep 2026 19:30:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49899090\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
+      "published": "Tue, 29 Sep 2026 14:04:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49893509\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
