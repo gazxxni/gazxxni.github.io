@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU 텍스트 렌더링 비교",
+      "link": "https://news.hada.io/topic?id=34584",
+      "published": "2026-10-01T12:47:23+09:00",
+      "summary": "<ul>\n<li>GPU 텍스트 렌더링은 <strong>미리 생성한 텍스처를 샘플링하는 방식</strong>과 <strong>윤곽선을 직접 처리하는 방식</strong> 사이에서 화질, 메모리, 연산 비용을 절충함</li>\n<li><strong>SDF</strong>는 픽셀 대신 경계까지의 거리를 저장해 확대 품질을 높이지만 모서리가 둥글어지고, <strong>MSDF</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "극비 위성 URSALA, RAQUEL, FARRAH (2025)",
+      "link": "https://news.hada.io/topic?id=34583",
+      "published": "2026-10-01T12:44:22+09:00",
+      "summary": "<ul>\n<li><strong>URSALA, RAQUEL, FARRAH</strong> 등 최근 기밀이 해제된 미국 저궤도 신호정보 위성들은 국가 지도부용 정보 수집에서 전 세계 전술부대 직접 지원으로 임무를 확장함</li>\n<li>작은 위성에 탑재한 <strong>접시형 안테나와 극궤도</strong>를 활용해 희미한 레이더 신호를 수집하고 전 지구를 탐색했...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
+      "link": "https://news.hada.io/topic?id=34581",
+      "published": "2026-10-01T11:17:11+09:00",
+      "summary": "<ul>\n<li>VC 투자자 Akshay Mehra의 글. 5년 전만 해도 마켓플레이스, &quot;X계의 우버&quot;, 버티컬 SaaS, 네오뱅크 피치가 넘쳤는데, 지금은 자본 집약적이라 외면받던 <strong>하드 사이언스(딥테크)</strong> 가 중심으로 올라옴</li>\n<li>피터 틸의 &quot;날아다니는 자동차를 원했는데 140자를 얻었다&quot;는 말...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
+      "link": "https://news.hada.io/topic?id=34580",
+      "published": "2026-10-01T11:10:57+09:00",
+      "summary": "<ul>\n<li>Railcode 웹사이트는 코딩 에이전트가 만든 여러 시안에서 아이디어를 골라 <strong>반복적으로 다듬는 과정</strong>을 거쳐 완성됨. 디자이너를 대체하기보다, 비디자이너도 자신이 좋아하는 디자인을 실제로 구현할 수 있었던 사례임</li>\n<li>‘코드를 레일 위에 올린다’는 제품 개념과 사용하는 재미를 결...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "TLA+가 검증할 수 있는 것과 없는 것",
+      "link": "https://news.hada.io/topic?id=34579",
+      "published": "2026-10-01T10:35:03+09:00",
+      "summary": "<ul>\n<li><strong>TLA+</strong> 는 복잡한 동시성 시스템의 불변식과 활성 속성을 검증하는 데 유용하지만, 에이전트 기반 소프트웨어 개발의 모든 문제를 해결하지는 못함</li>\n<li>검증하려면 원하는 속성을 <strong>논리식으로 표현</strong>할 수 있어야 하며, 올바른 설계가 자동으로 올바른 코드로 이어지는 것도...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "published": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "published": "Wed, 30 Sep 2026 20:39:09 +0000",
+      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "published": "Wed, 30 Sep 2026 20:20:02 +0000",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "published": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49913571\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "published": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915082\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915126\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "published": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49912955\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why the Bronze Age Collapsed",
+      "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "published": "Tue, 29 Sep 2026 10:10:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49890732\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
