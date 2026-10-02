@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "title": "Linux 커널에서 여러 취약점 발견",
+      "link": "https://news.hada.io/topic?id=34652",
+      "published": "2026-10-02T12:31:49+09:00",
+      "summary": "<ul>\n<li>Linux 커널에서 <strong>권한 상승, 서비스 거부, 정보 유출</strong>로 이어질 수 있는 여러 취약점이 발견됨</li>\n<li>Debian은 <strong>DSA-6528-1</strong> 보안 공지를 통해 <code>linux</code> 패키지의 보안 업데이트를 안내함</li>\n<li>안정 배포판 <strong>trixie</strong>에서는 <strong>6.12.111-1...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
+      "link": "https://news.hada.io/topic?id=34651",
+      "published": "2026-10-02T11:40:56+09:00",
+      "summary": "<ul>\n<li>AI가 만든 긴 글을 사람이 읽기 쉬운 요약으로 만들어 줌 (Meat Proxy에서 벗어나기 위한 몸부림)</li>\n<li>단축키(기본 ⌃X)를 누르면 어떤 앱에서든 바로 동작. 브라우저, 채팅 앱, 터미널 모두</li>\n<li>AI 답변, 장문의 리포트, 미팅 기록, 채팅 대화, PR 설명을 요약 (PR은 &quot;무엇이 바뀌었나 + 무엇을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://news.hada.io/topic?id=34650",
+      "published": "2026-10-02T11:32:29+09:00",
+      "summary": "<ul>\n<li>Svelte 공식 애플리케이션 프레임워크 <strong>SvelteKit 3.0</strong>이 출시됨. 기존 구조를 유지하면서 완성도와 타입 안전성을 높이고 불필요한 요소를 줄임</li>\n<li><strong><code>sv migrate</code></strong> 가 가능한 코드를 자동으로 마이그레이션하고, 나머지 작업은 TODO 목록으로 생성함. 메이저 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: oh-my-jev - Jev-Style 판단 모델을 벤치마크하고 테스트하고 직접 파인튜닝까지 가능한 오픈소스 도구",
+      "link": "https://news.hada.io/topic?id=34649",
+      "published": "2026-10-02T09:56:22+09:00",
+      "summary": "<p>소개</p>\n<ul>\n<li>판단 모델이란 &quot;어느 팀으로 보낼까&quot;, &quot;규정 위반인가&quot; 같은 정해진 질문에 문장 대신 선택지별 확률로 답하는 모델임. TypeSafe의 Jev가 대표적이고, 공개 이후 오픈 복제 모델이 빠르게 늘어남</li>\n<li>oh-my-jev는 이런 모델을 한곳에서 서빙, 비교, 학습하는 CLI와 웹 UI",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "RacketCon이 토요일에 열림",
+      "link": "https://news.hada.io/topic?id=34648",
+      "published": "2026-10-02T09:41:54+09:00",
+      "summary": "<ul>\n<li><strong>제16회 RacketCon</strong>이 2026년 10월 3~4일 미국 캘리포니아주 Oakland에서 열리며, Racket에 관심 있는 누구나 참여할 수 있음</li>\n<li><strong>등록이 시작</strong>됐으며 9월 13일 이전에는 조기 등록 할인을 받을 수 있음</li>\n<li>토요일에는 <strong>타입 추론, 저수준 프로그래밍, 매크로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "published": "Fri, 02 Oct 2026 00:57:57 +0000",
+      "summary": "A new California law places new rules on autonomous vehicles operators",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "Fri, 02 Oct 2026 00:03:23 +0000",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "published": "Thu, 01 Oct 2026 21:57:08 +0000",
+      "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "published": "Thu, 01 Oct 2026 21:55:22 +0000",
+      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "published": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49926069\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "published": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49928121\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49929489\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "published": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49923692\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "published": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49929113\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
