@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "title": "중국의 사회적 현실에 관하여",
+      "link": "https://news.hada.io/topic?id=34700",
+      "published": "2026-10-03T12:37:49+09:00",
+      "summary": "<ul>\n<li>중국에 <strong>AI 안전과 합리주의</strong>를 확산하려면 콘텐츠 소비 방식, 체면, 인간 본성에 대한 냉소, 민족주의의 차이를 고려해야 할 수 있으며, 이 논의의 근거는 <strong>직관과 일화</strong>에 한정됨</li>\n<li>중국의 AI 콘텐츠 수용은 기술 낙관론뿐 아니라 기존 <strong>대량생산 콘텐츠에 대한...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
+      "link": "https://news.hada.io/topic?id=34698",
+      "published": "2026-10-03T11:33:57+09:00",
+      "summary": "<ul>\n<li><strong>DwarfStar 4(ds4)</strong> 는 대용량 메모리를 갖춘 Mac, CUDA, ROCm 머신용 C 추론 엔진으로, DeepSeek V4/V4.1 Flash, GLM 5.x, Qwen3.8 Flash Next의 텍스트 및 비전 모델을 지원함</li>\n<li><strong>비대칭 2비트 양자화</strong>로 라우팅되는 전문가를 압축하면서 중요한 공유 경로의 정밀도를 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
+      "link": "https://news.hada.io/topic?id=34697",
+      "published": "2026-10-03T11:08:55+09:00",
+      "summary": "<p>안녕하세요, 쇼츠존(Shorts Zone) 만들고 있는 있습니다.</p>\n<p>롱폼 영상 하나 올리면 편집 에이전트가 통째로 다 보고,<br />\n어디를 잘라야 쇼츠가 되는지부터 자막·리프레이밍·타이틀까지<br />\n알아서 끝내주는 서비스예요.</p>\n<p>지금까지 나온 쇼츠 자동화 툴들 여러 개 써봤는데<br />\n&quot;똑똑함&quot;과",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
+      "link": "https://news.hada.io/topic?id=34696",
+      "published": "2026-10-03T11:06:15+09:00",
+      "summary": "<p>안녕하세요.<br />\nShow는 처음이라 어색하네요.</p>\n<p>혼자 개발하고 있는 macOS용 이퀄라이저 OP!Amp를 소개합니다.</p>\n<p>음악 앱, 브라우저 등 Mac에서 나오는 모든 소리를 한곳에서 조절할 수 있습니다.<br />\n기능 제한 없이 무료로 사용할 수 있습니다.</p>\n<p>주요 기능은 다음과 같습니다.</p>\n<ul>\n<li>그",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+      "link": "https://news.hada.io/topic?id=34694",
+      "published": "2026-10-03T09:30:02+09:00",
+      "summary": "<ul>\n<li>채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 <strong>순서대로 저장하고 실시간으로 전달</strong>하는 스트림 서버\n<ul>\n<li>읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용</li>\n</ul>\n</li>\n<li>모든 레코드와 쓰기 복구 로그인 WAL을 <strong>S3 호환...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "published": "Sat, 03 Oct 2026 00:21:57 +0000",
+      "summary": "The proposed legislation would extend to all automotica license plate readers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "published": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "published": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49940394\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "published": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49933869\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "published": "Thu, 01 Oct 2026 22:23:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49927754\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "published": "Sat, 03 Oct 2026 00:23:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49940219\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "published": "Thu, 01 Oct 2026 18:20:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49925184\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
