@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-05",
+  "articles": [
+    {
+      "title": "SSH와 Nginx로 직접 호스팅하는 HTTP 터널",
+      "link": "https://news.hada.io/topic?id=34802",
+      "published": "2026-10-05T12:40:05+09:00",
+      "summary": "<ul>\n<li><strong>OpenSSH와 nginx</strong>만으로 로컬 HTTP 서비스를 외부에 공유하는 터널을 구성할 수 있음. 짧은 SSH 명령 하나로 터널을 열고 공유용 HTTPS URL을 얻음</li>\n<li><strong>SSH 원격 포트 포워딩</strong>이 서버의 빈 포트를 로컬 서비스에 연결하고, nginx는 서브도메인에서 포트 번호를 추출해 해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "F1, 소프트웨어 버그로 가속 페달 먹통에 드라이버들 반발",
+      "link": "https://news.hada.io/topic?id=34800",
+      "published": "2026-10-05T12:37:04+09:00",
+      "summary": "<ul>\n<li>말레이시아 Sepang에서 열린 바레인 GP에서 다수 차량이 <strong>소프트웨어 오류로 공회전 상태에 갇혀</strong>, 예정된 출발이 중단됨</li>\n<li>2026년형 차량의 첫 우천 레이스에서 파워 유닛 제어기의 <strong>우천 모드</strong>가 극저속 주행 중 버그를 유발함</li>\n<li>FIA는 적기 중단 중 <strong>11...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: smooth-stream - Claude Code 답변을 타자기처럼 부드럽게 보여주는 mod",
+      "link": "https://news.hada.io/topic?id=34799",
+      "published": "2026-10-05T12:19:00+09:00",
+      "summary": "<p>Claude Code CLI는 스트리밍 응답이 청크 단위로 툭툭 끊겨서 나타나는데, 이걸 claude.ai 웹처럼 한 글자씩 부드럽게 흘러나오게 바꿔주는 mod를 만들었습니다.<br />\n공식 이슈에도 같은 요청이 두 번(#66432, #76432) 있었지만 반영되지 않고 닫혀서, 이번에 나온 mods 기능으로 직접 구현해 봤습니다.</p>\n<p>기능",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+      "link": "https://news.hada.io/topic?id=34798",
+      "published": "2026-10-05T11:36:45+09:00",
+      "summary": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Infidel이 폭주하다",
+      "link": "https://news.hada.io/topic?id=34797",
+      "published": "2026-10-05T11:34:48+09:00",
+      "summary": "<ul>\n<li>Infocom의 <strong>Infidel</strong>에서 사막에 내려놓은 물건을 처리할 때 엉뚱한 메모리를 덮어쓰는 <strong>컴파일러 버그</strong>가 발견됨</li>\n<li>ZIL 컴파일 결과가 전역 변수의 값을 인수 기본값으로 사용하지 않고 <strong>전역 변수 번호 30</strong>을 사용해, 원래 배열 주소인 11129 대신 주소...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "published": "Sun, 04 Oct 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "published": "Sat, 03 Oct 2026 19:33:15 +0000",
+      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49959869\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "published": "Sun, 04 Oct 2026 12:51:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49953495\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "published": "Sun, 04 Oct 2026 21:01:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49957812\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "published": "Mon, 05 Oct 2026 02:31:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49960084\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Infidel goes wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "published": "Sat, 03 Oct 2026 12:19:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49943637\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
