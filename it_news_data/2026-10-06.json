@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
+      "link": "https://news.hada.io/topic?id=34872",
+      "published": "2026-10-06T13:08:16+09:00",
+      "summary": "<ul>\n<li>문서 예시용 예약 도메인인 <strong>example.com</strong>이 2026년 9월 28일 정적 영어 페이지에서 <strong>6개 언어를 5초마다 전환하는 페이지</strong>로 바뀜</li>\n<li>언어 전환은 JavaScript로 처리하며, 글자마다 별도의 <code>span</code>과 점진적인 <strong><code>transition-delay</code></strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "수학의 미래",
+      "link": "https://news.hada.io/topic?id=34870",
+      "published": "2026-10-06T11:46:40+09:00",
+      "summary": "<ul>\n<li>AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, <strong>문제 해결과 수학적 이해의 증진</strong>이 분리되고 있음. 중요한 질문은 수학이 여전히 필요한지가 아니라 AI 시대에 어떻게 이해를 추구할지임</li>\n<li><strong>더 어려운 문제</strong>에 도전할 여지는 여전히 큼. 현재 AI는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
+      "link": "https://news.hada.io/topic?id=34869",
+      "published": "2026-10-06T11:43:40+09:00",
+      "summary": "<ul>\n<li>텍사스주 <strong>North Richland Hills</strong>가 경찰의 Flock 사용 관련 공공기록을 요청한 단체에 <strong>230만 달러</strong>를 요구함. 관련 통신 자료를 검색하는 데 약 14년치 노동이 필요하다는 근거를 내세움</li>\n<li><strong>공공기록 공개 비용</strong>은 기관마다 크게 다르며, 고액 수수료가...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
+      "link": "https://news.hada.io/topic?id=34868",
+      "published": "2026-10-06T11:40:40+09:00",
+      "summary": "<ul>\n<li><strong>Dust</strong>는 토큰마다 활성값에 독립적인 잡음을 더하고 손실 감소량을 보상으로 삼아 그래디언트를 추정하는 0차 최적화 방법으로, 큰 탐색 집단을 사용하면 사전학습에서 역전파에 근접하거나 일부 설정에서 더 낮은 손실을 달성함</li>\n<li><strong>가상 집단(virtual population)</strong> 방식...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
+      "link": "https://news.hada.io/topic?id=34867",
+      "published": "2026-10-06T11:07:52+09:00",
+      "summary": "<p>안드로이드 앱 여러 개를 혼자 운영하고 있습니다. 아침마다 PC로 AdMob 콘솔에 들어가 앱 고르고 기간 바꿔 가며 어제 수익을 확인하는 게 번거로워서, 폰에서 바로 보려고 만들었습니다.</p>\n<p>홈에서 오늘·어제·이번 달 수익과 전일 대비 증감을 보고, 앱은 수익 순으로 정렬됩니다. 앱을 누르면 그 앱의 최근 7일",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "published": "Mon, 05 Oct 2026 21:54:01 +0000",
+      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "published": "Mon, 05 Oct 2026 19:38:07 +0000",
+      "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "link": "https://www.vivienhenz.com/common-lisp",
+      "published": "Tue, 06 Oct 2026 02:51:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49973598\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "link": "https://reflection.ai/blog/introducing-beam",
+      "published": "Mon, 05 Oct 2026 19:16:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49969183\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "published": "Mon, 05 Oct 2026 21:40:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49971230\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "published": "Mon, 05 Oct 2026 22:55:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49971921\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "published": "Mon, 05 Oct 2026 21:15:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49970871\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
