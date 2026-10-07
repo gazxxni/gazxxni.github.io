@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "title": "AnyPS5 - 에뮬레이션 없이 PS5 바이너리를 PC로 포팅하는 도구(시스템 라이브러리 87% 매핑)",
+      "link": "https://news.hada.io/topic?id=34927",
+      "published": "2026-10-07T12:32:42+09:00",
+      "summary": "<ul>\n<li><strong>AnyPS5</strong>는 실행 파일을 Linux와 Windows로 자동 포팅하며, 에뮬레이션이나 별도의 런타임 프로세스를 사용하지 않음</li>\n<li><strong>리링커(relinker)</strong> 가 실행 파일을 대상 시스템의 네이티브 형식으로 변환하고, 동적 링크용 시스템 PRX 라이브러리 구현을 제공함</li>\n<li>시스템...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어 팩토리 패턴 시도하기",
+      "link": "https://news.hada.io/topic?id=34925",
+      "published": "2026-10-07T11:25:02+09:00",
+      "summary": "<ul>\n<li>에이전트에게 개별 티켓을 맡기는 대신, <strong>프로젝트 목표와 지표를 확인하며 필요한 작업을 찾아 수행하는 ‘소프트웨어 팩토리’</strong> 를 실험 중임</li>\n<li><code>/linear-project-loop</code>는 Linear 프로젝트를 읽고 <strong>목표·접근 방식이 담긴 문서와 진척을 측정할 대시보드·쿼리</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 웹 변경 모니터링하는 크롬 확장프로그램",
+      "link": "https://news.hada.io/topic?id=34924",
+      "published": "2026-10-07T10:44:34+09:00",
+      "summary": "<p>긱뉴스는 연령대가 조금 높으셔서 아마 RSS를 많이 쓰실것 같아요.<br />\nRSS를 지원하는 곳도 많고 요즘은 RSS를 지원하지 않아도 RSS로 바꿔주는 서비스도 많긴 한데<br />\n저는 RSS가 익숙한 세대도 아니고 그리고 RSS를 지원하지 않는 사이트들도 변경을 추적하고 싶어서<br />\n웹페이지 변경을 추적하는 크롬 확...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
+      "link": "https://news.hada.io/topic?id=34923",
+      "published": "2026-10-07T10:33:49+09:00",
+      "summary": "<ul>\n<li>OpenAI가 <strong>텍스트·이미지를 평가해 확률, 선택지와 점수를 반환하는 Decisions API</strong>의 공개 베타를 시작함. 서술형 답변 대신 앱에서 바로 사용할 판단 결과를 제공하며, Responses API보다 약 <strong>10배 빠름</strong></li>\n<li><strong>조건이 참일 확률, 고정 선택지 중 하나, 평가 기준에...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
+      "link": "https://news.hada.io/topic?id=34922",
+      "published": "2026-10-07T10:05:02+09:00",
+      "summary": "<ul>\n<li>AI를 받아들일지 거부할지만 논쟁하기보다 <strong>창작자의 기여 인정, 동의와 보상</strong>을 먼저 정해야 함. 창작자의 작업 위에 일방적으로 쌓아 올리지 말고, 창작자와 함께 만들어야 함</li>\n<li>할리우드의 저항은 단순한 기술 거부가 아니라 <strong>자신의 작업에 대한 애정과 일자리 상실의 두려움...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "published": "Tue, 06 Oct 2026 22:55:39 +0000",
+      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "published": "Tue, 06 Oct 2026 22:53:09 +0000",
+      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "published": "Tue, 06 Oct 2026 20:47:01 +0000",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "published": "Tue, 06 Oct 2026 22:17:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49984923\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mistral Large 4",
+      "link": "https://mistral.ai/news/mistral-large-4/\\",
+      "published": "Tue, 06 Oct 2026 13:15:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49977979\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "published": "Wed, 07 Oct 2026 02:02:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49987076\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "link": "https://developers.openai.com/api/docs/guides/decisions",
+      "published": "Tue, 06 Oct 2026 20:57:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49984025\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "link": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "published": "Sun, 04 Oct 2026 05:17:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49950865\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
