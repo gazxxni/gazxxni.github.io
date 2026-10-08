@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-08",
+  "articles": [
+    {
+      "title": "SQLite의 확장은 더 큰 DB가 아니라 더 많은 DB",
+      "link": "https://news.hada.io/article/sqlite-a-database-for-every-app",
+      "published": "2026-10-08T13:17:37+09:00",
+      "summary": "<p>사실 <a href=\"https://news.hada.io/topic?id=26449\">Postgres 하나면 대부분의 애플리케이션을 만들 수 있습니다</a>.<br />\n여러 사용자가 동시에 데이터를 수정하고, 여러 서버와 도구가 하나의 상태를 공유하는 데 이미 검증된 선택입니다.<br />\n저도 특별한 이유가 없다면 Postgres로 시작하는 게 자연스럽다고...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: BoltPDF - Rust로 PDF 엔진을 직접 만든 무료 윈도우 PDF 편집기",
+      "link": "https://news.hada.io/topic?id=34989",
+      "published": "2026-10-08T12:41:34+09:00",
+      "summary": "<p>PDF를 보고, 고치고, 서명하고, 변환하는 일을 한 프로그램에서 끝내려고 만든 윈도우용 PDF 편집기입니다. 처음엔 MuPDF 위에 만들었는데 0.10.0부터 엔진을 Rust로 직접 짠 YsPDF로 바꿨고, 지금 0.11.6까지 왔습니다.</p>\n<p>왜 만들었나</p>\n<p>국내에서 PDF 쓰는 일은 대부분 &quot;한 글자만 고치기&quot;, &qu",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rust 프로그래머를 위한 C",
+      "link": "https://news.hada.io/topic?id=34988",
+      "published": "2026-10-08T12:02:32+09:00",
+      "summary": "<ul>\n<li>Rust에 익숙한 개발자가 C를 배울 때는 <strong>타입 시스템과 컴파일러가 강제하지 않는 책임</strong>을 직접 챙겨야 함. 오류 처리, 문자열 종료, 포인터와 메모리 접근이 대표적임</li>\n<li>C 문자열은 길이를 별도로 저장하는 대신 <strong>널 종료 바이트 <code>\\0</code></strong> 를 사용하므로, 공간을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "D2Coding 폰트 1.4.0 공개 - 숫자 0 선택 기능과 한글/코드 표시 개선",
+      "link": "https://news.hada.io/topic?id=34987",
+      "published": "2026-10-08T11:10:01+09:00",
+      "summary": "<ul>\n<li>네이버의 <strong>코딩 전용 글꼴 D2Coding</strong> 새 버전으로, 한글/영문/숫자/기호가 섞인 코드의 가독성과 정렬을 개선</li>\n<li>기존의 빗금 있는 숫자 0 대신 <strong>가운데 점이 있는 0을 선택</strong>할 수 있는 기능 추가\n<ul>\n<li>기본 모양은 유지하며, OpenType의 <code>cv01</code> 또는 </p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "xAI, Grok Bot 직무별 활용 가이드 공개 - 전문 Bot으로 나만의 AI 팀 구성하기",
+      "link": "https://news.hada.io/topic?id=34986",
+      "published": "2026-10-08T10:55:01+09:00",
+      "summary": "<ul>\n<li><strong>마케팅, 영업, 채용, 법무, 고객지원, 개발, 디자인과 제품 관리</strong>에 Grok Bot을 적용하는 공식 가이드 모음으로, 업무 흐름과 프롬프트·Bot 템플릿 제공</li>\n<li>Grok Bot은 <strong>자체 클라우드 컴퓨터에서 상시 작동하는 에이전트</strong>로, 연결된 앱과 브라우저·터미널을 활용해 노트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "published": "Wed, 07 Oct 2026 22:59:16 +0000",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "published": "Wed, 07 Oct 2026 18:01:32 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49996437\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Living off-grid: Hundred Rabbits",
+      "link": "https://100r.ca/site/home.html",
+      "published": "Mon, 05 Oct 2026 21:08:33 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49970767\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49998895\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "published": "Mon, 05 Oct 2026 19:07:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49969073\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cleo (Mathematician)",
+      "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "published": "Tue, 06 Oct 2026 18:49:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49982445\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
