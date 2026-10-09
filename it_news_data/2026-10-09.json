@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "title": "Show HN: LED 필라멘트로 유연한 ‘네온’ 티셔츠 만들기",
+      "link": "https://news.hada.io/topic?id=35048",
+      "published": "2026-10-09T12:41:15+09:00",
+      "summary": "<ul>\n<li>회사의 네온 테마 행사에 맞춰 <strong>유연한 LED 필라멘트</strong>를 티셔츠에 꿰매고, USB 보조배터리로 구동하는 의상을 며칠 만에 제작함</li>\n<li>필라멘트는 <strong>길이를 잘라 조절할 수 없어</strong>, Inkscape에서 연속 경로를 그린 뒤 보유한 부품 길이에 맞춰 도안 크기를 조정함</li>\n<li>부드...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미국 남성, 봇으로 음악 스트리밍 횟수를 조작해 징역형 선고받음",
+      "link": "https://news.hada.io/topic?id=35047",
+      "published": "2026-10-09T12:38:15+09:00",
+      "summary": "<ul>\n<li><strong>Michael Smith</strong>가 AI 생성곡을 봇으로 반복 재생해 수백만 달러의 로열티를 챙긴 혐의로 <strong>징역 18개월</strong>을 선고받음</li>\n<li>2017년부터 2024년 체포될 때까지 부정하게 벌어들인 <strong>로열티 800만 달러</strong>도 몰수됨</li>\n<li>최대 <strong>1만 개의 허위 계정</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "DuckDB DuckLake",
+      "link": "https://news.hada.io/topic?id=35046",
+      "published": "2026-10-09T12:35:15+09:00",
+      "summary": "<ul>\n<li><strong>DuckLake</strong>는 SQL과 Parquet 기반의 개방형 레이크하우스 형식이며, DuckDB 확장을 통해 데이터를 직접 읽고 쓸 수 있음</li>\n<li><strong>메타데이터는 카탈로그 데이터베이스</strong>, 실제 데이터는 Parquet 파일에 나누어 저장함</li>\n<li>DuckLake 데이터베이스를 <strong><code>ATTACH...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "곧장 본론으로 들어가지 않는 것의 가치 (2015)",
+      "link": "https://news.hada.io/topic?id=35045",
+      "published": "2026-10-09T11:32:06+09:00",
+      "summary": "<ul>\n<li><strong>잡담과 대화의 의례</strong>는 불필요한 우회가 아니라, 민감한 이야기를 꺼낼 만큼 편안함과 신뢰를 쌓는 과정임</li>\n<li>음식과 음료는 대화 내내 무언가 말해야 한다는 부담을 덜어주며, 가벼운 이야기는 <strong>불편한 주제로 넘어가기 위한 준비</strong>가 될 수 있음</li>\n<li>언어는 감정을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "시스템으로 사고하고, 반복 루프로 출시하기",
+      "link": "https://news.hada.io/topic?id=35043",
+      "published": "2026-10-09T10:25:02+09:00",
+      "summary": "<ul>\n<li>소프트웨어 엔지니어링의 중심이 직접 코드를 작성하는 일에서 <strong>AI가 대규모로 올바른 코드를 작성하도록 시스템을 설계하는 일</strong>로 옮겨감</li>\n<li><strong>Artemis는 플랫폼의 모든 코드를 에이전트가 작성</strong>하며, 엔지니어는 시스템 설계·제약 설정·결과 검토를 맡음</li>\n<li>Grok 팀...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "published": "Thu, 08 Oct 2026 22:33:59 +0000",
+      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "published": "Thu, 08 Oct 2026 18:30:00 +0000",
+      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "published": "Thu, 08 Oct 2026 16:59:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50008427\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reducing undefined behavior in the C language",
+      "link": "https://lwn.net/Articles/1095811/",
+      "published": "Fri, 09 Oct 2026 02:02:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50015074\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "published": "Thu, 08 Oct 2026 17:51:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50009295\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "published": "Wed, 07 Oct 2026 16:56:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49995495\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "published": "Fri, 09 Oct 2026 03:08:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50015515\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
