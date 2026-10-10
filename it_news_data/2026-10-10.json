@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "title": "usAge - Claude·Codex·Cursor 등 AI 서비스의 사용량·잔여 한도·초기화 시각을 확인하는 앱",
+      "link": "https://news.hada.io/topic?id=35106",
+      "published": "2026-10-10T13:21:01+09:00",
+      "summary": "<p>안녕하세요. 여러 AI 서비스의 사용량과 남은 한도를 한곳에서 확인할 수 있는 앱, usAge를 만들었습니다.</p>\n<p>Claude, Codex, Cursor 등을 함께 쓰는 분들이 각 서비스의 대시보드를 따로 열지 않고도 얼마나 사용했는지, 언제 한도가 초기화되는지 확인할 수 있도록 만든 앱입니다. 앱 화면뿐 아니라 홈 화면 위",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "REA Reverse - 무엇이든 리버스 엔지니어링하기",
+      "link": "https://news.hada.io/topic?id=35105",
+      "published": "2026-10-10T12:32:32+09:00",
+      "summary": "<ul>\n<li><strong>REA</strong>는 코딩 에이전트가 프로그램 자체를 검사하고 동작을 설명하도록 도구를 제공하며, 분석한 기능을 변경하거나 재구현하는 데 활용할 수 있음</li>\n<li>사용자가 자연어로 질문하면 REA가 <strong>명령어, 디컴파일 코드, 호출 관계</strong> 등을 제공하고, 에이전트가 적용되는 분기와 계...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "코딩 에이전트는 왜 이렇게 멍청할까?",
+      "link": "https://news.hada.io/topic?id=35104",
+      "published": "2026-10-10T12:03:09+09:00",
+      "summary": "<ul>\n<li>AI 지원 개발은 발전했지만, <strong>모델을 코드베이스와 시스템에 연결하는 에이전트</strong>는 작업 관리, 위임, 소통에서 여전히 병목으로 남아 있음</li>\n<li>작업을 하위 과제로 나눠도 <strong>병렬 실행과 모델별 위임</strong>이 미흡해, 간단한 작업까지 느리고 비싼 모델에 맡기거나 사람이 직접 모...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "StepFun의 100만 토큰 컨텍스트 MoE 모델 Step 5 Preview, OpenRouter에 등장",
+      "link": "https://news.hada.io/topic?id=35103",
+      "published": "2026-10-10T11:48:41+09:00",
+      "summary": "<ul>\n<li><strong>Step 5 Preview</strong>는 대규모 코드베이스와 문서를 다루며 도구 사용과 여러 단계의 결과 개선을 수행하도록 설계한 StepFun의 에이전트 작업용 주력 모델임</li>\n<li><strong>희소 MoE</strong> 구조로 전체 6,000억 개 파라미터 중 270억 개를 활성화하며, <strong>100만 토큰 컨텍스트</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": ".lan 신규 gTLD 신청",
+      "link": "https://news.hada.io/topic?id=35102",
+      "published": "2026-10-10T11:45:40+09:00",
+      "summary": "<ul>\n<li><strong>Coffee Danger, LLC</strong>가 <code>.lan</code>을 신규 일반 최상위 도메인(gTLD)으로 신청함</li>\n<li>신청 상태는 <strong>활성(Active)</strong> 임</li>\n<li>현재는 <strong>평가 전 처리 단계(Pre-Evaluation Processing)</strong> 임</li>\n<li>신청자 소재지는 <strong>미국</strong>, 지역 구...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "published": "Sat, 10 Oct 2026 03:10:06 +0000",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Long live the mechanical keyboard",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "published": "Fri, 09 Oct 2026 22:08:24 +0000",
+      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "published": "Sat, 10 Oct 2026 00:37:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50028275\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "published": "Fri, 09 Oct 2026 13:03:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50019911\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "published": "Fri, 09 Oct 2026 15:51:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50022292\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "published": "Wed, 07 Oct 2026 19:15:57 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49997481\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "published": "Fri, 09 Oct 2026 14:56:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50021410\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
