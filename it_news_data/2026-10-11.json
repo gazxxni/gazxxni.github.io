@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-11",
+  "articles": [
+    {
+      "title": "WallHop - 12ft.io가 사라져 직접 만든 대체 서비스",
+      "link": "https://news.hada.io/topic?id=35146",
+      "published": "2026-10-11T12:36:22+09:00",
+      "summary": "<ul>\n<li><strong>WallHop</strong>은 기사 링크를 붙여 넣어 페이월 없이 무료로 읽을 수 있는 서비스이며, 회원가입이 필요 없음</li>\n<li><strong>iPhone 단축어</strong>로 공유 버튼에서 기사를 열 수 있음</li>\n<li>기사 URL 앞에 <strong><code>wallhop.io/</code></strong> 를 붙이는 방식으로도 이용 가능함</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나만의 의사결정 모델 만들기",
+      "link": "https://news.hada.io/topic?id=35145",
+      "published": "2026-10-11T12:33:22+09:00",
+      "summary": "<ul>\n<li>LLM의 출력을 고정된 선택지 토큰으로 제한하면 <strong>한 번의 순전파</strong>로 답을 선택하는 의사결정 모델을 구현할 수 있음</li>\n<li><strong>출력 제약</strong>은 선택지 밖의 응답을 막지만 정답을 보장하지 않으며, 토큰 확률도 추가 학습 없이는 실제 정답 확률과 다를 수 있음</li>\n<li><strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nix가 내 디버거의 절반을 만들어 줬다",
+      "link": "https://news.hada.io/topic?id=35144",
+      "published": "2026-10-11T11:32:39+09:00",
+      "summary": "<ul>\n<li><strong>Rewind VM</strong>은 스레드 스케줄까지 입력으로 결정되는 결정론적 VM으로, Nix 빌드의 경쟁 상태를 재현하고 분석함. 디버거에 필요한 입력, 소스, 디버그 심볼을 다른 머신에서도 확보하는 기반은 이미 <strong>Nix</strong>가 제공함</li>\n<li><strong><code>rewind check</code></strong> 는 스...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Ukemi - jj 작업 이력을 타임라인에서 확인하고 복원하는 macOS GUI",
+      "link": "https://news.hada.io/topic?id=35143",
+      "published": "2026-10-11T11:32:32+09:00",
+      "summary": "<p>안녕하세요. Jujutsu(jj)를 위한 macOS 데스크톱 GUI, <strong>Ukemi</strong>를 만들고 있습니다.</p>\n<p>git을 사용하면서 겪었던 아쉬움들이 jj에서는 호환성을 지켜주며 자연스럽게 해소해주는 것들로 처음 관심을 갖게 되었다가 아직 베타 버전에서 CLI로 진입하기에 쉽지 않아서 GUI 버전을 만들었습니다. 저는",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Knuth의 오류 발견 보상 수표",
+      "link": "https://news.hada.io/topic?id=35142",
+      "published": "2026-10-11T09:35:21+09:00",
+      "summary": "<ul>\n<li>Donald Knuth가 책의 오류 제보를 확인하고 <strong>보상 수표를 보낸 지 20년</strong>이 지난 시점의 회고임</li>\n<li>발견한 오류는 <strong>Computer Modern Typefaces</strong>에서 아라비아 숫자로 표시된 1쪽, 첫 문단의 첫 단어에 있었음</li>\n<li>제보자는 수많은 사람이 이미 검토한 책에서 오류를 찾...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "published": "Sat, 10 Oct 2026 17:00:00 +0000",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "published": "Sun, 11 Oct 2026 00:46:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50038634\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "published": "Sat, 10 Oct 2026 22:50:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50037949\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "2D Vehicles",
+      "link": "https://patkerr.co.uk/2d-vehicles/",
+      "published": "Wed, 07 Oct 2026 12:30:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49991852\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "link": "https://worldfacts.app",
+      "published": "Sun, 11 Oct 2026 03:13:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50039504\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "published": "Sat, 10 Oct 2026 20:31:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50036864\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
