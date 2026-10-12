@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-12",
+  "articles": [
+    {
+      "title": "홀로그래피는 그 후 어떻게 되었나? (2011)",
+      "link": "https://news.hada.io/topic?id=35222",
+      "published": "2026-10-12T13:31:16+09:00",
+      "summary": "홀로그래피는 그 후 어떻게 되었나? (2011)",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Jev를 검색 리랭커로 활용하기: 확률 기반 점수화와 평가 기준 설계",
+      "link": "https://news.hada.io/topic?id=35221",
+      "published": "2026-10-12T12:39:09+09:00",
+      "summary": "<ul>\n<li>TypeSafe의 판단 모델 <strong>Jev를 활용해 검색 결과를 재정렬하는 구현 방식과 평가 결과</strong>를 소개\n<ul>\n<li>주제가 비슷한 문서 중에서 실제로 질문에 답하고 요구 조건을 충족하는 문서를 상위로 배치하는 것이 목적</li>\n<li>검색으로 확보한 후보를 평가하는 단계로, 키워드 검색과 벡터 검색, 하...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 이득체크 - 질문 8개로 내가 받을 수 있는 정부·지역 혜택 판정",
+      "link": "https://news.hada.io/topic?id=35220",
+      "published": "2026-10-12T12:06:18+09:00",
+      "summary": "<p>이득체크를 만든 사람입니다. 정부·지역 혜택은 정보가 흩어져 있고, 조건이 「기준중위소득 60% 이하」처럼 쓰여 있어서 내가 받을 수 있는지 알기 어렵습니다. 그래서 사는 곳·나이·소득 등 8개 질문으로 지금 받을 수 있는 혜택을 판정하는 사이트를 만들었습니다. 가입 없이 바로 써 볼 수 있습니다.</p>\n<p>만들",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "상용 공간 오디오 효과를 역공학한 방법",
+      "link": "https://news.hada.io/topic?id=35219",
+      "published": "2026-10-12T11:40:13+09:00",
+      "summary": "<ul>\n<li>상용 오디오 프로그램의 내부 알고리듬 대신 <strong>입출력 동작을 측정</strong>하고, 스테레오 임펄스 응답 4개를 추출해 Linux에서 공간감을 재현함</li>\n<li>고정된 <strong>컨볼루션 필터</strong>로 재현할 수 있는지 확인하기 위해 입력 크기별 응답, 신호의 합산, 반복 재생 등으로 선형성과 시간 불변...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "브라우저 지문은 새로운 쿠키다",
+      "link": "https://news.hada.io/topic?id=35218",
+      "published": "2026-10-12T11:37:13+09:00",
+      "summary": "<ul>\n<li><strong>브라우저 지문 추적</strong>은 기기의 하드웨어와 소프트웨어 특성을 조합해 사용자를 구별하며, 쿠키 삭제나 VPN 연결만으로는 식별을 막지 못할 수 있음</li>\n<li><strong>Google</strong>은 서드파티 쿠키 폐지를 약속했다가 유지로 선회했고, 이후 광고 제품에서 <strong>기기 지문 추적</strong>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "Mon, 12 Oct 2026 00:59:01 +0000",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "published": "Sun, 11 Oct 2026 21:14:40 +0000",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "published": "Sun, 11 Oct 2026 20:51:47 +0000",
+      "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "published": "Sun, 11 Oct 2026 19:00:00 +0000",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "Sun, 11 Oct 2026 17:53:37 +0000",
+      "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "published": "Sun, 11 Oct 2026 22:33:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50048642\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "published": "Sun, 11 Oct 2026 23:50:34 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50049411\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "link": "https://nanolathe.gg",
+      "published": "Sun, 11 Oct 2026 18:04:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50045984\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Calculus with Julia",
+      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "published": "Sat, 10 Oct 2026 15:59:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50034206\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "published": "Sun, 11 Oct 2026 19:46:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50047091\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
