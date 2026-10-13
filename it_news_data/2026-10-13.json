@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-13",
+  "articles": [
+    {
+      "title": "Show GN: false-green-detector: 무의미한 테스트를 잡아내는 에이전트 스킬",
+      "link": "https://news.hada.io/topic?id=35278",
+      "published": "2026-10-13T14:19:58+09:00",
+      "summary": "<ul>\n<li>부실하거나 무의미한 테스트를 잡아내기 위한 에이전트 스킬</li>\n<li>AI 코딩 에이전트는 기능을 추가할 때마다 엄청난 양의 테스트 코드를 추가하는 특성이 있음. 이는 코드가 잘 검증되었다는 안도감을 줌.</li>\n<li>하지만 막상 테스트 내용을 확인해보면 내용이 부실한 것을 넘어서 기만적으로까지 보이는...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "미 연방 수사당국, Don Lemon의 프로듀서 추적에 가짜 기지국을 사용하기 위한 영장 확보",
+      "link": "https://news.hada.io/topic?id=35277",
+      "published": "2026-10-13T13:31:34+09:00",
+      "summary": "미 연방 수사당국, Don Lemon의 프로듀서 추적에 가짜 기지국을 사용하기 위한 영장 확보",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI와 Anthropic을 단호히 거부하자",
+      "link": "https://news.hada.io/topic?id=35275",
+      "published": "2026-10-13T12:33:42+09:00",
+      "summary": "<ul>\n<li><strong>오픈 웨이트 모델</strong>을 활용하면 ChatGPT와 Claude에 의존하지 않고도 강력한 LLM을 사용할 수 있으며, 실행 환경과 추론 제공업체를 선택할 수 있음</li>\n<li><strong>학습 사용 거부</strong>는 대화의 비공개성을 보장하지 않음. OpenAI와 Anthropic은 대화 데이터에 접근할 수 있으며, 장기적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 콘서트 티켓팅 연습 사이트를 만들었습니다",
+      "link": "https://news.hada.io/topic?id=35274",
+      "published": "2026-10-13T12:18:25+09:00",
+      "summary": "<p>콘서트 티켓팅 전에 미리 연습해 볼 수 있는 웹사이트를 만들었습니다.</p>\n<p>인기 콘서트 예매는 짧은 순간에 승부가 갈리다 보니, 막상 예매가 시작되면 긴장해서 실수하거나 원하는 좌석을 놓치는 경우가 많습니다.</p>\n<p>그래서 실제 티켓을 구매하지 않고도 브라우저에서 티켓팅을 연습할 수 있는 사이트를 만",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "RJ Mitte 별세",
+      "link": "https://news.hada.io/topic?id=35273",
+      "published": "2026-10-13T11:31:02+09:00",
+      "summary": "RJ Mitte 별세",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "published": "Mon, 12 Oct 2026 15:45:00 +0000",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "published": "Mon, 12 Oct 2026 15:31:19 +0000",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "published": "Tue, 13 Oct 2026 02:07:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50065692\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "link": "https://jsomers.net/e-coli-chemotaxis/",
+      "published": "Sun, 11 Oct 2026 11:02:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50041866\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-Legal",
+      "link": "https://z.ai/blog/glm-legal",
+      "published": "Mon, 12 Oct 2026 16:11:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50058507\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "published": "Mon, 12 Oct 2026 21:35:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50063365\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "published": "Mon, 12 Oct 2026 16:13:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50058528\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
