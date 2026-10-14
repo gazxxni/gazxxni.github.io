@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "title": "Apple, 새 ‘Switch to Safari’ 캠페인으로 Chrome을 떠나야 할 이유 소개",
+      "link": "https://news.hada.io/topic?id=35327",
+      "published": "2026-10-14T11:32:56+09:00",
+      "summary": "<ul>\n<li>Apple이 ‘<strong>Switch to Safari</strong>’ 웹페이지와 YouTube 영상 2개를 공개하며, Chrome보다 강력하고 개인정보 보호에 유리한 브라우저로 Safari를 홍보함</li>\n<li>Apple이 내세운 배터리 이점은 Mac에서 Chrome 대비 <strong>최대 5시간 더 긴 동영상 스트리밍</strong>임</li>\n<li>Apple에 따르면...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "로보틱스를 위한 Gemini 4 Argon",
+      "link": "https://news.hada.io/topic?id=35326",
+      "published": "2026-10-14T10:34:07+09:00",
+      "summary": "<ul>\n<li><strong>Gemini 4 Argon</strong>은 물리 추론, 코드 생성, 시각적 의미 추론을 결합해 로봇 제어부터 시뮬레이션 구축, 데이터 주석, 연구와 자기 개선까지 지원함</li>\n<li>3D 환경의 물리적 공간 문제 해결 능력을 평가하는 <strong>ERQA 벤치마크</strong>에서 순수 추론으로 <strong>87%</strong> 를 기록...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 자신이 독서를 기록하고 공유하는 사이트",
+      "link": "https://news.hada.io/topic?id=35324",
+      "published": "2026-10-14T10:21:59+09:00",
+      "summary": "<p>요즘 독서에 빠지면서 직접 기록하는 사이트를 만들어보고자 진행한 프로젝트입니다.<br />\n블로그에 독후감을 기록하듯이 자신이 읽은 책을 기록하며 남들과 공유할 수 있고,<br />\n다른 사람들은 어떤 책들을 읽는지 자유롭게 탐방할 수 있습니다.</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
+      "link": "https://news.hada.io/topic?id=35322",
+      "published": "2026-10-14T09:40:02+09:00",
+      "summary": "<ul>\n<li>슬라이드와 포스터, 대시보드를 <strong>수정 가능한 HTML/CSS로 생성</strong>하는 Microsoft의 AI 모델</li>\n<li>이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타일을 가져오고, <strong>문구와 수치는 프롬프트를 기준으로 생성</strong>하도록 학습</li>\n<li>결과물은 완전한 HTML 문서로 출력, ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "영국의 1인당 전력 생산량, 1970년대보다 적어짐",
+      "link": "https://news.hada.io/topic?id=35321",
+      "published": "2026-10-14T09:34:00+09:00",
+      "summary": "<ul>\n<li>영국의 <strong>1인당 전력 생산량</strong>은 2003년 정점 이후 3분의 1 넘게 감소해, 현재 1960년대 후반 수준으로 돌아감</li>\n<li>이와 반대로 전 세계 <strong>1인당 전력 생산량</strong>은 이번 세기 들어 50% 넘게 증가함</li>\n<li>발전량 감소의 일부는 <strong>전력 순수입 증가</strong>에 따른 것이...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "published": "Wed, 14 Oct 2026 01:30:42 +0000",
+      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://deepmind.google/models/gemini/",
+      "published": "Tue, 13 Oct 2026 16:03:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50073879\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "published": "Tue, 13 Oct 2026 19:11:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50077020\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "Mon, 12 Oct 2026 10:09:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50054092\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "link": "https://anitab.org/press-release",
+      "published": "Tue, 13 Oct 2026 22:46:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50080007\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "published": "Tue, 13 Oct 2026 15:49:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50073633\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
