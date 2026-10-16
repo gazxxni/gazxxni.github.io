@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "title": "맥북 덮어도 잠자지 않게 해주는 앱 - 코덱스, 클로드, Pi, OpenCode를 터미널에서 돌릴 때",
+      "link": "https://news.hada.io/topic?id=35460",
+      "published": "2026-10-16T12:11:53+09:00",
+      "summary": "<p>Codex CLI, Claude Code를 사용하는데 AI는 일하는데 나는 이동해야 하니까... 맥북 덮어도 잠자기 모드에 들어가지 못하게 명령을 내리고 맥북을 가방에 넣곤 했습니다.</p>\n<pre><code>sudo pmset -a disablesleep 1  \n</code></pre>\n<p>근데 이거 Caffeine처럼 마우스 딸깍으로 켜고 끄게 만들 수 있지 않을까 해서",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "원격 증명을 용인해서는 안 된다",
+      "link": "https://news.hada.io/topic?id=35459",
+      "published": "2026-10-16T12:02:48+09:00",
+      "summary": "<ul>\n<li><strong>원격 증명(remote attestation)</strong> 은 다른 기기에서 실행 중인 소프트웨어를 검증하는 기술로, 제3자가 사용자 소유 기기에서 무엇을 실행할 수 있는지 통제하는 수단이 됨</li>\n<li><strong>Google Play Integrity</strong>는 Google이 승인한 Android 시스템인지 판별하며, 이를 요구하는 앱은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "에픽게임즈, 런쳐 재작성과 Fortnite 라눅스 포팅",
+      "link": "https://news.hada.io/topic?id=35458",
+      "published": "2026-10-16T11:59:22+09:00",
+      "summary": "<h2><a href=\"https://store.epicgames.com/news/epic-games-launcher-preview\">런쳐</a></h2>\n<p>기존 Unreal Engine으로 작성된 런쳐에서, 웹 프레임워크 기반으로 전면 재작성(바이브코딩 사용)<br />\n로딩 속도 향상(경쟁사인 Steam의 런쳐보다 빠르다고 주장)<br />\n네이티브 리눅스 지원 추가 예정</p>\n<h2><a hre",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Withings 신규 사용자는 Apple Health 동기화에 연 99달러를 내야 함",
+      "link": "https://news.hada.io/topic?id=35456",
+      "published": "2026-10-16T11:33:23+09:00",
+      "summary": "<ul>\n<li>Withings는 <strong>2026년 10월 13일부터 생성된 계정</strong>의 외부 앱 자동 동기화를 Withings+ 구독에 포함함. 포럼 게시물에 기재된 구독료는 <strong>연 99.99달러</strong>임</li>\n<li><strong>2026년 10월 12일까지 생성된 기존 계정</strong>은 자동 동기화를 계속 무료로 이용할 수 있으며, 이후 새...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Microsoft, Xbox Labs 출범 - AI 기반 게임 이식과 재창작 가능성 탐색",
+      "link": "https://news.hada.io/topic?id=35455",
+      "published": "2026-10-16T11:20:02+09:00",
+      "summary": "<ul>\n<li>Microsoft가 게임 제작자와 엔지니어, 연구자로 구성된 <strong>Xbox Labs</strong> 출범. 게임을 원래 지원하지 않던 기기에서 실행하고 새롭게 변형하는 기술을 플레이어와 개발자가 경험할 수 있도록 실험</li>\n<li>Windows 게임의 <strong>Apple Silicon 이식, WebAssembly/WebGPU 기반 브라우저 실행, 서로...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "published": "Fri, 16 Oct 2026 01:17:43 +0000",
+      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "published": "Thu, 15 Oct 2026 23:33:45 +0000",
+      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "published": "Thu, 15 Oct 2026 20:38:13 +0000",
+      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "published": "Thu, 15 Oct 2026 17:47:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50107379\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "published": "Fri, 16 Oct 2026 00:52:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50112330\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "published": "Fri, 16 Oct 2026 01:43:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50112739\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "published": "Thu, 15 Oct 2026 23:37:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50111852\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Woman arrested after blocking delivery robot in Center City Philadelphia",
+      "link": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
+      "published": "Fri, 16 Oct 2026 02:04:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50112963\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
