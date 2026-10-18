@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-18",
+  "articles": [
+    {
+      "title": "저커버그의 Meta, 시위 당일 No Kings Instagram 계정 차단",
+      "link": "https://news.hada.io/topic?id=35561",
+      "published": "2026-10-18T11:32:13+09:00",
+      "summary": "<ul>\n<li>No Kings 주최 측에 따르면, Meta가 전국적인 시위와 사전투표 참여 독려가 진행되던 토요일에 연합의 <strong>Instagram 계정을 약 90분간 정지</strong>함</li>\n<li>계정이 다시 공개된 뒤에도 <strong>관리자 접근 권한</strong>은 복구되지 않아, 주최 측은 새 게시물을 올리지 못함</li>\n<li>주최 측에 따...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "이스라엘 정착민들, 서안지구에서 유럽 외교 차량 공격하고 프랑스 시장 폭행",
+      "link": "https://news.hada.io/topic?id=35559",
+      "published": "2026-10-18T10:36:53+09:00",
+      "summary": "<ul>\n<li>목격자와 외교관들에 따르면, 이스라엘 정착민들이 팔레스타인 주민의 <strong>올리브 수확</strong>을 저지하러 왔다가 Taybeh를 방문한 <strong>유럽 외교관 차량 행렬</strong>을 공격함</li>\n<li>프랑스 Aulnoye-Aymeries의 시장 <strong>Bernard Baudoux</strong>는 발길질과 쇠막대기 폭행을 당했다고 밝...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show HN: Esp32sim - 브라우저에서 ESP32 펌웨어 실행하기",
+      "link": "https://news.hada.io/topic?id=35558",
+      "published": "2026-10-18T10:33:53+09:00",
+      "summary": "<ul>\n<li><strong>esp32sim</strong>은 Rust로 구현한 명령어 수준 ESP32 에뮬레이터로, Xtensa와 RISC-V 기반 4개 SoC에서 실제 마스크 ROM, 부트로더, 수정하지 않은 애플리케이션을 실행함</li>\n<li><strong>WebAssembly</strong> 버전은 설치나 계정 없이 브라우저에서 실행되며, 디스플레이와 터치, 오디오, 카메라...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
+      "link": "https://news.hada.io/topic?id=35557",
+      "published": "2026-10-18T09:30:03+09:00",
+      "summary": "<ul>\n<li>여러 AI 에이전트를 <strong>독립된 샌드박스에서 실행</strong>하고, 대기 중인 에이전트의 자원을 회수하는 인프라 도구</li>\n<li>모델 응답이나 도구 실행을 기다리는 동안 <strong>메모리와 파일 상태를 저장</strong>하고, 요청이 들어오면 복원해 작업 재개</li>\n<li>미리 준비된 소수의 Kubernetes Pod를...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나는 일본 시민이 되었다",
+      "link": "https://news.hada.io/topic?id=35555",
+      "published": "2026-10-18T08:32:57+09:00",
+      "summary": "<ul>\n<li>Derek Wessman은 2012년과 2018년의 중단된 시도 끝에 2025년 2월 귀화를 정식 신청했고, <strong>2026년 6월 일본 국적을 취득</strong>함</li>\n<li>귀화 준비에는 가족관계와 평생의 거주/학업/직업 이력부터 개인과 회사의 재무자료까지 <strong>방대한 서류 작업</strong>이 필요했으며, 납세 여부뿐 아니라...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "published": "Sat, 17 Oct 2026 20:55:52 +0000",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "published": "Sat, 17 Oct 2026 15:30:00 +0000",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "published": "Sun, 18 Oct 2026 01:18:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50136881\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
+      "published": "Fri, 16 Oct 2026 23:38:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50126253\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lean Now Ships with Verified Kernels",
+      "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "published": "Fri, 16 Oct 2026 06:16:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50114758\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "published": "Fri, 16 Oct 2026 23:47:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50126312\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "published": "Sat, 17 Oct 2026 08:21:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50129045\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
