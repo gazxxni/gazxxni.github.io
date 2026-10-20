@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "title": "우크라이나, 드론으로 부상병을 처음 후송했다고 밝혀",
+      "link": "https://news.hada.io/topic?id=35683",
+      "published": "2026-10-20T11:36:32+09:00",
+      "summary": "<ul>\n<li>우크라이나 <strong>제92독립강습여단</strong>이 전선의 부상병을 공중 드론으로 후송하는 영상을 공개하고, <strong>세계 최초 사례</strong>라고 밝힘</li>\n<li>여단에 따르면 <strong>적 드론의 집중적인 활동과 지뢰</strong> 때문에 기존 무인 지상 차량으로는 부상병을 후송할 수 없었음</li>\n<li>사용 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+      "link": "https://news.hada.io/topic?id=35682",
+      "published": "2026-10-20T11:33:31+09:00",
+      "summary": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
+      "link": "https://news.hada.io/topic?id=35680",
+      "published": "2026-10-20T11:03:05+09:00",
+      "summary": "<p>안녕하세요. 개인 문서를 직접 관리할 수 있는 셀프 호스팅 문서 워크스페이스 Nopetion을 만들었습니다.</p>\n<p>Notion처럼 편리하게 문서를 작성하고 정리하면서도, 데이터와 서버를 직접 관리할 수 있는 환경을 목표로 개발했습니다.</p>\n<p>Nopetion은 오픈소스 문서 협업 도구인 Docmost를 기반으로 수정한 포크",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+      "link": "https://news.hada.io/topic?id=35676",
+      "published": "2026-10-20T10:28:32+09:00",
+      "summary": "<p>2주전부터 제 Claude Code 입력창 위에는 노란 줄이 하나 떠 있습니다. 동료의 PR이 사흘째 제 리뷰를 기다리고 있다는 뜻입니다.</p>\n<p>Claude Code를 쓰고부터 하루 대부분을 터미널에서 보내다 보니, PR을 올리는 속도는 빨라졌는데 리뷰 요청은 오히려 놓치게 되었습니다. GitHub 알림 탭을 열 일이 없어졌거든요",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
+      "link": "https://news.hada.io/topic?id=35674",
+      "published": "2026-10-20T10:10:28+09:00",
+      "summary": "<p><strong>무엇을 만들었는지</strong><br />\n웹페이지를 읽다가 문장을 드래그하면 형광펜(네 가지 색)을 긋고 그 자리에 메모를 달 수 있는 Chrome 확장입니다. 색 말고도 ? ! × ★ 기호를 같이 남길 수 있는데(저는 의문, 새로 안 것, 반박, 핵심 정도로 쓰고 있습니다), 밑줄을 긋고 나면 메모 칸이 열리면서 「왜 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "published": "Tue, 20 Oct 2026 02:00:00 +0000",
+      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "published": "Tue, 20 Oct 2026 00:53:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50159993\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "link": "https://www.minimax.io/blog/minimax-m31f",
+      "published": "Mon, 19 Oct 2026 16:39:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50154540\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+      "link": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
+      "published": "Tue, 20 Oct 2026 01:34:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50160289\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I built a drone with only one motor [video]",
+      "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "published": "Mon, 19 Oct 2026 09:05:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50150089\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "published": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50159341\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
