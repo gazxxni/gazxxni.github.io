@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-21",
+  "articles": [
+    {
+      "title": "2026년은 Rust 컴파일러에게도, 나에게도 흥미진진한 해",
+      "link": "https://news.hada.io/topic?id=35739",
+      "published": "2026-10-21T11:33:55+09:00",
+      "summary": "<ul>\n<li>Rust 컴파일러의 여러 <strong>장기 투자</strong>가 동시에 결실을 맺기 시작함. 차세대 트레이트 솔버와 새 빌림 검사기부터 빌드 성능과 내부 구조 개편까지 오랫동안 진행한 작업이 마무리 단계에 접근하고 있음</li>\n<li><strong>차세대 트레이트 솔버</strong>는 타입 시스템의 큰 부분을 재구현해 건전성...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "나의 친구 Bob Cringely",
+      "link": "https://news.hada.io/topic?id=35737",
+      "published": "2026-10-21T09:37:52+09:00",
+      "summary": "<ul>\n<li>Paul Tyma가 <strong>Bob Cringely와 나눈 30년의 인연</strong>을 추억함. Java 책을 칭찬하는 전화로 시작된 관계는 소프트웨어 개발 의뢰, 창업 아이디어 교류, 방송 출연 기회로 이어짐</li>\n<li>첫 공동 작업인 <strong>Pronto</strong>는 인터넷 연결의 유휴 시간에 잡지 PDF를 내려받아 집에서 자동 인쇄...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
+      "link": "https://news.hada.io/topic?id=35736",
+      "published": "2026-10-21T09:34:52+09:00",
+      "summary": "<ul>\n<li>멕시코만의 음향 조사와 수천 개의 그물 채집 표본을 분석한 연구에서 <strong>심해 생물 개체군의 회복 증거</strong>가 거의 발견되지 않음</li>\n<li>2010년 사고 이후 초기 몇 년 동안 문어, 오징어, 크릴, 새우, 샛비늘치 개체군이 <strong>최소 60% 감소</strong>함</li>\n<li>연구진은 <strong>원유 유출...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenIntelligentUI - ChatGPT Intelligent UI의 오픈소스 대체 구현",
+      "link": "https://news.hada.io/topic?id=35735",
+      "published": "2026-10-21T09:30:02+09:00",
+      "summary": "<ul>\n<li><strong>ChatGPT처럼 질문에 차트와 지도, 계산기, 조작 가능한 설명으로 답하는 UI를 자신의 앱에 구현</strong>하는 오픈소스 프로젝트</li>\n<li>질문에 따라 <strong>텍스트와 표, 차트, 다이어그램, 대화형 도구 중 적절한 형식을 선택</strong>해 대화 안에 표시</li>\n<li>알고리즘을 단계별로 따라가는 설...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "macOS에서 Touch ID로 SSH 키 설정하기",
+      "link": "https://news.hada.io/topic?id=35734",
+      "published": "2026-10-21T09:07:12+09:00",
+      "summary": "<ul>\n<li>Mac의 <strong>Secure Enclave</strong>에 추출할 수 없는 개인 키를 만들고, SSH 인증 때마다 <strong>Touch ID</strong>로 사용을 승인하는 구성이 가능함</li>\n<li>기본 제공 도구로 신원 생성, SSH 에이전트 등록, 공개 키 확인까지 <strong>명령 3개</strong>로 설정할 수 있으며 GitHub의 SSH 인증에도 적...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "published": "Tue, 20 Oct 2026 22:57:57 +0000",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50170593\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "published": "Wed, 21 Oct 2026 02:04:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50175185\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Future of CSS",
+      "link": "https://www.joshwcomeau.com/css/interop-2027/",
+      "published": "Wed, 21 Oct 2026 01:47:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50175070\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": "Tue, 20 Oct 2026 22:21:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50173487\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Good type against all odds",
+      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "published": "Wed, 21 Oct 2026 01:45:07 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50175059\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
