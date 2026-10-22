@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-22",
+  "articles": [
+    {
+      "title": "Show GN: php2go - php 를 golang 으로 마이그레이션하는 skills",
+      "link": "https://news.hada.io/topic?id=35791",
+      "published": "2026-10-22T12:17:54+09:00",
+      "summary": "<p>안녕하세요, 오픈소스 커뮤니티 고수다에서 php 를 go 로 전환하는 skill 모음을 공유드립니다.</p>\n<p>단순히 PHP 문법을 Go로 번역하는 것이 아니라, 기존 애플리케이션의 기능과 데이터를 보존하면서 유지보수 가능한 Go 코드로 전환하는 것이 목표입니다.</p>\n<p>주요 접근 방식은 다음과 같습니다.</p>\n<ul>\n<li",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "mitmproxy, --emudhra 옵션 추가",
+      "link": "https://news.hada.io/topic?id=35790",
+      "published": "2026-10-22T11:33:23+09:00",
+      "summary": "<ul>\n<li>mitmproxy에 <strong>손상된 eMudhra 중간 CA 키로 TLS 인증서를 서명</strong>하는 <code>--emudhra</code> 옵션이 추가됨</li>\n<li>옵션은 <strong>기본적으로 비활성화</strong>되어 있으며, 활성화하면 인증서 저장소의 기본 개인 키와 CA 체인을 내장된 eMudhra 자료로 교체함</li>\n<li><strong>EM OV TLS...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Google의 Rust 스타일 가이드",
+      "link": "https://news.hada.io/topic?id=35789",
+      "published": "2026-10-22T10:42:55+09:00",
+      "summary": "<ul>\n<li>Google은 Rust 코드의 <strong>가독성과 유지보수성</strong>, 코드베이스 전반의 일관성을 위해 포맷뿐 아니라 API와 구현 설계까지 규정함</li>\n<li>일반적인 Rust 관례를 따르되, 도구를 활용한 <strong>대규모 변경(LSC)</strong> 이 쉽도록 임포트, 모듈 구성, 매크로 사용 등에 별도 기준을 둠</li>\n<li>...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PingCAP TiDB 데이터 유출",
+      "link": "https://news.hada.io/topic?id=35788",
+      "published": "2026-10-22T10:39:55+09:00",
+      "summary": "<ul>\n<li>침해를 자처한 <strong>FulcrumSec</strong>이 TiDB Cloud의 제어 영역, 고객 데이터, 재무 기록, 소스 코드 등 <strong>10.6TB를 탈취했다며</strong> 1차 공개를 발표함</li>\n<li>저장소에 커밋된 클라우드 자격 증명으로 복제 파이프라인을 구성해, 22일 동안 <strong>6시간마다 88차례</strong> 운영 제어 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
+      "link": "https://news.hada.io/topic?id=35787",
+      "published": "2026-10-22T09:30:02+09:00",
+      "summary": "<ul>\n<li>시스템 운영팀을 위해, 운영 절차와 API 설명 옆에 <strong>실시간 지표를 표시</strong>하고, 문서와 차트 변경을 <strong>함께 검토하고 승인</strong> 가능</li>\n<li>Prometheus와 PostgreSQL/MySQL/MariaDB 쿼리로 시계열과 막대 차트, 게이지를 문서 안에 표시</li>\n<li><strong>Stripe 스타일의 좌우 분할...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "published": "Thu, 22 Oct 2026 00:17:54 +0000",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "published": "Wed, 21 Oct 2026 22:16:05 +0000",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published": "Wed, 21 Oct 2026 21:16:20 +0000",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "published": "Wed, 21 Oct 2026 23:51:37 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "published": "Thu, 22 Oct 2026 02:30:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "published": "Wed, 21 Oct 2026 23:13:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50188948\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "published": "Thu, 22 Oct 2026 01:52:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190168\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "published": "Wed, 21 Oct 2026 21:58:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50188228\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
