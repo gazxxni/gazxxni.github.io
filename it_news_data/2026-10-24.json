@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-24",
+  "articles": [
+    {
+      "title": "jank - C++과 매끄럽게 상호운용하는 네이티브 Clojure 방언",
+      "link": "https://news.hada.io/topic?id=35897",
+      "published": "2026-10-24T10:31:36+09:00",
+      "summary": "<ul>\n<li><strong>jank</strong>는 Java 대신 C++과 상호운용하는 Clojure 방언으로, C++ 헤더를 포함하면 별도 상용구 코드 없이 네이티브 기능을 사용할 수 있음</li>\n<li>템플릿, 가상 함수, 예외, 오버로드 결정, RAII를 지원하며, <strong>C++ 타입 시스템</strong>을 사용하고 C++ 코드로도 컴파일됨</li>\n<li></p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dessa - 텍스트 없이 사람의 대화만 듣고 배운 실시간 음성 AI",
+      "link": "https://news.hada.io/topic?id=35895",
+      "published": "2026-10-24T09:31:17+09:00",
+      "summary": "<ul>\n<li>Block이 <strong>텍스트와 사전학습 모델 없이 사람의 음성 대화만으로 처음부터 학습한</strong> 실시간 대화 모델 Dessa 공개</li>\n<li><strong>말하면서 동시에 상대의 말을 듣는 전이중 방식</strong>으로 대화 중 끼어들기와 맞장구, 웃음, 발화 타이밍을 처리</li>\n<li>음성을 텍스트로 바꾸며 놓치기 쉬...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rakazo - 내 PC에서 운영하는 Grok Bot 오픈소스 대체제",
+      "link": "https://news.hada.io/topic?id=35894",
+      "published": "2026-10-24T09:30:02+09:00",
+      "summary": "<ul>\n<li><strong>이메일 정리와 영업 조사, 경비 처리 등을 맡는 역할별 AI 비서</strong>를 직접 만들고 운영하는 오픈소스</li>\n<li>봇마다 <strong>대화와 메모리, 작업 이력을 유지</strong>해 매번 처음부터 설명하지 않고 업무를 이어가는 방식</li>\n<li><strong>브라우저와 터미널, 파일, 데스크톱 화면을 조작...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "소프트웨어가 느린 이유는 느린 언어가 아니라 나쁜 설계 때문이다",
+      "link": "https://news.hada.io/topic?id=35893",
+      "published": "2026-10-24T09:18:03+09:00",
+      "summary": "<ul>\n<li>AI로 프로그램을 C나 Rust로 다시 쓰기보다 <strong>설계를 개선하는 편이 큰 성능 향상</strong>으로 이어지는 경우가 많음</li>\n<li>데이터베이스와 네트워크를 기다리는 시간이 길다면 언어를 바꿔도 효과가 제한되며, 요청 시간의 절반이 DB 조회라면 나머지 코드를 아무리 빠르게 해도 전체 속도는 최대 2...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "“Rust보다 빠르다”는 주장 반박: Tov의 악의적 벤치마크",
+      "link": "https://news.hada.io/topic?id=35892",
+      "published": "2026-10-24T09:15:03+09:00",
+      "summary": "<ul>\n<li>Tov의 성능 비교를 <strong>3개 벤치마크로 재검증</strong>한 결과, 기존 수치를 재현하지 못하거나 Rust 구현을 수정했을 때 Tov와 비슷하거나 더 빠른 성능을 얻음</li>\n<li>Tov는 <strong>TypeScript를 C로 변환하고 clang으로 컴파일</strong>함. 일부 작업에서 Rust보다 10배 이상 빠르다는 홍보와 비교 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "published": "Fri, 23 Oct 2026 23:07:45 +0000",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "published": "Fri, 23 Oct 2026 20:57:13 +0000",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "published": "Fri, 23 Oct 2026 20:03:14 +0000",
+      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "published": "Fri, 23 Oct 2026 16:59:08 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50212065\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "published": "Fri, 23 Oct 2026 23:30:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50216791\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Twelve Years of Distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "published": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50217500\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "published": "Fri, 23 Oct 2026 12:28:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50207910\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "published": "Fri, 23 Oct 2026 21:21:47 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50215530\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
