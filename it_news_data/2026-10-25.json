@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-25",
+  "articles": [
+    {
+      "title": "미국 미디어, 영화, 예술 일자리 20만 개 감소, 얼마나 AI 때문일까?",
+      "link": "https://news.hada.io/topic?id=35952",
+      "published": "2026-10-25T11:33:45+09:00",
+      "summary": "<ul>\n<li>미국 <strong>창작 산업 일자리</strong>가 지난 4년간 20만 개 이상, 최근 1년간 약 5만 개 줄어듦. 전반적인 경기침체 없이 디지털 예술 전반에서 고용이 감소하는 반면, 대면 엔터테인먼트는 성장하고 있음</li>\n<li><strong>AI로 인한 감소분</strong>을 정확히 분리하기는 어려움. 미디어 기업이 AI 사용을...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "알츠하이머 연구의 돌파구: 뇌 플라크 제거 없이 수면 2시간 회복",
+      "link": "https://news.hada.io/topic?id=35951",
+      "published": "2026-10-25T10:39:41+09:00",
+      "summary": "<ul>\n<li>알츠하이머 유사 병리를 가진 <strong>생쥐에서 뇌 면역세포를 일시적으로 제거</strong>하자, 아밀로이드 플라크가 줄지 않았는데도 하루 수면이 <strong>2시간 이상 늘어남</strong></li>\n<li>플라크에 반응하는 <strong>미세아교세포(microglia)</strong> 의 과도한 염증 반응이 수면 장애에 직접 기여함을 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "우리가 만드는 소프트웨어에 더 큰 야심을 가져야 한다",
+      "link": "https://news.hada.io/topic?id=35950",
+      "published": "2026-10-25T10:36:41+09:00",
+      "summary": "<ul>\n<li>AI로 소프트웨어를 만드는 비용이 낮아지면서, 과거에는 규모가 너무 크거나 들일 시간에 비해 가치가 작았던 프로젝트도 <strong>실행 가능한 선택지</strong>가 됨</li>\n<li>저품질 AI 생성 프로젝트가 많다는 사실과 별개로, <strong>충분한 테스트와 벤치마크</strong>를 수행하면 실제로 쓸 만한 소프트웨...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI가 생성한 언어는 왜 이해하기 어려울까?",
+      "link": "https://news.hada.io/topic?id=35947",
+      "published": "2026-10-25T09:37:55+09:00",
+      "summary": "<ul>\n<li>다양한 분야의 AI 생성 텍스트를 분석한 결과, <strong>사람의 언어 처리 부담과 관련된 표현</strong>이 왕복 번역으로 바꿔 쓴 문장보다 더 자주 나타남</li>\n<li>인간의 글과 비교하면 조사 대상 <strong>9개 최상위권 및 준최상위권 모델 모두</strong> 무생물 주어와 유생물의 행동을 나타내는 동사의 조합...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Dream-1 - 처음 보는 양팔 로봇을 제로샷으로 제어하는 로봇 모델",
+      "link": "https://news.hada.io/topic?id=35946",
+      "published": "2026-10-25T09:34:54+09:00",
+      "summary": "<ul>\n<li>Dream Labs가 로봇별 시연 데이터나 미세조정 없이 새로운 양팔 로봇을 제어하는 <strong>Dream-1</strong>을 공개 API로 출시함. 현재 대상은 평행 그리퍼를 갖춘 양팔 로봇이며, 로봇에 따라 성능 차이가 있음</li>\n<li><strong>World Action Model(WAM)</strong> 은 영상과 행동을 함께 예측하고, 그리퍼의 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "published": "Sat, 24 Oct 2026 16:30:00 +0000",
+      "summary": "Instacart might sell itself to a larger competitor.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "link": "https://danluu.com/ambitious/",
+      "published": "Sat, 24 Oct 2026 21:47:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50225695\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "link": "https://aardappel.github.io/goose/",
+      "published": "Sat, 24 Oct 2026 19:06:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50224100\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
+      "published": "Sat, 24 Oct 2026 19:43:27 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50224422\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "published": "Sat, 24 Oct 2026 23:11:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50226419\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "published": "Sat, 24 Oct 2026 23:33:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50226577\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
