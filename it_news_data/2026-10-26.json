@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-26",
+  "articles": [
+    {
+      "title": "내가 프로그래머가 된 이유",
+      "link": "https://news.hada.io/topic?id=36014",
+      "published": "2026-10-26T11:38:20+09:00",
+      "summary": "<ul>\n<li>어린 시절 게임을 모으고 저장 파일을 고치던 경험이, <strong>데모를 직접 만들고 싶다는 열망</strong>으로 이어져 프로그래머라는 꿈을 갖게 됨</li>\n<li><strong>XTreeGold의 Hex View</strong>로 저장 파일의 비트를 바꿔 무한 목숨과 스테이지 건너뛰기를 구현하며, 컴퓨터를 스스로 통제하는 짜릿함을 경...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "최종 개표 결과 룰라의 대선 승리",
+      "link": "https://news.hada.io/topic?id=36013",
+      "published": "2026-10-26T11:35:20+09:00",
+      "summary": "최종 개표 결과 룰라의 대선 승리",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "중국의 벤처 생태계는 어떻게 작동하는가",
+      "link": "https://news.hada.io/topic?id=36012",
+      "published": "2026-10-26T11:00:03+09:00",
+      "summary": "<ul>\n<li>중국 스타트업의 자금 조달은 <strong>창업자 개인의 상환 책임</strong>, 제한적인 인수합병 시장, 정부 자금의 산업 육성 목표가 결합된 구조로, 실리콘밸리와 상당히 다르게 작동함</li>\n<li>일부 투자 계약은 정해진 기간 안에 기준 수익률을 넘겨 자금을 돌려주도록 요구해, 많은 스타트업이 준비가 충분해...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Pinterest, 사용자 활동에서 장기 목표를 추론하는 LLM 구축",
+      "link": "https://news.hada.io/topic?id=36011",
+      "published": "2026-10-26T10:50:02+09:00",
+      "summary": "<ul>\n<li>Pinterest가 검색과 저장 기록을 읽고 <strong>‘주방 리모델링’이나 ‘사워도우 배우기’처럼 사용자가 이루려는 목표를 추론</strong>해 추천과 알림에 활용</li>\n<li>키워드를 추출하고 묶어 이름을 붙이던 다단계 처리 대신, <strong>미세 조정한 40억 파라미터 LLM 하나가 활동 기록에서 목표 목록과 우선...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask GN: 메모리 도구 사용 경험 있나요?",
+      "link": "https://news.hada.io/topic?id=36010",
+      "published": "2026-10-26T10:43:40+09:00",
+      "summary": "<p>제가 느끼기에는 메모리 도구를 사용을 하시는 분을 많이 본적이 없는 거 같은데 메모리 도구를 사용해본 적이 있으신 분이나, 만들어 본 적 있으신 분 있나요?</p>\n<p>mem0, zep, supermemory, wontopos 등등</p>\n<p>제가 메모리를 엔진을 만들고 있는데 저 말고 다른 분들 의견도 궁금해서 물어보려고 글을 작성 해",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The best apps for tracking your reading and discovering new books",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "published": "Mon, 26 Oct 2026 01:10:00 +0000",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "published": "Sun, 25 Oct 2026 20:20:08 +0000",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "published": "Sun, 25 Oct 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "published": "Sun, 25 Oct 2026 18:23:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "published": "Mon, 26 Oct 2026 01:03:39 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237712\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "published": "Sun, 25 Oct 2026 23:27:30 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "link": "https://charliegerard.dev/blog/overgrown-extension/",
+      "published": "Thu, 22 Oct 2026 15:52:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50197108\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "published": "Sun, 25 Oct 2026 23:52:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237224\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
