@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-27",
+  "articles": [
+    {
+      "title": "태양광 발전, 원자력보다 커지고 있음",
+      "link": "https://news.hada.io/topic?id=36089",
+      "published": "2026-10-27T12:34:50+09:00",
+      "summary": "<ul>\n<li><strong>태양광 발전량</strong>이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함</li>\n<li><strong>중국의 대규모 생산과 공급 과잉</strong>, 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask GN: 이런 LLM 서비스 써보신분 계신가요?",
+      "link": "https://news.hada.io/topic?id=36088",
+      "published": "2026-10-27T11:32:17+09:00",
+      "summary": "<p>최근에 클루드 프로 구독요금제로 헤르메스 에이전트에 연동해서 써봤습니다.</p>\n<p>총 5개의 프로젝트 기획을 시켰는데 2시간만 써도 사용량 제한 걸리고 간단한 작업을 하는데도 한세월이고 제가 구독하는 요금만큼 평소에 자주쓰는게 아니고 가끔 많이 사용하는 패턴이라 구독이 아깝고 불편했습니다.</p>\n<p>그래",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역본으로 변환해 주는 Claude Code 스킬",
+      "link": "https://news.hada.io/topic?id=36087",
+      "published": "2026-10-27T10:47:08+09:00",
+      "summary": "<p>영어 논문을 단순히 번역기에 넣어 본 분들은 아시겠지만, 문장은 그럭저럭 나오는데 수식이 다 깨집니다.<br />\n그림이나 테이블도 깨지고, 이상한 곳에 붙어 있고요.<br />\n결국 가독성이 떨어져 다시 원문으로 돌아가게 됩니다.<br />\n한 마디로, 직관성이 떨어집니다.</p>\n<p>그래서 PDF를 번역하지 않고, arXiv에",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 호보코드 - 다시 간 장소에서 메모를 알려주는 아이폰 앱",
+      "link": "https://news.hada.io/topic?id=36086",
+      "published": "2026-10-27T10:43:17+09:00",
+      "summary": "<p>안녕하세요. 장소 메모 앱 호보코드를 만든 bigcat입니다.</p>\n<p>식당 주문 조합이나 카페 자리처럼, 다시 갔을 때 필요한 메모가 있습니다. 적어 둔 메모가 있어도 다음 방문 때 그 메모를 떠올리고 찾아보는 일은 남습니다. 그 과정을 줄여 보려고 호보코드를 만들었습니다.</p>\n<p>장소를 고르고 메모를 적은 뒤",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Spring AI Privacy Guardrails - Spring AI용 개인정보 보호, 도구 권한 제어, 콘텐츠 검사",
+      "link": "https://news.hada.io/topic?id=36083",
+      "published": "2026-10-27T09:45:53+09:00",
+      "summary": "<p>Spring AI를 위한 오픈소스 보안 가드레일 라이브러리를 개발했습니다.</p>\n<p><strong>Spring AI Privacy Guardrails</strong></p>\n<p>GitHub: https://github.com/ultramancode/spring-ai-privacy-guardrails</p>\n<p>프로젝트는 Spring 공식 블로그 'This Week in Spring'에서 소개됐고, Spring AI Community의 Awe",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "published": "Mon, 26 Oct 2026 21:05:11 +0000",
+      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "published": "Mon, 26 Oct 2026 19:22:40 +0000",
+      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "published": "Mon, 26 Oct 2026 21:35:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50251344\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "published": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50251661\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "published": "Mon, 26 Oct 2026 15:11:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50245138\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "link": "https://github.com/otya128/winevdm",
+      "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50253529\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "published": "Mon, 26 Oct 2026 17:56:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50248055\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
