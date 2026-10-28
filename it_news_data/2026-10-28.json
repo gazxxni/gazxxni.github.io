@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-28",
+  "articles": [
+    {
+      "title": "Show GN: OX 팩토리 – 프롬프트 없이 O/X 만 눌러 아이디어를 기획안과 화면 그림으로",
+      "link": "https://news.hada.io/topic?id=36148",
+      "published": "2026-10-28T13:00:52+09:00",
+      "summary": "<p>OX 팩토리를 만든 팀입니다(주식회사 바이브먼트 — 계정 이름 axlconsulting 은 대표가 쓰던 계정이에요).</p>\n<p>「이런 서비스 있으면 좋겠다」 메모는 쌓이는데, 기획서를 쓰고 화면을 그릴 시간이 없어서 묵히는 일이 많았습니다. 프롬프트를 잘 쓰는 것도 일이고요.</p>\n<p>그래서 입력을 거의 없앴습니다. 떠오",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "8GB RAM 탑재 M4 아이패드 프로, 실제로는 12GB일 수도 있어",
+      "link": "https://news.hada.io/topic?id=36147",
+      "published": "2026-10-28T12:51:14+09:00",
+      "summary": "<blockquote>\n<p>Apple의 신형 iPad Pro 8GB 용량 모델을 분해한 결과 물리적으로는 12GB 용량의 RAM이 탑재된 것으로 확인되었으며, 성능 제한 및 제품 라인업 분리를 원인으로 추정합니다.</p>\n</blockquote>\n<h4>전문 번역</h4>\n<p>관심도가 높은 온라인 커뮤니티 사용자가 새로운 사실을 다시 찾아냈습니다.</p>\n<p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "유한 단순군 분류 정리, Lean으로 형식화",
+      "link": "https://news.hada.io/topic?id=36145",
+      "published": "2026-10-28T12:31:59+09:00",
+      "summary": "<ul>\n<li>수십 년간 약 100명의 수학자가 작성한 <strong>유한 단순군 분류 정리의 1세대 증명</strong>을 Lean으로 완전히 형식화했으며, 모든 논리 단계를 <strong>Lean 커널</strong>로 검증함</li>\n<li>이 정리에 따르면 모든 유한 단순군은 <strong>소수 위수의 순환군</strong>, 5개 이상 원소에 작용하는 교대군,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "PHP2Shell: 악용 시도와 취약점 조치 동향",
+      "link": "https://news.hada.io/topic?id=36144",
+      "published": "2026-10-28T10:33:35+09:00",
+      "summary": "<ul>\n<li><strong>PHP2Shell</strong> 공개 이후 Wiz가 관측한 인터넷 노출 취약 머신 수는 약 <strong>67% 감소</strong>했으며, 노출된 취약 인스턴스를 보유한 조직 수도 약 47.9% 줄어듦</li>\n<li>Wiz가 포착한 공개 익스플로잇 기반 공격은 <strong>전체 공격 체인을 완성하지 못함</strong>. 최신 변형은 PHP 메모...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple, iPhone Duo 내부 화면 깨짐 발생 시 애플케어+ 없이 교체 가능하다고 밝혀",
+      "link": "https://news.hada.io/topic?id=36142",
+      "published": "2026-10-28T10:12:07+09:00",
+      "summary": "<ul>\n<li>Apple이 일부 iPhone Duo의 <strong>내부 디스플레이 문제를 인지</strong>하고 있으며, 문제가 발생한 사용자는 AppleCare에 연락해 기기를 교체받을 수 있다고 밝힘</li>\n<li>사용자들이 보고한 증상은 내부 화면이 <strong>힌지 중앙선을 따라 갈라지는 현상</strong>이며, Apple에 따르면 극소수 기기에 영...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published": "Tue, 27 Oct 2026 22:26:03 +0000",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "published": "Tue, 27 Oct 2026 22:17:18 +0000",
+      "summary": "A whole crop of venture capital firms  are raising significant new funds.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Git for US Legislation",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50268380\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Genie 4",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published": "Tue, 27 Oct 2026 16:06:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50261319\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "published": "Sun, 25 Oct 2026 18:49:48 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234796\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "published": "Tue, 27 Oct 2026 16:51:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50261998\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "published": "Tue, 27 Oct 2026 19:55:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50264857\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
