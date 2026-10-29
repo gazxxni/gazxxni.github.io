@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-29",
+  "articles": [
+    {
+      "title": "StackOverflow의 월간 질문 수, 이제 1,000건 미만",
+      "link": "https://news.hada.io/topic?id=36207",
+      "published": "2026-10-29T13:32:53+09:00",
+      "summary": "<ul>\n<li>HN 제목에 따르면 StackOverflow의 <strong>월간 질문 수가 1,000건 미만</strong>이지만, 제공된 본문에는 실제 집계 결과가 없어 수치와 대상 월을 확인할 수 없음</li>\n<li>Stack Exchange Data Explorer에 공개된 <strong>SQL 쿼리</strong>로 StackOverflow 질문 수를 생성 월별로 집계함</li>\n<li>집계 대...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Qwenputer: Qwen3.5 내부에서 작동하는 결정론적 RISC-V CPU",
+      "link": "https://news.hada.io/topic?id=36206",
+      "published": "2026-10-29T12:32:48+09:00",
+      "summary": "<ul>\n<li><strong>Qwenputer</strong>는 Qwen 3.5 4B의 가중치에 RISC-V CPU를 컴파일해 넣은 실험 모델로, 외부 실행 환경이나 도구 호출 없이 모델의 순전파 안에서 산술 연산과 C, MicroPython 코드를 실행함</li>\n<li><strong>Gated DeltaNet 상태를 정확한 RAM으로 활용</strong>하며, CPU 회로를 추가 레이어와 차...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
+      "link": "https://news.hada.io/topic?id=36205",
+      "published": "2026-10-29T11:39:59+09:00",
+      "summary": "<p>안녕하세요. 저희는 AI와 사람 간의 실시간 음성 통신 기술을 개발하고 있습니다.</p>\n<p>&quot;단순 일상 대화가 아니라 식당 예약처럼 실제 비즈니스 업무를 수행하는 음성 에이전트를 만드는 게 가능한가?&quot;라는 의문에서 출발해, 실제 데모를 구현하며 겪은 생성형 LLM의 한계와 이를 비생성형 판별 모델인 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널",
+      "link": "https://news.hada.io/topic?id=36204",
+      "published": "2026-10-29T11:06:32+09:00",
+      "summary": "<p>Claude Code, Codex 같은 에이전트 여러 개를 터미널 탭에 띄워 놓고 쓰는 용도로 만든 데스크톱 터미널입니다. macOS, Windows, Linux에서 다 돕니다.</p>\n<p>쉽게 말하면 Orca + cmux + Herdr 를 만들고 싶었습니다.</p>\n<p>특히 신경 쓴 건 이 두 개예요.</p>\n<ol>\n<li>앱을 닫아도 에이전트가 안 죽습니다. 터미널",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...",
+      "link": "https://news.hada.io/topic?id=36202",
+      "published": "2026-10-29T10:33:07+09:00",
+      "summary": "<ul>\n<li>10월 24일 공개된 33B 오픈 모델 Nanbeige4.3을 정답이 있는 한국어 문서 RAG 시험지(Allganize, 299문항)로 채점했습니다. 에이전트 코딩용 모델이지만, 한국어 환경에서 에이전트로 쓰려면 한국어 문서를 읽고 근거로 답하는 기초가 필요해서 그 부분만 쟀습니다. 모든 모델이 같은 검색 결과 5쪽, 같은 지시...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "published": "Wed, 28 Oct 2026 23:15:00 +0000",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "published": "Wed, 28 Oct 2026 22:47:50 +0000",
+      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "link": "https://divagr.com/blog/qwenputer",
+      "published": "Thu, 29 Oct 2026 00:25:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "published": "Wed, 28 Oct 2026 17:13:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50276998\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "published": "Wed, 28 Oct 2026 23:45:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "published": "Thu, 29 Oct 2026 03:33:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "published": "Wed, 28 Oct 2026 21:13:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50280974\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
