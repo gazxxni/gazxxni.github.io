@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "title": "OpenAI, Pro와 Business Premium 사용량 한도 2배 확대",
+      "link": "https://news.hada.io/topic?id=36273",
+      "published": "2026-10-30T12:06:14+09:00",
+      "summary": "<ul>\n<li><strong>Pro 100·200·500과 Business Premium의 모든 사용량 한도를 2배로 확대</strong>하며, 오늘부터 바로 적용시작</li>\n<li>사용자 피드백을 반영해 <strong>Pro 200의 한도를 축소하지 않기로 결정</strong>했으며, 기존 Work와 Codex 사용량 한도를 유지할 것</li>\n<li>개인 에이전트 <strong>dot의 확대...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "데이터 에이전트는 실제 분석을 할 수 있을까?",
+      "link": "https://news.hada.io/topic?id=36272",
+      "published": "2026-10-30T11:59:43+09:00",
+      "summary": "<ul>\n<li>데이터 에이전트의 실력을 판단하려면 <strong>SQL 생성</strong>을 넘어 여러 데이터베이스 결합, 도메인 지식 활용, 비정형 데이터 처리까지 평가해야 함</li>\n<li>실제 분석 환경을 반영한 벤치마크에서 최고 에이전트의 <strong>단일 시도 통과율은 약 61%</strong> 였으며, 질의별 프롬프트 최적화로 얻은...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Brian Kernighan: Bell Labs의 내부, 최고의 프로그래머, C가 성공한 이유",
+      "link": "https://news.hada.io/topic?id=36271",
+      "published": "2026-10-30T11:55:34+09:00",
+      "summary": "<ul>\n<li><strong>Bell Labs의 연구 자율성</strong>은 안정적인 통신사업 수익과 장기적인 평가 방식에 기반했으며, 연구자들은 외부에서 정한 마감이나 목표 없이 관심 있는 문제를 탐구함</li>\n<li><strong>기술을 이해하는 관리자와 동료</strong>가 연구의 가치를 판단했고, 서로 만든 언어와 도구를 직접 사용하면...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "small-change로 코드 리뷰 속도 높이기",
+      "link": "https://news.hada.io/topic?id=36270",
+      "published": "2026-10-30T11:48:36+09:00",
+      "summary": "<ul>\n<li>Imprint는 PR 증가로 리뷰 시간이 길어지자, 제한된 조건을 충족하는 변경을 <strong><code>small-change</code></strong> 로 분류해 빠르게 승인하는 방식을 도입함</li>\n<li>자격은 사람이 바꿀 수 없는 <strong>CI/CD 검사</strong>로 판정하며, 코드 규모, 자동 리뷰 결과, 작성자의 해당 서비스 경험, 변경...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "998달러로 3.8B LLM을 학습해 CORE 0.384 달성하기",
+      "link": "https://news.hada.io/topic?id=36269",
+      "published": "2026-10-30T11:46:32+09:00",
+      "summary": "<ul>\n<li><strong>little-lm 3.8B</strong>는 무작위 초기화부터 653억 토큰을 사전학습해 CORE 0.384를 달성한 개인 프로젝트로, B200 8대에서 43시간 동안 학습하는 데 <strong>998달러</strong>가 들었음</li>\n<li>초기 실험의 낮은 성능을 개선하기 위해 <strong>Muon</strong>, 사다리꼴 학습률 스케줄, ClimbMix 데...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "published": "Thu, 29 Oct 2026 23:44:56 +0000",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "published": "Thu, 29 Oct 2026 22:27:23 +0000",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "published": "Thu, 29 Oct 2026 21:51:29 +0000",
+      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "published": "Thu, 29 Oct 2026 14:13:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50289418\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "link": "https://cuis.st/",
+      "published": "Tue, 27 Oct 2026 06:33:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50255343\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "published": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296486\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "link": "https://github.com/da-luce/astroterm",
+      "published": "Wed, 28 Oct 2026 08:29:55 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50270651\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
