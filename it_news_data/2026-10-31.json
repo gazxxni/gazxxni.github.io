@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
+      "link": "https://news.hada.io/topic?id=36318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-10-31T10:36:38+09:00",
+      "summary": "<ul>\n<li><strong>nesformer</strong>는 NES의 6502 CPU, 2KB RAM, 카트리지 프로그램 ROM을 표준 Qwen3.5 체크포인트 안에서 실행함. 가중치는 학습하지 않고 컴파일러로 계산했으며, 모델이 CPU 실행 기록을 토큰 단위로 생성함</li>\n<li><strong>Gated DeltaNet 상태를 메모리로 사용</strong>해 CPU 레지스터와 RAM,...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
+      "link": "https://news.hada.io/topic?id=36317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-10-31T10:33:38+09:00",
+      "summary": "<ul>\n<li><strong>Patrick Stewart가 연기한 Jean-Luc Picard 함장</strong>은 책을 좋아하고 상상력이 풍부하며 다소 너드 성향인 소년 세대에게 성숙하고 책임감 있는 어른의 본보기가 되었음</li>\n<li><strong>Stewart의 죽음</strong>은 1990년대 Star Trek: The Next Generation을 보며 자란 일부 팬들에게 미래의 ...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+      "link": "https://news.hada.io/topic?id=36315&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-10-31T09:30:02+09:00",
+      "summary": "<ul>\n<li>Android TV와 Google TV에 <strong>Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화</strong>하고, 간결한 홈 화면을 설치</li>\n<li><strong>루팅이나 펌웨어 교체 없이 ADB로 동작</strong>하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "좋아하는 웹사이트가 있다면 백업하세요",
+      "link": "https://news.hada.io/topic?id=36313&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-10-31T09:06:56+09:00",
+      "summary": "<ul>\n<li>웹사이트 보존을 Internet Archive 같은 대형 조직에만 맡길 필요는 없으며, <strong>개인도 직접 아카이브를 만들어</strong> 좋아하는 사이트와 정보를 보존할 수 있음</li>\n<li><strong>ArchiveWeb.page</strong>는 브라우저로 페이지를 둘러보며 저장하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AT Protocol 사용자들은 이 데이터가 공개된다는 사실을 알고 있을까?",
+      "link": "https://news.hada.io/topic?id=36312&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-10-31T09:03:56+09:00",
+      "summary": "<ul>\n<li><strong>AT Protocol</strong> 앱의 공개 데이터에서 개인용 RSS 피드와 채팅 메시지를 쉽게 찾을 수 있지만, 사용자들이 공개 범위와 위험을 이해하는지는 불확실함</li>\n<li>RSS 리더 <strong>Skyreader</strong>는 구독 피드 주소를 공개 데이터로 저장하며, 앱 리뷰에 표시된 계정 이름만으로도 해당 사용자...</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "published": "Fri, 30 Oct 2026 23:21:23 +0000",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50311686\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "published": "Fri, 30 Oct 2026 07:09:12 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50300683\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "link": "https://github.com/chris124567/cfsolve",
+      "published": "Wed, 28 Oct 2026 17:29:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50277379\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "published": "Sat, 31 Oct 2026 02:46:36 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50312756\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "published": "Fri, 30 Oct 2026 17:25:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50307190\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
