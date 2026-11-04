@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "title": "Flipper One Kickstarter 준비와 사전 주문 개시",
+      "link": "https://news.hada.io/topic?id=36569&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-04T12:33:05+09:00",
+      "summary": "<div><ul><li><strong>Flipper One</strong>은 Wi-Fi 6E와 기가비트 이더넷을 내장한 ARM 기반 오픈 Linux 컴퓨터이자 네트워크 멀티툴로, 사전 주문이 시작됨</li><li><strong>메인라인 Linux</strong>와 완전한 업스트림 지원을 지향하며, Collabora와 함께 RK3576 지원을 메인라인 커널에 통합하고 바이너리 블롭 의존성을 없애는 작업을 진행 중임</li><li><strong>RP2350과 RK3576의 이중 프로세서 구조</strong>로 기기 제어와 Linux 실",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show HN: HackerTV - HN에서 가장 많이 추천된 YouTube 영상을 24시간 TV 채널로 방송",
+      "link": "https://news.hada.io/topic?id=36568&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-04T11:30:57+09:00",
+      "summary": "<div><ul><li><strong>HackerTV</strong>는 Hacker News에서 거듭 추천되는 YouTube 영상을 채널별로 24시간 방송하는 서비스임</li><li>모든 시청자에게 <strong>동일한 편성표</strong>를 적용함</li><li>YouTube 메타데이터를 가져오기 전까지는 <strong>영상 길이를 추정</strong>하므로 실제 재생 시간과 편성이 어긋날 수 있음</li><li>일부 프로그램은 일찍 끝나 <strong>대기 화면</strong>이 나오거나, 끝까지 재생되지 않고 잘릴 수 있음<",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "OpenAI, 버그 바운티 보상금 최대 약 2.3억원으로 인상",
+      "link": "https://news.hada.io/topic?id=36567&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-04T11:30:02+09:00",
+      "summary": "<div><ul><li>OpenAI가 독립 보안 연구자의 <strong>취약점 발견을 장려</strong>하기 위해 버그 바운티 보상 체계를 대폭 개편함</li><li>중간/높음·/명적 취약점의 보상금 범위 중간값을 <strong>평균 4배 이상 인상</strong>함</li><li>ChatGPT, Codex, API 플랫폼 등 핵심 제품의 치명적 취약점에는 기본 보상금 최대 <strong>$30k(4천만원)</strong> 을 지급</li><li>특별히 중대한 취약점은 기존처럼 $100k(약 1.3억)를 지급하며, 보너스 포함 시",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "JVM 시작 시간, 330초에서 3초로 줄이기",
+      "link": "https://news.hada.io/topic?id=36566&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-04T11:23:04+09:00",
+      "summary": "<div><ul><li><strong>CRaC</strong>으로 워밍업을 마친 JVM의 프로세스 상태를 저장하고 새 파드에서 복원해, 파드 준비 시간을 약 330초에서 <strong>2~3초</strong>로 줄임</li><li>기존에는 파드마다 부팅과 JIT 워밍업을 반복해 CPU 여유 용량을 상시 확보해야 했고, 장애 복구와 <strong>오토스케일링</strong>도 5분 넘는 준비 시간에 제약받았음</li><li>적용 후 전체 배포 시간은 약 <strong>20분에서 4분</strong>, 정상 상태 파드 CPU는 기존 기",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "deepseek의 자율형 개발 에이전트 시스템 실험",
+      "link": "https://news.hada.io/topic?id=36564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-04T10:58:06+09:00",
+      "summary": "<div><p>GitHub에서 개발 업무를 요청하면 AI가 스스로 작업을 판단하고 코드를 수정한 뒤 Pull Request(PR)까지 만들어주는 자율형 개발 에이전트 시스템이라고 하네요.</p><p>그 동안 비슷한 시도는 많았는데 deepseek는 어떻게 했는지 가볍게 보기 좋을 것 같습니다.</p></div>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "published": "Wed, 04 Nov 2026 04:45:00 +0000",
+      "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "C++26 Disapproved",
+      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "published": "Wed, 04 Nov 2026 00:33:22 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50360164\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "published": "Wed, 04 Nov 2026 03:20:13 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50361154\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "link": "https://www.interdb.jp/pg/index.html",
+      "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "published": "Mon, 02 Nov 2026 16:29:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50339288\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "link": "https://neufangled.com/",
+      "published": "Tue, 03 Nov 2026 16:47:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50354358\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
