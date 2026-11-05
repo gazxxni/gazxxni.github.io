@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "title": "내 ISP가 DNS를 가로채고 있었다",
+      "link": "https://news.hada.io/topic?id=36640&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-05T14:01:54+09:00",
+      "summary": "<div><ul><li>홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, 일반 DNS 질의는 <strong>ISP 소유 IP 주소</strong>를 반환했지만 Cloudflare의 <strong>DoH</strong> 질의는 다른 주소를 반환함</li><li><strong>Unbound 자체 호스팅</strong>만으로 DNS 변조를 막을 수는 없음. 직접 재귀 조회할 때 여러 네임서버와 주고받는 질의는 통상 평문이므로 ISP가 관찰하거나 변조할 수 있음</li><li><strong>DNSSEC</strong",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Conductor가 Meta에 합류함",
+      "link": "https://news.hada.io/topic?id=36639&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-05T13:36:58+09:00",
+      "summary": "<div><ul><li><strong>Conductor가 Meta에 합류</strong>하며, 다음 인터페이스를 준비하고 2027년 초 사용 가능한 새 제품을 선보일 계획임</li><li><strong>로컬 Conductor</strong>는 2027년 초까지 새 모델과 중요 버그 수정을 계속 제공받음</li><li><strong>11월 4일부터 신규 가입과 앱 다운로드가 중단</strong>되며, 기존 Pro 사용자는 Pro 기능을 무료로 계속 사용할 수 있음</li><li><strong>Conductor Cloud는 11월 13",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Starfall - 미세중력 환경을 저렴하고 일상적으로 이용하는 서비스",
+      "link": "https://news.hada.io/topic?id=36638&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-05T13:33:58+09:00",
+      "summary": "<div><ul><li><strong>Starfall</strong>은 저궤도 미세중력 환경에서 제조, 과학 연구, 시험을 수행할 수 있도록 저렴하고 일상적인 접근을 제공하는 서비스임</li><li>낙하탑이나 포물선 비행의 미세중력은 수초 동안 지속되는 반면, Starfall은 <strong>수주간 연속 미세중력</strong>을 제공하며 임무 기간을 고객 요구에 맞출 수 있음</li><li>탑재체 질량은 <strong>1,000kg</strong>, 전력은 <strong>1kW</strong>이며, Ethernet 데이터 인터페이",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask HN: 현재 AI 에이전트를 어떤 구성으로 사용하고 있나요?",
+      "link": "https://news.hada.io/topic?id=36636&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-05T12:50:54+09:00",
+      "summary": "<div><ul><li>일상에서 <strong>AI를 어떻게 사용하고, 왜 그 구성을 선택했는지</strong> 공유를 요청함. 개인 작업 방식이 1년 전과 크게 달라진 만큼 현재의 활용 현황을 알아보려는 취지이며, 모든 항목에 답할 필요는 없음</li><li><strong>개인적으로 비용을 내는 구독</strong>과 요금제, 동일 제공업체의 복수 구독 여부, 구독 외 모델 사용 여부가 궁금함. Claude, ChatGPT/Codex, Cursor 등의 구독뿐 아니라 종량제 API, OpenRouter, 로컬 호스팅 모델을 쓰는지",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Images 2.6 - GIF 생성과 더 빠르고 정밀한 이미지 편집 지원",
+      "link": "https://news.hada.io/topic?id=36635&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-05T12:47:54+09:00",
+      "summary": "<div><ul><li>OpenAI가 <strong>Images 2.6</strong>을 ChatGPT, Codex, API에 도입함. GIF로 이미지에 움직임을 더하고, 편집 과정에서 캐릭터, 제품, 브랜드 세부 요소를 더 일관되게 유지할 수 있음</li><li>이미지 생성 속도가 <strong>기존보다 50% 빨라짐</strong>. API에서는 속도에 초점을 둔 Flare와 더 높은 품질 및 편집 간 일관성을 제공하는 Sunburst를 선택할 수 있음</li><li><strong>GIF 생성</strong>으로 브랜드 마스코트",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published": "Wed, 04 Nov 2026 21:56:01 +0000",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "published": "Wed, 04 Nov 2026 20:45:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "published": "Wed, 04 Nov 2026 23:35:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372945\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "published": "Wed, 04 Nov 2026 23:33:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372929\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "link": "https://www.spacex.com/starfall",
+      "published": "Thu, 05 Nov 2026 00:18:18 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "link": "https://www.ricursive.com/ripple",
+      "published": "Wed, 04 Nov 2026 18:53:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
