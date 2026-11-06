@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-06",
+  "articles": [
+    {
+      "title": "Mark Cuban “Facebook, AI 딥페이크 사기 광고인 줄 알고도 게재”, 내부 문서상 사기 관련 매출 추정 16...",
+      "link": "https://news.hada.io/topic?id=36691&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-06T13:33:29+09:00",
+      "summary": "<div><ul><li><strong>Mark Cuban</strong>은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함</li><li>Reuters가 확보한 <strong>Meta 내부 문서</strong>에는 사기 및 금지 제품 광고에서 발생할 매출이 2024년 전체 매출의 약 10%인 <strong>160억 달러</strong>에 이를 것이라는 추정이 담김</li><li>내부 문서상 광고주 차단에는 자동화 시스템이 판단한 <strong>사",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "로컬 LLM, 권장된 샘플링 대신 temp 0으로 실행해도 되나? ( 한국어 문서 RAG 320문항 재측정)",
+      "link": "https://news.hada.io/topic?id=36690&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-06T13:22:21+09:00",
+      "summary": "<div><p>한국어 문서 RAG 시험(정답 있는 299문항 + 답 없는 질문 20개)을 temp 0으로 실행했더니, Hugging Face 토론에서 \"qwen3.8은 카드 권장값으로 재야 공정하다\"는 지적을 받았습니다. 그래서 RTX 3090로 qwen3.8 27B와 Nanbeige4.3 33B를 권장 설정값으로 320문항씩 다시 실행해봤습니다.</p><ul><li>qwen3.8 27B: 생각 켬 77.3% → 77.9%, 생각 끔 71.2% → 72.2%. 같은 문항 짝비교로 차이 없음(p 0.75, 0.68)</li><li>N",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "헝가리, 공산주의 시대 문서 공개로 전직 정보원 최대 6만 명 신원 드러나",
+      "link": "https://news.hada.io/topic?id=36689&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-06T12:32:21+09:00",
+      "summary": "<div><ul><li>헝가리가 공산주의 시대 <strong>비밀경찰 기록을 일반에 공개</strong>하면서 당시 정보원 약 5만~6만 명의 이름이 드러남</li><li>공개 자료에는 <strong>정보원 등록표, 모집 기록, 개인정보와 암호명 데이터베이스</strong>가 포함되며, 누구나 온라인에서 무료로 검색할 수 있음</li><li>1990년 민주화 이후 거듭 무산됐던 공개가 <strong>Peter Magyar 총리의 법안</strong>을 계기로 이뤄짐. 이전에는 감시 피해자가 자신을 보고한 사람을 확인하는 수준의 접근",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub Copilot 런타임 코드베이스 전체를 Rust로 이식한 이유와 방법 [영상]",
+      "link": "https://news.hada.io/topic?id=36687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-06T11:20:02+09:00",
+      "summary": "<div><ul><li>GitHub Copilot 런타임의 <strong>TypeScript 운영 코드 약 40만~45만 줄</strong>을 Rust로 이식함. 목적은 Rust 도입 자체가 아니라 Node.js와 V8 의존성을 벗어나 여러 제품에 내장할 수 있는 <strong>공통 에이전트 하네스</strong>를 만드는 것이었음</li><li><strong>Rust와 Native AOT 기반 C#</strong> 이 성능과 내장 가능성에서 최종 후보였으며, GitHub 내부의 기존 프로젝트와 개발자 경험을 고려해 Rust를 선택",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스",
+      "link": "https://news.hada.io/topic?id=36686&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-06T10:20:46+09:00",
+      "summary": "<div><p>안녕하세요. 해축이모를 만든 개발자 김도완입니다.</p><p>이적설을 읽을 때 궁금한 건 보통 두 가지입니다. “누가 보도했지?” 그리고 “구단이 관심을 보인 건가, 실제로 협상이 시작된 건가?” 해축이모에서는 이 두 가지를 소식마다 함께 볼 수 있습니다.</p><p>프리미어리그 빅6를 다루는 해외 축구 기자들의 X 게시물을 한국어로 번역·요약하고, 보도 출처와 원문 링크를 붙였습니다. 이적설은 관심·접촉, 협상 중, 합의, 공식 발표의 네 단계로 구분합니다. 가령 기자가 “두 구단이 이적료에 합의했다”고 보도해도, ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "published": "Fri, 06 Nov 2026 00:07:18 +0000",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "published": "Fri, 06 Nov 2026 00:01:38 +0000",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "published": "Thu, 05 Nov 2026 21:15:00 +0000",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "published": "Thu, 05 Nov 2026 22:17:15 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50385272\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "sshole",
+      "link": "https://sshhole.com",
+      "published": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50378228\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "published": "Thu, 05 Nov 2026 20:43:42 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50384233\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pwn.college",
+      "link": "https://pwn.college/",
+      "published": "Fri, 06 Nov 2026 03:27:14 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50387796\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "published": "Fri, 06 Nov 2026 03:16:26 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50387738\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
