@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+      "link": "https://news.hada.io/topic?id=36738&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-07T11:52:06+09:00",
+      "summary": "<div><p>HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다.</p><p>무엇을 하나</p><ul><li>잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다.</li><li>휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+      "link": "https://news.hada.io/topic?id=36737&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-07T11:40:03+09:00",
+      "summary": "<div><p>코딩 에이전트를 쓰다 보면 어제 정한 걸 오늘 세션에서 다시 설명하게 됩니다.<br /> \"테스트는 pytest로\", \"이 레포는 마이그레이션 손으로 작성\", \"그 방식은 지난주에<br /> 해 봤는데 안 됐음\" 같은 것들이요. 에이전트를 바꾸면(Claude Code → Codex)<br /> 처음부터 다시입니다.</p><p>Heirmos는 이걸 자동으로 이어 주는 기억 레이어입니다.</p><p>■ 하는 일</p><ul><li>세션이 끝나거나 컨텍스트가 압축될 때 대화에서 결정·선호·규칙만 뽑아 저장</li><li>다",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Libghostty 1.0 - 터미널 에뮬레이션 C 라이브러리와 ABI 안정화",
+      "link": "https://news.hada.io/topic?id=36736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-07T11:33:31+09:00",
+      "summary": "<div><ul><li>Ghostty의 코어에서 분리한 터미널 에뮬레이션 C 라이브러리 <strong><code>libghostty-vt</code>가 1.0에 도달</strong>했으며, 라이브러리와 C ABI 모두 안정화됨</li><li><strong>JetBrains IDE 터미널</strong>에 이미 적용됐고, Neovim의 libvterm 대체 PR도 승인된 상태임. 무료 및 상용 제품 수백 개에서 사용되며 TUI 렌더링과 퍼징에도 활용됨</li><li><strong>시맨틱 버저닝과 엄격한 ABI 호환성</strong>을",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Rune: macOS, Windows, Linux, 웹을 위한 네이티브 GPU 렌더링 Rust UI 프레임워크",
+      "link": "https://news.hada.io/topic?id=36735&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-07T10:38:06+09:00",
+      "summary": "<div><ul><li><strong>Rune</strong>은 자체 렌더러, 텍스트 처리, 레이아웃, 스프링을 갖춘 Rust UI 프레임워크로, macOS, Windows, Linux와 웹을 지원함</li><li>모든 앱을 <strong>헤드리스 모드</strong>로 실행할 수 있어 에이전트가 PNG 렌더링, 요소 트리 출력, 스크립트 입력을 통한 조작을 수행할 수 있음</li><li><strong>코딩 에이전트</strong>가 예제와 문서를 출발점으로 앱을 만들고, 헤드리스 실행으로 자신의 작업 결과를 확인하는 개발 흐름을 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Firecracker VM 탈출: PwnEscape 2부",
+      "link": "https://news.hada.io/topic?id=36734&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-07T10:35:06+09:00",
+      "summary": "<div><ul><li>기존에 확보한 <strong>호스트 메모리 접근 수단</strong>으로 게스트 내부에서 호스트의 Firecracker 스레드를 장악하고 호스트 root 권한으로 코드를 실행함</li><li><strong><code>KVM_RUN</code> 복귀 시점</strong>을 겨냥해 커널에 저장된 사용자 공간 레지스터를 변경하고, 지정한 함수와 인자로 Firecracker가 실행을 이어가도록 함</li><li>게스트 페이지의 식별 패턴을 출발점으로 <strong>EPT와 호스트 페이지 테이블</strong>을 추적",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "published": "Sat, 07 Nov 2026 04:16:43 +0000",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Duo apps are coming, says Apple",
+      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "published": "Fri, 06 Nov 2026 21:38:05 +0000",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Libghostty 1.0",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50397429\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "link": "https://josef.cn/blog/unitree",
+      "published": "Sat, 07 Nov 2026 01:05:16 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50400597\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "published": "Fri, 06 Nov 2026 12:13:51 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "published": "Fri, 06 Nov 2026 23:37:19 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50399991\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
