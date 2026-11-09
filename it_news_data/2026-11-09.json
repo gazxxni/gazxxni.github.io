@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "title": "전 세계 대부분 지역에서 X 브랜드의 어떤 차량이든 잠금 해제하기",
+      "link": "https://news.hada.io/topic?id=36867&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-09T12:32:34+09:00",
+      "summary": "<div><ul><li>익명 처리된 자동차 제조사의 <strong>커넥티드카 시스템 취약점</strong>을 연결해, 호주에서 차량 번호판만으로 두 브랜드 차량에 원격 명령을 보낼 수 있었음</li><li>공개된 관리 도구의 JavaScript에 담긴 <strong>하드코딩된 API 키와 관리자 자격 증명</strong>으로 차량 소유자 정보와 중앙 신원 관리 시스템에 접근할 수 있었음</li><li><strong>WAF 우회와 계정 비밀번호 변경</strong>을 결합했으며, 호주 환경의 인증 설정 오류로 다중 인증도 건너뛰고 모",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Starship 15차 비행, 11월 13일 부스터와 우주선 모두 포획 시도 계획",
+      "link": "https://news.hada.io/topic?id=36865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-09T11:36:25+09:00",
+      "summary": "<div><ul><li>SpaceX는 <strong>Starship과 Super Heavy를 모두 발사장으로 귀환시켜 포획</strong>하는 첫 비행을 계획함. 성공하면 궤도 발사 시스템 전체를 회수하는 첫 사례가 됨</li><li>발사는 <strong>규제 승인</strong>을 전제로 이르면 11월 13일 금요일에 진행하며, 미국 중부시간 오후 4시 45분부터 75분간 발사 가능 시간이 열림</li><li>Starship은 고도 <strong>약 275km</strong>에서 지구를 약 14회 돌며 22시간 넘게 비행할 예정이",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Chimera Vocal Synth - 기도 시뮬레이션으로 소리를 만드는 음성 합성기",
+      "link": "https://news.hada.io/topic?id=36864&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-09T11:33:25+09:00",
+      "summary": "<div><ul><li><strong>Chimera</strong>는 목, 입, 코를 통과하는 공기의 움직임을 시뮬레이션해 모든 소리를 생성함</li><li><strong>혀, 입술, 턱</strong>을 드래그하거나 건반을 연주하며 조작할 수 있음</li><li><strong>성도</strong> 화면은 성인 남성의 정중시상면을 기준으로 하며, 3D, 음압, 기류, 측정값, 격자 표시 항목이 있음</li><li><strong>성대 움직임</strong>을 100배 느리게 보여주며, 공명 스펙트럼과 모음의 F1/F2 표시 영역도 있",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Windows용 Little Snitch, PacketHound",
+      "link": "https://news.hada.io/topic?id=36862&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-09T10:32:22+09:00",
+      "summary": "<div><ul><li><strong>PacketHound</strong>는 Windows 10/11에서 앱의 첫 인터넷 연결 시 허용 여부를 묻고, 결정을 기억하는 무료 아웃바운드 방화벽임</li><li><strong>Windows Firewall</strong>의 기본 아웃바운드 정책을 차단으로 바꾸고 차단 로그를 감시하며, 사용자 결정을 일반 방화벽 규칙으로 저장해 PacketHound 종료 후에도 적용함</li><li><strong>Windows 구성 요소는 자동 허용</strong>하지만 위치, 시스템 소유권, 유효한 서명",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 스피캣 - 말만 하면 일정·가계부·메모가 알아서 정리되는 앱",
+      "link": "https://news.hada.io/topic?id=36858&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-09T09:55:28+09:00",
+      "summary": "<div><p>설거지하다가 \"내일 3시 치과\", 장 보다가 \"우유 3,200원\"… 이렇게 말만 하면 일정·가계부·할 일·메모·알람 중 맞는 곳에 알아서 들어가는 앱을 혼자 만들고 있습니다.</p><ul><li>앱을 열고 말하면 됩니다. 어디에 넣을지 따로 고르지 않아도 돼요.</li><li>\"알람 1분 뒤\", \"타이머 10초\"처럼 짧게 말해도 바로 맞춰집니다.</li><li>안드로이드에서는 카드·은행·페이 결제 알림이 오면 가계부에 자동으로 적히고, 카카오톡을 소리로 들은 뒤 말로 답장할 수 있어요.</li><li>녹음은 폰 밖으로",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "published": "Sun, 08 Nov 2026 22:00:00 +0000",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "published": "Sun, 08 Nov 2026 21:00:00 +0000",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "published": "Sun, 08 Nov 2026 19:51:30 +0000",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "RIP, Harvest",
+      "link": "https://aphyr.com/posts/427-rip-harvest",
+      "published": "Mon, 09 Nov 2026 01:58:21 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50420035\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "published": "Sun, 08 Nov 2026 22:35:35 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Critique of GPUI",
+      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "published": "Mon, 09 Nov 2026 03:51:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50420857\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "published": "Mon, 09 Nov 2026 00:10:50 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "link": "https://chimera-vocal-synth.vercel.app/",
+      "published": "Sun, 08 Nov 2026 22:36:03 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
