@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-10",
+  "articles": [
+    {
+      "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
+      "link": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-10T12:15:29+09:00",
+      "summary": "<div><p>Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다.</p><p>공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처럼 rm이 없는데 작업을 날리는 명령도 있었습니다.</p><p>궁금한 건 세 가지입",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
+      "link": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-10T11:35:11+09:00",
+      "summary": "<div><ul><li><strong>Fable 5.2</strong>가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함</li><li>기존 코드 대부분을 다시 작성하고 <strong>이미지 약 175개와 오디오 클립 140개</strong>를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함</li><li>게임을 플레이하는 <strong>봇</strong>을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
+      "link": "https://news.hada.io/topic?id=36928&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-10T11:15:00+09:00",
+      "summary": "<div><p>UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다.</p><p>주요기능</p><ul><li>안드로이드, iOS, 웹 버전 지원</li><li>FSRS 알고리즘 기반 데일리 퀴즈</li><li>Anki 덱 Import / Export</li><li>Streak, Stats, Reminder(Notification)</li></ul><p>장점</p><ul><li>저렴한 비용(월 플랜 2,200원)</li><li>잡다하지 않은 기능, 심플한 UI</li></ul><p>향후 추가될 기능</p>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
+      "link": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-10T10:56:02+09:00",
+      "summary": "<div><p>회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.</p><p>회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고,<br /> 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.</p><p>사용 예시<br /> 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
+      "link": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-10T10:53:46+09:00",
+      "summary": "<div><ul><li>NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 <strong>약 60GB → 약 10GB</strong>까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 <ul><li>사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개</li></ul></li><li>30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "published": "Tue, 10 Nov 2026 05:18:43 +0000",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "published": "Tue, 10 Nov 2026 04:34:15 +0000",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published": "Mon, 09 Nov 2026 23:28:37 +0000",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published": "Mon, 09 Nov 2026 23:03:46 +0000",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "published": "Mon, 09 Nov 2026 18:01:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50429068\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "link": "https://postalpro.usps.com/zcb",
+      "published": "Mon, 09 Nov 2026 19:58:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50431058\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "link": "https://e-means.github.io/",
+      "published": "Mon, 09 Nov 2026 18:45:43 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50429734\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "published": "Mon, 09 Nov 2026 16:00:45 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50427362\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "published": "Tue, 10 Nov 2026 00:10:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50434310\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
