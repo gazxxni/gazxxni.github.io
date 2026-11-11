@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "title": "Gleam을 써보자",
+      "link": "https://news.hada.io/topic?id=36975&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-11T13:02:54+09:00",
+      "summary": "<div><ul><li><strong>Gleam</strong>은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤</li><li><strong>파이프 연산자 <code>|&gt;</code></strong>, 콜백 중첩을 줄이는 <code>use</code>, 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음</li><li><strong>대수적 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
+      "link": "https://news.hada.io/topic?id=36973&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-11T12:07:37+09:00",
+      "summary": "<div><p>집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다.</p><ul><li>집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이 생깁니다.</li><li>시간이 다 되면 직접 깎은 조각상 한 점이 남습니다.</li><li>가입이나 로그인은 없고, 무료로 주요 기능들을 이용하실 수 있습니다.</li></ul><p><strong>주요 기능</strong></p><ul><li>원석과 시간(1분~3시간)을 고르고 시작하면, 시간이 흐르는 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+      "link": "https://news.hada.io/topic?id=36972&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-11T10:40:18+09:00",
+      "summary": "<div><ul><li><strong>Zen 6</strong>는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함</li><li><strong>Zen 6와 Zen 6c</strong>는 이제 코어 밀도뿐 아니라 내부 실행 구조도 다르며, 각각 높은 클럭과 더 큰 비순차 실행 구조를 통한 지연 흡수에 맞춘 설계로 보임</li><li><strong>VNNI 처리량</strong>은 거의 두 배로 늘고 256비트 벡터 로드는",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+      "link": "https://news.hada.io/topic?id=36971&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-11T10:37:18+09:00",
+      "summary": "<div><ul><li>VulnCheck가 추적한 <strong>Anthropic에 귀속되는 CVE는 442건</strong>으로, 올해 전체의 약 0.5%임. Glasswing이 출범 당시 내세운 대규모 고위험 취약점 발견과 공개된 성과 사이에 간극이 있음</li><li>Anthropic의 발견 37,966건 중 <strong>공개된 것은 7,349건</strong>, 수정 완료로 표시된 것은 217건임. 9월 이후 발견은 약 12,000건 늘었지만 수정 완료는 15건 증가하는 데 그침</li><li>중복과 철회가 수정 완료보다 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+      "link": "https://news.hada.io/topic?id=36970&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-11T09:50:02+09:00",
+      "summary": "<div><ul><li>AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 <strong>고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상</strong>을 조합하는 경우가 많음</li><li><strong>고정+변동 혼합형</strong>은 고객의 예산 예측 가능성과 공급사의 사용량 증가에 따른 수익을 함께 확보하며, 제품이 성숙하고 사용 데이터가 쌓일수록 고정 요금 비중을 높이는 흐름이 있음</li><li>기업 구매자는 <strong>사용량 기반 과금<",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "published": "Wed, 11 Nov 2026 01:02:13 +0000",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "published": "Tue, 10 Nov 2026 20:47:05 +0000",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "published": "Tue, 10 Nov 2026 20:43:55 +0000",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "published": "Tue, 10 Nov 2026 22:17:56 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50447074\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "published": "Tue, 10 Nov 2026 19:50:46 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50445401\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": ".name Grandfathered",
+      "link": "https://neil.fraser.name/news/2026/11/10/",
+      "published": "Tue, 10 Nov 2026 16:37:44 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50442736\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "published": "Tue, 10 Nov 2026 15:25:20 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50441707\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "published": "Wed, 11 Nov 2026 01:56:31 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
