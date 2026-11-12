@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-12",
+  "articles": [
+    {
+      "title": "마법의 시대에 Emacs는 어디로 가는가",
+      "link": "https://news.hada.io/topic?id=37038&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-12T14:34:18+09:00",
+      "summary": "<div><ul><li>AI에 원하는 작업을 말하는 방식이 자리 잡으면서, Emacs 사용자가 내세우던 <strong>편집 속도, 맞춤화, LISP의 표현력</strong>이 예전 같은 경쟁 우위를 갖기 어려워짐</li><li><strong>excali-mode.el</strong>은 Emacs의 새 캔버스 기능을 활용하려고 Excalidraw의 애플리케이션 스택을 재구현한 사례로, 과거라면 엄두 내기 어려웠을 작업을 토큰 비용으로 시도함</li><li><strong>cooked.el</strong>은 일반 텍스트 버퍼처럼 사용할 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "GitHub Actions를 잠금 파일로 고정하기",
+      "link": "https://news.hada.io/topic?id=37037&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-12T13:32:02+09:00",
+      "summary": "<div><ul><li>GitHub Actions가 <strong>워크플로 잠금 파일</strong>을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨</li><li>Git에서 가져오는 액션의 <strong>태그는 변경 가능</strong>하므로, 공격자가 안전했던 태그를 악성 코드로 돌리는 공급망 공격을 막기 위해 기존에는 전체 SHA 고정이 권장됐음</li><li><strong><code>gh actions-lock</code></strong> 을 실행하면 워크플로를 버전 태그 형식으로 바",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "AI 시대, git push 앞뒤에서 바뀌는 것들",
+      "link": "https://news.hada.io/article/git-push-in-the-agent-era?utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-12T13:19:24+09:00",
+      "summary": "<div><p>2026년 10월, <a href=\"https://news.hada.io/topic?id=35309\">Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다</a>고 밝혔습니다.<br /> 11월에는 <a href=\"https://news.hada.io/topic?id=36517\">OpenAI도 병렬 에이전트 개발을 위해 Pando라는 새 Git 백엔드를 만들었다</a>고 공개했습니다.</p><p>두 회사 모두 여러 에이전트가 동시에 작업하면서 저장소에 걸리는 부하가 커졌지만, ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 딸깍 - 국어사전 명사 2만 7천 개로 컴퓨터와 하는 끝말잇기, 성냥개비 문제 정답 찾기",
+      "link": "https://news.hada.io/topic?id=37033&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-12T13:18:23+09:00",
+      "summary": "<div><p>8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다.<br /> 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다.</p><p>끝말잇기 (/kkeut)<br /> 국립국어원 한국어기초사전의 두 글자 이상 명사 27,831개만 받습니다. 두음법칙은 인정합니다.<br /> 컴퓨터는 새싹부터 고수까지 5단계인데, 고수는 \"다음 사람이 이을 말이 없는 끝 글자\"로 끝나는 말을 노리고 칩니다.<br /> 매일 퍼즐도 하나 열립니다. \"N수 안에 컴퓨터를 막아라\"",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+      "link": "https://news.hada.io/topic?id=37031&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-12T12:33:08+09:00",
+      "summary": "<div><ul><li>Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 <strong>최대 내적 검색(MIPS)</strong> 의 추론 속도와 정확도를 높이는 방법을 개발함</li><li>기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. <strong>SupportNet</strong>은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄</li><li><strong>KeyNet</strong>은 질의를 최적 키에 가까운 벡터로 변환해 기존 ",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "published": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published": "Wed, 11 Nov 2026 23:28:45 +0000",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "published": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published": "Wed, 11 Nov 2026 20:15:15 +0000",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tim Peters has died",
+      "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "published": "Wed, 11 Nov 2026 07:03:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50450488\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AWS emulator",
+      "link": "https://github.com/aws/aws-emulator",
+      "published": "Wed, 11 Nov 2026 18:21:38 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "published": "Thu, 12 Nov 2026 02:11:11 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50462177\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "published": "Wed, 11 Nov 2026 22:31:06 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459703\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
