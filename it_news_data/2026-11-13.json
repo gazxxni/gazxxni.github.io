@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-13",
+  "articles": [
+    {
+      "title": "Nvidia 직원들, Jensen Huang 복귀 청원",
+      "link": "https://news.hada.io/topic?id=37095&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-13T13:32:27+09:00",
+      "summary": "<div><ul><li>Nvidia 일부 직원이 여러 불륜 의혹 보도와 사임 이후에도 <strong>Jensen Huang의 복귀</strong>를 요구하고 있으며, 사내 건의함 게시물에는 <strong>댓글 1,600개 이상</strong>이 달림</li><li>사임 전 올라온 해당 게시물은 이사회가 조치에 앞서 <strong>직원 의견을 고려</strong>하도록 요청했으며, 이후 여러 댓글이 Huang을 복귀시킬 방법을 찾으라고 요구함</li><li>직원들은 <strong>사임 과정의 투명성</strong>도 요구함. 많은 직",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Ask GN: HTML 슬라이드를 PPTX로 바꾸는 변환기, 그림으로 구워지는 요소를 줄이려고 세어 봤습니다. 가상 요소 ...",
+      "link": "https://news.hada.io/topic?id=37094&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-13T13:32:11+09:00",
+      "summary": "<div><p>HTML로 만든 슬라이드를 PowerPoint 파일로 내보내는 변환기를 만들면, 도형과 텍스트 상자로 옮기지 못하는 요소는 그 부분만 PNG로 잘라 넣게 됩니다. 이 그림은 PowerPoint에서 글자처럼 고칠 수 없고, 확대하면 흐려집니다. 제 변환기가 얼마나 그렇게 하는지 세어 봤습니다.</p><p>결과부터 적습니다. 레이아웃 254개에 테마 44개를 입힌 측정 결과 11,176벌에서 요소는 408,267개였고, 그중 그림으로 구워진 것은 2,200개(0.54%)였습니다. 44개 테마에서 목록이 똑같아서 테마당 5",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 모아빈 - 앱·웹서비스 소개와 테스트 품앗이",
+      "link": "https://news.hada.io/topic?id=37093&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-13T12:23:32+09:00",
+      "summary": "<div><p>안녕하세요. 앱과 웹서비스를 소개하고, 개발자끼리 테스트에 참여할 수 있는 모아빈을 운영하고 있습니다. 운영자가 직접 소개하는 글입니다.</p><p>모아빈에서는 프로젝트를 분야별로 살펴보고, 소개 페이지에서 웹 실행 주소나 스토어·테스트 링크로 이동할 수 있습니다. 출시된 서비스와 테스트 버전, 프로토타입, 개발이 중단된 프로젝트의 상태를 구분해 표시합니다.</p><p>현재 제공하는 기능은 다음과 같습니다.</p><ul><li>앱 이름·기능 검색과 분야별 목록</li><li>프로젝트별 한 줄 소개, 핵심 기능, 테스트",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "C++ 표준안, 사상 처음으로 국가 표준화 기구 승인 투표 통과 실패",
+      "link": "https://news.hada.io/topic?id=37092&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-13T12:04:30+09:00",
+      "summary": "<div><ul><li><strong>C++26 표준안</strong>이 국가 표준화 기구 승인 투표를 통과하지 못함. WG21 내부에서 정리됐어야 할 <strong>Contracts</strong> 논쟁이 최종 승인 단계까지 이어짐</li><li>Contracts는 <code>pre</code>, <code>post</code>, <code>contract_assert</code>로 실행 시점 조건을 검사하는 기능이지만, 빌드 설정과 링크 방식에 관계없이 <strong>검사 실행을 보장할 수 없다는 점</strong>이 주요 쟁점",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "중국 최첨단 AI 모델에서 수출 통제 대상 GPU의 지문 발견",
+      "link": "https://news.hada.io/topic?id=37091&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-13T11:35:38+09:00",
+      "summary": "<div><ul><li>DeepSeek, Moonshot AI, MiniMax, Ant Group의 공개 모델 6개에서 <strong>NVIDIA Blackwell과 일치하는 초기화 패턴</strong>이 발견됨. 학습에도 같은 하드웨어를 사용했을 가능성을 뒷받침하지만, 학습 전체가 Blackwell에서 이루어졌다는 증거는 아님</li><li>분석은 내부 제보가 아닌 <strong>공개 가중치에 남은 초기값</strong>을 이용함. 의사난수 시드와 GPU의 병렬 처리 구성을 함께 복원해 Hopper와 Blackwell의 서로 다른",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "published": "Thu, 12 Nov 2026 20:26:47 +0000",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "published": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50467087\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Switcher (2004)",
+      "link": "https://folklore.org/Switcher.html",
+      "published": "Fri, 13 Nov 2026 03:14:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50477714\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rust 1.100",
+      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "published": "Thu, 12 Nov 2026 18:39:05 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50472038\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "published": "Thu, 12 Nov 2026 23:06:17 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50475713\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "published": "Thu, 12 Nov 2026 18:52:01 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50472260\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
