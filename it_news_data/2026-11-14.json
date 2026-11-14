@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
+      "link": "https://news.hada.io/topic?id=37145&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-14T12:37:06+09:00",
+      "summary": "<div><ul><li><strong>FAA 지휘센터</strong>가 전국 항공기 이륙 중지 조치를 해제함</li><li>공지에 기재된 목적지 공항과 포함 시설은 모두 <strong>전체(ALL)</strong> 임</li><li>해제 공지의 서명 시각은 <strong>2026년 11월 14일 01:19Z</strong>임</li><li>공지의 <strong>효력 시간</strong>은 14일 01:19~02:00임</li><li><strong>사유 항목은 비어 있으며</strong>, 이륙 중지나 해제 이유는 제공되지 않음</l",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
+      "link": "https://news.hada.io/topic?id=37144&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-14T12:34:06+09:00",
+      "summary": "<div><ul><li>방산업체 <strong>Fire Point</strong>에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 <strong>36%</strong> 를 차지함</li><li>피격 정유소의 연간 원유 처리 능력 합계는 <strong>1억 2,000만 톤 이상</strong>임</li><li><strong>젤렌스키 대통령</strong>은 러시아의 우크라이나 전력망 공격에 대한 직접적인 보복으로 러시아 정유 기반 시설 공격을 계속하겠다고 밝힘<",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
+      "link": "https://news.hada.io/topic?id=37143&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-14T12:15:27+09:00",
+      "summary": "<div><p>안녕하세요,</p><p>LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 매번 손으로 계산하는 것이 귀찮더라고요. 그래서 Claude와 함께 장비의 스펙과 모델을 입력하면 prefill/decode TPS를 예측할 수 있는 시뮬레이션 웹앱을 개발했습니다.</p><p>초기 모델링은 간단하게 디코드는 memory bandwidth, 프리필은 FLOPS 로 계산했었는데, 하는 김에 좀 더 고도화 시켜서 layer별 연산 특성과",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
+      "link": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-14T11:08:01+09:00",
+      "summary": "<div><ul><li>‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 <strong>아미쿠스렉스(로폼)</strong> 의 자체 시스템이 해킹돼 <strong>이용자 20,028명의 개인정보</strong>가 유출됐으며, 이 가운데 사업 참가자 <strong>818명</strong>이 포함됨</li><li>중소벤처기업부가 확인한 유출 항목은 <strong>이름, 전화번호, 이메일 주소</strong>임</li><li>아미쿠스렉스는 <strong>11월 11일 오전 8시 30분</strong> 공격 정황을 발견해 해외 IP 접속",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
+      "link": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-14T10:31:42+09:00",
+      "summary": "<div><ul><li><strong>Orcas Airband</strong>는 San Juan Islands 지역의 항공 무선을 실시간으로 들을 수 있는 서비스임</li><li>제공된 페이지 스냅샷에서는 서비스 상태가 <strong>오프라인</strong>으로 표시됨</li><li>청취하려면 <strong>재생 버튼</strong>을 눌러야 하며, 그전에는 소리가 나오지 않음</li><li><strong>Traffic board</strong>는 무선 교신을 바탕으로 자동 생성되며, 부정확하거나 불완전할 수 있어 항법용으로 사용할",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published": "Fri, 13 Nov 2026 21:44:38 +0000",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "published": "Fri, 13 Nov 2026 20:07:24 +0000",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50493062\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50493251\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "published": "Fri, 13 Nov 2026 21:05:53 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "published": "Fri, 13 Nov 2026 23:06:40 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50491423\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "published": "Fri, 13 Nov 2026 23:48:59 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50491830\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
