@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "title": "Show HN: 순수 JAX 약 200줄로 구현한 DeepSeek V3",
+      "link": "https://news.hada.io/topic?id=37189&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-15T12:33:49+09:00",
+      "summary": "<div><ul><li><strong>DeepSeek-V3 아키텍처를 순수 JAX 190줄로 구현</strong>하고, MacBook Air에서 퍼블릭 도메인 추리소설로 처음부터 사전학습한 프로젝트임</li><li>Flax, Equinox, PyTorch 없이 <strong>배열 딕셔너리와 함수</strong>로 모델을 구성하며, MLA, DeepSeekMoE, 전문가 부하 균형, 다중 토큰 예측 등 논문의 주요 구조를 담음</li><li>MacBook Air M5 24GB에서 <strong>3,620만 파라미터 모델</strong",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Nvidia, 순환 금융 거래로 GPU 가격을 의도적으로 높게 유지했다는 의혹",
+      "link": "https://news.hada.io/topic?id=37187&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-15T11:33:04+09:00",
+      "summary": "<div><ul><li>Nvidia가 <strong>자사 칩을 구매하는 고객사에 자금을 지원</strong>해 수요를 만들고 GPU 가격을 높게 유지하려 했다는 의혹이 나옴</li><li>Wall Street Journal 보도에 따르면, Nvidia는 <strong>TSMC 웨이퍼 공급 과잉</strong>을 흡수하고 높은 GPU 가격을 유지하려고 2026년 중후반 추가 금융 거래를 추진함</li><li>당시 CFO였던 <strong>Colette Kress는 거래 규모를 우려</strong>했으며, Nvidia는 이후 OpenA",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+      "link": "https://news.hada.io/topic?id=37186&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-15T10:32:57+09:00",
+      "summary": "<div><ul><li><strong>LinkedIn과 Monster</strong>에 올라온 경력 불필요 원격근무 공고 약 1,500건이 실제 채용이 아닌 미국 다단계 마케팅 업체 <strong>Evolution Travel</strong>의 유료 가입으로 지원자를 유도한 것으로 드러남</li><li>일부 공고는 <strong>연봉 최대 미화 7만 5,000달러</strong>를 약속했지만 일자리나 급여는 없었으며, 지원자는 초기 비용과 월 구독료를 내는 여행 판매 프로그램 설명회로 안내받음</li><li>프로그램은 여행 예약 수",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
+      "link": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-15T10:24:24+09:00",
+      "summary": "<div><p>AI와 웹 인프라 서비스의 결합은 인터넷의 중심을 바꾸고 있다. 개인도 이제 블로그나 SNS 같은 기존 플랫폼에 의존하지 않고, 자신만의 웹앱과 온라인 공간을 쉽게 만들고 운영할 수 있다. 각자의 필요에 맞게 만든 공간들이 서로 연결된다면, 새로운 형태의 인터넷과 SNS가 등장할 수 있다.</p></div>",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "ChatGPT 내 비즈니스 기능 소개",
+      "link": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "published": "2026-11-15T09:50:01+09:00",
+      "summary": "<div><ul><li>OpenAI가 기업이 <strong>ChatGPT에서 비즈니스 소유권을 등록하고 정보를 관리하며 고객과 소통</strong>할 수 있는 새로운 비즈니스 기능을 베타로 공개함. 매주 ChatGPT를 사용하는 <strong>12억 명의 사용자</strong>와 기업을 연결하는 것이 목표</li><li>기업은 <strong>비즈니스 허브(Business Hub)</strong> 에서 소유권을 인증하고 주요 정보와 제품 피드를 직접 관리할 수 있음. 제품 피드에는 가격과 판매 가능 여부를 포함할 수 있으며, Shop",
+      "category": "기술 뉴스",
+      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "published": "Sat, 14 Nov 2026 20:04:44 +0000",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "published": "Sat, 14 Nov 2026 18:00:00 +0000",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "published": "Sat, 14 Nov 2026 17:45:04 +0000",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "category": "기술 뉴스",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "published": "Sat, 14 Nov 2026 17:43:10 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50499017\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
+      "published": "Sun, 15 Nov 2026 04:39:25 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50504072\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "published": "Sun, 15 Nov 2026 02:00:54 +0000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50503255\">Comments</a>",
+      "category": "개발 트렌드",
+      "source": "Hacker News"
+    }
+  ]
+}
